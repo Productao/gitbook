@@ -124,7 +124,7 @@
 ## Technical Documentation
 
 * [Technical Overview](technical-documentation/technical-overview.md)
-* [Authentication & IAM](authentication-and-identity-security/single-sign-on-sso/README.md)
+* [Authentication & IAM](authentication-and-identity-security/README.md)
   * [MFA](authentication-and-identity-security/mfa/README.md)
     * [In-App MFA](authentication-and-identity-security/mfa/in-app-mfa.md)
   * [Single Sign-On (SSO)](authentication-and-identity-security/single-sign-on-sso/README.md)
