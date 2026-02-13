@@ -1,10 +1,8 @@
 ---
-description: Curated learning videos organized by topic
-icon: video
-hidden: false
+description: Start here - Agentnoon basics in bite-sized videos
+icon: play
 ---
 
-# Video Tutorials
+# Video Guides
 
-
-
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Legacy Data Import</td><td><a href="https://www.loom.com/share/c1ea19c6913046968287cf910783886b">https://www.loom.com/share/c1ea19c6913046968287cf910783886b</a></td><td><a href="../.gitbook/assets/Help thumbnail (8) (1).png">Help thumbnail (8) (1).png</a></td></tr><tr><td>Simplified Data Import</td><td><a href="https://www.loom.com/share/a76e43032b6a4928a4a6d0b813503ba9?sid=a6a5cbb7-f1fa-4fab-8ef1-f3738654dcf6">https://www.loom.com/share/a76e43032b6a4928a4a6d0b813503ba9?sid=a6a5cbb7-f1fa-4fab-8ef1-f3738654dcf6</a></td><td><a href="../.gitbook/assets/Help thumbnail (8).png">Help thumbnail (8).png</a></td></tr><tr><td>Access Control</td><td><a href="https://www.loom.com/share/2de5b02986d9466ab74e810c4f2f2aa6">https://www.loom.com/share/2de5b02986d9466ab74e810c4f2f2aa6</a></td><td><a href="../.gitbook/assets/Help thumbnail (4).png">Help thumbnail (4).png</a></td></tr><tr><td>Field Management</td><td><a href="https://www.loom.com/share/c0794bd520e24e33a94da85e4306887f">https://www.loom.com/share/c0794bd520e24e33a94da85e4306887f</a></td><td><a href="../.gitbook/assets/Help thumbnail (9).png">Help thumbnail (9).png</a></td></tr><tr><td>Navigation Basics</td><td><a href="https://www.loom.com/share/86f7a400611a44c0865a31bfa9e4953a?sid=9264011e-5c8f-4ece-a3a2-7d9a806022b6">https://www.loom.com/share/86f7a400611a44c0865a31bfa9e4953a?sid=9264011e-5c8f-4ece-a3a2-7d9a806022b6</a></td><td><a href="../.gitbook/assets/Help thumbnail.png">Help thumbnail.png</a></td></tr><tr><td>Org Chart</td><td><a href="https://www.loom.com/share/8919b970b61a425392d51764a290a630?sid=0e73a687-021a-4b2e-895c-d7e0c1c02be4">https://www.loom.com/share/8919b970b61a425392d51764a290a630?sid=0e73a687-021a-4b2e-895c-d7e0c1c02be4</a></td><td><a href="../.gitbook/assets/Help thumbnail (1).png">Help thumbnail (1).png</a></td></tr><tr><td>Workforce Hub</td><td><a href="https://www.loom.com/share/8fe5196a116f42a7b9e6899e14bac5a3?sid=cadc45a3-3f76-4aae-bc18-dce048b5b2c1">https://www.loom.com/share/8fe5196a116f42a7b9e6899e14bac5a3?sid=cadc45a3-3f76-4aae-bc18-dce048b5b2c1</a></td><td><a href="../.gitbook/assets/Help thumbnail (2).png">Help thumbnail (2).png</a></td></tr><tr><td>Scenarios</td><td><a href="https://www.loom.com/share/2fd1bb5d05f346a3b3250f7ccea878cb?sid=787b720f-3522-4a61-b478-436ff2e7571a">https://www.loom.com/share/2fd1bb5d05f346a3b3250f7ccea878cb?sid=787b720f-3522-4a61-b478-436ff2e7571a</a></td><td><a href="../.gitbook/assets/Help thumbnail (6).png">Help thumbnail (6).png</a></td></tr></tbody></table>
