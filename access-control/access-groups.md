@@ -1,6 +1,5 @@
 ---
 description: Create access groups to manage permissions for multiple users
-icon: user-check
 ---
 
 # Access Groups

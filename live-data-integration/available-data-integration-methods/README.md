@@ -1,5 +1,4 @@
 ---
-icon: filters
 ---
 
 # Available Data Integration Methods

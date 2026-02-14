@@ -1,6 +1,5 @@
 ---
 description: Understanding attribute types and how to manage them
-icon: database
 ---
 
 # Attributes Overview

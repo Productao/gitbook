@@ -1,6 +1,5 @@
 ---
 description: Control which fields are copied when duplicating roles in scenarios.
-icon: clone
 ---
 
 # Field Duplication

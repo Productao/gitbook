@@ -1,6 +1,5 @@
 ---
 description: Invite users and manage their access
-icon: calendar-users
 ---
 
 # User Invitations

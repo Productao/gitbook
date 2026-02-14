@@ -1,5 +1,4 @@
 ---
-icon: comments-question-check
 ---
 
 # Integration Overview & Technical FAQ

@@ -3,7 +3,6 @@ description: >-
   Single Sign-On (SSO) simplifies access to your Agentnoon account by allowing
   users to log in using their existing corporate credentials, eliminating the
   need to manage separate usernames and passwords
-icon: key
 ---
 
 # Single Sign-On (SSO)

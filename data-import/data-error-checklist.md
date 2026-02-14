@@ -1,6 +1,5 @@
 ---
 description: Common data errors to avoid when uploading data into Agentnoon
-icon: list-check
 ---
 
 # Data Error Checklist

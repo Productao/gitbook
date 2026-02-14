@@ -1,5 +1,4 @@
 ---
-icon: calculator
 ---
 
 # Calculated Agentnoon Attributes

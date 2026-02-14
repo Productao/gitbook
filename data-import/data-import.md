@@ -1,6 +1,5 @@
 ---
 description: Import your position and employee data into Agentnoon
-icon: gears
 ---
 
 # Data Import

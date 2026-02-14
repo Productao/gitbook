@@ -1,6 +1,5 @@
 ---
 description: Basic data field requirements to get started
-icon: nfc
 ---
 
 # Data Requirements

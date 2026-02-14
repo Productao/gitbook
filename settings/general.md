@@ -1,6 +1,5 @@
 ---
 description: Set your organization's name, currency, and other core details
-icon: gear
 ---
 
 # General
