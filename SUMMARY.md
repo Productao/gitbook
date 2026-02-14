@@ -4,6 +4,7 @@
 
 * [🚀 Welcome to Agentnoon](start-here/welcome.md)
 * [⚡ Quick Start Guide](start-here/quick-start-guide.md)
+* [💡 Key Concepts](start-here/concepts.md)
 * [📖 Agentnoon 101](start-here/agentnoon-101.md)
   * [Parts of the Application](start-here/parts-of-application.md)
   * [Cards](start-here/cards.md)
