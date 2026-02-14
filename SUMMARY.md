@@ -1,6 +1,6 @@
 # Table of contents
 
-## Start Here
+## 🚀 Start Here
 
 * [Welcome to Agentnoon](start-here/welcome.md)
 * [Quick Start Guide](start-here/quick-start-guide.md)
@@ -13,7 +13,7 @@
 * [Video Tutorials](start-here/video-tutorials.md)
 * [Support & How to Self-Help](start-here/support-self-help.md)
 
-## Main Org
+## 🏢 Main Org
 
 * [Main Org Overview](main-org/overview.md)
 * [Orientation & Navigation](main-org/navigation.md)
@@ -21,7 +21,7 @@
 * [Directory View](main-org/directory-view.md)
 * [Org Metrics & Insights](main-org/metrics-insights.md)
 
-## Scenarios
+## 🎯 Scenarios
 
 * [Scenarios Overview](scenarios/overview.md)
 * [Creating Scenarios](scenarios/creating-scenarios.md)
@@ -40,7 +40,19 @@
 * [Scenario Collaboration](scenarios/collaboration.md)
 * [Scenario Refresh](scenarios/refresh.md)
 
-## Forecast
+## 📋 Directory
+
+* [Directory Overview](directory/overview.md)
+* [Directory Features](directory/features.md)
+* [Exporting & Reporting](directory/exporting-reporting.md)
+
+## 📊 Hub
+
+* [Chart Navigation](hub/chart-navigation.md)
+* [Packs](hub/packs.md)
+* [Chart Library](hub/chart-library.md)
+
+## 📈 Forecast
 
 * [Forecast Overview](forecast/overview.md)
 * [Forecast Navigation](forecast/navigation.md)
@@ -50,13 +62,7 @@
 * [Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
 * [Multi-Year Planning](forecast/multi-year-planning.md)
 
-## Directory
-
-* [Directory Overview](directory/overview.md)
-* [Directory Features](directory/features.md)
-* [Exporting & Reporting](directory/exporting-reporting.md)
-
-## Use Case Tutorials
+## 📚 Use Case Tutorials
 
 * [Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
 * [Building an Annual Hiring Plan](use-case-tutorials/annual-hiring-plan.md)
@@ -66,7 +72,7 @@
 * [Succession Planning](use-case-tutorials/succession-planning.md)
 * [Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 * [FAQ Overview](faq/overview.md)
 * [Getting Started FAQs](faq/getting-started.md)
@@ -75,7 +81,7 @@
 * [Forecast FAQs](faq/forecast.md)
 * [Permissions & Access FAQs](faq/permissions-access.md)
 
-## Troubleshooting
+## 🔧 Troubleshooting
 
 * [Troubleshooting Overview](troubleshooting/overview.md)
 * [Login & Access Issues](troubleshooting/login-access-issues.md)
@@ -84,7 +90,7 @@
 * [Performance Issues](troubleshooting/performance-issues.md)
 * [Export & Integration Issues](troubleshooting/export-integration-issues.md)
 
-## Admin Capabilities
+## ⚙️ Admin Capabilities
 
 * [Admin Overview](admin/overview.md)
 * [Access Control](access-control/access-groups.md)
@@ -109,19 +115,19 @@
 * [Configuring Approval Flows](admin/configuring-approval-flows.md)
 * [Data Refresh & Sync](admin/data-refresh-sync.md)
 
-## Assets & Quick Guides
+## 📦 Assets & Quick Guides
 
 * [Video Tutorial Library](assets/video-library.md)
 * [Quick Start Checklist](assets/quick-start-checklist.md)
 * [Keyboard Shortcuts](assets/keyboard-shortcuts.md)
 * [Glossary](assets/glossary.md)
 
-## Best Practices
+## 💡 Best Practices
 
 * [Position vs Headcount Management](best-practices/position-vs-headcount.md)
 * [Making Org Changes](best-practices/making-org-changes.md)
 
-## Technical Documentation
+## 🔐 Technical Documentation
 
 * [Technical Overview](technical-documentation/technical-overview.md)
 * [Authentication & IAM](authentication-and-identity-security/README.md)
@@ -143,18 +149,12 @@
     * [Importing Data via REST API](live-data-integration/available-data-integration-methods/importing-data-via-rest-api.md)
   * [Integration Overview & Technical FAQ](live-data-integration/integration-overview-and-technical-faq.md)
 
-## Hub
-
-* [Chart Navigation](hub/chart-navigation.md)
-* [Packs](hub/packs.md)
-* [Chart Library](hub/chart-library.md)
-
-## Org Chart (Legacy)
+## 📂 Org Chart (Legacy)
 
 * [Org Chart Navigation](org-chart/org-chart-navigation.md)
 * [Span of Control Metrics](org-chart/span-of-control-metrics.md)
 * [Exports](org-chart/exports.md)
 
-## Updates
+## 📝 Updates (Legacy)
 
 * [UI Org Chart Updates Guide](updates/ui-org-chart-updates-guide.md)
