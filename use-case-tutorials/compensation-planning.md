@@ -1,10 +1,28 @@
 ---
-description: Annual comp cycle workflow with rate cards
+description: Planning and modeling compensation changes
 icon: dollar-sign
 hidden: true
 ---
 
 # Compensation Planning
 
-> **Note:** This page is under construction. Content coming soon!
+> **Note: This page is under construction. Content coming soon!**
 
+## Planned Content Outline
+
+- Setting up annual compensation review scenarios
+- Using rate cards for salary bands
+- Modeling merit increases across organization
+- Promotion and title change scenarios
+- Equity adjustment planning
+- Market rate alignment
+- Compression analysis and fixes
+- Calculating total compensation impact
+- Budget allocation by department
+- Comparing compensation scenarios
+- Communicating compensation changes
+- Implementing approved compensation adjustments
+
+---
+
+For immediate assistance, please contact [support@agentnoon.com](mailto:support@agentnoon.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).

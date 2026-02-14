@@ -1,37 +1,31 @@
 ---
-description: Overview of admin responsibilities and getting started
-icon: user-shield
+description: Administrative capabilities and configuration overview
+icon: gear
 hidden: true
 ---
 
 # Admin Overview
 
-> **📝 This page is under construction**
->
-> This article is being developed and will be available soon. We're working to provide comprehensive, accurate information about this topic.
+> **Note: This page is under construction. Content coming soon!**
 
-## What This Page Will Cover
+## Planned Content Outline
 
-- What admins do vs. regular users
-- Admin permissions and roles
-- Getting admin access
-- Admin onboarding checklist (first 30 days)
-- Ongoing maintenance tasks
-- Common admin workflows
-- Where to get help as an admin
-
-## Need This Information Now?
-
-While we're building out this content, here are some ways to get help:
-
-- **Contact Support:** Email [support@agentnoon.com](mailto:support@agentnoon.com) with specific questions
-- **Ask Your Admin:** Your organization's Agentnoon admin may have immediate answers
-- **Check Related Docs:** Browse related topics in the navigation menu
-
-## Coming Soon
-
-We're actively working on this documentation. Check back soon for the complete guide!
+- What is the Admin role in Agentnoon
+- Admin vs end-user permissions and responsibilities
+- Accessing the Admin panel and settings
+- Core administrative capabilities:
+  - User management and access control
+  - Data upload, import, and validation
+  - Field and attribute configuration
+  - Rate cards and compensation bands setup
+  - Approval workflow configuration
+  - Integration and data sync management
+- Admin onboarding checklist for new admins
+- Ongoing maintenance tasks and best practices
+- Security considerations and data governance
+- Common admin workflows and scenarios
+- Getting help and escalating issues
 
 ---
 
-_Last updated: February 2026_
+For immediate assistance, please contact [support@agentnoon.com](mailto:support@agentnoon.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).

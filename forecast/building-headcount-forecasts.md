@@ -1,37 +1,28 @@
 ---
-description: Creating headcount projections and hiring plans
-icon: chart-line
+description: Creating and managing headcount forecasts
+icon: users
 hidden: true
 ---
 
 # Building Headcount Forecasts
 
-> **📝 This page is under construction**
->
-> This article is being developed and will be available soon. We're working to provide comprehensive, accurate information about this topic.
+> **Note: This page is under construction. Content coming soon!**
 
-## What This Page Will Cover
+## Planned Content Outline
 
 - Creating a new headcount forecast
-- Setting headcount targets by department and timeframe
-- Modeling phased hiring plans
-- Connecting forecasts to scenarios
-- Tracking forecast vs. actuals
-- Approval workflows for forecasts
-- Exporting forecast reports
-
-## Need This Information Now?
-
-While we're building out this content, here are some ways to get help:
-
-- **Contact Support:** Email [support@agentnoon.com](mailto:support@agentnoon.com) with specific questions
-- **Ask Your Admin:** Your organization's Agentnoon admin may have immediate answers
-- **Check Related Docs:** Browse related topics in the navigation menu
-
-## Coming Soon
-
-We're actively working on this documentation. Check back soon for the complete guide!
+- Choosing forecast type (bottom-up vs top-down)
+- Setting forecast time horizon and granularity
+- Adding headcount by department and quarter
+- Factoring in attrition and backfill assumptions
+- Modeling hiring ramps and timelines
+- Incorporating approved scenarios into forecasts
+- Adjusting forecasts based on actuals
+- Using historical data to inform projections
+- Validating forecast accuracy and reasonableness
+- Saving and versioning forecasts
+- Sharing forecasts with stakeholders
 
 ---
 
-_Last updated: February 2026_
+For immediate assistance, please contact [support@agentnoon.com](mailto:support@agentnoon.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).

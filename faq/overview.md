@@ -1,37 +1,23 @@
 ---
-description: Frequently asked questions organized by topic
+description: Frequently asked questions index
 icon: circle-question
 hidden: true
 ---
 
 # FAQ Overview
 
-> **📝 This page is under construction**
->
-> This article is being developed and will be available soon. We're working to provide comprehensive, accurate information about this topic.
+> **Note: This page is under construction. Content coming soon!**
 
-## What This Page Will Cover
+## Planned Content Outline
 
-- Most common questions by category
-- Getting Started FAQs
-- Data & Import FAQs
-- Scenarios FAQs
-- Forecast FAQs
-- Permissions & Access FAQs
-- How to search for answers
-
-## Need This Information Now?
-
-While we're building out this content, here are some ways to get help:
-
-- **Contact Support:** Email [support@agentnoon.com](mailto:support@agentnoon.com) with specific questions
-- **Ask Your Admin:** Your organization's Agentnoon admin may have immediate answers
-- **Check Related Docs:** Browse related topics in the navigation menu
-
-## Coming Soon
-
-We're actively working on this documentation. Check back soon for the complete guide!
+- How to use this FAQ section
+- Most common questions across all topics
+- FAQ categories and navigation
+- Quick answers to top 10 questions
+- When to check FAQs vs contact support
+- How to search for answers efficiently
+- Contributing FAQ suggestions
 
 ---
 
-_Last updated: February 2026_
+For immediate assistance, please contact [support@agentnoon.com](mailto:support@agentnoon.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).
