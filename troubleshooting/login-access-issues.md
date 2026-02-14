@@ -1,10 +1,10 @@
 ---
 description: Resolving login and authentication problems
 icon: key
-hidden: true
+hidden: false
 ---
 
-# Login & Access Issues
+# IPR Login & Access Issues
 
 > **Note: This page is under construction. Content coming soon!**
 

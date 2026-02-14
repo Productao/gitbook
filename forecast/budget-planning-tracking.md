@@ -1,10 +1,10 @@
 ---
 description: Budget planning and cost tracking in Forecast
 icon: dollar-sign
-hidden: true
+hidden: false
 ---
 
-# Budget Planning & Tracking
+# IPR Budget Planning & Tracking
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,10 +1,10 @@
 ---
 description: Data security, privacy, and compliance
 icon: shield-check
-hidden: true
+hidden: false
 ---
 
-# Data Security & Privacy
+# IPR Data Security & Privacy
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,10 +1,10 @@
 ---
 description: Fixing export and integration problems
 icon: download
-hidden: true
+hidden: false
 ---
 
-# Export & Integration Issues
+# IPR Export & Integration Issues
 
 > **Note: This page is under construction. Content coming soon!**
 

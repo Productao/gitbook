@@ -1,10 +1,10 @@
 ---
 description: Generating reports and exporting forecast data
 icon: file-download
-hidden: true
+hidden: false
 ---
 
-# Forecast Reports & Exports
+# IPR Forecast Reports & Exports
 
 > **Note: This page is under construction. Content coming soon!**
 

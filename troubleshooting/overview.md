@@ -1,10 +1,10 @@
 ---
 description: Troubleshooting guide index
 icon: wrench
-hidden: true
+hidden: false
 ---
 
-# Troubleshooting Overview
+# IPR Troubleshooting Overview
 
 > **Note: This page is under construction. Content coming soon!**
 

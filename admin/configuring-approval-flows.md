@@ -1,10 +1,10 @@
 ---
 description: Setting up and managing scenario approval workflows
 icon: workflow
-hidden: true
+hidden: false
 ---
 
-# Configuring Approval Flows
+# IPR Configuring Approval Flows
 
 > **Note: This page is under construction. Content coming soon!**
 

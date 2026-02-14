@@ -1,10 +1,10 @@
 ---
 description: Keeping Agentnoon synchronized with your HRIS data
 icon: refresh
-hidden: true
+hidden: false
 ---
 
-# Data Refresh & Sync
+# IPR Data Refresh & Sync
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,10 +1,10 @@
 ---
 description: Resolving scenario planning problems
 icon: diagram-project
-hidden: true
+hidden: false
 ---
 
-# Scenario Issues
+# IPR Scenario Issues
 
 > **Note: This page is under construction. Content coming soon!**
 

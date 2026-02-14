@@ -1,10 +1,10 @@
 ---
 description: Common scenario planning questions
 icon: diagram-project
-hidden: true
+hidden: false
 ---
 
-# Scenarios FAQs
+# IPR Scenarios FAQs
 
 > **Note: This page is under construction. Content coming soon!**
 

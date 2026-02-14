@@ -1,10 +1,10 @@
 ---
 description: Fixing data upload and sync problems
 icon: database
-hidden: true
+hidden: false
 ---
 
-# Data Issues
+# IPR Data Issues
 
 > **Note: This page is under construction. Content coming soon!**
 

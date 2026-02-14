@@ -1,10 +1,10 @@
 ---
 description: Refreshing scenarios with updated Main Org data
 icon: arrows-rotate
-hidden: true
+hidden: false
 ---
 
-# Scenario Refresh
+# IPR Scenario Refresh
 
 > **Note: This page is under construction. Content coming soon!**
 

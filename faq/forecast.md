@@ -1,10 +1,10 @@
 ---
 description: Forecast and budget planning questions
 icon: chart-line
-hidden: true
+hidden: false
 ---
 
-# Forecast FAQs
+# IPR Forecast FAQs
 
 > **Note: This page is under construction. Content coming soon!**
 

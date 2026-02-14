@@ -1,10 +1,10 @@
 ---
 description: User permissions and access control questions
 icon: lock
-hidden: true
+hidden: false
 ---
 
-# Permissions & Access FAQs
+# IPR Permissions & Access FAQs
 
 > **Note: This page is under construction. Content coming soon!**
 

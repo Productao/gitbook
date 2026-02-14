@@ -1,10 +1,10 @@
 ---
 description: Best practices for position-based vs headcount-based planning
 icon: user-group
-hidden: true
+hidden: false
 ---
 
-# Position vs Headcount Management
+# IPR Position vs Headcount Management
 
 > **Note: This page is under construction. Content coming soon!**
 

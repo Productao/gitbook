@@ -1,10 +1,10 @@
 ---
 description: Planning and modeling compensation changes
 icon: dollar-sign
-hidden: true
+hidden: false
 ---
 
-# Compensation Planning
+# IPR Compensation Planning
 
 > **Note: This page is under construction. Content coming soon!**
 

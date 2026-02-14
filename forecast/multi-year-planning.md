@@ -1,10 +1,10 @@
 ---
 description: Long-term headcount and budget planning
 icon: calendar-days
-hidden: true
+hidden: false
 ---
 
-# Multi-Year Planning
+# IPR Multi-Year Planning
 
 > **Note: This page is under construction. Content coming soon!**
 

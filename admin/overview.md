@@ -1,10 +1,10 @@
 ---
 description: Administrative capabilities and configuration overview
 icon: gear
-hidden: true
+hidden: false
 ---
 
-# Admin Overview
+# IPR Admin Overview
 
 > **Note: This page is under construction. Content coming soon!**
 

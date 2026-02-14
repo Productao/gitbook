@@ -1,6 +1,6 @@
 ---
 description: Authentication and identity security overview
-hidden: true
+hidden: false
 ---
 
 # Authentication & IAM

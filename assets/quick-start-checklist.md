@@ -1,10 +1,10 @@
 ---
 description: New user onboarding checklist
 icon: clipboard-check
-hidden: true
+hidden: false
 ---
 
-# Quick Start Checklist
+# IPR Quick Start Checklist
 
 > **Note: This page is under construction. Content coming soon!**
 

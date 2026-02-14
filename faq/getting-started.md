@@ -1,10 +1,10 @@
 ---
 description: Common questions for new Agentnoon users
 icon: rocket
-hidden: true
+hidden: false
 ---
 
-# Getting Started FAQs
+# IPR Getting Started FAQs
 
 > **Note: This page is under construction. Content coming soon!**
 

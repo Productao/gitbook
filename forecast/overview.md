@@ -1,10 +1,10 @@
 ---
 description: Introduction to Forecast and headcount planning
 icon: chart-line
-hidden: true
+hidden: false
 ---
 
-# Forecast Overview
+# IPR Forecast Overview
 
 > **Note: This page is under construction. Content coming soon!**
 

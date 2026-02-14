@@ -1,10 +1,10 @@
 ---
 description: Creating and managing headcount forecasts
 icon: users
-hidden: true
+hidden: false
 ---
 
-# Building Headcount Forecasts
+# IPR Building Headcount Forecasts
 
 > **Note: This page is under construction. Content coming soon!**
 

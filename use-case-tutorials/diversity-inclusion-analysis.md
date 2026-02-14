@@ -1,10 +1,10 @@
 ---
 description: Analyzing and improving diversity metrics
 icon: rainbow
-hidden: true
+hidden: false
 ---
 
-# Diversity & Inclusion Analysis
+# IPR Diversity & Inclusion Analysis
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,10 +1,10 @@
 ---
 description: Step-by-step guide to modeling budget cuts and RIFs
 icon: scissors
-hidden: true
+hidden: false
 ---
 
-# Modeling Budget Cuts
+# IPR Modeling Budget Cuts
 
 > **Note: This page is under construction. Content coming soon!**
 

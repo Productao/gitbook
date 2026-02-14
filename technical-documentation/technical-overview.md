@@ -1,10 +1,10 @@
 ---
 description: Technical architecture and system overview
 icon: server
-hidden: true
+hidden: false
 ---
 
-# Technical Overview
+# IPR Technical Overview
 
 > **Note: This page is under construction. Content coming soon!**
 

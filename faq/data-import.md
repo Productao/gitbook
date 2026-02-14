@@ -1,10 +1,10 @@
 ---
 description: Data upload and management questions
 icon: database
-hidden: true
+hidden: false
 ---
 
-# Data & Import FAQs
+# IPR Data & Import FAQs
 
 > **Note: This page is under construction. Content coming soon!**
 

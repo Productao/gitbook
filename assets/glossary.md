@@ -1,10 +1,10 @@
 ---
 description: Agentnoon terminology and definitions
 icon: book
-hidden: true
+hidden: false
 ---
 
-# Glossary
+# IPR Glossary
 
 > **Note: This page is under construction. Content coming soon!**
 

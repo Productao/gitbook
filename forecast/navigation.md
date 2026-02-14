@@ -1,10 +1,10 @@
 ---
 description: Navigating the Forecast interface and tools
 icon: compass
-hidden: true
+hidden: false
 ---
 
-# Forecast Navigation
+# IPR Forecast Navigation
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,10 +1,10 @@
 ---
 description: Complete video tutorial collection
 icon: video
-hidden: true
+hidden: false
 ---
 
-# Video Tutorial Library
+# IPR Video Tutorial Library
 
 > **Note: This page is under construction. Content coming soon!**
 

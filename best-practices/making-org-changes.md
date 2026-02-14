@@ -1,10 +1,10 @@
 ---
 description: Best practices for organizational changes and restructuring
 icon: sitemap
-hidden: true
+hidden: false
 ---
 
-# Making Org Changes
+# IPR Making Org Changes
 
 > **Note: This page is under construction. Content coming soon!**
 

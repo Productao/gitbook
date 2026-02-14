@@ -1,10 +1,10 @@
 ---
 description: Complete list of keyboard shortcuts
 icon: keyboard
-hidden: true
+hidden: false
 ---
 
-# Keyboard Shortcuts
+# IPR Keyboard Shortcuts
 
 > **Note: This page is under construction. Content coming soon!**
 

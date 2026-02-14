@@ -1,10 +1,10 @@
 ---
 description: Understanding when to use Forecast vs Scenarios
 icon: git-compare
-hidden: true
+hidden: false
 ---
 
-# Forecast vs Scenarios
+# IPR Forecast vs Scenarios
 
 > **Note: This page is under construction. Content coming soon!**
 

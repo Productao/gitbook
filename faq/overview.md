@@ -1,10 +1,10 @@
 ---
 description: Frequently asked questions index
 icon: circle-question
-hidden: true
+hidden: false
 ---
 
-# FAQ Overview
+# IPR FAQ Overview
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,10 +1,10 @@
 ---
 description: Addressing slow performance and loading problems
 icon: gauge-high
-hidden: true
+hidden: false
 ---
 
-# Performance Issues
+# IPR Performance Issues
 
 > **Note: This page is under construction. Content coming soon!**
 
