@@ -114,7 +114,7 @@
   * [Field Duplication](settings/field-duplication.md)
   * [General Settings](settings/general.md)
 * [✅ Configuring Approval Flows](admin/configuring-approval-flows.md)
-* [🔄 IPR Data Refresh & Sync](admin/data-refresh-sync.md)
+* [🔄 Data Refresh & Sync](admin/data-refresh-sync.md)
 
 ## Assets & Quick Guides
 
@@ -125,8 +125,8 @@
 
 ## Best Practices
 
-* [💡 IPR Position vs Headcount Management](best-practices/position-vs-headcount.md)
-* [🔄 IPR Making Org Changes](best-practices/making-org-changes.md)
+* [💡 Position vs Headcount Management](best-practices/position-vs-headcount.md)
+* [🔄 Making Org Changes](best-practices/making-org-changes.md)
 
 ## Technical Documentation
 
