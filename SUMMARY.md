@@ -55,10 +55,10 @@
 
 ## Forecast
 
-* [📈 IPR Forecast Overview](forecast/overview.md)
+* [📈 Forecast Overview](forecast/overview.md)
 * [🧭 IPR Forecast Navigation](forecast/navigation.md)
-* [👥 IPR Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
-* [💰 IPR Budget Planning & Tracking](forecast/budget-planning-tracking.md)
+* [👥 Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
+* [💰 Budget Planning [💰 IPR Budget Planning & Tracking] Tracking](forecast/budget-planning-tracking.md)
 * [📊 IPR Forecast Reports & Exports](forecast/reports-exports.md)
 * [⚖️ IPR Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
 * [📅 IPR Multi-Year Planning](forecast/multi-year-planning.md)
@@ -93,7 +93,7 @@
 
 ## Admin Capabilities
 
-* [⚙️ IPR Admin Overview](admin/overview.md)
+* [⚙️ Admin Overview](admin/overview.md)
 * [🔐 Access Control](access-control/access-groups.md)
   * [Access Groups](access-control/access-groups.md)
   * [Advanced Access Controls](access-control/advanced-access-controls.md)
@@ -113,7 +113,7 @@
   * [Fields](settings/fields.md)
   * [Field Duplication](settings/field-duplication.md)
   * [General Settings](settings/general.md)
-* [✅ IPR Configuring Approval Flows](admin/configuring-approval-flows.md)
+* [✅ Configuring Approval Flows](admin/configuring-approval-flows.md)
 * [🔄 IPR Data Refresh & Sync](admin/data-refresh-sync.md)
 
 ## Assets & Quick Guides
