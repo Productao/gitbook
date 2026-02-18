@@ -2,7 +2,6 @@
 description: >-
   Auto-mapping automatically maps attributes using configurable rules to ensure
   consistency and reduce manual work.
-icon: table-layout
 ---
 
 # Automapping

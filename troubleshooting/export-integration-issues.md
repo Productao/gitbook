@@ -1,6 +1,5 @@
 ---
 description: Fixing export and integration problems
-icon: download
 hidden: false
 ---
 

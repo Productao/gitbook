@@ -1,6 +1,5 @@
 ---
 description: Easily revert recent changes for better control over your scenarios
-icon: delete-left
 ---
 
 # Undo Actions

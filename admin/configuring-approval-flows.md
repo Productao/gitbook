@@ -1,6 +1,5 @@
 ---
 description: Setting up and managing scenario approval workflows
-icon: workflow
 hidden: false
 ---
 

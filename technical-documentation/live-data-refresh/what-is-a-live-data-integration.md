@@ -1,5 +1,4 @@
 ---
-icon: square-rss
 ---
 
 # What is a Live Data Integration?

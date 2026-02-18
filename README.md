@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: .gitbook/assets/Help centre banner big.png
 coverY: 0
 ---

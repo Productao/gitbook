@@ -1,6 +1,5 @@
 ---
 description: Creating, sharing, and exporting packs
-icon: display-chart-up-circle-dollar
 ---
 
 # Packs

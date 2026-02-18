@@ -1,6 +1,5 @@
 ---
 description: Addressing slow performance and loading problems
-icon: gauge-high
 hidden: false
 ---
 

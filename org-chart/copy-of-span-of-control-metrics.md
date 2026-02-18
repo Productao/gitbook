@@ -1,7 +1,6 @@
 ---
 description: Understanding Span of Control metrics and their calculations in Agentnoon
 hidden: true
-icon: divide
 ---
 
 # Copy of Span of Control Metrics

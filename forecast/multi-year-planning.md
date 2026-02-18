@@ -1,6 +1,5 @@
 ---
 description: Long-term headcount and budget planning
-icon: calendar-days
 hidden: false
 ---
 

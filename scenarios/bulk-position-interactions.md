@@ -1,6 +1,5 @@
 ---
 description: Make changes to multiple positions at once
-icon: computer-mouse
 ---
 
 # Bulk Position Interactions

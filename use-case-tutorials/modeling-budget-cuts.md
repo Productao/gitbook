@@ -1,6 +1,5 @@
 ---
 description: Step-by-step guide to modeling budget cuts and RIFs
-icon: scissors
 hidden: false
 ---
 

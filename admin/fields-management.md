@@ -1,6 +1,5 @@
 ---
 description: Configuring field groups, visibility, duplication, and dropdown values
-icon: chart-kanban
 ---
 
 # Fields

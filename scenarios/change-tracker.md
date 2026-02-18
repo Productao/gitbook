@@ -1,6 +1,5 @@
 ---
 description: Tracking impact of planned changes in Scenarios
-icon: arrows-rotate-reverse
 ---
 
 # Change Tracker

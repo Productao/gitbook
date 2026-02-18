@@ -1,7 +1,6 @@
 ---
 description: Update your authentication and switch to SSO
 hidden: true
-icon: pen
 ---
 
 # Updating Login Method

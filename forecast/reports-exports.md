@@ -1,6 +1,5 @@
 ---
 description: Generating reports and exporting forecast data
-icon: file-download
 hidden: false
 ---
 

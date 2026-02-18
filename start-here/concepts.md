@@ -1,6 +1,5 @@
 ---
 description: Essential concepts and terminology for understanding Agentnoon
-icon: lightbulb
 hidden: false
 ---
 

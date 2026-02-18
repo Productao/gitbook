@@ -1,6 +1,5 @@
 ---
 description: Keep scenarios up to date without losing key changes
-icon: arrows-rotate-reverse
 ---
 
 # Scenario Refresh

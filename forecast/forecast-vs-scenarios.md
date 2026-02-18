@@ -1,6 +1,5 @@
 ---
 description: Understanding when to use Forecast vs Scenarios
-icon: git-compare
 hidden: false
 ---
 

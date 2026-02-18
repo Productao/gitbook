@@ -1,6 +1,5 @@
 ---
 description: Agentnoon terminology and definitions
-icon: book
 hidden: false
 ---
 

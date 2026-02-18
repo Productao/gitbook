@@ -1,6 +1,5 @@
 ---
 description: Fixing data upload and sync problems
-icon: database
 hidden: false
 ---
 

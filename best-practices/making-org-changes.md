@@ -1,6 +1,5 @@
 ---
 description: Best practices for organizational changes and restructuring
-icon: sitemap
 hidden: false
 ---
 

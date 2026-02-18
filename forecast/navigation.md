@@ -1,6 +1,5 @@
 ---
 description: Navigating the Forecast interface and tools
-icon: compass
 hidden: false
 ---
 

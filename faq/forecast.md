@@ -1,6 +1,5 @@
 ---
 description: Forecast and budget planning questions
-icon: chart-line
 hidden: false
 ---
 

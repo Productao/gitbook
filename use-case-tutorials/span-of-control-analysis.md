@@ -1,6 +1,5 @@
 ---
 description: Step-by-step guide to analyzing and optimizing management structure
-icon: chart-network
 ---
 
 # Conducting Span of Control Analysis

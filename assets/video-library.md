@@ -1,6 +1,5 @@
 ---
 description: Complete video tutorial collection
-icon: video
 hidden: false
 ---
 

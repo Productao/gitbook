@@ -1,6 +1,5 @@
 ---
 description: Get productive with Agentnoon in your first 30 minutes
-icon: rocket
 ---
 
 # Quick Start Guide

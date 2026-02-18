@@ -1,6 +1,5 @@
 ---
 description: User permissions and access control questions
-icon: lock
 hidden: false
 ---
 

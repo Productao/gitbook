@@ -1,6 +1,5 @@
 ---
 description: Data upload and management questions
-icon: database
 hidden: false
 ---
 

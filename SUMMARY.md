@@ -37,21 +37,33 @@
 * [📈 Scenario Tracking & Analysis](scenarios/tracking-analysis.md)
 * [⚖️ Scenario Comparisons](scenarios/comparisons.md)
 * [🗂️ Scenario Management](scenarios/management.md)
-* [📁 Project Creation](scenarios/projects.md)
+  * [Basic Actions](scenarios/management/basic-actions.md)
+  * [Tags](scenarios/management/tags.md)
+  * [Symbols](scenarios/management/symbols.md)
+  * [Organizing Scenarios](scenarios/management/organizing-scenarios.md)
+* [📁 TBD Project Creation](scenarios/projects.md)
 * [👥 Scenario Collaboration](scenarios/collaboration.md)
-* [🔄 IPR Scenario Refresh](scenarios/refresh.md)
+* [🔄 TBD Scenario Refresh](scenarios/refresh.md)
 
 ## Directory
 
 * [📋 Directory Overview](directory/overview.md)
-* [✨ Directory Features](directory/features.md)
+* [🧭 Navigation & Access](directory/navigation.md)
+  * [Filtering & Sorting](directory/filtering-sorting.md)
+  * [Column Customization](directory/columns-customization.md)
+  * [Bulk Operations](directory/bulk-operations.md)
+  * [Exporting](directory/exporting.md)
 * [📤 Exporting & Reporting](directory/exporting-reporting.md)
 
 ## Hub
 
-* [📊 Chart Navigation](hub/chart-navigation.md)
+* [📊 Hub Overview](hub/overview.md)
+* [🔍 Chart Navigation](hub/chart-navigation.md)
 * [📦 Packs](hub/packs.md)
 * [📚 Chart Library](hub/chart-library.md)
+* [📊 Layers and Spans of Control Chart](hub/layers-spans-chart.md)
+* [📈 Headcount Distribution Chart](hub/headcount-distribution-chart.md)
+* [🗺️ Headcount Heatmap Chart](hub/headcount-heatmap-chart.md)
 
 ## Forecast
 
@@ -120,6 +132,11 @@
 
 * [📦 IPR Video Tutorial Library](assets/video-library.md)
 * [✅ Quick Start Checklist](assets/quick-start-checklist.md)
+  * [Admin Checklist](assets/checklists/admin-checklist.md)
+  * [Department Lead Checklist](assets/checklists/department-lead-checklist.md)
+  * [Workforce Planner Checklist](assets/checklists/workforce-planner-checklist.md)
+  * [Quarterly Planning Checklist](assets/checklists/quarterly-planning-checklist.md)
+  * [Annual Planning Checklist](assets/checklists/annual-planning-checklist.md)
 * [⌨️ IPR Keyboard Shortcuts](assets/keyboard-shortcuts.md)
 * [📚 Glossary](assets/glossary.md)
 

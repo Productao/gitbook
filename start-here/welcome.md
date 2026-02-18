@@ -1,6 +1,5 @@
 ---
 description: Introduction to Agentnoon - what it does, who it's for, and how to get started
-icon: hand-wave
 ---
 
 # Welcome to Agentnoon

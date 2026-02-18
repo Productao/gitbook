@@ -1,6 +1,5 @@
 ---
 description: Understanding the impact of position changes with Workforce Hub
-icon: head-side-headphones
 ---
 
 # Before and After Analysis

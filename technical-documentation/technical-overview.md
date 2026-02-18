@@ -1,6 +1,5 @@
 ---
 description: Technical architecture and system overview
-icon: server
 hidden: false
 ---
 

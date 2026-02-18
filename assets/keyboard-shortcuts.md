@@ -1,6 +1,5 @@
 ---
 description: Complete list of keyboard shortcuts
-icon: keyboard
 hidden: false
 ---
 

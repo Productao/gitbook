@@ -1,6 +1,5 @@
 ---
 description: Planning and modeling compensation changes
-icon: dollar-sign
 hidden: false
 ---
 

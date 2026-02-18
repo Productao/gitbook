@@ -1,6 +1,5 @@
 ---
 description: Foundational concepts and terminology to understand Agentnoon
-icon: book
 ---
 
 # Agentnoon 101

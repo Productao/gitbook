@@ -1,6 +1,5 @@
 ---
 description: Creating and managing headcount forecasts
-icon: users
 hidden: false
 ---
 

@@ -1,6 +1,5 @@
 ---
 description: Basics of Hub chart navigation
-icon: chart-line-up
 ---
 
 # Chart Navigation

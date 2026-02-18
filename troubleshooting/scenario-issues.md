@@ -1,6 +1,5 @@
 ---
 description: Resolving scenario planning problems
-icon: diagram-project
 hidden: false
 ---
 

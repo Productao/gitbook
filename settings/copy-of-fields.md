@@ -1,7 +1,6 @@
 ---
 description: Configuring field groups, visibility, duplication, and dropdown values
 hidden: true
-icon: chart-kanban
 ---
 
 # Copy of Fields

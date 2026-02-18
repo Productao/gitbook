@@ -1,7 +1,6 @@
 ---
 description: Export your org like a pro
 hidden: false
-icon: folder-arrow-down
 ---
 
 # Exports

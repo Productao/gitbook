@@ -1,6 +1,5 @@
 ---
 description: Compare multiple what-if scenarios side by side
-icon: not-equal
 ---
 
 # Scenario Comparisons

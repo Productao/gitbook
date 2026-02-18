@@ -1,6 +1,5 @@
 ---
 description: Auto populate salaries using your compensation bands
-icon: sack-dollar
 ---
 
 # Compensation Cards

@@ -1,6 +1,5 @@
 ---
 description: Mapping and un-mapping employees to positions
-icon: people
 ---
 
 # Talent Selection

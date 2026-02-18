@@ -1,6 +1,5 @@
 ---
 description: Administrative capabilities and configuration overview
-icon: gear
 hidden: false
 ---
 

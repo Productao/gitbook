@@ -1,6 +1,5 @@
 ---
 description: Introduction to directory and table views
-icon: table-list
 hidden: false
 ---
 
@@ -20,6 +19,8 @@ Directory is Agentnoon's table-based view of your organization. It displays all 
 - **Customizable** - Choose which columns to display
 - **Accessible from anywhere** - Standalone module or accessed from Main Org/Scenarios
 
+---
+
 ## Directory vs Org Chart
 
 | Feature | Directory | Org Chart |
@@ -32,114 +33,107 @@ Directory is Agentnoon's table-based view of your organization. It displays all 
 | Export | CSV lists | JPEG, PowerPoint, CSV |
 | Find outliers | ✅ Easy (sort high/low) | ⚠️ Manual search |
 
+---
+
 ## When to Use Directory
 
 Use Directory when you need to:
 
-### 1. Analyze Data in Table Format
+**1. Analyze Data in Table Format**
 - Sort by salary, tenure, pay grade, etc.
 - Find highest/lowest values
 - Compare attributes across positions
 - Identify outliers and anomalies
 
-### 2. Create Lists and Exports
+**2. Create Lists and Exports**
 - Export department rosters
 - Generate contact lists
 - Create filtered position lists
 - Download data for Excel analysis
 
-### 3. Multi-Column Comparison
+**3. Multi-Column Comparison**
 - View many attributes simultaneously
 - Compare positions side-by-side
 - Analyze relationships between fields
 
-### 4. Quick Lookups
+**4. Quick Lookups**
 - Find all positions in a pay grade
 - List all managers in a location
 - Identify vacant positions
 - Search by any attribute
 
-### 5. Bulk Operations (in Scenarios)
+**5. Bulk Operations (in Scenarios)**
 - Select multiple positions
 - Apply bulk edits
 - Filter and mass-update
 
-## Accessing Directory
+---
 
-**Three ways to access Directory:**
+## Directory Capabilities
 
-### 1. From Homepage
-- Click **Directory** in the top navigation
-- Press keyboard shortcut **5**
+### Navigation & Access
 
-### 2. From Main Org or Scenarios
-- Click the **Directory/Table** icon in the left toolbar
-- Toggle between org chart and table view
+Learn how to access Directory from different locations and switch between views:
+- Access from homepage, Main Org, Scenarios, or Workforce Hub
+- Switch between Directory and Org Chart views
+- Navigate large datasets with pagination
+- Understand different Directory modes (Main Org, Scenario, Forecast)
 
-### 3. From Workforce Hub
-- Some charts have "View in Directory" links
-- Click to see the underlying data in table format
+**Learn more:** [Navigation & Access](navigation.md)
 
-## Directory Modes
+---
 
-Directory works in different contexts:
+### Filtering & Sorting
 
-### Main Org Directory (View-Only)
-- View current org data
-- Sort and filter
-- Export lists
-- Cannot edit positions
+Master filtering and sorting to quickly find insights:
+- Sort columns (single and multi-column sorting)
+- Apply filters to narrow results
+- Combine filters with AND logic
+- Search for specific positions
+- Find outliers and anomalies
 
-### Scenario Directory (Editable)
-- All Main Org capabilities PLUS:
-- Edit position attributes
-- Bulk select and edit multiple positions
-- Add or close positions
-- See change tracking
+**Learn more:** [Filtering & Sorting](filtering-sorting.md)
 
-### Forecast Directory
-- View forecasted headcount
-- Analyze planned positions by quarter
-- Export forecast data
+---
 
-## Key Features
+### Column Customization
 
-### Sortable Columns
-Click any column header to sort:
-- Once: Ascending (A→Z, low→high)
-- Twice: Descending (Z→A, high→low)
-- Three times: Remove sort
+Control which columns appear and how they're organized:
+- Show/hide columns for task-specific views
+- Reorder columns by dragging
+- Resize columns for readability
+- Save column presets (if available)
+- Create custom configurations for different analyses
 
-**Multi-column sorting:**
-- Hold Shift and click multiple headers
-- Sort by Department, then by Salary, then by Title
+**Learn more:** [Column Customization](columns-customization.md)
 
-### Filterable Rows
-Apply filters to show only specific positions:
-- Click Filter icon
-- Select attribute and values
-- Multiple filters combine with AND logic
-- Clear filters to reset
+---
 
-### Customizable Columns
-Choose which attributes to display:
-- Click column settings (gear icon)
-- Check/uncheck columns
-- Drag headers to reorder
-- Resize columns by dragging borders
+### Bulk Operations
 
-### Search
-Find positions quickly:
-- Use search box to find names, titles, or values
-- Matching rows highlight
-- Click to select
+Select and edit multiple positions at once (Scenario Directory only):
+- Select single or multiple positions
+- Apply bulk edits to selected positions
+- Change attributes for many positions simultaneously
+- Close multiple positions
+- Track bulk changes in Change Tracker
 
-### Export
-Download filtered data:
-- Export to CSV for Excel
-- All visible columns included
-- Only filtered rows included
-- Custom templates available (admin-configured)
+**Learn more:** [Bulk Operations](bulk-operations.md)
+
+---
+
+### Exporting
+
+Export Directory data to CSV for offline analysis:
+- Export filtered subsets
+- Include only visible columns
+- Create custom export formats
+- Use export templates (if available)
+- Share with stakeholders
+
+**Learn more:** [Exporting](exporting.md)
+
+---
 
 ## Common Workflows
 
@@ -168,24 +162,7 @@ Download filtered data:
 2. Sort by Pay Grade (high to low)
 3. Identify senior managers with low spans
 
-## Directory in Different Modules
-
-### Main Org Directory
-- View-only current org data
-- Sort, filter, search, export
-- Cannot make changes
-
-### Scenario Directory
-- Editable copy of org data
-- Make changes to model scenarios
-- Bulk edit multiple positions
-- See change tracker impact
-
-### Forecast Directory
-- View forecasted positions
-- Filter by quarter or year
-- Export forecast data
-- Cannot edit (forecast is aggregate planning)
+---
 
 ## Best Practices
 
@@ -197,20 +174,23 @@ Download filtered data:
 6. **Sort to find outliers** - Highest/lowest values, newest/oldest, etc.
 7. **Remember filters carry over** - Active filters affect org chart and directory views
 
-## Limitations (Main Org Directory)
-
-- **View-only** - Cannot edit positions in Main Org Directory
-- **No visual hierarchy** - Must use org chart to see reporting structure
-- **Limited bulk actions** - Cannot select and edit multiple positions in Main Org
-
-**To make changes:** Create a Scenario. Scenario Directory is fully editable.
+---
 
 ## Next Steps
 
-- Learn about [Directory Features](features.md) in detail
-- Explore [Exporting & Reporting](exporting-reporting.md) options
-- Compare with [Main Org Directory View](../main-org/directory-view.md)
-- Try the [Scenario Directory](../scenarios/directory.md) for editing capabilities
+Explore specific Directory capabilities:
+
+**Core Features:**
+- [Navigation & Access](navigation.md) - Access Directory and switch between views
+- [Filtering & Sorting](filtering-sorting.md) - Find and organize data
+- [Column Customization](columns-customization.md) - Control visible columns
+- [Bulk Operations](bulk-operations.md) - Edit multiple positions at once (scenarios)
+- [Exporting](exporting.md) - Create CSV exports
+
+**Related Topics:**
+- [Exporting & Reporting](exporting-reporting.md) - Comprehensive export options
+- [Main Org Directory View](../main-org/directory-view.md) - View-only directory
+- [Scenario Directory](../scenarios/directory.md) - Editable directory for planning
 
 ## Visual Guide
 

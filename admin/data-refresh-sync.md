@@ -1,6 +1,5 @@
 ---
 description: Keeping Agentnoon synchronized with your HRIS data
-icon: refresh
 hidden: false
 ---
 

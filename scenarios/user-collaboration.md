@@ -1,6 +1,5 @@
 ---
 description: Share scenarios with other users and use commenting
-icon: user-gear
 ---
 
 # User Collaboration

@@ -1,6 +1,5 @@
 ---
 description: Create and apply custom formulas to using your own data fields.
-icon: divide
 ---
 
 # Formulas

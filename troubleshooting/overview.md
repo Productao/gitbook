@@ -1,6 +1,5 @@
 ---
 description: Diagnostic framework and general troubleshooting guide
-icon: wrench
 hidden: false
 ---
 

@@ -1,10 +1,9 @@
 ---
 description: Refreshing scenarios with updated Main Org data
-icon: arrows-rotate
 hidden: false
 ---
 
-# IPR Scenario Refresh
+# TBD Scenario Refresh
 
 > **Note: This page is under construction. Content coming soon!**
 

@@ -1,6 +1,5 @@
 ---
 description: Frequently asked questions index
-icon: circle-question
 hidden: false
 ---
 

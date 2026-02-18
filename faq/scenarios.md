@@ -1,6 +1,5 @@
 ---
 description: Common scenario planning questions
-icon: diagram-project
 hidden: false
 ---
 

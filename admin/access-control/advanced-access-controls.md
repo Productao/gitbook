@@ -1,6 +1,5 @@
 ---
 description: Editing users, assigning multiple scopes, and export access control logs
-icon: brain
 ---
 
 # Advanced Access Controls

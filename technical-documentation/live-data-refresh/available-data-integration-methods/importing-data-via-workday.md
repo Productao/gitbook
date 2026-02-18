@@ -1,5 +1,4 @@
 ---
-icon: server
 ---
 
 # Importing Data via Workday

@@ -1,6 +1,5 @@
 ---
 description: Common charts in Agentnoon and how to use them
-icon: book
 ---
 
 # Chart Library

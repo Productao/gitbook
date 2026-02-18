@@ -1,6 +1,5 @@
 ---
 description: Budget planning and cost tracking in Forecast
-icon: dollar-sign
 hidden: false
 ---
 

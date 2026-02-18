@@ -1,6 +1,5 @@
 ---
 description: Common questions for new Agentnoon users
-icon: rocket
 hidden: false
 ---
 

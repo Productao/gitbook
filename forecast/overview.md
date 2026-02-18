@@ -1,6 +1,5 @@
 ---
 description: Introduction to Forecast and headcount planning
-icon: chart-line
 hidden: false
 ---
 

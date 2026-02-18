@@ -1,6 +1,5 @@
 ---
 description: Visualize your org like a pro
-icon: sitemap
 ---
 
 # Org Chart Navigation

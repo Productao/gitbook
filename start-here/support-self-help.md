@@ -1,6 +1,5 @@
 ---
 description: Troubleshooting tips and how to get help when you're stuck
-icon: life-buoy
 ---
 
 # Support & How to Self-Help

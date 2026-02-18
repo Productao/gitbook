@@ -1,6 +1,5 @@
 ---
 description: Creating different scenarios in Agentnoon
-icon: face-thinking
 ---
 
 # Scenario Creation

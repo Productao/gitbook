@@ -1,6 +1,5 @@
 ---
 description: Data security, privacy, and compliance
-icon: shield-check
 hidden: false
 ---
 

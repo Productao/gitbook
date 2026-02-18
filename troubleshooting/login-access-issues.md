@@ -1,6 +1,5 @@
 ---
 description: Resolving login and authentication problems
-icon: key
 hidden: false
 ---
 
