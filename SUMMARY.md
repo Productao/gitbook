@@ -56,12 +56,12 @@
 ## Forecast
 
 * [📈 Forecast Overview](forecast/overview.md)
-* [🧭 IPR Forecast Navigation](forecast/navigation.md)
+* [🧭 Forecast Navigation](forecast/navigation.md)
 * [👥 Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
-* [💰 Budget Planning [💰 IPR Budget Planning & Tracking] Tracking](forecast/budget-planning-tracking.md)
-* [📊 IPR Forecast Reports & Exports](forecast/reports-exports.md)
-* [⚖️ IPR Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
-* [📅 IPR Multi-Year Planning](forecast/multi-year-planning.md)
+* [💰 Budget Planning & Tracking](forecast/budget-planning-tracking.md)
+* [📊 Forecast Reports & Exports](forecast/reports-exports.md)
+* [⚖️ Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
+* [📅 Multi-Year Planning](forecast/multi-year-planning.md)
 
 ## Use Case Tutorials
 
