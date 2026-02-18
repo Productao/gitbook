@@ -83,26 +83,58 @@ This document tracks our collaboration on refreshing the Agentnoon help center d
   - Assignee tracking template
   - Storage location specified
 
-### Phase 5: Advanced Content (In Progress)
+### Phase 5: Forecast Section (COMPLETED ✅)
 - ✅ **Forecast Overview** - Complete guide to Forecast module as visualization tool
 - ✅ **Building Headcount Forecasts** - Comprehensive guide using hire dates, effective dates, and scenarios
 - ✅ **Budget Planning & Tracking** - Scenario budgets and OpEx panel guide
-- 🔄 **Forecast Navigation** - (Ready to write)
-- 🔄 **Forecast vs Scenarios** - (Ready to write)
-- 🔄 **Forecast Reports & Exports** - (Ready to write)
-- 🔄 **Multi-Year Planning** - (Ready to write)
+- ✅ **Forecast Navigation** - Interface controls, filtering, exports, workflows
+- ✅ **Forecast vs Scenarios** - When to use each, integrated workflow
+- ✅ **Forecast Reports & Exports** - CSV/PowerPoint/Image exports, common reports
+- ✅ **Multi-Year Planning** - 3-5 year workforce projections, strategic planning
 
-### Phase 6: Admin & Best Practices (Planned)
-- 🔄 Admin Overview
-- 🔄 Configuring Approval Flows
-- 🔄 Data Refresh & Sync
-- 🔄 Position vs Headcount Management
-- 🔄 Making Org Changes
+### Phase 6: Admin Capabilities (Core Pages Complete ✅)
+- ✅ **Admin Overview** - All admin responsibilities, 30-day checklist, maintenance schedules
+- ✅ **Configuring Approval Flows** - Level 0-3 approval system configuration
+- ✅ **Data Refresh & Sync** - Manual CSV uploads, live integrations, scenario refresh
 
-### Phase 7: Use Case Tutorials (Planned)
-- 🔄 Modeling Budget Cuts
-- 🔄 Compensation Planning
-- 🔄 Diversity & Inclusion Analysis
+### Phase 7: Best Practices (COMPLETED ✅)
+- ✅ **Position vs Headcount Management** - Position-first philosophy, when to use each
+- ✅ **Making Org Changes** - Planning, testing, communicating, implementing org changes
+
+### Phase 8: Remaining Work (21 IPR Placeholders)
+**Use Case Tutorials** (3 pages):
+- 🔄 IPR Modeling Budget Cuts
+- 🔄 IPR Compensation Planning
+- 🔄 IPR Diversity & Inclusion Analysis
+
+**FAQ Sections** (6 pages):
+- 🔄 IPR FAQ Overview
+- 🔄 IPR Getting Started FAQs
+- 🔄 IPR Data & Import FAQs
+- 🔄 IPR Scenarios FAQs
+- 🔄 IPR Forecast FAQs
+- 🔄 IPR Permissions & Access FAQs
+
+**Troubleshooting** (6 pages):
+- 🔄 IPR Troubleshooting Overview
+- 🔄 IPR Login & Access Issues
+- 🔄 IPR Data Issues
+- 🔄 IPR Scenario Issues
+- 🔄 IPR Performance Issues
+- 🔄 IPR Export & Integration Issues
+
+**Assets** (4 pages):
+- 🔄 IPR Video Tutorial Library
+- 🔄 IPR Quick Start Checklist
+- 🔄 IPR Keyboard Shortcuts
+- 🔄 IPR Glossary
+
+**Technical Documentation** (2 pages):
+- 🔄 IPR Technical Overview
+- 🔄 IPR Data Security & Privacy
+
+**Scenarios** (1 page):
+- 🔄 IPR Scenario Refresh (feature in development)
 
 ---
 
@@ -261,8 +293,8 @@ For immediate assistance, please contact [support@agentnoon.com](...)
 
 ### Completion Status
 - **Total Articles:** 87+
-- **Completed:** ~35 (40%)
-- **Placeholders with Outlines:** 33 (38%)
+- **Completed:** ~47 (54%)
+- **IPR Placeholders Remaining:** 21 (24%)
 - **To Be Written:** ~19 (22%)
 
 ### Quality Indicators
