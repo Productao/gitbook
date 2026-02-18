@@ -75,21 +75,21 @@
 
 ## Frequently Asked Questions
 
-* [❓ IPR FAQ Overview](faq/overview.md)
-* [🚀 IPR Getting Started FAQs](faq/getting-started.md)
-* [📥 IPR Data & Import FAQs](faq/data-import.md)
-* [🎯 IPR Scenarios FAQs](faq/scenarios.md)
-* [📈 IPR Forecast FAQs](faq/forecast.md)
-* [🔐 IPR Permissions & Access FAQs](faq/permissions-access.md)
+* [❓ FAQ Overview](faq/overview.md)
+* [🚀 Getting Started FAQs](faq/getting-started.md)
+* [📥 Data & Import FAQs](faq/data-import.md)
+* [🎯 Scenarios FAQs](faq/scenarios.md)
+* [📈 Forecast FAQs](faq/forecast.md)
+* [🔐 Permissions & Access FAQs](faq/permissions-access.md)
 
 ## Troubleshooting
 
-* [🔧 IPR Troubleshooting Overview](troubleshooting/overview.md)
-* [🔑 IPR Login & Access Issues](troubleshooting/login-access-issues.md)
-* [📊 IPR Data Issues](troubleshooting/data-issues.md)
-* [🎯 IPR Scenario Issues](troubleshooting/scenario-issues.md)
-* [⚡ IPR Performance Issues](troubleshooting/performance-issues.md)
-* [📤 IPR Export & Integration Issues](troubleshooting/export-integration-issues.md)
+* [🔧 Troubleshooting Overview](troubleshooting/overview.md)
+* [🔑 Login & Access Issues](troubleshooting/login-access-issues.md)
+* [📊 Data Issues](troubleshooting/data-issues.md)
+* [🎯 Scenario Issues](troubleshooting/scenario-issues.md)
+* [⚡ Performance Issues](troubleshooting/performance-issues.md)
+* [📤 Export & Integration Issues](troubleshooting/export-integration-issues.md)
 
 ## Admin Capabilities
 
@@ -119,9 +119,9 @@
 ## Assets & Quick Guides
 
 * [📦 IPR Video Tutorial Library](assets/video-library.md)
-* [✅ IPR Quick Start Checklist](assets/quick-start-checklist.md)
+* [✅ Quick Start Checklist](assets/quick-start-checklist.md)
 * [⌨️ IPR Keyboard Shortcuts](assets/keyboard-shortcuts.md)
-* [📚 IPR Glossary](assets/glossary.md)
+* [📚 Glossary](assets/glossary.md)
 
 ## Best Practices
 
