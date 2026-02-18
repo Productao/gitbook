@@ -29,6 +29,8 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 7. Try different browser (Chrome recommended)
 8. Restart computer if issue persists
 
+> **[Screenshot placeholder: Browser task manager (Shift+Esc in Chrome) showing Agentnoon tab using 850MB memory with "High" memory usage indicator]**
+
 ---
 
 ### Slow Initial Load After Login
@@ -104,6 +106,8 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
    - Work in department-specific views
    - Use Directory view primarily
    - Use org chart only for specific sections
+
+> **[Screenshot placeholder: Org chart with layer filter applied showing "Showing layers 0-3 only (487 positions visible, 2,350 hidden)" with filter controls]**
 
 ---
 

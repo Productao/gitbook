@@ -68,6 +68,8 @@ Answers to common questions about creating, managing, and working with scenarios
 ### How do I add multiple similar positions at once?
 **Answer:** Use the Duplicate function. Hover over a position, click Duplicate, select how many copies (1x, 5x, or custom), then edit each copy individually. This is faster than creating positions one at a time.
 
+> **[Screenshot placeholder: Position card context menu showing "Duplicate" option with submenu displaying "1x", "5x", and "Custom" duplication options]**
+
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
 ### What's the difference between closing and deleting a position?
@@ -111,6 +113,8 @@ Answers to common questions about creating, managing, and working with scenarios
 ### Where do I see the cost and headcount impact of my changes?
 **Answer:** Check the Change Tracker (also called OpEx Panel or Scenario Impacts and Changes). It shows net headcount change, net cost impact, list of all additions and closures, and a submission button for approval.
 
+> **[Screenshot placeholder: Change Tracker panel displaying summary metrics - Net Headcount: +12, Net Cost: +$1.8M, with expandable sections for Additions (15 green), Reductions (3 red), and Data Changes (8 blue)]**
+
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 
 ### How do I compare two scenarios side-by-side?
@@ -121,6 +125,8 @@ Answers to common questions about creating, managing, and working with scenarios
 ### What do the colored icons on position cards mean?
 **Answer:** Icons indicate changes: green = newly added position, red = RIF/layoff, orange = exit/voluntary departure, blue = edited details, purple = moved to different manager, yellow = on bench. These help you quickly identify what changed at a glance.
 
+> **[Screenshot placeholder: Org chart in scenario view showing position cards with different colored indicator icons - green plus icon for additions, red X for RIF, blue pencil for edits, purple arrow for moves]**
+
 **Learn more:** [Scenario Management](../scenarios/management.md)
 
 ---
@@ -129,6 +135,8 @@ Answers to common questions about creating, managing, and working with scenarios
 
 ### What happens when I submit a scenario for approval?
 **Answer:** The scenario enters the approval workflow, routing to designated approvers (Level 0 → Level 1 → Level 2 → Level 3). Depending on settings, the scenario may lock (preventing edits during approval). Approvers can approve, reject, or request changes.
+
+> **[Screenshot placeholder: Scenario approval workflow view showing Level 0 (Approved - green checkmark), Level 1 (Pending - yellow clock icon), Level 2 (Not started - gray), Level 3 (Not started - gray)]**
 
 **Learn more:** [Scenario Approvals](../scenarios/approvals.md)
 

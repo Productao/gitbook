@@ -87,6 +87,8 @@ Many issues are caused by outdated cached data.
 **Cause:** Your access group doesn't include that permission
 **Solution:** Contact your Agentnoon admin to verify your access group settings
 
+> **[Screenshot placeholder: Feature button grayed out with tooltip "This feature requires additional permissions. Contact your administrator."]**
+
 ---
 
 ## When to Check Troubleshooting vs FAQ
@@ -113,6 +115,8 @@ If you need to contact support, screenshots help diagnose issues quickly.
 1. The full browser window (including URL bar)
 2. Any error messages (full text)
 3. The context before the error occurred
+
+> **[Screenshot placeholder: Example of good screenshot showing full browser window with URL bar, error message dialog, and surrounding context with user action that triggered the error]**
 
 **How to take screenshots:**
 

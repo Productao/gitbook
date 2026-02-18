@@ -39,6 +39,8 @@ Common questions about user roles, access groups, field-level permissions, and a
 ### What's an access group?
 **Answer:** An access group controls what data users can see and edit. Admins create access groups with filters (e.g., "Engineering department only" or "US locations only"), field-level permissions (view/edit/hidden), and feature access, then assign users to groups.
 
+> **[Screenshot placeholder: Access Group configuration page showing group name, department filter selection, field-level permissions table with View/Edit/Hidden options, and assigned users list]**
+
 **Learn more:** [Access Groups](../access-control/access-groups.md)
 
 ### How do access groups restrict what I see?
@@ -63,6 +65,8 @@ Common questions about user roles, access groups, field-level permissions, and a
 ### Can admins hide sensitive fields like salary from certain users?
 **Answer:** Yes! Admins configure field-level permissions in access groups: View (users can see), Edit (users can modify in scenarios), or Hidden (users cannot see at all). Common use: hide compensation fields from non-HR users.
 
+> **[Screenshot placeholder: Field-level permissions configuration showing Salary field set to "Hidden", Bonus set to "Hidden", Department set to "View", and Title set to "Edit"]**
+
 **Learn more:** [Access Groups](../access-control/access-groups.md)
 
 ### Why can't I see salary information?
@@ -81,6 +85,8 @@ Common questions about user roles, access groups, field-level permissions, and a
 
 ### What can admins do that regular users can't?
 **Answer:** Admins can invite and manage users, upload and refresh data, create and configure custom fields, set up live data integrations, create access groups, configure approval workflows, upload rate cards, and customize system settings like colors and default views.
+
+> **[Screenshot placeholder: Admin Settings menu showing options for User Management, Data Management, Field Configuration, Integrations, Access Groups, Approval Workflows, and System Settings]**
 
 **Learn more:** [Admin Overview](../admin/overview.md)
 
@@ -110,6 +116,8 @@ Common questions about user roles, access groups, field-level permissions, and a
 
 ### Do exports respect access group restrictions?
 **Answer:** Yes. When you export data (CSV, org chart, reports), you can only export data your access group permits you to see. This ensures sensitive data doesn't leak through exports.
+
+> **[Screenshot placeholder: Export dialog showing only accessible columns available for selection, with salary/compensation fields grayed out and unavailable for users without permission]**
 
 **Learn more:** [Admin Overview](../admin/overview.md)
 

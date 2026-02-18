@@ -15,6 +15,8 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 ### What data format is required to upload to Agentnoon?
 **Answer:** Agentnoon accepts CSV files (.csv) or Google Sheets links. Files must be UTF-8 encoded with a single header row, unique column names, and no blank columns. Date fields should use YYYY-MM-DD format.
 
+> **[Screenshot placeholder: Sample CSV file structure showing header row with columns like Employee ID, Position ID, Manager ID, Job Title, Department, and Salary in proper format]**
+
 **Learn more:** [Data Requirements](../data-import/data-requirements.md)
 
 ### What are the minimum required fields for a data upload?
@@ -29,6 +31,8 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 ### How do I prepare my CSV file to avoid upload errors?
 **Answer:** Follow the data error checklist: ensure unique employee IDs, valid manager IDs (no self-reporting or circular relationships), positive salary values, consistent date formats (YYYY-MM-DD), no blank mandatory fields, and standardized text formatting without special characters.
+
+> **[Screenshot placeholder: Data validation error panel showing common errors like "Duplicate Employee ID found in row 47" and "Invalid Manager ID for row 23" with error counts]**
 
 **Learn more:** [Data Error Checklist](../data-import/data-error-checklist.md)
 
@@ -83,6 +87,8 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 ### How do I check if my automated sync is working?
 **Answer:** Go to Settings → Data Management → Sync Logs. Check the last sync time, status (success/failure), record count, and error logs. Healthy sync shows recent completion, no errors, record count matching HRIS, and recent changes reflected in Main Org.
 
+> **[Screenshot placeholder: Sync Logs page showing last sync timestamp, success status with green checkmark, record count (2,847 positions synced), and "View Details" button]**
+
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
 ---
@@ -101,6 +107,8 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 ### Why is my org chart broken after data upload?
 **Answer:** Likely caused by invalid manager IDs or broken reporting relationships. Go to Main Org → Data Management (admin only), look for "Broken Hierarchy" indicator with orange link icon. Click to view positions with invalid managers, then fix in HRIS and re-upload.
+
+> **[Screenshot placeholder: Broken hierarchy warning indicator showing orange link icon with text "5 positions have invalid reporting relationships" and "View Details" link]**
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 

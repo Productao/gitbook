@@ -25,6 +25,8 @@ Common questions about using Forecast to view headcount projections, analyze wor
 ### What's the difference between "Before", "After", and "Changes" views?
 **Answer:** Before shows Main Org (current state), After shows your scenario's final state with all changes, and Changes shows the delta (additions and reductions). Use Changes view for impact reports showing what's different.
 
+> **[Screenshot placeholder: Forecast view selector dropdown showing three options - "Show Before", "Show After", and "Show Changes" - with "Show Changes" selected]**
+
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
 
 ### Why does "Show Before" always reference Main Org?
@@ -63,6 +65,8 @@ Common questions about using Forecast to view headcount projections, analyze wor
 ### What's a Row Aggregator and how do I use it?
 **Answer:** Row Aggregator determines how data is grouped—one row per department, location, employee type, pay grade, etc. Choose Department for budget planning by team, Location for geographic analysis, or People for individual-level detail.
 
+> **[Screenshot placeholder: Row Aggregator dropdown menu showing options like Department, Location, Employee Type, Pay Grade, Manager, with Department selected]**
+
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
 
 ### How do I see cost by department over time?
@@ -87,6 +91,8 @@ Common questions about using Forecast to view headcount projections, analyze wor
 ### How do I create a headcount forecast for future quarters?
 **Answer:** Create a scenario, add positions with hire dates based on your hiring timeline (Q1 hires get January-March dates, Q2 get April-June, etc.), view the scenario in Forecast, select Quarterly time period, and toggle to Headcount view to see phased growth.
 
+> **[Screenshot placeholder: Forecast view in Quarterly mode showing headcount growth by department across Q1-Q4 2026, with bars increasing from Q1 (120) to Q4 (145)]**
+
 **Learn more:** [Building Headcount Forecasts](../forecast/building-headcount-forecasts.md)
 
 ### How do I model attrition or planned departures?
@@ -110,6 +116,8 @@ Common questions about using Forecast to view headcount projections, analyze wor
 
 ### How do I export forecast data?
 **Answer:** Configure your forecast view (aggregator, time period, filters), click the Export button (right side of top bar), select Export to CSV, choose file location, then open in Excel or Google Sheets for further analysis or presentations.
+
+> **[Screenshot placeholder: Export menu in Forecast view showing "Export to CSV", "Export to Excel", and "Export to PowerPoint" options with Export button highlighted]**
 
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
 

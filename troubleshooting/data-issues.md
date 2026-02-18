@@ -50,6 +50,8 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 6. Leave Manager ID blank only for top-level position (CEO)
 7. Re-upload CSV
 
+> **[Screenshot placeholder: Data upload error dialog showing "Missing required field: Manager ID" with red X icon and list of affected row numbers (rows 5, 12, 23)]**
+
 **See also:** [Data Requirements](../data-import/data-requirements.md)
 
 ---
@@ -89,6 +91,8 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 4. Correct Manager IDs to match existing Employee IDs
 5. For top-level executives: Leave Manager ID blank or use special value
 6. Re-upload CSV
+
+> **[Screenshot placeholder: Validation error report showing "Invalid Manager ID '5678' for Employee 'John Smith' in row 47 - Manager ID does not match any Employee ID in file"]**
 
 **See also:** [Data Error Checklist](../data-import/data-error-checklist.md)
 
@@ -258,6 +262,8 @@ Common solutions for data upload errors, validation failures, broken hierarchies
    - Save
 6. For permanent fix: Update source data and re-upload
 
+> **[Screenshot placeholder: Broken hierarchy warning panel listing affected positions - "Sarah Chen reports to invalid manager ID 9999", "Mike Johnson reports to invalid manager ID 8888" with "Fix Now" buttons]**
+
 **See also:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
 ---
@@ -323,6 +329,8 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 5. Click "Test Connection" to verify integration
 6. Manually trigger sync to confirm resolution
 7. If errors persist, contact support with error logs
+
+> **[Screenshot placeholder: Integration status dashboard showing last sync failed with red X, error message "Authentication failed: Invalid SFTP credentials", and "Retry Sync" button]**
 
 **See also:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 

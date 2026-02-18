@@ -24,6 +24,8 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 5. Check email for password reset link (including spam folder)
 6. Create new password and try logging in again
 
+> **[Screenshot placeholder: Login error message displaying "Incorrect email or password" with red alert icon and "Forgot Password" link below]**
+
 ---
 
 ### Forgot Password
@@ -47,6 +49,8 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 - Verify you entered correct email address
 - Wait 5 minutes and try again
 - Contact support@agentnoon.com if still not received after 10 minutes
+
+> **[Screenshot placeholder: Password reset confirmation screen showing "Password reset link sent to your email" with success checkmark and instruction to check inbox]**
 
 ---
 
@@ -76,6 +80,8 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 2. Clear browser cache and cookies
 3. Try logging in again
 4. If still locked, contact support to unlock immediately
+
+> **[Screenshot placeholder: Account locked error message showing "Your account has been locked due to too many failed login attempts. Please wait 30 minutes or contact support."]**
 
 **Solution for disabled account:**
 1. Account was deactivated by admin (user left company or access revoked)
@@ -195,6 +201,8 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 4. Admin should review Settings → Users → [Your Name] → Scope
 5. Scope may be restricted to specific departments, locations, or managers
 6. Admin can expand scope if you need access to more data
+
+> **[Screenshot placeholder: Main Org view showing partial organization with message "Your access is limited to Engineering department. Contact admin to request broader access."]**
 
 **See also:** [User Invitations](../access-control/user-invitations.md)
 

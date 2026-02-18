@@ -31,6 +31,8 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 7. Disable browser extensions (especially privacy extensions)
 8. Try export in incognito/private mode
 
+> **[Screenshot placeholder: Browser pop-up blocker notification showing "agentnoon.com was blocked from downloading a file" with "Always allow" option]**
+
 ---
 
 ### CSV Export Has Missing Columns
@@ -52,6 +54,8 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 5. If custom fields missing:
    - Verify custom fields are mapped and populated
    - Check Data Management → Field Mapping
+
+> **[Screenshot placeholder: Column selector dialog showing checkboxes for Name (checked), Title (checked), Department (checked), Salary (unchecked/grayed out), with note "Hidden by access group"]**
 
 ---
 
@@ -251,6 +255,8 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 5. Check SFTP server logs for blocked connection attempts
 6. If using key-based auth: Verify public key is installed correctly
 
+> **[Screenshot placeholder: SFTP connection test results showing "Connection failed: Authentication error" with red X icon and fields for Host, Port, Username displaying configured values]**
+
 **See also:** [Live Data Integration](../live-data-integration/what-is-a-live-data-integration.md)
 
 ---
@@ -335,6 +341,8 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
    - Verify API responds externally
    - If works externally: Check integration config
    - If fails externally: Contact support
+
+> **[Screenshot placeholder: API error response showing "401 Unauthorized: Invalid API key" with request details and "Generate New API Key" button]**
 
 **See also:** [Integration Overview & Technical FAQ](../live-data-integration/integration-overview-and-technical-faq.md)
 

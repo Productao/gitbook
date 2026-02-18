@@ -31,6 +31,8 @@ Common solutions for scenario save failures, approval problems, change tracking 
    - Contact admin if you need editor permissions
 6. If scenario is shared: Check if someone else is editing (may conflict)
 
+> **[Screenshot placeholder: Locked scenario banner showing lock icon with message "This scenario is locked pending approval. Changes cannot be saved until the scenario is returned or withdrawn."]**
+
 ---
 
 ### Changes Not Saving / Keep Reverting
@@ -72,6 +74,8 @@ Common solutions for scenario save failures, approval problems, change tracking 
 7. If specific scenario won't load but others do:
    - Scenario may be corrupted
    - Contact support with scenario name and timestamp
+
+> **[Screenshot placeholder: Blank screen with loading spinner and text "Loading scenario 'Q2 2026 Hiring Plan'... This may take up to 60 seconds for large organizations"]**
 
 ---
 
@@ -204,6 +208,8 @@ Common solutions for scenario save failures, approval problems, change tracking 
    - Verify changes actually saved (check position cards)
    - Try closing and reopening scenario
    - Contact support if tracker still not updating
+
+> **[Screenshot placeholder: Change Tracker panel showing "No changes detected" message with refresh icon, while org chart in background shows positions with green addition indicators]**
 
 **See also:** [Change Tracker](../scenarios/change-tracker.md)
 
@@ -390,6 +396,8 @@ Common solutions for scenario save failures, approval problems, change tracking 
    - Verify their access scope includes scenario data
    - Check they're assigned as approver correctly
    - Resend link to scenario
+
+> **[Screenshot placeholder: Approval workflow status showing "Waiting for Level 1 approval from Jane Smith (Finance)" with yellow pending clock icon and "Sent 3 days ago" timestamp]**
 
 ---
 

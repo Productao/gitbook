@@ -27,11 +27,15 @@ Use these checklists to get up and running with Agentnoon. Track your progress a
 - [ ] **Find your manager** in the org chart
 - [ ] **Count your manager's direct reports** (learn about Span of Control)
 
+> **[Screenshot placeholder: Main Org view showing org chart with position cards displaying names, titles, and department labels in hierarchical tree structure]**
+
 ### ✅ Learn the Taskbar
 - [ ] **Open the Filter tool** and filter by your department
 - [ ] **Try the Highlight tool** to color-code by department or location
 - [ ] **Customize Card Content** to show fields you care about (salary, title, etc.)
 - [ ] **Clear all filters** to return to full view
+
+> **[Screenshot placeholder: Left taskbar with Filter panel open showing department filter options and "Engineering" selected with 247 matching positions]**
 
 ### ✅ Read Key Concepts
 - [ ] **Read [Key Concepts](../start-here/concepts.md)** (10 minutes)
@@ -82,6 +86,8 @@ Use these checklists to get up and running with Agentnoon. Track your progress a
 - [ ] **Add a description:** "Learning how scenarios work"
 - [ ] **Click Create**
 
+> **[Screenshot placeholder: Create Scenario dialog with "Practice Scenario - DELETE ME" entered in name field, Full Org selected, and Create button highlighted]**
+
 ### ✅ Make Practice Changes
 - [ ] **Add a new position**:
   - Navigate to a team in the org chart
@@ -102,12 +108,16 @@ Use these checklists to get up and running with Agentnoon. Track your progress a
 - [ ] **View net cost change** (+/- workforce cost)
 - [ ] **See list of changes** (additions in green, closures in red)
 
+> **[Screenshot placeholder: OpEx Panel showing net headcount +2, net cost +$285K, with expandable sections for Additions (3), Reductions (1), and detailed position list]**
+
 ### ✅ View in Forecast
 - [ ] **Switch to Forecast view** (dropdown at top)
 - [ ] **Select "Show Before"** (Main Org baseline)
 - [ ] **Select "Show After"** (your scenario)
 - [ ] **Select "Show Changes"** (delta between before/after)
 - [ ] **Export to CSV** to see the data in Excel
+
+> **[Screenshot placeholder: Forecast view in Quarterly mode showing "Show Changes" with delta columns displaying +2 headcount in Q2, cost increase bars by department]**
 
 ### ✅ Clean Up
 - [ ] **Delete your practice scenario** (three-dot menu → Delete Scenario)

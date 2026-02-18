@@ -18,6 +18,8 @@ New to Agentnoon? This page answers the most common questions from first-time us
 - **Email/Password:** If SSO isn't configured, use your email and password
 - **First-time login:** Check your email for an invitation link from Agentnoon
 
+> **[Screenshot placeholder: Login screen showing SSO button, email/password fields, and "Forgot Password" link]**
+
 **Learn more:** [Authentication & IAM](../authentication-and-identity-security/README.md)
 
 ### I can't log in. What should I do?
@@ -90,6 +92,8 @@ New to Agentnoon? This page answers the most common questions from first-time us
 - **Forecast** - Time-based projections
 - **Workforce Hub** - Analytics and charts
 
+> **[Screenshot placeholder: Main navigation bar showing "Open Org" button and view dropdown menu with Directory, Org Chart, Forecast, and Workforce Hub options]**
+
 **Learn more:** [Main Org Navigation](../main-org/navigation.md)
 
 ### What's the taskbar on the left side?
@@ -100,6 +104,8 @@ New to Agentnoon? This page answers the most common questions from first-time us
 - **Card Content** - Customize what shows on position cards
 - **Views** - Save and load custom views
 - **Export** - Download data to CSV, PowerPoint, or images
+
+> **[Screenshot placeholder: Left taskbar showing icons for Search, Filter, Highlight, Card Content, Views, and Export tools]**
 
 **Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
 
@@ -169,6 +175,8 @@ Ask your admin how often data refreshes at your company.
    - **Partial Org:** Copy a specific department or location
    - **New Org:** Start from scratch
 4. Click Create
+
+> **[Screenshot placeholder: "Create Scenario" dialog showing name field, scenario type options (Full Org, Partial Org, New Org), and Create button]**
 
 **Now what?** You can add positions, close positions, move people, change salaries—whatever you want to test!
 
@@ -241,6 +249,8 @@ Agentnoon highlights SOC to help you design balanced organizations.
 - Net headcount impact (+10, -5)
 - List of all changes (additions, closures, moves)
 - Submission button for approval
+
+> **[Screenshot placeholder: OpEx Panel showing net headcount change (+15 positions), net cost impact (+$2.3M), and categorized list of additions (green) and closures (red)]**
 
 **Where to find it:** In any scenario, look for a side panel on the right or click the "Scenario Impacts and Changes" button.
 
