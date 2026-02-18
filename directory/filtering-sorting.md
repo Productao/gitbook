@@ -23,6 +23,8 @@ Sort data by any column to find outliers, compare values, or organize data logic
 - Descending arrow ↓ appears in column header
 - No arrow = no sort applied
 
+> **[Screenshot placeholder: Directory table showing column header with ascending arrow indicator and sorted data]**
+
 ---
 
 ### Multi-Column Sorting
@@ -39,6 +41,8 @@ Sort by multiple columns simultaneously:
 - Tertiary sort: Salary (high→low)
 
 **Result:** Positions grouped by department, then by pay grade within each department, then by salary within each pay grade.
+
+> **[Screenshot placeholder: Directory table with multiple sort indicators showing primary, secondary, and tertiary sorts on Department, Pay Grade, and Salary columns]**
 
 ---
 
@@ -83,10 +87,14 @@ Apply filters to show only positions matching specific criteria.
 3. Choose which values to include (check boxes)
 4. Click **Apply**
 
+> **[Screenshot placeholder: Filter dialog showing attribute selection dropdown and checkbox list of values to include with Apply button]**
+
 **Active filters appear:**
 - As tags/chips above the table
 - Showing which filters are active
 - With X to remove individual filters
+
+> **[Screenshot placeholder: Directory table with active filter tags/chips displayed above the table showing "Department = Engineering" and "Location = San Francisco" with X buttons to remove]**
 
 ---
 
@@ -101,6 +109,8 @@ Combine filters to narrow results:
 2. Click Filter icon again
 3. Add second filter
 4. Repeat as needed
+
+> **[Screenshot placeholder: Directory with three active filter tags showing combined filters (Department = Engineering, Location = San Francisco, Pay Grade = 12) and filtered results below]**
 
 ---
 
@@ -176,6 +186,8 @@ Find specific positions or people quickly.
 3. Matching rows highlight automatically
 4. Press Enter or click to navigate
 
+> **[Screenshot placeholder: Directory search box at top with example search term "Senior Engineer" entered and matching rows highlighted in the table below]**
+
 **Search tips:**
 - Search works across all visible columns
 - Partial matches work (e.g., "Eng" finds "Engineering")
@@ -200,6 +212,8 @@ The most powerful analysis comes from combining all three:
 2. **Sort:** Salary (high→low)
 3. **Search:** (optional) Search for specific title like "Senior"
 4. **Result:** See Engineering pay distribution, highest to lowest
+
+> **[Screenshot placeholder: Directory showing Engineering department filter applied, Salary column sorted high to low with descending arrow, displaying compensation analysis view]**
 
 **Export:** Create targeted compensation report
 
@@ -313,10 +327,3 @@ The most powerful analysis comes from combining all three:
 - Master [Exporting](exporting.md) to create custom reports
 - Try [Navigation & Access](navigation.md) to switch between views
 
-## Visual Guide
-
-> **[Screenshot placeholder: Sorting columns in Directory]**
-
-> **[Screenshot placeholder: Applying filters and viewing active filter tags]**
-
-> **[Screenshot placeholder: Multi-column sort example]**

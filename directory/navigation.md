@@ -16,17 +16,23 @@ Directory can be accessed from multiple locations throughout Agentnoon:
 - Press keyboard shortcut **5**
 - Fastest way to access standalone Directory view
 
+> **[Screenshot placeholder: Homepage navigation bar with Directory button highlighted and keyboard shortcut "5" indicator]**
+
 ### From Main Org or Scenarios
 - Click the **Directory/Table** icon in the left toolbar
 - Toggle between org chart and table view
 - Context remains (same filters, same scenario)
 - View switches but data stays consistent
 
+> **[Screenshot placeholder: Left toolbar showing Directory/Table icon toggle between org chart and directory views]**
+
 ### From Workforce Hub
 - Some charts include "View in Directory" links
 - Click to see underlying data in table format
 - Automatically filters to chart data subset
 - Opens Directory with relevant positions
+
+> **[Screenshot placeholder: Workforce Hub chart with "View in Directory" link highlighted]**
 
 ---
 
@@ -49,6 +55,8 @@ Directory works differently depending on where you access it from:
 - Make org changes
 - Bulk edit multiple positions
 
+> **[Screenshot placeholder: Main Org Directory in view-only mode showing sortable columns, filter options, and export button without edit capabilities]**
+
 **When to use:**
 - Analyzing current organization
 - Creating reports and exports
@@ -66,6 +74,8 @@ Directory works differently depending on where you access it from:
 - Add or close positions
 - See change tracking symbols
 - Model "what-if" scenarios
+
+> **[Screenshot placeholder: Scenario Directory with checkboxes for bulk selection, change tracking symbols on modified positions, and edit capabilities visible]**
 
 **When to use:**
 - Planning organizational changes
@@ -113,6 +123,8 @@ Directory works differently depending on where you access it from:
 3. Position becomes focal point
 4. Preserves context
 
+> **[Screenshot placeholder: Directory row with org chart icon next to position name, showing clickable link to jump to org chart view]**
+
 ---
 
 ### From Org Chart to Directory
@@ -122,6 +134,8 @@ Directory works differently depending on where you access it from:
 2. View switches to table format
 3. Same positions visible
 4. Filters remain active
+
+> **[Screenshot placeholder: Org chart view with left toolbar showing Directory/Table icon for switching views]**
 
 **Tip:** Use keyboard shortcut **1** to return to org chart view from Directory.
 
@@ -140,6 +154,8 @@ Directory works differently depending on where you access it from:
 - Use Next/Previous buttons
 - Or jump to specific page number (1, 2, 3...)
 - Total row count displayed
+
+> **[Screenshot placeholder: Directory pagination controls at bottom of table showing rows per page dropdown (25, 50, 100, 500), page navigation buttons, and total row count]**
 
 **Tips:**
 - Increase rows per page for smaller datasets (< 500 rows)
@@ -175,6 +191,8 @@ Directory works differently depending on where you access it from:
 - Now viewing 150 positions (3 pages)
 - Much easier to navigate and analyze
 
+> **[Screenshot placeholder: Directory showing active filter tag "Department = Engineering" and reduced row count from 800 to 150 positions]**
+
 ---
 
 ## Keyboard Shortcuts
@@ -187,6 +205,8 @@ Speed up navigation with these shortcuts:
 | **1** | Return to org chart view |
 | **Cmd/Ctrl + F** | Open search box |
 | **Esc** | Clear selection or close panels |
+
+> **[Screenshot placeholder: Interface showing keyboard shortcut indicators overlaid on navigation elements]**
 
 ---
 
@@ -282,10 +302,3 @@ Understanding when to use each view:
 - Try [Bulk Operations](bulk-operations.md) in Scenario Directory
 - Understand [Exporting](exporting.md) to create reports
 
-## Visual Guide
-
-> **[Screenshot placeholder: Accessing Directory from homepage]**
-
-> **[Screenshot placeholder: Switching between Org Chart and Directory views]**
-
-> **[Screenshot placeholder: Directory pagination controls]**

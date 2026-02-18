@@ -36,6 +36,8 @@ Comparison view helps you see cost differences, headcount impact, and structural
 4. Click **Compare** button (bottom-right corner)
 5. Comparison view opens
 
+> **[Screenshot placeholder: Homepage showing scenario list with checkboxes and Compare button highlighted in bottom-right corner]**
+
 **Pro tip:** You need at least 2 scenarios to compare. You can compare up to 4 scenarios simultaneously.
 
 ---
@@ -46,6 +48,8 @@ Comparison view helps you see cost differences, headcount impact, and structural
 2. Click **Compare** in the taskbar
 3. Select additional scenarios to compare
 4. Comparison view opens
+
+> **[Screenshot placeholder: Scenario taskbar with Compare button highlighted]**
 
 ---
 
@@ -69,6 +73,8 @@ The comparison view shows scenarios side-by-side in columns:
 - Adjust what's being compared
 - Export comparison data
 
+> **[Screenshot placeholder: Full comparison view showing 2-3 scenarios side-by-side with scenario names at top, key metrics, and comparison canvas]**
+
 ---
 
 ## What You Can Compare
@@ -85,6 +91,8 @@ The comparison view shows scenarios side-by-side in columns:
 1. In comparison view, select **Cost** from dropdown
 2. See cost breakdown by scenario
 3. Compare total compensation cost
+
+> **[Screenshot placeholder: Cost comparison view showing bar charts with total cost for each scenario and cost differences from baseline]**
 
 **When to use:**
 - Budget-constrained planning
@@ -113,6 +121,8 @@ The comparison view shows scenarios side-by-side in columns:
 2. See employee count by scenario
 3. Compare additions/reductions
 
+> **[Screenshot placeholder: Headcount comparison view showing total headcount for each scenario with differences from Main Org indicated]**
+
 **When to use:**
 - Annual hiring planning
 - RIF planning
@@ -140,6 +150,8 @@ The comparison view shows scenarios side-by-side in columns:
 2. See scenarios side-by-side
 3. Scroll to compare different parts of org
 
+> **[Screenshot placeholder: Side-by-side org chart comparison showing two different organizational structures with reporting relationships and team hierarchies visible]**
+
 **When to use:**
 - Evaluating reorganization approaches
 - Comparing reporting structures
@@ -165,6 +177,8 @@ The comparison view shows scenarios side-by-side in columns:
 1. Select **Pyramid Chart** from dropdown
 2. See stacked visualization of org levels
 3. Compare width (headcount at each level) across scenarios
+
+> **[Screenshot placeholder: Pyramid chart comparison showing three scenarios with different organizational shapes - one wide and flat, one tall with many layers, and one balanced]**
 
 **When to use:**
 - Evaluating organizational flatness
@@ -201,6 +215,8 @@ The comparison view shows scenarios side-by-side in columns:
 2. See table or dashboard of key stats
 3. Compare numbers across scenarios
 
+> **[Screenshot placeholder: Key metrics comparison table showing statistics like span of control, layers, and department sizes across multiple scenarios]**
+
 **When to use:**
 - Data-driven decision making
 - Presenting to stakeholders with specific metrics
@@ -217,6 +233,8 @@ The comparison view shows scenarios side-by-side in columns:
 2. Click **+ Add Scenario** or right arrow
 3. Select additional scenario (up to 4 total)
 4. New column appears in comparison
+
+> **[Screenshot placeholder: Comparison view controls at bottom showing arrow buttons and "Add Scenario" option to add up to 4 scenarios]**
 
 **How to remove:**
 1. Click **X** on scenario column
@@ -350,6 +368,8 @@ The comparison view shows scenarios side-by-side in columns:
    - Org charts
    - Cost/headcount tables
 4. Click **Export**
+
+> **[Screenshot placeholder: Export dialog showing format options (PDF, CSV, Excel) and content selection options for comparison exports]**
 
 **When to use:**
 - Presenting to stakeholders

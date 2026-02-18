@@ -27,11 +27,15 @@ Learn how to create scenarios step-by-step. This guide covers all three scenario
 2. Or click **"Create Scenario"** button on homepage
 3. Scenario creation dialog opens
 
+> **[Screenshot placeholder: Homepage showing + icon in bottom left corner and "Create Scenario" button with scenario creation dialog]**
+
 ### Method 2: From Main Org
 
 1. Open **Main Org** (keyboard shortcut: **1**)
 2. Click **"Create Scenario"** button in top right
 3. Scenario creation dialog opens
+
+> **[Screenshot placeholder: Main Org view with "Create Scenario" button highlighted in top right corner]**
 
 ### Method 3: From Scenario List
 
@@ -62,6 +66,8 @@ You'll see three options:
 - Can be overwhelming to navigate
 - Best for experienced users
 
+> **[Screenshot placeholder: Scenario creation dialog with "Full Org (Select Everyone)" option highlighted]**
+
 ---
 
 #### Option 2: Partial Org (Filtered Selection) ⭐ RECOMMENDED
@@ -86,11 +92,15 @@ You'll see three options:
 - Manager and everyone below them
 - Most common approach
 
+> **[Screenshot placeholder: Partial Org creation showing manager dropdown selector with list of managers to choose from]**
+
 **Method B: Filter Selection**
 - Apply filters (Department, Location, etc.)
 - Preview which positions will be included
 - Option to include "Manager Filtering" (shows reporting chain above selected positions)
 - Verify scope before proceeding
+
+> **[Screenshot placeholder: Partial Org creation with filter selection interface showing Department and Location filters, position preview count, and "Manager Filtering" checkbox option]**
 
 **Pro tip:** Use "Manager Filtering" option to include the reporting chain above your selected positions. This preserves context and lets you see where your subset fits in the larger org.
 
@@ -134,6 +144,8 @@ You'll see three options:
 - "Product Team Restructure - Option A"
 - "Finance 2026 Annual Plan"
 
+> **[Screenshot placeholder: Scenario name input field with example name "Engineering Q2 2026 Expansion" entered]**
+
 #### Bad Naming Patterns
 
 ❌ "Scenario 1" - Not descriptive
@@ -166,6 +178,8 @@ You'll see three options:
 2. Enter target amount (e.g., $5,000,000)
 3. As you make changes, Change Tracker shows budget vs actual
 
+> **[Screenshot placeholder: Budget setting checkbox and input field with example amount "$5,000,000" entered, showing how budget tracking will appear]**
+
 **When to skip:**
 - Exploratory planning without budget constraints
 - Reorganizations focused on structure, not cost
@@ -185,6 +199,8 @@ You'll see three options:
 **How to set:**
 1. Check "Set effective date" checkbox
 2. Select date (e.g., April 1, 2026)
+
+> **[Screenshot placeholder: Effective date checkbox and date picker showing example date "April 1, 2026" selected]**
 
 **When to skip:**
 - General exploration
@@ -217,10 +233,14 @@ You'll see three options:
    - Description
 2. Click **"Next"** or **"Create Scenario"**
 
+> **[Screenshot placeholder: Scenario creation review screen showing all selections summarized before final creation with "Create Scenario" button]**
+
 **What happens next:**
 - Agentnoon creates the scenario (takes 5-30 seconds depending on size)
 - You're taken to the scenario org chart
 - You can start making changes immediately
+
+> **[Screenshot placeholder: Newly created scenario opened in org chart view with scenario name visible in top-left corner and clean slate ready for changes]**
 
 ---
 
@@ -252,6 +272,8 @@ See [Making Position Changes](making-position-changes.md) for detailed instructi
 1. Click the **scenario name dropdown** in top-left corner
 2. Select a different scenario from the list
 3. Or select "Main Org" (marked with view icon) to return to current state
+
+> **[Screenshot placeholder: Scenario name dropdown in top-left corner showing list of available scenarios including "Main Org" with view icon and multiple named scenarios]**
 
 **Pro tip:** Open multiple browser tabs to compare scenarios side-by-side.
 
@@ -338,10 +360,3 @@ Now that you've created a scenario:
 - See [Change Tracker](tracking-analysis.md) to monitor impact
 - Try [comparing scenarios](comparisons.md) to evaluate options
 
-## Visual Guide
-
-> **[Screenshot placeholder: Create New Scenario button and modal]**
-
-> **[Screenshot placeholder: Scenario type selection (Full Org, Partial Org, New Org)]**
-
-> **[Screenshot placeholder: Newly created scenario in org chart view]**

@@ -27,6 +27,8 @@ Bulk operations allow you to select multiple positions and apply changes simulta
 - Selected row changes color
 - Click again to deselect
 
+> **[Screenshot placeholder: Single row highlighted in Scenario Directory showing selected state with color change]**
+
 **Use case:** Quick single-position edits
 
 ---
@@ -38,6 +40,8 @@ Bulk operations allow you to select multiple positions and apply changes simulta
 - Select multiple positions at once
 - Checkboxes appear only in Scenario Directory
 
+> **[Screenshot placeholder: Multiple rows selected with checkboxes checked in first column of Scenario Directory]**
+
 **Use case:** Bulk edits on specific positions
 
 ---
@@ -48,6 +52,8 @@ Bulk operations allow you to select multiple positions and apply changes simulta
 - Check the header checkbox (top of first column)
 - Selects all rows matching current filters
 - Does NOT select hidden/filtered-out rows
+
+> **[Screenshot placeholder: Header checkbox in first column checked with all visible filtered rows selected below, showing "Department = Engineering" filter active]**
 
 **Use case:** Bulk edits on entire filtered subset
 
@@ -100,10 +106,14 @@ Once positions are selected, you can apply bulk changes:
 5. Click **Apply**
 6. Changes apply to all selected positions
 
+> **[Screenshot placeholder: Bulk Edit button appearing after position selection, with dialog showing attribute dropdown (Department, Location, Pay Grade, etc.) and new value field]**
+
 **Confirmation:**
 - Preview shows which positions will change
 - Confirm before applying
 - Changes tracked in scenario
+
+> **[Screenshot placeholder: Bulk edit confirmation preview showing list of positions that will be changed with old and new values]**
 
 ---
 
@@ -122,6 +132,8 @@ Once positions are selected, you can apply bulk changes:
 6. Click **Apply**
 7. All 15 positions updated
 
+> **[Screenshot placeholder: Bulk edit in progress showing 15 selected Marketing positions with Department being changed to "Growth" in bulk edit dialog]**
+
 ---
 
 ### Apply Salary Increase to Filtered Subset
@@ -136,6 +148,8 @@ Once positions are selected, you can apply bulk changes:
 5. Choose **Percentage increase** = 5%
 6. Click **Apply**
 7. All matching positions updated
+
+> **[Screenshot placeholder: Bulk salary adjustment dialog showing "Percentage increase" option with 5% entered, applying to all selected Software Engineer positions]**
 
 ---
 
@@ -226,6 +240,8 @@ All bulk changes are tracked in scenarios:
 - See list of all changes
 - Filter by change type
 - Export change log
+
+> **[Screenshot placeholder: Change Tracker panel showing list of bulk-edited positions with change symbols, old values, new values, and timestamp]**
 
 ---
 
@@ -337,10 +353,3 @@ All bulk changes are tracked in scenarios:
 - Try [Scenario Tracking & Analysis](../scenarios/tracking-analysis.md) to review bulk changes
 - Master [Exporting](exporting.md) to create change logs
 
-## Visual Guide
-
-> **[Screenshot placeholder: Bulk selection with checkboxes in Scenario Directory]**
-
-> **[Screenshot placeholder: Bulk Edit menu showing attribute options]**
-
-> **[Screenshot placeholder: Change Tracker showing bulk edit results]**

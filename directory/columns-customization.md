@@ -18,6 +18,8 @@ Choose which attributes to display in your Directory view.
 2. Check/uncheck columns to show/hide
 3. Changes apply immediately
 
+> **[Screenshot placeholder: Column settings menu opened showing checkboxes for all available columns with some checked (visible) and some unchecked (hidden)]**
+
 **Tips:**
 - Only show columns relevant to your current task
 - Fewer columns = easier to scan and compare
@@ -35,6 +37,8 @@ Choose which attributes to display in your Directory view.
 
 **Use case:** Quick reference, org structure overview
 
+> **[Screenshot placeholder: Directory showing basic view configuration with only Name, Title, Department, and Manager columns visible]**
+
 ---
 
 **Compensation view:**
@@ -45,6 +49,8 @@ Choose which attributes to display in your Directory view.
 - Pay Grade
 
 **Use case:** Compensation analysis, pay equity review
+
+> **[Screenshot placeholder: Directory configured for compensation analysis showing Name, Title, Department, Salary, and Pay Grade columns]**
 
 ---
 
@@ -103,6 +109,8 @@ Change the order in which columns appear.
 - Drop in desired position
 - New order persists during session
 
+> **[Screenshot placeholder: Column header being dragged to new position with visual indicator showing drop zone between other columns]**
+
 **Tips:**
 - Put most important columns on the left
 - Group related columns together (e.g., all compensation fields)
@@ -141,6 +149,8 @@ Adjust column width for readability.
 - Double-click border between column headers
 - Column auto-sizes to fit content
 
+> **[Screenshot placeholder: Column border being dragged to resize with cursor changing to resize icon and column width adjusting]**
+
 **Tips:**
 - Auto-fit long text fields (Name, Title)
 - Keep numeric fields narrow (Layer, SOC)
@@ -160,12 +170,16 @@ Save column configurations for reuse (if available in your Agentnoon instance).
 3. Name the preset (e.g., "Compensation Analysis", "Contact List")
 4. Preset saved for quick access
 
+> **[Screenshot placeholder: Save preset dialog showing text field to name preset with examples like "Compensation Analysis" and "Contact List"]**
+
 ### Using Presets
 
 **Steps:**
 1. Click presets dropdown
 2. Select saved preset
 3. Columns reconfigure automatically
+
+> **[Screenshot placeholder: Preset dropdown menu showing saved presets including "Compensation Analysis", "Contact List", "Span of Control", and "Vacancy Tracking"]**
 
 **Common presets to create:**
 - Compensation analysis
@@ -325,10 +339,3 @@ Understanding different attribute types:
 - Master [Exporting](exporting.md) to create custom reports
 - Explore [Navigation & Access](navigation.md) to switch between views
 
-## Visual Guide
-
-> **[Screenshot placeholder: Column customization menu showing checkboxes for show/hide]**
-
-> **[Screenshot placeholder: Dragging column header to reorder columns]**
-
-> **[Screenshot placeholder: Common column preset examples]**
