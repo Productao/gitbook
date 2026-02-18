@@ -122,3 +122,13 @@ If you can complete these 10 tasks, you're ready to use Agentnoon effectively!
 - **[Use Case Tutorials](../use-case-tutorials/planning-reorganization.md)** - End-to-end workflows
 
 Need help? Check our **[Support & How to Self-Help](support-self-help.md)** guide!
+
+## Visual Guide
+
+> **[Screenshot placeholder: Agentnoon login screen]**
+
+> **[Screenshot placeholder: Main navigation menu showing all primary modules]**
+
+> **[Screenshot placeholder: Main Org org chart view example]**
+
+> **[Screenshot placeholder: Creating a new scenario - scenario creation modal]**

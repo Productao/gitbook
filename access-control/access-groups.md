@@ -41,3 +41,11 @@ Access groups in Agentnoon allow you to set permissions for data access and appl
    * **Edit** permissions and settings for an existing group.
    * **Delete** an access group if no longer needed.
 
+
+## Visual Guide
+
+> **[Screenshot placeholder: Access Groups management interface]**
+
+> **[Screenshot placeholder: Creating a new access group with department/location filters]**
+
+> **[Screenshot placeholder: User list showing access group assignments]**

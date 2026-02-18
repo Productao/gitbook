@@ -338,3 +338,11 @@ Now that you've created a scenario:
 - Explore [bulk operations](bulk-operations.md) for faster editing
 - See [Change Tracker](tracking-analysis.md) to monitor impact
 - Try [comparing scenarios](comparisons.md) to evaluate options
+
+## Visual Guide
+
+> **[Screenshot placeholder: Create New Scenario button and modal]**
+
+> **[Screenshot placeholder: Scenario type selection (Full Org, Partial Org, New Org)]**
+
+> **[Screenshot placeholder: Newly created scenario in org chart view]**

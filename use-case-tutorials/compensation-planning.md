@@ -26,3 +26,6 @@ hidden: false
 ---
 
 For immediate assistance, please contact [support@agentnoon.com](mailto:support@agentnoon.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).
+
+## Visual Guide
+

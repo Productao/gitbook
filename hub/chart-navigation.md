@@ -34,3 +34,9 @@ This guide explains how to navigate and customize charts inside **Agentnoon’s 
   * Enable additional settings specific to each chart type.
 
 By using these features, you can **tailor charts to highlight key insights, compare workforce metrics, and analyze trends effectively** in Agentnoon.
+
+## Visual Guide
+
+> **[Screenshot placeholder: Workforce Hub main interface showing chart library]**
+
+> **[Screenshot placeholder: Example workforce analytics chart (e.g., headcount by department)]**

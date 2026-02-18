@@ -282,3 +282,9 @@ Directory View in Main Org is view-only:
 - Learn about [Exporting & Reporting](../directory/exporting-reporting.md)
 - Explore [Org Metrics & Insights](metrics-insights.md) for calculated fields
 - Create a [Scenario](../scenarios/creating-scenarios.md) for editable Directory View
+
+## Visual Guide
+
+> **[Screenshot placeholder: Main Org directory view showing full position table]**
+
+> **[Screenshot placeholder: Directory filters and search in action]**

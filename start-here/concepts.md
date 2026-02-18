@@ -22,6 +22,8 @@ Understanding these core concepts will help you navigate Agentnoon more effectiv
 - Position: "Senior Software Engineer, Platform Team"
 - Person: Jane Smith (assigned to this position)
 
+> **[Screenshot placeholder: Position card showing open position vs filled position with employee]**
+
 ---
 
 ## Main Org vs Scenarios
@@ -92,6 +94,8 @@ Table/spreadsheet view of all positions with sortable columns.
 
 **Pro tip:** Use both views. Switch between them with keyboard shortcuts (3 for Org Chart, 5 for Directory).
 
+> **[Screenshot placeholder: Side-by-side comparison of Org Chart view vs Directory view]**
+
 ---
 
 ## Change Types
@@ -121,6 +125,9 @@ When you modify scenarios, Agentnoon tracks changes and categorizes them:
 - Shows as white/default in views
 
 ---
+
+
+> **[Screenshot placeholder: Scenario showing positions with different change types - additions in green, reductions in red, modifications in blue]**
 
 ## The Bench
 
@@ -161,6 +168,9 @@ The number of direct reports a manager has.
 - Scenario planning can test SOC improvements
 
 ---
+
+
+> **[Screenshot placeholder: Org chart with span of control highlighting - color-coded managers by SOC health]**
 
 ## Layers
 
@@ -247,6 +257,9 @@ Visual containers displaying position or employee information.
 - Color-coded by change type
 
 ---
+
+
+> **[Screenshot placeholder: Example position card showing name, title, department, salary, and other attributes]**
 
 ## Change Tracker
 

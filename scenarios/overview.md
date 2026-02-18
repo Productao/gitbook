@@ -22,6 +22,8 @@ A **scenario** is an editable copy of your org chart where you can freely make c
 
 **Key principle:** Changes in scenarios are **completely isolated** from your Main Org. Nothing you do in a scenario affects your live data until you choose to implement it.
 
+> **[Screenshot placeholder: Example scenario showing org chart with changes highlighted]**
+
 ---
 
 ## Why Use Scenarios?
@@ -72,6 +74,8 @@ Here's how scenarios typically flow:
 - Review the Change Tracker (cost and headcount impact)
 - Compare before/after
 - Check for unintended consequences
+
+> **[Screenshot placeholder: Change Tracker showing cost and headcount impact summary]**
 
 ### 4. Compare (Optional)
 - Create alternative scenarios

@@ -12,6 +12,8 @@ Master the art of navigating your org chart with these essential features. The l
 
 All navigation features are accessed from the left sidebar. Here's your complete guide to each tool:
 
+> **[Screenshot placeholder: Main Org left toolbar showing all navigation tools]**
+
 ---
 
 ## 1. Search
@@ -25,6 +27,8 @@ Find employees or positions instantly by name or job title.
 4. The org chart automatically navigates to that position
 
 **Pro tip:** Search works across your entire scoped organization, even if you're currently viewing a different area.
+
+> **[Screenshot placeholder: Search interface with example search results]**
 
 ---
 

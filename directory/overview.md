@@ -211,3 +211,9 @@ Download filtered data:
 - Explore [Exporting & Reporting](exporting-reporting.md) options
 - Compare with [Main Org Directory View](../main-org/directory-view.md)
 - Try the [Scenario Directory](../scenarios/directory.md) for editing capabilities
+
+## Visual Guide
+
+> **[Screenshot placeholder: Directory view example showing position table with multiple columns]**
+
+> **[Screenshot placeholder: Switching between Org Chart and Directory views]**

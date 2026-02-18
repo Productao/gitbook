@@ -133,3 +133,11 @@ After your analysis:
 
 
 
+
+## Visual Guide
+
+> **[Screenshot placeholder: Org chart with span of control highlighting showing problematic managers]**
+
+> **[Screenshot placeholder: Span of control metrics and analytics in Workforce Hub]**
+
+> **[Screenshot placeholder: Before/after comparison showing improved SOC distribution]**

@@ -8,6 +8,8 @@ hidden: false
 
 The Directory View in scenarios provides a spreadsheet-style table of all positions with powerful editing capabilities. Unlike Main Org Directory (which is view-only), Scenario Directory lets you select, edit, and export changed data.
 
+
+> **[Screenshot placeholder: Scenario directory view showing spreadsheet-style table with positions]**
 ## What is Scenario Directory?
 
 Directory View displays all positions in your scenario as a table, similar to Excel or Google Sheets. Each row represents a position, and each column represents an attribute (Name, Title, Department, Salary, Change Type, etc.).

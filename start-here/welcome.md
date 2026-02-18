@@ -16,6 +16,8 @@ Agentnoon provides powerful tools for:
 - **Headcount Forecasting** - Plan and budget for future hiring needs
 - **Collaboration** - Work with stakeholders to align on organizational decisions
 
+> **[Screenshot placeholder: Agentnoon platform overview showing the main dashboard/home screen]**
+
 ## Who Uses Agentnoon?
 
 Agentnoon is designed for:

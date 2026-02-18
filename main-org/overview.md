@@ -14,6 +14,8 @@ Main Org is your view into the current state of your organization. It's a real-t
 
 Key characteristics:
 
+> **[Screenshot placeholder: Main Org org chart view with example organization]**
+
 - **View-only** - You cannot edit Main Org directly
 - **Synced from your HRIS** - Data comes from Workday, BambooHR, or your data source
 - **Real-time** - Reflects your latest org data (refresh frequency depends on your integration settings)

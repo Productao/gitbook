@@ -8,6 +8,8 @@ hidden: false
 
 The taskbar in scenarios provides quick access to editing tools, analysis features, and collaboration functions. Unlike Main Org (which is view-only), the Scenario taskbar includes powerful editing capabilities alongside the viewing tools.
 
+
+> **[Screenshot placeholder: Scenario taskbar showing all available tools and actions]**
 ## Scenario Taskbar Overview
 
 The taskbar is your command center when working in scenarios. It includes all the viewing tools from Main Org, plus additional actions for making changes, tracking impact, and collaborating with teammates.

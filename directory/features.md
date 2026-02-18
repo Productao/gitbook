@@ -323,3 +323,11 @@ Speed up navigation:
 - Explore [Scenario Directory](../scenarios/directory.md) for bulk editing
 - See [Directory Overview](overview.md) for when to use Directory vs Org Chart
 - Try the [Main Org Directory View](../main-org/directory-view.md)
+
+## Visual Guide
+
+> **[Screenshot placeholder: Column customization menu in Directory]**
+
+> **[Screenshot placeholder: Filtering and sorting in Directory view]**
+
+> **[Screenshot placeholder: Bulk selection in Directory]**

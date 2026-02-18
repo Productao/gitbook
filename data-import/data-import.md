@@ -42,3 +42,13 @@ Custom fields allow flexibility in structuring your data.
 <div><figure><img src="../.gitbook/assets/1740697820408.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1740697821348.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 By correctly mapping attributes, you ensure accurate org visualization, talent selection, and workforce planning in Agentnoon.
+
+## Visual Guide
+
+> **[Screenshot placeholder: Data import interface showing upload button and file selection]**
+
+> **[Screenshot placeholder: Field mapping interface matching CSV columns to Agentnoon fields]**
+
+> **[Screenshot placeholder: Data validation results showing any errors or warnings]**
+
+> **[Screenshot placeholder: Successful data import confirmation]**

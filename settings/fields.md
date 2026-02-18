@@ -45,3 +45,11 @@ This guide explains how to manage field settings in Agentnoon, including creatin
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 7.56.29 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Proper field management ensures structured data input, controlled visibility, and efficient org chart operations in Agentnoon.
+
+## Visual Guide
+
+> **[Screenshot placeholder: Fields and Attributes management interface]**
+
+> **[Screenshot placeholder: Customizing which fields appear on position cards]**
+
+> **[Screenshot placeholder: Creating a custom field with data type selection]**

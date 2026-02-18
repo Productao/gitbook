@@ -8,3 +8,11 @@ hidden: false
 
 
 
+
+## Visual Guide
+
+> **[Screenshot placeholder: Before and after org chart views showing reorganization]**
+
+> **[Screenshot placeholder: Change Tracker showing impact of reorganization]**
+
+> **[Screenshot placeholder: Scenario comparison of multiple reorg options]**
