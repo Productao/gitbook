@@ -23,10 +23,12 @@
 * [📋 Taskbar (Main Org)](main-org/taskbar.md)
 * [🔍 Directory View](main-org/directory-view.md)
 * [📊 Org Metrics & Insights](main-org/metrics-insights.md)
+* [📤 Exporting Data](main-org/exporting.md)
 
 ## Scenarios
 
 * [🎯 Scenarios Overview](scenarios/overview.md)
+* [🧭 Orientation & Navigation](scenarios/orientation-navigation.md)
 * [➕ Creating Scenarios](scenarios/creating-scenarios.md)
 * [📝 Using Scenarios - Basics](scenarios/using-scenarios-basics.md)
   * [Making Position Changes](scenarios/making-position-changes.md)
@@ -38,6 +40,8 @@
 * [📅 Time-Based Planning](scenarios/time-based-planning.md)
 * [📊 Scenario Tracking & Analysis](scenarios/tracking-analysis.md)
 * [🔄 Scenario Comparisons](scenarios/comparisons.md)
+* [📤 Exporting Scenarios](scenarios/exporting.md)
+  * [Comparison Exporting](scenarios/comparison-exporting.md)
 * [🗂️ Scenario Management](scenarios/management.md)
   * [Basic Actions](scenarios/management/basic-actions.md)
   * [Tags](scenarios/management/tags.md)
@@ -70,7 +74,7 @@
 ## Hub
 
 * [📊 Hub Overview](hub/overview.md)
-* [🧭 Chart Navigation](hub/chart-navigation.md)
+* [🧭 Orientation & Navigation](hub/orientation-navigation.md)
 * [📦 Packs](hub/packs.md)
 * [📚 Chart Library](hub/chart-library.md)
 * [📊 Layers and Spans of Control Chart](hub/layers-spans-chart.md)
