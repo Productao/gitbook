@@ -21,7 +21,6 @@
 * [🏢 Main Org Overview](main-org/overview.md)
 * [🧭 Orientation & Navigation](main-org/navigation.md)
 * [📋 Taskbar (Main Org)](main-org/taskbar.md)
-* [🔍 Directory View](main-org/directory-view.md)
 * [📊 Org Metrics & Insights](main-org/metrics-insights.md)
 * [📤 Exporting Data](main-org/exporting.md)
 

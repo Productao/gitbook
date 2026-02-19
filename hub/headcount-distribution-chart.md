@@ -20,6 +20,8 @@ The chart displays workforce distribution using:
 
 **Example**: "Layer 5 contains 45% of the organization's total headcount" or "The Growth organization has 612 total people"
 
+> **[Screenshot placeholder: Headcount Distribution by layers showing pyramid shape with percentages]**
+
 ### When to Use This Chart
 
 Use the Headcount Distribution chart when you need to:
@@ -74,6 +76,10 @@ Control how the data is ordered:
 
 **Access sorting**: Click the settings gear icon → adjust Y-axis or X-axis order
 
+> **[Screenshot placeholder: Toggle between numbers and percentages in settings panel]**
+
+> **[Screenshot placeholder: Sorted distribution showing ascending vs descending order]**
+
 ### How to Interpret the Data
 
 #### Analyzing by Layers
@@ -102,6 +108,8 @@ When X-axis = Department or KLT Area:
 * Verify expected department sizes
 
 **Example**: "Commercial NA: 450, Growth: 612, R&D: 234"
+
+> **[Screenshot placeholder: Headcount Distribution by department showing relative team sizes]**
 
 #### Distribution Patterns to Note
 
@@ -204,6 +212,8 @@ Click **Show table** to reveal:
 * All attributes for each position in view
 * Exact counts for each category
 * Exportable data for further analysis
+
+> **[Screenshot placeholder: Show table view revealing position-level breakdown]**
 
 #### Filtering from Chart
 
@@ -337,18 +347,6 @@ Access the settings gear icon to adjust:
 * **Review filter settings** - May exclude expected populations
 * **Check date ranges** - In scenarios, verify effective dates
 * **Verify access scope** - You may not have access to full organization
-
-### Visual Guide
-
-> **[Screenshot placeholder: Headcount Distribution by layers showing pyramid shape with percentages]**
-
-> **[Screenshot placeholder: Headcount Distribution by department showing relative team sizes]**
-
-> **[Screenshot placeholder: Toggle between numbers and percentages in settings panel]**
-
-> **[Screenshot placeholder: Show table view revealing position-level breakdown]**
-
-> **[Screenshot placeholder: Sorted distribution showing ascending vs descending order]**
 
 ### Related Resources
 

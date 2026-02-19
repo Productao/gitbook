@@ -68,6 +68,60 @@ Many issues are caused by outdated cached data.
 3. Click "Clear"
 4. Refresh Agentnoon
 
+### Check Your Underlying Data
+
+Many issues that appear to be system problems are actually data issues. Before assuming something is broken, verify the data itself.
+
+**When to suspect data issues:**
+- Numbers don't add up correctly
+- Positions or people appear to be missing
+- Org chart structure looks wrong
+- Charts show unexpected patterns
+- Exports contain incorrect information
+
+**What to check:**
+
+**1. Verify Main Org is current:**
+- Check when your data was last synced/imported
+- Outdated data causes discrepancies with your HRIS
+- Contact your admin about data refresh schedule
+
+**2. Check for data quality issues:**
+- Missing required fields (manager, department, etc.)
+- Duplicate employee records
+- Incorrect reporting relationships
+- Null or blank values in key attributes
+
+**3. Review scenario baseline:**
+- If working in scenarios, check when scenario was created
+- Scenarios are snapshots - they don't auto-update with Main Org changes
+- Consider using Scenario Refresh or creating new scenario
+
+**4. Verify filters aren't hiding data:**
+- Active filters can make positions "disappear"
+- Check filter bar at top of view
+- Click "Clear all filters" to see full dataset
+- Verify access group isn't limiting your view
+
+**5. Confirm effective dates are set correctly:**
+- Positions with future effective dates won't appear in current views
+- Positions with past termination dates may be filtered out
+- Switch to Forecast view to see time-phased data
+
+**Common data-related issues:**
+- "I can't find a position" → Check filters and access permissions
+- "Headcount numbers are wrong" → Verify effective dates and filters
+- "My scenario looks different than yesterday" → Main Org may have updated
+- "Org chart structure changed unexpectedly" → Check for HRIS updates
+- "Export is missing positions" → Verify filters and access scope
+
+> **[Screenshot placeholder: Filter bar showing active filters that are hiding data]**
+
+**When in doubt, export to CSV and review in Excel:**
+- Export gives you full visibility into raw data
+- Easier to spot data issues in spreadsheet format
+- Can identify missing fields, duplicates, or incorrect values
+
 ### Check Browser Compatibility
 
 **Supported browsers:**
