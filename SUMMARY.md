@@ -55,7 +55,7 @@
 * [📈 Scenario Workforce Hub](scenarios/scenario-workforce-hub.md)
 * [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
   * [TBD Scenario Refresh](scenarios/refresh.md)
-  * [TBD Scenario Merging](scenarios/merging.md)
+  * [Scenario Merging](scenarios/merging.md)
   * [TBD Scenario to Main Org](scenarios/scenario-to-main-org.md)
   * [Partial Data Upload](admin/data-management/partial-data-upload.md)
 * [💡 Scenario Protips](scenarios/protips.md)
@@ -148,14 +148,14 @@
 
 ## Assets & Quick Guides
 
-* [🎥 IPR Video Tutorial Library](assets/video-library.md)
+* [🎥 Video Tutorial Library](assets/video-library.md)
 * [✅ Quick Start Checklist](assets/quick-start-checklist.md)
   * [Admin Checklist](assets/checklists/admin-checklist.md)
   * [Department Lead Checklist](assets/checklists/department-lead-checklist.md)
   * [Workforce Planner Checklist](assets/checklists/workforce-planner-checklist.md)
   * [Quarterly Planning Checklist](assets/checklists/quarterly-planning-checklist.md)
   * [Annual Planning Checklist](assets/checklists/annual-planning-checklist.md)
-* [⌨️ IPR Keyboard Shortcuts](assets/keyboard-shortcuts.md)
+* [⌨️ Keyboard Shortcuts](assets/keyboard-shortcuts.md)
 * [📚 Glossary](assets/glossary.md)
 
 ## Best Practices
