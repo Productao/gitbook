@@ -11,7 +11,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Backup and Duplication
 
-### ✅ Duplicate Scenarios Frequently
+### Duplicate Scenarios Frequently
 
 **Best practice:** Before making significant changes or trying advanced operations, duplicate your scenario to create a backup.
 
@@ -39,7 +39,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Organization and Naming
 
-### ✅ Use Descriptive Scenario Names
+### Use Descriptive Scenario Names
 
 **Good names:**
 - "2026 Q1 Sales Reorg - West Coast"
@@ -58,7 +58,7 @@ Master these best practices to become more efficient at scenario planning and av
 - Include scope (Engineering, Sales, Company-Wide)
 - Include version if iterating (v1, v2, v3)
 
-### ✅ Use Tags and Symbols Consistently
+### Use Tags and Symbols Consistently
 
 **Create a tagging system:**
 - **Time-based tags:** "Q1 2026", "Q2 2026", "FY2027"
@@ -82,7 +82,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Efficiency Tips
 
-### ✅ Master Keyboard Shortcuts
+### Master Keyboard Shortcuts
 
 **Essential shortcuts:**
 - `3`: Switch to Org Chart view
@@ -96,7 +96,7 @@ Master these best practices to become more efficient at scenario planning and av
 - Navigate without using mouse
 - Speed up common operations
 
-### ✅ Use Bulk Operations for Efficiency
+### Use Bulk Operations for Efficiency
 
 **When to use bulk operations:**
 - Moving entire teams between departments
@@ -111,7 +111,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 > **[Screenshot placeholder: Directory view with multiple positions selected and bulk edit panel open]**
 
-### ✅ Use Filters to Focus Your Work
+### Use Filters to Focus Your Work
 
 **Create saved filter views:**
 - "Open Positions Only"
@@ -128,7 +128,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Collaboration Best Practices
 
-### ✅ Use Comments, Don't Just Make Changes
+### Use Comments, Don't Just Make Changes
 
 **Add context with comments:**
 - Explain why you're making a change
@@ -143,7 +143,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 > **[Screenshot placeholder: Position card with comments panel showing conversation with @mentions]**
 
-### ✅ Set Clear Ownership and Permissions
+### Set Clear Ownership and Permissions
 
 **Best practices:**
 - Assign one primary owner per scenario
@@ -160,7 +160,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Planning and Forecasting
 
-### ✅ Use Effective Dates for Phased Planning
+### Use Effective Dates for Phased Planning
 
 **Best practice:** Always set effective dates when changes happen at specific future times.
 
@@ -180,7 +180,7 @@ Master these best practices to become more efficient at scenario planning and av
 - Q2 reorg: Set effective date April 1
 - Q3 promotions: Set effective date July 1
 
-### ✅ Review Change Tracker Regularly
+### Review Change Tracker Regularly
 
 **Make it a habit:**
 - Check Change Tracker after every major edit
@@ -198,7 +198,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Quality Control
 
-### ✅ Use Show Before/After/Changes Views
+### Use Show Before/After/Changes Views
 
 **Best practice:** Don't just work in "Show After" mode. Toggle between views to understand impact.
 
@@ -214,7 +214,7 @@ Master these best practices to become more efficient at scenario planning and av
 - Communicate more effectively
 - Validate your work
 
-### ✅ Validate in Multiple Views
+### Validate in Multiple Views
 
 **Check your scenario in:**
 - **Org Chart:** Does the structure make sense visually?
@@ -234,7 +234,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Approval and Implementation
 
-### ✅ Prepare Before Submitting for Approval
+### Prepare Before Submitting for Approval
 
 **Checklist before submission:**
 - [ ] Scenario name is clear and descriptive
@@ -246,7 +246,7 @@ Master these best practices to become more efficient at scenario planning and av
 - [ ] Stakeholders have been consulted
 - [ ] Scenario has been validated in multiple views
 
-### ✅ Export and Document Your Work
+### Export and Document Your Work
 
 **Best practice:** Export key views before and after approval.
 
@@ -310,7 +310,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 ## Advanced Protips
 
-### ✅ Use Scenarios for "What-If" Analysis
+### Use Scenarios for "What-If" Analysis
 
 **Best practice:** Create multiple scenarios to compare different approaches.
 
@@ -321,7 +321,7 @@ Master these best practices to become more efficient at scenario planning and av
 
 Compare cost, timeline, and outcomes to choose the best approach.
 
-### ✅ Create "Reference Scenarios" You Never Submit
+### Create "Reference Scenarios" You Never Submit
 
 **Best practice:** Create scenarios purely for analysis that you don't intend to implement.
 
@@ -333,7 +333,7 @@ Compare cost, timeline, and outcomes to choose the best approach.
 
 Tag these as "Analysis Only" or "Reference" so people know they're not meant for approval.
 
-### ✅ Leverage Scenario Comparison Features
+### Leverage Scenario Comparison Features
 
 **Best practice:** When deciding between approaches, use scenario comparison to see side-by-side impact.
 

@@ -58,6 +58,7 @@
   * [TBD Scenario Refresh](scenarios/refresh.md)
   * [TBD Scenario Merging](scenarios/merging.md)
   * [TBD Scenario to Main Org](scenarios/scenario-to-main-org.md)
+  * [Partial Data Upload](admin/data-management/partial-data-upload.md)
 * [💡 Scenario Protips](scenarios/protips.md)
 
 ## Directory
