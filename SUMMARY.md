@@ -56,7 +56,7 @@
 * [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
   * [TBD Scenario Refresh](scenarios/refresh.md)
   * [Scenario Merging](scenarios/merging.md)
-  * [TBD Scenario to Main Org](scenarios/scenario-to-main-org.md)
+  * [Scenario to Main Org](scenarios/scenario-to-main-org.md)
   * [Partial Data Upload](admin/data-management/partial-data-upload.md)
 * [💡 Scenario Protips](scenarios/protips.md)
 
