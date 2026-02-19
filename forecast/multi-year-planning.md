@@ -1,6 +1,6 @@
 ---
 description: Long-term headcount and budget planning
-hidden: false
+hidden: true
 ---
 
 # Multi-Year Planning
