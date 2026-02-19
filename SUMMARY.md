@@ -93,6 +93,7 @@
 ## Use Case Tutorials
 
 * [🎓 Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
+* [🏢 M&A Integration](use-case-tutorials/ma-integration.md)
 * [📋 Building an Annual Hiring Plan](use-case-tutorials/annual-hiring-plan.md)
 * [📊 Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
 * [💰 IPR Modeling Budget Cuts](use-case-tutorials/modeling-budget-cuts.md)
