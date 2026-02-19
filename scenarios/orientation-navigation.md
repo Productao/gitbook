@@ -129,6 +129,75 @@ Real-time overview of your scenario impact:
 
 ---
 
+## Taskbar Tools Reference
+
+The taskbar contains essential tools for viewing and editing scenarios. Here's a quick reference:
+
+### View & Navigation Tools
+
+These work the same in Main Org and Scenarios:
+
+**Search** (🔍) - Find employees or positions by name/title (`CMD/CTRL + K`)
+
+**Filter** (Funnel) - Show only positions matching criteria; use Manager Filtering to preserve hierarchy
+
+**Tree View** (List) - Hierarchical list view of org structure
+
+**Highlight** (Color palette) - Color-code cards by attribute (e.g., highlight "Change Type" to see adds/closes/edits)
+
+**Card Content** (Gear) - Control what fields appear on cards; drag to reorder
+
+**Spotlight** (Flashlight) - Dim unselected positions to focus attention
+
+### Scenario-Specific Tools
+
+These are **only available in Scenarios**:
+
+**Change Tracker** (Eye) - Opens panel showing all modifications and impact; keep visible while working
+
+**Comments** (Speech bubble) - View/add comments; @mention teammates
+
+**Share** (Link) - Share scenario with teammates; control access levels (View/Edit/Comment Only)
+
+**Compare** (Side-by-side) - Compare multiple scenarios or vs Main Org
+
+**Export** (Download) - Export org chart, change log, directory data
+
+**Approvals** (Checkmark) - Submit through approval workflow when ready
+
+**Timeline** (Calendar) - View changes by effective date; see phased implementation
+
+**Workforce Hub** (Analytics) - Before-and-after analytics; validate org health metrics
+
+**Directory** (Grid) - Spreadsheet view for bulk operations
+
+### Tool Combinations
+
+**Filter + Highlight** - Focus on department while color-coding by change type
+
+**Spotlight + Share** - Present specific positions to stakeholders
+
+**Change Tracker + Timeline** - See impact distributed across time periods
+
+**Directory + Bulk Operations** - Select multiple positions for mass edits
+
+### Keyboard Shortcuts
+
+- `CMD/CTRL + K` - Search
+- `CMD/CTRL + S` - Save
+- `CMD/CTRL + Z` - Undo
+- `CMD/CTRL + SHIFT + Z` - Redo
+- `3` - Org Chart view
+- `5` - Directory view
+
+**Pro tips:**
+1. Keep Change Tracker visible for real-time impact awareness
+2. Use "Change Type" highlighting to visually scan modifications
+3. Show "Effective Date" field in Card Content for time-based planning
+4. Use Spotlight when presenting to stakeholders to focus attention
+
+---
+
 ## Navigating Views
 
 ### Org Chart View

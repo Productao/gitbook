@@ -309,4 +309,4 @@ Now that you understand the Main Org taskbar:
 - Switch to [Directory View](directory-view.md) for table analysis
 - Explore [Org Metrics & Insights](metrics-insights.md)
 - Create a [Scenario](../scenarios/creating-scenarios.md) to model changes
-- Compare [Scenario Taskbar](../scenarios/taskbar.md) to see editing features
+- See [Scenario Orientation & Navigation](../scenarios/orientation-navigation.md) for scenario-specific tools and editing features

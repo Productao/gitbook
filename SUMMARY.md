@@ -34,7 +34,6 @@
   * [Bulk Operations](scenarios/bulk-operations.md)
   * [Working with People](scenarios/working-with-people.md)
 * [✅ Scenario Approvals](scenarios/approvals.md)
-* [📋 Scenario Taskbar](scenarios/taskbar.md)
 * [🔍 Scenario Directory](scenarios/directory.md)
 * [📅 Time-Based Planning](scenarios/time-based-planning.md)
 * [📊 Scenario Tracking & Analysis](scenarios/tracking-analysis.md)
@@ -144,6 +143,8 @@
   * [General Settings](settings/general.md)
 * [✅ Configuring Approval Flows](admin/configuring-approval-flows.md)
 * [🔄 Data Refresh & Sync](admin/data-refresh-sync.md)
+* [🔔 Platform Notifications](admin/notifications.md)
+* [👥 Access Groups Examples](admin/access-groups-examples.md)
 
 ## Assets & Quick Guides
 
