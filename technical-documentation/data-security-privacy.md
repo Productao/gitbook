@@ -3,9 +3,9 @@ description: Data security, privacy, and compliance
 hidden: false
 ---
 
-# IPR Data Security & Privacy
+# TBD Data Security & Privacy
 
-> **Note: This page is under construction. Content coming soon!**
+> **Note: This page is being completed by the DevOps team. Content coming soon!**
 
 ## Planned Content Outline
 
