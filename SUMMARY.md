@@ -5,6 +5,8 @@
 * [🚀 Welcome to Agentnoon](start-here/welcome.md)
 * [⚡ Quick Start Guide](start-here/quick-start-guide.md)
 * [💡 Key Concepts](start-here/concepts.md)
+  * [Key Concepts for Main Org](start-here/key-concepts-main-org.md)
+  * [Key Concepts for Scenarios](start-here/key-concepts-scenarios.md)
 * [📖 Agentnoon 101](start-here/agentnoon-101.md)
   * [Parts of the Application](start-here/parts-of-application.md)
   * [Cards](start-here/cards.md)
@@ -47,7 +49,13 @@
   * [Commenting](scenarios/collaboration/commenting.md)
   * [Co-Editing](scenarios/collaboration/co-editing.md)
   * [Notifications](scenarios/collaboration/notifications.md)
-* [🔄 TBD Scenario Refresh](scenarios/refresh.md)
+* [📊 Scenario Forecast](scenarios/scenario-forecast.md)
+* [📈 Scenario Workforce Hub](scenarios/scenario-workforce-hub.md)
+* [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
+  * [TBD Scenario Refresh](scenarios/refresh.md)
+  * [TBD Scenario Merging](scenarios/merging.md)
+  * [TBD Scenario to Main Org](scenarios/scenario-to-main-org.md)
+* [💡 Scenario Protips](scenarios/protips.md)
 
 ## Directory
 
