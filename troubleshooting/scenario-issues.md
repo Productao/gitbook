@@ -31,7 +31,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 **Can't add / edit positions**
 - Confirm scenario is not locked and you have edit permissions
-- Right-click a manager card → "Add Direct Report", or use Taskbar > Position Interactions
+- Right-click a manager card → "Add Direct Report", or use Toolbar > Position Interactions
 - For field-level restrictions (e.g., salary hidden), contact your admin
 
 **Drag-and-drop not working**

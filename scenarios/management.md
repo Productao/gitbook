@@ -29,6 +29,8 @@ Good scenario management helps you:
 
 ### Accessing Your Scenarios
 
+> **[Screenshot placeholder: Scenarios homepage showing list of scenarios with tags, creation dates, and owner information]**
+
 **From homepage:**
 - See all your scenarios listed
 - Scenarios you created
@@ -72,13 +74,14 @@ Tags help group related scenarios together:
 
 ### Understanding Scenario Symbols
 
-Visual indicators show what changed in scenarios:
+Visual indicators on position cards show what changed in the scenario:
 - ➕ Green icons for newly added positions
-- ❌ Red icons for RIF/layoffs
-- 🚪 Orange icons for exits
-- ✏️ Blue icons for edits
-- 🔀 Purple arrows for moves
-- And more...
+- ❌ Red icons for RIF/closed positions
+- 🚪 Orange icons for exits (terminations)
+- ✏️ Blue icons for edited positions
+- 🔀 Purple arrows for moved positions
+
+> **[Screenshot placeholder: Org chart in a scenario showing cards with colored symbol icons (green add, red close, blue edit, purple move)]**
 
 **Learn more:** [Symbols](management/symbols.md)
 
@@ -153,7 +156,7 @@ Best practices for keeping scenarios organized:
 
 **How to export:**
 1. Open scenario
-2. Click **Export** or **Download** in taskbar
+2. Click **Export** or **Download** in toolbar
 3. Select **Comparison** or **Change Log**
 4. Choose **CSV** format
 5. Click **Export**
@@ -165,7 +168,7 @@ Best practices for keeping scenarios organized:
 - Archiving scenario decisions
 - Sharing with finance team
 
-**Learn more:** [Exporting & Reporting](../directory/exporting-reporting.md)
+**Learn more:** [Exporting Scenario Data](../scenarios/exporting.md)
 
 ---
 

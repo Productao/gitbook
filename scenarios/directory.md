@@ -7,7 +7,7 @@ hidden: false
 
 The Scenario Directory is a spreadsheet-style table of all positions with change highlighting, bulk selection, and export. Unlike Main Org Directory (view-only), Scenario Directory lets you select, bulk edit, and export changed data.
 
-Access it: click the Directory icon in the taskbar, select it from the Org Chart dropdown, or press **5**.
+Access it: click the Directory icon in the toolbar, select it from the Org Chart dropdown, or press **5**.
 
 ## Scenario-Specific Columns
 

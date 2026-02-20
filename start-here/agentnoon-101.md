@@ -20,13 +20,9 @@ This section covers the essential concepts you need to understand before diving 
 
 **Estimated time:** 15-20 minutes
 
-We recommend reading these topics in order, as each builds on the previous concepts.
-
-### For New Users
 Start with **Parts of the Application** to understand where everything lives, then move through Cards and Fields to understand what you're looking at.
 
-### For Power Users
-If you're already familiar with org charts, jump straight to **Scenarios Fundamentals** and **Workforce Hub Fundamentals** to understand Agentnoon's unique capabilities.
+We recommend reading these topics in order, as each builds on the previous concepts.
 
 ## Key Takeaways
 

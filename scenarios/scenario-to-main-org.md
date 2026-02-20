@@ -12,7 +12,7 @@ Merge an approved scenario into Main Org to make planned changes the new organiz
 ## How to Merge
 
 1. Navigate to **Main Org**
-2. Open taskbar > **Data Management** > **Merge Approved Scenarios to Main**
+2. Open toolbar > **Data Management** > **Merge Approved Scenarios to Main**
 3. Select the approved scenario from the list
 4. Click **Next**
 

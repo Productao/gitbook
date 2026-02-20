@@ -17,7 +17,7 @@ Export side-by-side comparison data and visuals to present alternatives and docu
 
 ## How to Export
 
-1. Navigate to Scenario Comparisons (homepage > select 2–4 scenarios > Compare, or inside a scenario > Compare in taskbar)
+1. Navigate to Scenario Comparisons (homepage > select 2–4 scenarios > Compare, or inside a scenario > Compare in toolbar)
 2. Configure the comparison view (dimension, filter, metric)
 3. Click **Export Comparison**
 4. Select format (Excel, CSV, or PowerPoint) and configure options

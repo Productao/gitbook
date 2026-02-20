@@ -2,7 +2,7 @@
 description: Creating, sharing, and exporting packs
 ---
 
-# Packs
+# Slide Packs
 
 ### Overview
 

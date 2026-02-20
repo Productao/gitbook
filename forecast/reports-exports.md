@@ -3,7 +3,7 @@ description: Generating reports and exporting forecast data
 hidden: false
 ---
 
-# Forecast Reports & Exports
+# Exporting Data from Forecast
 
 Export Forecast data to share workforce projections with Finance, HR, leadership, and board.
 
@@ -56,4 +56,4 @@ Export Forecast data to share workforce projections with Finance, HR, leadership
 - [Forecast Overview](overview.md)
 - [Forecast Navigation](navigation.md)
 - [Building Headcount Forecasts](building-headcount-forecasts.md)
-- [Budget Planning & Tracking](budget-planning-tracking.md)
+- [Building Headcount Forecasts](building-headcount-forecasts.md)

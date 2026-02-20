@@ -237,7 +237,7 @@ Level 0 (scenario-specific) → Level 1 (global) → Level 2 (global) → Level 
 8. Verify data in Main Org
 
 ### Creating a Custom Field
-1. Go to Settings → Fields and Attributes (or Data Management in Main Org taskbar)
+1. Go to Settings → Fields and Attributes (or Data Management in Main Org toolbar)
 2. Click "Add Field"
 3. Name the field (must match CSV column if importing data)
 4. Set field type (text, number, dropdown, date)

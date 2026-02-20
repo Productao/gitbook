@@ -179,7 +179,7 @@ Main Org is view-only, so you cannot:
 ## Next Steps
 
 - Learn [how to navigate Main Org](navigation.md) in detail
-- Understand the [Taskbar actions](taskbar.md) available
+- Understand the [Toolbar actions](taskbar.md) available
 - Explore [Directory View](directory-view.md) for table-based analysis
 - See [Org Metrics & Insights](metrics-insights.md) for calculated fields
 - Create your first [Scenario](../scenarios/creating-scenarios.md) to model changes

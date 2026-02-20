@@ -26,7 +26,7 @@ Add a "Company" attribute to the acquired company's data file to distinguish emp
 
 Use **Partial Upload** within the scenario to add the acquired org:
 
-1. In your M&A scenario, click **Data Management** button in the scenario taskbar
+1. In your M&A scenario, click **Data Management** button in the scenario toolbar
 2. Click **Upload Partial Data**
 3. Upload the acquired company's CSV file
 4. Map fields and confirm

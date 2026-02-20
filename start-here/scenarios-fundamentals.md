@@ -38,6 +38,8 @@ Instead of guessing or working in spreadsheets, you can **see the exact impact**
 
 ## When to Create a Scenario
 
+> **[Screenshot placeholder: Scenario creation dialog showing name field and scenario type options (Full Org, Partial Org, New Org)]**
+
 Create a scenario when you need to:
 
 1. **Plan a reorganization** - Move teams, combine departments, restructure leadership
@@ -100,6 +102,8 @@ When creating a scenario, choose from three types:
 ## Key Scenario Features
 
 ### Change Tracker
+
+> **[Screenshot placeholder: Change Tracker panel showing list of changes with headcount and cost impact]**
 
 See every change you've made with cost impact:
 

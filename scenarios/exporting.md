@@ -3,7 +3,7 @@ description: Exporting scenario data and visuals
 icon: download
 ---
 
-# Scenario Exporting
+# Exporting Scenario Data
 
 Export scenario data, visuals, and analytics for stakeholder presentations, approval documentation, and analysis.
 

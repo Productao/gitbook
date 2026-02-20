@@ -62,7 +62,7 @@ Three scenario view modes: **Before** = Main Org baseline, **After** = scenario 
 Positions without a manager assigned. Used as a holding area during reorganizations or before final placement.
 
 ### Broken Hierarchy
-Error state where a position's manager doesn't exist or reporting relationships form an invalid loop. Indicated by an orange link icon in the taskbar.
+Error state where a position's manager doesn't exist or reporting relationships form an invalid loop. Indicated by an orange link icon in the toolbar.
 
 **Fix:** Assign valid managers or escalate broken positions to org roots.
 
@@ -86,9 +86,9 @@ Visual representation of a position in org chart view. Shows position details (t
 **Learn more:** [Key Concepts - Cards](../start-here/concepts.md)
 
 ### Card Content
-Taskbar tool that lets you customize which fields appear on position cards. Control what information is visible in org chart view.
+Toolbar tool that lets you customize which fields appear on position cards. Control what information is visible in org chart view.
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ### Change Tracker
 Panel showing all modifications in a scenario: additions (green), reductions (red), modifications (blue), with net cost and headcount impact.
@@ -110,7 +110,7 @@ File format used for data uploads. A spreadsheet exported as a .csv file with co
 ## D
 
 ### Data Management
-Admin-only feature for uploading CSV files, configuring live integrations, and managing data refresh. Accessible via Main Org taskbar → Data Management button.
+Admin-only feature for uploading CSV files, configuring live integrations, and managing data refresh. Accessible via Main Org toolbar → Data Management button.
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
@@ -170,11 +170,11 @@ Setting that controls whether a field's value copies when duplicating a position
 **Learn more:** [Field Duplication](../settings/field-duplication.md)
 
 ### Filter
-Taskbar tool to narrow down visible positions based on field values (e.g., show only Engineering dept, only San Francisco location).
+Toolbar tool to narrow down visible positions based on field values (e.g., show only Engineering dept, only San Francisco location).
 
 **Logic:** AND between categories, OR within categories.
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ### Forecast
 Agentnoon module for viewing workforce data over time. Provides pivot table-style visualization of headcount and cost projections (monthly, quarterly, yearly).
@@ -206,9 +206,9 @@ Number of employees (people filling positions). Headcount ≠ position count: yo
 **Learn more:** [Position vs Headcount Management](../best-practices/position-vs-headcount.md)
 
 ### Highlight
-Taskbar tool to color-code position cards by field values (e.g., highlight by Department → each dept gets a different color).
+Toolbar tool to color-code position cards by field values (e.g., highlight by Department → each dept gets a different color).
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ### Hire Date
 Date when a future position starts. Controls when the position appears in Forecast projections.
@@ -389,9 +389,9 @@ Number of direct reports a manager has. Healthy range: 5–10 (context-dependent
 **Learn more:** [Key Concepts - Span of Control](../start-here/concepts.md)
 
 ### Spotlight
-Taskbar tool for conditional formatting. Highlights positions matching specific rules (e.g., SOC > 10, salary > $200K).
+Toolbar tool for conditional formatting. Highlights positions matching specific rules (e.g., SOC > 10, salary > $200K).
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ### SSO (Single Sign-On)
 Authentication method using company identity provider (Okta, Azure AD, Google). Users log in with company credentials.
@@ -402,10 +402,10 @@ Authentication method using company identity provider (Okta, Azure AD, Google). 
 
 ## T
 
-### Taskbar
+### Toolbar
 Left sidebar with tools for navigating and analyzing org data (Search, Filter, Highlight, Card Content, Views, Export, etc.).
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ### Termination Date
 Date when an employee leaves or position is closed. Controls when the position disappears from Forecast projections.
@@ -425,7 +425,7 @@ See **Open Position**
 ### View
 Saved configuration of filters, highlights, and card content for quick reloading.
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ---
 

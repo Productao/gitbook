@@ -12,7 +12,7 @@ Scenario Merging lets you consolidate changes from one scenario (source) into an
 ## How to Merge
 
 1. Open the **destination** scenario
-2. Taskbar > **Data Management** > **Merge Scenario**
+2. Toolbar > **Data Management** > **Merge Scenario**
 3. Select the **source** scenario from the dropdown
 4. **Select Records** — choose All or a filtered subset
 5. **Select Fields** — choose All fields or specific attributes (e.g., salary only)

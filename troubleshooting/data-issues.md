@@ -58,7 +58,7 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 - Re-upload a corrected CSV; if still wrong after re-upload, contact support
 
 **Reporting relationships broken**
-- Look for the orange broken hierarchy indicator in the taskbar
+- Look for the orange broken hierarchy indicator in the toolbar
 - Fix options: correct in source HRIS and re-sync, use partial upload to fix Manager IDs, or manually edit the position (temporary)
 
 **Department / location incorrect**

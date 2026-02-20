@@ -9,6 +9,8 @@ Cards are the fundamental building blocks of your org chart in Agentnoon. Each c
 
 ## What Are Cards?
 
+> **[Screenshot placeholder: Org chart view showing multiple position cards arranged in a hierarchy]**
+
 When you open the org chart in Agentnoon, you'll immediately see cards arranged hierarchically. Each card is a visual representation containing:
 
 - **Name** (employee or position title)
@@ -30,6 +32,8 @@ Every card displays:
 
 ## Card Content Customization
 
+> **[Screenshot placeholder: Card Content panel open in toolbar showing available fields to add to cards]**
+
 You can customize what information appears on cards:
 
 1. Click the **Card Content** button in the toolbar
@@ -47,6 +51,8 @@ You can customize what information appears on cards:
 **Pro tip:** Attributes with "FX" labels are automatically calculated by Agentnoon and provide instant insights without manual data entry.
 
 ## Highlighting Cards
+
+> **[Screenshot placeholder: Org chart with cards color-coded by department using the Highlight feature]**
 
 Use highlighting to visually distinguish cards by specific attributes:
 

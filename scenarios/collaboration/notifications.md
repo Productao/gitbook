@@ -1,61 +1,51 @@
 ---
-description: Stay updated on scenario changes, comments, and @mentions
+description: Platform notifications for approvals, invitations, and account events
 hidden: false
 ---
 
-# Notifications and Activity Tracking
+# Notifications
 
-## Notification Types
+Agentnoon sends notifications to keep you informed of key platform events. Notifications are delivered in-app (notification bell) and by email for time-sensitive events.
 
-**@Mentions** — Someone tagged you in a comment. Always delivered immediately (email + in-app).
+## What Triggers Notifications
 
-**Comment notifications** — New comment on a scenario you own, reply to your comment, or activity on a thread you're in. Configurable frequency.
+**Approval requests** — When a scenario is submitted for your approval. Always delivered immediately (email + in-app).
 
-**Scenario change notifications** — Major changes to scenarios you're watching, or a scenario shared with you. In-app; optional email digest.
+**Approval status updates** — When a scenario you submitted is approved or rejected. Always delivered immediately.
 
-**Collaboration events** — New user joins a scenario you own, access level changes.
+**Invitations** — When you are invited to collaborate on a scenario (shared with you). Delivered immediately by email.
 
-**Approval requests** — Scenario submitted for your approval. Always immediate.
+**Account creation** — When a new Agentnoon account is created for you by an admin. Delivered by email with login instructions.
 
-## Configuring Notification Preferences
+## What Does NOT Trigger Notifications
 
-Profile icon > **Notifications** or **Preferences**:
+- Changes made inside a scenario by other collaborators
+- Comments added to a scenario or position
+- Presence of other users in a scenario
 
-- **@Mentions:** On/Off, immediate
-- **Comments:** On/Off; frequency = Immediate / Hourly digest / Daily digest / Weekly summary
-- **Scenario changes:** On/Off
-- **Sharing events:** On/Off
+To coordinate with collaborators on scenario changes, use the comments feature or communicate outside Agentnoon.
 
-In-app notifications (notification bell) are always visible and cannot be fully disabled.
+## Viewing Notifications
 
-## Activity Feed
-
-Open a scenario > click **Activity** icon to see a chronological feed of changes, comments, sharing events, and approvals. Filter by activity type, user, date range, or department.
+In-app notifications appear in the **notification bell** (top-right corner of the application). Click the bell to see recent notifications.
 
 ## Real-Time Presence
 
-Profile icons at the top of any scenario show who is currently editing. Hover to see names. Use this to coordinate edits and avoid conflicts before making changes.
+When multiple users have a scenario open at the same time, **profile icons** appear at the top of the scenario view. Hover over an icon to see that user's name. Use this to coordinate who is working on which part of the scenario before making changes.
 
-## Managing Notification Volume
-
-**Recommended by role:**
-- **Scenario owner:** @mentions + comments + approval notifications; daily digest for minor edits
-- **Collaborator:** @mentions + direct comments only; mute after your input is complete
-- **Reviewer:** @mentions + replies to your comments; turn off after review completes
-- **View-only observer:** @mentions only; mute inactive/archived scenarios
+> **[Screenshot placeholder: Scenario top bar showing active user profile icons indicating who is currently viewing the scenario]**
 
 ## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
-| Not receiving @mention emails | Check Notifications settings; verify email in profile; check spam |
-| Too many notification emails | Switch to digest mode; mute low-priority scenarios |
-| In-app badge not updating | Refresh page; log out and back in |
-| Activity feed not visible | Feature may not be available in your plan; use Change Tracker as alternative |
-| Missing important notifications | Review settings; check email rules/spam; verify scenario access |
+| Not receiving approval request emails | Check spam folder; verify email address in your profile; contact admin |
+| Not receiving invitation email | Check spam; ask scenario owner to re-share |
+| In-app notification bell not updating | Refresh the page; log out and back in |
+| Missing approval status update | Check the scenario's Approvals panel directly |
 
 ## Related Articles
 
-- [Commenting](commenting.md)
-- [Co-Editing](co-editing.md)
 - [Sharing Scenarios](sharing-scenarios.md)
+- [Commenting](commenting.md)
+- [Scenario Approvals](../approvals.md)

@@ -10,7 +10,7 @@ icon: compass
 When you open a scenario, you'll see:
 - **Main content area:** Org chart, directory, forecast, or hub depending on the selected view
 - **Top toolbar:** View selector, Before/After/Changes toggle, Save/Export/Share/Submit buttons
-- **Side taskbar:** Scenario info, quick actions, change summary
+- **Side toolbar:** Scenario info, quick actions, change summary
 - **Change Tracker panel:** Real-time impact display (toggle with the 👀 icon)
 
 ## Views
@@ -30,7 +30,7 @@ Switch views using the dropdown in the toolbar (or keyboard shortcuts):
 - **Show Changes** — Review mode: see only what's different from baseline
 - **Show Before** — Reference mode: compare against current state
 
-## Taskbar Tools
+## Toolbar Tools
 
 **Available in Main Org and Scenarios:**
 - **Search** (🔍) — Find by name or title; shortcut: `/` or Cmd/Ctrl+K

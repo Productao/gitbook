@@ -9,6 +9,8 @@ Agentnoon is organized into five main modules, each designed for specific workfo
 
 ## The Five Main Modules
 
+> **[Screenshot placeholder: Agentnoon homepage showing five main modules in the top navigation bar]**
+
 ### 1. **Main Org** (View-Only Org Chart)
 
 **What it is:** Your current organizational structure, synced from your HRIS system.
@@ -28,6 +30,8 @@ Agentnoon is organized into five main modules, each designed for specific workfo
 - Directory view with sortable columns
 
 **Important:** Main Org is **view-only**. To model changes, create a Scenario.
+
+> **[Screenshot placeholder: Main Org view showing org chart with positions and reporting lines]**
 
 ---
 
@@ -52,6 +56,8 @@ Agentnoon is organized into five main modules, each designed for specific workfo
 
 **Pro tip:** Create multiple scenarios to compare different approaches before committing to one.
 
+> **[Screenshot placeholder: Scenarios view showing editable org chart with change indicator symbols]**
+
 ---
 
 ### 3. **Forecast** (Multi-Quarter Headcount Planning)
@@ -73,6 +79,8 @@ Agentnoon is organized into five main modules, each designed for specific workfo
 - Variance analysis
 
 **Note:** Forecast is for aggregate planning. For specific org structure changes, use Scenarios.
+
+> **[Screenshot placeholder: Forecast view showing headcount projections by quarter and department]**
 
 ---
 
@@ -97,6 +105,8 @@ Agentnoon is organized into five main modules, each designed for specific workfo
 
 **Pro tip:** Use Workforce Hub to identify opportunities for efficiency, then model solutions in Scenarios.
 
+> **[Screenshot placeholder: Workforce Hub showing the Layers and Spans of Control chart]**
+
 ---
 
 ### 5. **Directory** (People & Position Listing)
@@ -116,6 +126,8 @@ Agentnoon is organized into five main modules, each designed for specific workfo
 - Multi-sort capability
 - Bulk export
 - Direct links back to org chart view
+
+> **[Screenshot placeholder: Directory view showing table with position rows and multiple attribute columns]**
 
 ---
 

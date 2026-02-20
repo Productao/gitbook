@@ -3,7 +3,7 @@ description: Accessing Directory and switching between views
 hidden: false
 ---
 
-# Directory Navigation & Access
+# Orientation & Navigation
 
 ## Accessing Directory
 

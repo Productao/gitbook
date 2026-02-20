@@ -30,7 +30,7 @@ Many issues that look like system bugs are actually data issues:
 
 - **Missing positions:** Check active filters (clear all filters to confirm)
 - **Wrong numbers:** Check effective dates, access scope, and data sync time
-- **Broken org chart:** Look for the orange broken hierarchy indicator in the taskbar
+- **Broken org chart:** Look for the orange broken hierarchy indicator in the toolbar
 - **Stale scenario:** Scenarios don't auto-update with Main Org changes — check when the scenario was created
 
 ## Troubleshoot by Symptom

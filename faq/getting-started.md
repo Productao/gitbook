@@ -95,8 +95,8 @@ New to Agentnoon? This page answers the most common questions from first-time us
 
 **Learn more:** [Main Org Navigation](../main-org/navigation.md)
 
-### What's the taskbar on the left side?
-**Answer:** The taskbar provides tools for navigating and analyzing your org:
+### What's the toolbar on the left side?
+**Answer:** The toolbar provides tools for navigating and analyzing your org:
 - **Search** - Find people or positions
 - **Filter** - Narrow down data
 - **Highlight** - Color-code by department, location, etc.
@@ -104,9 +104,9 @@ New to Agentnoon? This page answers the most common questions from first-time us
 - **Views** - Save and load custom views
 - **Export** - Download data to CSV, PowerPoint, or images
 
-> **[Screenshot placeholder: Left taskbar showing icons for Search, Filter, Highlight, Card Content, Views, and Export tools]**
+> **[Screenshot placeholder: Left toolbar showing icons for Search, Filter, Highlight, Card Content, Views, and Export tools]**
 
-**Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
 ### How do I switch between org chart and table view?
 **Answer:** Use the dropdown at the top of the screen:
@@ -118,9 +118,9 @@ Both views show the same data, just in different formats.
 **Learn more:** [Directory Overview](../directory/overview.md)
 
 ### Can I customize what I see on position cards?
-**Answer:** Yes! Click **Card Content** in the left taskbar. Select which fields you want to display (name, title, salary, department, etc.). You can also reorder fields by clicking the gear icon.
+**Answer:** Yes! Click **Card Content** in the left toolbar. Select which fields you want to display (name, title, salary, department, etc.). You can also reorder fields by clicking the gear icon.
 
-**Learn more:** [Main Org Taskbar - Card Content](../main-org/taskbar.md)
+**Learn more:** [Main Org Toolbar - Card Content](../main-org/toolbar.md)
 
 ---
 

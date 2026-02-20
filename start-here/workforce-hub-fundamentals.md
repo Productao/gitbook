@@ -31,6 +31,8 @@ Use Workforce Hub when you need to:
 
 ## Key Charts
 
+> **[Screenshot placeholder: Workforce Hub showing chart selector dropdown and available chart types]**
+
 ### 1. Layers and Spans of Control
 
 **What it shows:** Distribution of managers across organizational layers and span of control ranges.

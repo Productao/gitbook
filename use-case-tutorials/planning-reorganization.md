@@ -57,7 +57,7 @@ The scenario starts with the current structure as the "before" state.
 
 ## Step 5: Analyze Impact
 
-**Span of Control:** Add "Total SOC" to Card Content (Taskbar > Card Content) to see spans on every card.
+**Span of Control:** Add "Total SOC" to Card Content (Toolbar > Card Content) to see spans on every card.
 
 **Broken hierarchies:** Spotlight > Rules > Broken Hierarchies — fix any before proceeding.
 

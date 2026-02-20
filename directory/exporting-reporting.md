@@ -1,9 +1,9 @@
 ---
-description: Getting data out and creating reports
+description: Getting data out of Directory for analysis, presentations, and reports
 hidden: false
 ---
 
-# Exporting & Reporting
+# Exporting Data from Directory
 
 Export organizational data from Directory, Org Chart, and Workforce Hub for analysis, presentations, and reports.
 

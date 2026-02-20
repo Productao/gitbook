@@ -23,6 +23,8 @@ Fields appear everywhere in Agentnoon: on cards, in the directory, in analytics 
 
 ## Two Types of Fields
 
+> **[Screenshot placeholder: Fields and Attributes settings showing position fields and people fields grouped separately]**
+
 ### Position Fields
 
 **Position fields** are tied to roles in your org structure and exist independently of people:

@@ -68,7 +68,10 @@ If common fixes don't work, check our detailed troubleshooting guides:
 If you've tried troubleshooting and still need help:
 
 ### Email Support
-**Email:** support@agentnoon.com
+
+**Agentnoon Support:** support@agentnoon.com
+
+**Dayforce Customers:** SupportSWP@dayforce.com
 
 **When emailing, please include:**
 - Your organization/instance name

@@ -12,7 +12,7 @@ Keep your Main Org current by uploading fresh data manually or setting up automa
 **Full data upload** — Replaces all Main Org data. Use when you want a clean refresh from your HRIS.
 
 1. Export latest data from HRIS
-2. Main Org > Taskbar > **Data Management** > **Upload Full Data**
+2. Main Org > Toolbar > **Data Management** > **Upload Full Data**
 3. Choose CSV, map fields (first upload only), review validation, confirm
 4. Spot-check: new hires appear, recent terminations removed, org chart intact
 
@@ -65,7 +65,7 @@ Main Org refreshes do NOT automatically update scenarios. Scenarios are snapshot
 |---------|----------|
 | New hire not appearing | Check if HRIS exported them; verify sync has run since hire was added; check for validation errors |
 | Terminated employee still showing | Verify HRIS processed termination; wait for next sync (will auto-remove); or upload corrected CSV |
-| Org chart broken after refresh | Look for broken hierarchy indicator (orange icon) in taskbar; fix Manager IDs in HRIS and re-upload |
+| Org chart broken after refresh | Look for broken hierarchy indicator (orange icon) in toolbar; fix Manager IDs in HRIS and re-upload |
 | Sync hasn't run in 3+ days | Check Settings > Data Management > Sync Logs; test connection; verify HRIS export is running |
 | Sync taking hours | Normal for >10,000 employees; contact support if unusually slow |
 

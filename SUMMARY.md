@@ -13,7 +13,6 @@
   * [Parts of the Application](start-here/parts-of-application.md)
   * [Cards](start-here/cards.md)
   * [Fields and Attributes](start-here/fields-and-attributes.md)
-  * [Calculated Agentnoon Attributes](start-here/calculated-agentnoon-attributes.md)
   * [Scenarios Fundamentals](start-here/scenarios-fundamentals.md)
   * [Workforce Hub Fundamentals](start-here/workforce-hub-fundamentals.md)
 * [🎥 Video Tutorials](start-here/video-tutorials.md)
@@ -23,7 +22,6 @@
 
 * [🏢 Main Org Overview](main-org/overview.md)
 * [🧭 Orientation & Navigation](main-org/navigation.md)
-* [📋 Taskbar (Main Org)](main-org/taskbar.md)
 * [📊 Org Metrics & Insights](main-org/metrics-insights.md)
 * [📤 Exporting Data](main-org/exporting.md)
 
@@ -41,7 +39,7 @@
 * [📅 Time-Based Planning](scenarios/time-based-planning.md)
 * [📊 Scenario Tracking & Analysis](scenarios/tracking-analysis.md)
 * [🔄 Scenario Comparisons](scenarios/comparisons.md)
-* [📤 Exporting Scenarios](scenarios/exporting.md)
+* [📤 Exporting Scenario Data](scenarios/exporting.md)
   * [Comparison Exporting](scenarios/comparison-exporting.md)
 * [🗂️ Scenario Management](scenarios/management.md)
   * [Basic Actions](scenarios/management/basic-actions.md)
@@ -52,7 +50,7 @@
 * [👥 Scenario Collaboration](scenarios/collaboration.md)
   * [Sharing Scenarios](scenarios/collaboration/sharing-scenarios.md)
   * [Commenting](scenarios/collaboration/commenting.md)
-  * [Co-Editing](scenarios/collaboration/co-editing.md)
+  * [Working with Others](scenarios/collaboration/co-editing.md)
   * [Notifications](scenarios/collaboration/notifications.md)
 * [📊 Scenario Forecast](scenarios/scenario-forecast.md)
 * [📈 Scenario Workforce Hub](scenarios/scenario-workforce-hub.md)
@@ -66,18 +64,17 @@
 ## Directory
 
 * [📋 Directory Overview](directory/overview.md)
-* [🧭 Navigation & Access](directory/navigation.md)
-  * [Filtering & Sorting](directory/filtering-sorting.md)
-  * [Column Customization](directory/columns-customization.md)
-  * [Bulk Operations](directory/bulk-operations.md)
-  * [Exporting](directory/exporting.md)
-* [📤 Exporting & Reporting](directory/exporting-reporting.md)
+* [🧭 Orientation & Navigation](directory/navigation.md)
+* [🔍 Filtering & Sorting](directory/filtering-sorting.md)
+* [📐 Column Customization](directory/columns-customization.md)
+* [✏️ Bulk Operations](directory/bulk-operations.md)
+* [📤 Exporting Data from Directory](directory/exporting-reporting.md)
 
 ## Hub
 
 * [📊 Hub Overview](hub/overview.md)
 * [🧭 Orientation & Navigation](hub/orientation-navigation.md)
-* [📦 Packs](hub/packs.md)
+* [📦 Slide Packs](hub/packs.md)
 * [📚 Chart Library](hub/chart-library.md)
 * [📊 Layers and Spans of Control Chart](hub/layers-spans-chart.md)
 * [📈 Headcount Distribution Chart](hub/headcount-distribution-chart.md)
@@ -88,8 +85,7 @@
 * [📈 Forecast Overview](forecast/overview.md)
 * [🧭 Forecast Navigation](forecast/navigation.md)
 * [📊 Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
-* [💰 Budget Planning & Tracking](forecast/budget-planning-tracking.md)
-* [📤 Forecast Reports & Exports](forecast/reports-exports.md)
+* [📤 Exporting Data from Forecast](forecast/reports-exports.md)
 * [🔄 Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
 * [📅 Multi-Year Planning](forecast/multi-year-planning.md)
 

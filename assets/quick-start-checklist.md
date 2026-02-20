@@ -18,7 +18,7 @@ Get logged in and explore the basics.
 1. Log in to Agentnoon using SSO or email/password
 2. Complete your profile setup if prompted
 3. Click "Open Org" to view your organizational structure
-4. Search for yourself using the Search button in the left taskbar
+4. Search for yourself using the Search button in the left toolbar
 5. Find your manager in the org chart
 6. Switch between org chart and directory views using the dropdown at top
 7. Read the [Welcome to Agentnoon](../start-here/welcome.md) page
@@ -31,7 +31,7 @@ Get logged in and explore the basics.
 
 Understand the main tools and views.
 
-### Explore the Taskbar (15 minutes)
+### Explore the Toolbar (15 minutes)
 
 1. Open the Filter tool and filter by your department
 2. Try the Highlight tool to color-code by department or location
