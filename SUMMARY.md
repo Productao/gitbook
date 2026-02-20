@@ -99,7 +99,7 @@
 * [💰 IPR Modeling Budget Cuts](use-case-tutorials/modeling-budget-cuts.md)
 * [💵 IPR Compensation Planning](use-case-tutorials/compensation-planning.md)
 * [🎯 IPR Succession Planning](use-case-tutorials/succession-planning.md)
-* [📈 IPR Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
+* [📈 Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 
 ## Frequently Asked Questions
 
@@ -176,7 +176,7 @@
   * [Whitelisting](authentication-and-identity-security/whitelisting.md)
   * [IPR Best Practices](authentication-and-identity-security/best-practices.md)
   * [IPR Troubleshooting Authentication Issues](authentication-and-identity-security/troubleshooting-authentication-issues.md)
-* [🔒 IPR Data Security & Privacy](technical-documentation/data-security-privacy.md)
+* [🔒 Data Security & Privacy](technical-documentation/data-security-privacy.md)
 * [🔄 Live Data Refresh](live-data-integration/what-is-a-live-data-integration.md)
   * [What is a Live Data Integration?](live-data-integration/what-is-a-live-data-integration.md)
   * [Available Data Integration Methods](live-data-integration/available-data-integration-methods/README.md)
