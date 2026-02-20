@@ -3,302 +3,64 @@ description: Accessing Directory and switching between views
 hidden: false
 ---
 
-# Navigation & Access
-
-Learn how to access Directory, switch between table and org chart views, and navigate large datasets effectively.
+# Directory Navigation & Access
 
 ## Accessing Directory
 
-Directory can be accessed from multiple locations throughout Agentnoon:
-
-### From Homepage
-- Click **Directory** in the top navigation bar
-- Press keyboard shortcut **5**
-- Fastest way to access standalone Directory view
-
-> **[Screenshot placeholder: Homepage navigation bar with Directory button highlighted and keyboard shortcut "5" indicator]**
-
-### From Main Org or Scenarios
-- Click the **Directory/Table** icon in the left toolbar
-- Toggle between org chart and table view
-- Context remains (same filters, same scenario)
-- View switches but data stays consistent
-
-> **[Screenshot placeholder: Left toolbar showing Directory/Table icon toggle between org chart and directory views]**
-
-### From Workforce Hub
-- Some charts include "View in Directory" links
-- Click to see underlying data in table format
-- Automatically filters to chart data subset
-- Opens Directory with relevant positions
-
-> **[Screenshot placeholder: Workforce Hub chart with "View in Directory" link highlighted]**
-
----
+- **From homepage:** Click **Directory** in the top nav bar, or press **5**
+- **From Main Org or Scenario:** Click the Directory/Table icon in the left toolbar (toggles with org chart; filters persist)
+- **From Workforce Hub:** Some charts include a "View in Directory" link that opens Directory pre-filtered to the chart's data
 
 ## Directory Modes
 
-Directory works differently depending on where you access it from:
+**Main Org Directory (view-only):** Sort, filter, search, export — no editing. Use for current state analysis and reporting.
 
-### Main Org Directory (View-Only)
+**Scenario Directory (editable):** Everything above plus bulk select, bulk edit, change tracking symbols, add/close positions. Use for planning org changes.
 
-**What you can do:**
-- View current org data
-- Sort by any column
-- Filter positions
-- Search for people or positions
-- Export to CSV
-- Customize visible columns
+**Forecast Directory:** View forecasted headcount and planned positions by time period. Export forecast data. No individual position editing.
 
-**What you cannot do:**
-- Edit position attributes
-- Make org changes
-- Bulk edit multiple positions
+## Switching Views
 
-> **[Screenshot placeholder: Main Org Directory in view-only mode showing sortable columns, filter options, and export button without edit capabilities]**
+**Directory → Org Chart:**
+- Click the Org Chart icon in the left toolbar, or press **1**
+- Click the org chart icon next to a position name in Directory to navigate directly to that position
 
-**When to use:**
-- Analyzing current organization
-- Creating reports and exports
-- Quick lookups and searches
-
----
-
-### Scenario Directory (Editable)
-
-**What you can do:**
-- Everything in Main Org Directory PLUS:
-- Edit position attributes
-- Bulk select multiple positions
-- Apply bulk edits
-- Add or close positions
-- See change tracking symbols
-- Model "what-if" scenarios
-
-> **[Screenshot placeholder: Scenario Directory with checkboxes for bulk selection, change tracking symbols on modified positions, and edit capabilities visible]**
-
-**When to use:**
-- Planning organizational changes
-- Modeling reorganizations
-- Testing different structures
-- Preparing for hiring/budget planning
-
-**Learn more:** [Scenario Directory](../scenarios/directory.md)
-
----
-
-### Forecast Directory
-
-**What you can do:**
-- View forecasted headcount
-- Analyze planned positions by quarter/year
-- Filter by time period
-- Export forecast data
-
-**What you cannot do:**
-- Edit positions (forecast is aggregate planning)
-- Make individual position changes
-
-**When to use:**
-- Reviewing hiring plans
-- Analyzing future headcount projections
-- Validating forecast against scenarios
-
-**Learn more:** [Forecast Overview](../forecast/overview.md)
-
----
-
-## Switching Between Views
-
-### From Directory to Org Chart
-
-**Method 1: Toolbar icon**
-1. Click the **Org Chart** icon in the left toolbar
-2. View switches to visual hierarchy
-3. Filters and selections persist
-
-**Method 2: Position link**
-1. Click the org chart icon next to a position name
-2. Navigates to that specific position in org chart
-3. Position becomes focal point
-4. Preserves context
-
-> **[Screenshot placeholder: Directory row with org chart icon next to position name, showing clickable link to jump to org chart view]**
-
----
-
-### From Org Chart to Directory
-
-**Method:**
-1. Click the **Directory/Table** icon in left toolbar
-2. View switches to table format
-3. Same positions visible
-4. Filters remain active
-
-> **[Screenshot placeholder: Org chart view with left toolbar showing Directory/Table icon for switching views]**
-
-**Tip:** Use keyboard shortcut **1** to return to org chart view from Directory.
-
----
+**Org Chart → Directory:** Click the Directory/Table icon in the left toolbar (filters remain active)
 
 ## Navigating Large Datasets
 
-### Pagination Controls
+**Pagination:** Change rows per page (25/50/100/500) at the bottom of the table. Sorting works across ALL pages, not just the current one.
 
-**Rows per page:**
-- Options: 25, 50, 100, 500
-- Select larger values to see more data at once
-- Located at bottom of Directory table
-
-**Page navigation:**
-- Use Next/Previous buttons
-- Or jump to specific page number (1, 2, 3...)
-- Total row count displayed
-
-> **[Screenshot placeholder: Directory pagination controls at bottom of table showing rows per page dropdown (25, 50, 100, 500), page navigation buttons, and total row count]**
-
-**Tips:**
-- Increase rows per page for smaller datasets (< 500 rows)
-- Keep default (25-50) for very large orgs (1000+ positions)
-- Use filters to reduce total rows before viewing
-
----
-
-### Sorting Across Pages
-
-**Important:** Sorting works across ALL pages, not just the current page.
-
-**Example:**
-- You have 500 positions across 10 pages (50 per page)
-- Sort by Salary (high to low)
-- Page 1 shows the 50 highest salaries across entire org
-- Page 2 shows the next 50 highest salaries
-- And so on...
-
----
-
-### Filtering to Reduce Pages
-
-**Strategy:**
-1. Apply filters first to narrow data
-2. Sort filtered results
-3. Reduce pagination needs
-4. Easier to analyze focused subset
-
-**Example:**
-- Start with 800 positions
-- Filter to Department = Engineering
-- Now viewing 150 positions (3 pages)
-- Much easier to navigate and analyze
-
-> **[Screenshot placeholder: Directory showing active filter tag "Department = Engineering" and reduced row count from 800 to 150 positions]**
-
----
+**Strategy for large orgs:** Filter first to reduce total rows, then sort the filtered subset — much faster than paginating through 800+ positions.
 
 ## Keyboard Shortcuts
 
-Speed up navigation with these shortcuts:
-
 | Shortcut | Action |
 |----------|--------|
-| **5** | Jump to Directory module from anywhere |
+| **5** | Jump to Directory module |
 | **1** | Return to org chart view |
-| **Cmd/Ctrl + F** | Open search box |
+| **Cmd/Ctrl+F** | Open search |
 | **Esc** | Clear selection or close panels |
 
-> **[Screenshot placeholder: Interface showing keyboard shortcut indicators overlaid on navigation elements]**
+## Directory vs Org Chart: When to Use Each
 
----
-
-## Directory vs Org Chart
-
-Understanding when to use each view:
-
-| Use Directory When... | Use Org Chart When... |
-|----------------------|----------------------|
-| Analyzing data in table format | Understanding reporting structure |
-| Sorting by attributes | Visualizing hierarchy |
-| Comparing multiple columns | Seeing team relationships |
-| Finding highest/lowest values | Navigating by manager |
-| Creating filtered exports | Presenting to stakeholders |
-| Need spreadsheet-like interface | Need visual representation |
-
-**Best practice:** Switch between both views as needed. They complement each other.
-
----
-
-## Common Navigation Workflows
-
-### Start in Directory, Navigate to Org Chart
-
-**Scenario:** Find highest-paid position, then see their team
-
-**Steps:**
-1. Open Directory
-2. Sort by Salary (high to low)
-3. Click org chart icon next to top position
-4. View switches to org chart
-5. Position is focal point with full team visible
-
----
-
-### Start in Org Chart, Switch to Directory
-
-**Scenario:** Viewing an Engineering team, want to export contact list
-
-**Steps:**
-1. In org chart, filter to Engineering department
-2. Click Directory icon in toolbar
-3. Directory opens with same Engineering filter
-4. Customize columns (Name, Email, Manager)
-5. Export to CSV
-
----
-
-### Use Hub Chart to Open Directory
-
-**Scenario:** See high-layer positions in Hub chart, want details
-
-**Steps:**
-1. View Layers and Spans chart in Hub
-2. See positions at Layer 7+
-3. Click "View in Directory"
-4. Directory opens filtered to Layer 7+ positions
-5. Sort by department or salary for further analysis
-
----
-
-## Best Practices
-
-1. **Use keyboard shortcuts** - Faster than clicking
-2. **Filter before paginating** - Reduce total rows first
-3. **Switch views freely** - Use both Directory and Org Chart
-4. **Remember context persists** - Filters carry across views
-5. **Start broad, narrow down** - Begin in Directory, filter to subset, switch to org chart for detail
-6. **Increase rows per page for exports** - See more data before exporting
-
----
+| Use Directory for | Use Org Chart for |
+|-------------------|-------------------|
+| Sorting by attributes, finding outliers | Understanding reporting structure |
+| Comparing columns, creating filtered exports | Visualizing hierarchy, presenting to stakeholders |
+| Bulk editing (scenarios) | Drag-and-drop reorgs |
 
 ## Troubleshooting
 
-**Problem:** Directory shows empty or unexpected data.
-- **Solution:** Check active filters (may be hiding positions). Clear filters and try again.
+| Problem | Solution |
+|---------|----------|
+| Directory empty or showing unexpected data | Check active filters; clear all and try again |
+| Can't find toolbar icons | Scroll up to see the left toolbar; try collapsing other panels |
+| Lost track of which mode (Main Org vs Scenario) | Check top-left corner for scenario name |
 
-**Problem:** Can't switch between Directory and Org Chart.
-- **Solution:** Look for toolbar icons on left side of screen. May need to scroll up to see toolbar.
+## Related Articles
 
-**Problem:** Pagination is slow or confusing.
-- **Solution:** Apply filters to reduce total rows. Use search to find specific positions instead of paging through all rows.
-
-**Problem:** Lost track of which mode (Main Org vs Scenario) I'm in.
-- **Solution:** Check top-left corner for scenario name. If it says "Main Org" or no scenario name, you're in view-only mode.
-
----
-
-## Next Steps
-
-- Learn about [Filtering & Sorting](filtering-sorting.md) to narrow down data
-- Explore [Column Customization](columns-customization.md) to show relevant attributes
-- Try [Bulk Operations](bulk-operations.md) in Scenario Directory
-- Understand [Exporting](exporting.md) to create reports
-
+- [Filtering & Sorting](filtering-sorting.md)
+- [Column Customization](columns-customization.md)
+- [Bulk Operations](bulk-operations.md)
+- [Exporting](exporting.md)

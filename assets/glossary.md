@@ -42,33 +42,24 @@ Log of all approval/rejection actions on a scenario, including timestamps, appro
 See **Fields and Attributes**
 
 ### Auto Mapping
-Feature that automatically populates dependent fields based on independent variables. When you select certain field values, other fields fill in automatically.
-
-**Example:** Select "Pay Grade = 10" and "Job Family = Sales" → Salary auto-populates from rate card.
+Automatically populates dependent fields when you select certain values. Example: select Pay Grade + Job Family → salary auto-populates from rate card.
 
 **Learn more:** [Auto Mapping](../settings/automapping.md)
 
 ### Attrition
-The rate at which employees leave the organization (voluntary or involuntary). In workforce planning, attrition is modeled by closing positions or setting termination dates.
-
-**Typical attrition rate:** 10-15% annually for most organizations.
+The rate at which employees leave the organization (voluntary or involuntary). Modeled in Agentnoon by closing positions or setting termination dates.
 
 ---
 
 ## B
 
 ### Before/After/Changes
-Three view modes available in scenarios:
-- **Before:** Shows Main Org (current state)
-- **After:** Shows scenario final state
-- **Changes:** Shows delta (what changed)
+Three scenario view modes: **Before** = Main Org baseline, **After** = scenario final state, **Changes** = delta.
 
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
 
 ### Bench, The
-Positions without a reporting relationship (no manager assigned). Often used as a holding area for positions during reorganizations or before final placement.
-
-**Note:** Not officially documented in current help center, but mentioned colloquially.
+Positions without a manager assigned. Used as a holding area during reorganizations or before final placement.
 
 ### Broken Hierarchy
 Error state where a position's manager doesn't exist or reporting relationships form an invalid loop. Indicated by an orange link icon in the taskbar.
@@ -77,8 +68,6 @@ Error state where a position's manager doesn't exist or reporting relationships 
 
 ### Budget (Scenario Budget)
 Target savings or spending amount set when creating a scenario. The OpEx Panel tracks progress toward this budget.
-
-**Example:** Create scenario with -$2M budget (goal: reduce workforce cost by $2M).
 
 **Learn more:** [Budget Planning & Tracking](../forecast/budget-planning-tracking.md)
 
@@ -142,18 +131,14 @@ Spreadsheet-style table view of positions/employees. Alternative to org chart vi
 **Learn more:** [Directory Overview](../directory/overview.md)
 
 ### Direct Reports
-Employees/positions that report directly to a manager (not including indirect reports through other managers).
-
-**Example:** A manager with 5 direct reports has a Span of Control (SOC) of 5.
+Positions reporting directly to a manager (not indirect reports). A manager with 5 direct reports has a SOC of 5.
 
 ---
 
 ## E
 
 ### Effective Date
-Date when a change takes effect in time-based projections. Used to phase organizational changes over time in Forecast.
-
-**Example:** Move 5 positions from Team A to Team B with effective date January 2027 → They appear in Team A through 2026, then Team B starting 2027.
+Date when a change takes effect in Forecast projections. Used to phase organizational changes over time.
 
 **Learn more:** [Time-Based Planning](../scenarios/time-based-planning.md)
 
@@ -216,9 +201,7 @@ Scenario that copies your entire Main Org. Use for company-wide planning (annual
 ## H
 
 ### Headcount
-Number of employees (people in positions). Headcount is volatile—it changes as people join, leave, or move roles.
-
-**Headcount ≠ Position count:** You may have 100 approved positions but only 85 filled (headcount = 85, 15 vacancies).
+Number of employees (people filling positions). Headcount ≠ position count: you may have 100 positions but only 85 filled (15 vacancies).
 
 **Learn more:** [Position vs Headcount Management](../best-practices/position-vs-headcount.md)
 
@@ -229,8 +212,6 @@ Taskbar tool to color-code position cards by field values (e.g., highlight by De
 
 ### Hire Date
 Date when a future position starts. Controls when the position appears in Forecast projections.
-
-**Example:** Position with hire date July 2026 appears in headcount starting July 2026.
 
 **Learn more:** [Building Headcount Forecasts](../forecast/building-headcount-forecasts.md)
 
@@ -258,9 +239,7 @@ Automated connection between your HRIS and Agentnoon. Syncs data automatically o
 ## L
 
 ### Layers
-Number of management levels between CEO and frontline employees. More layers = taller organization, fewer layers = flatter organization.
-
-**Example:** 5 layers = CEO → VP → Director → Manager → Team Lead → IC
+Number of management levels between CEO and frontline employees. More layers = taller org; fewer = flatter. Example: 5 layers = CEO → VP → Director → Manager → IC.
 
 ### Level 0/1/2/3 Approvers
 Four-tier approval system:
@@ -352,9 +331,7 @@ Scenario that copies only a specific part of Main Org (e.g., just Engineering de
 Compensation level or band (e.g., Grade 10, Grade 11). Often used with rate cards to auto-populate salaries.
 
 ### Position
-A role in your organization with defined structure and budget (title, department, salary, manager). Positions are stable—they don't change as frequently as headcount.
-
-**Position ≠ Employee:** Position is the role; employee is the person filling it.
+A role with defined structure and budget (title, department, salary, manager). Position = the role; Employee = the person filling it.
 
 **Learn more:** [Position vs Headcount Management](../best-practices/position-vs-headcount.md)
 
@@ -371,9 +348,7 @@ Compensation reference table that auto-populates salaries for new positions base
 **Learn more:** [Rate Cards / Compensation Bands](../settings/compensation-cards.md)
 
 ### Reporting Relationship
-Defines who reports to whom. Creates the hierarchy structure in org charts.
-
-**Example:** "Sarah Chen reports to Engineering Manager A"
+Defines who reports to whom, creating the hierarchy in org charts.
 
 ### RIF (Reduction in Force)
 Layoffs or workforce reduction. In Agentnoon, modeled by closing positions in scenarios.
@@ -409,9 +384,7 @@ Method for live data integration. Your HRIS exports CSV files to SFTP server, Ag
 See **Before/After/Changes**
 
 ### SOC (Span of Control)
-Number of direct reports a manager has. Key metric for organizational health.
-
-**Healthy range:** 5-10 direct reports (depends on context)
+Number of direct reports a manager has. Healthy range: 5–10 (context-dependent).
 
 **Learn more:** [Key Concepts - Span of Control](../start-here/concepts.md)
 
@@ -450,9 +423,7 @@ In Forecast, the column granularity: Monthly, Quarterly, or Yearly. Determines h
 See **Open Position**
 
 ### View
-Saved configuration of filters, highlights, and card content. Lets you quickly load a specific way of viewing org data.
-
-**Example:** "Executive View" might show only VP+ levels with highlights by business unit.
+Saved configuration of filters, highlights, and card content for quick reloading.
 
 **Learn more:** [Main Org Taskbar](../main-org/taskbar.md)
 
@@ -515,9 +486,3 @@ Long-term planning (3-5 years) of workforce needs aligned with business strategy
 Operational management of individual employees (recruiting, performance, development, retention). Complements strategic workforce planning.
 
 ---
-
-## Next Steps
-
-- **[Key Concepts](../start-here/concepts.md)** - Essential Agentnoon concepts explained
-- **[FAQ Overview](../faq/overview.md)** - Common questions and answers
-- **[Quick Start Guide](../start-here/quick-start-guide.md)** - Get started in 30 minutes
