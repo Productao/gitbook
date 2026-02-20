@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Agentnoon Help Center](README.md)
+
 ## Start Here
 
 * [🚀 Welcome to Agentnoon](start-here/welcome.md)
@@ -11,6 +13,7 @@
   * [Parts of the Application](start-here/parts-of-application.md)
   * [Cards](start-here/cards.md)
   * [Fields and Attributes](start-here/fields-and-attributes.md)
+  * [Calculated Agentnoon Attributes](start-here/calculated-agentnoon-attributes.md)
   * [Scenarios Fundamentals](start-here/scenarios-fundamentals.md)
   * [Workforce Hub Fundamentals](start-here/workforce-hub-fundamentals.md)
 * [🎥 Video Tutorials](start-here/video-tutorials.md)
@@ -130,7 +133,6 @@
 * [📊 Data Upload & Management](data-import/data-import.md)
   * [Data Requirements](data-import/data-requirements.md)
   * [Attributes Overview](data-import/attributes-overview.md)
-  * [Calculated Agentnoon Attributes](data-import/calculated-agentnoon-attributes.md)
   * [Data Error Checklist](data-import/data-error-checklist.md)
   * [Data Import](data-import/data-import.md)
   * [Partial Data Upload](data-import/partial-data-upload.md)
@@ -162,6 +164,11 @@
 
 * [💡 Position vs Headcount Management](best-practices/position-vs-headcount.md)
 * [⚖️ Making Org Changes](best-practices/making-org-changes.md)
+* [💰 Best Practices for Salary Data](best-practices/best-practices-for-salary-data.md)
+
+## Activity Analysis
+
+* [📊 Activity Analysis](activity-analysis/activity-analysis.md)
 
 ## Technical Documentation
 

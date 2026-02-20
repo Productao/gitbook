@@ -1,5 +1,6 @@
 ---
 description: Understanding how time is spent in your organization for each activity
+icon: diagram-successor
 ---
 
 # Activity Analysis

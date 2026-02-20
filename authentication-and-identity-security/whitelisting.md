@@ -2,6 +2,7 @@
 description: >-
   Whitelisting the following IP addresses and domains ensures uninterrupted and
   secure connectivity between Agentnoon services and your systems
+icon: file-check
 ---
 
 # Whitelisting
