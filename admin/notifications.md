@@ -3,7 +3,7 @@ description: Complete reference of all platform notifications
 hidden: true
 ---
 
-# Platform Notifications
+# TBD Platform Notifications
 
 > **Note: This page is in progress. Content coming soon!**
 

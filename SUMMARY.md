@@ -94,11 +94,11 @@
 
 * [🎓 Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
 * [🏢 M&A Integration](use-case-tutorials/ma-integration.md)
-* [📋 Building an Annual Hiring Plan](use-case-tutorials/annual-hiring-plan.md)
+* [📋 IPR Building an Annual Hiring Plan](use-case-tutorials/annual-hiring-plan.md)
 * [📊 Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
 * [💰 IPR Modeling Budget Cuts](use-case-tutorials/modeling-budget-cuts.md)
 * [💵 IPR Compensation Planning](use-case-tutorials/compensation-planning.md)
-* [🎯 Succession Planning](use-case-tutorials/succession-planning.md)
+* [🎯 IPR Succession Planning](use-case-tutorials/succession-planning.md)
 * [📈 IPR Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 
 ## Frequently Asked Questions
@@ -143,8 +143,8 @@
   * [General Settings](settings/general.md)
 * [✅ Configuring Approval Flows](admin/configuring-approval-flows.md)
 * [🔄 Data Refresh & Sync](admin/data-refresh-sync.md)
-* [🔔 Platform Notifications](admin/notifications.md)
-* [👥 Access Groups Examples](admin/access-groups-examples.md)
+* [🔔 TBD Platform Notifications](admin/notifications.md)
+* [👥 TBD Access Groups Examples](admin/access-groups-examples.md)
 
 ## Assets & Quick Guides
 
