@@ -5,13 +5,15 @@ hidden: false
 
 # Scenario Comparisons
 
-Compare 2–4 scenarios side-by-side to evaluate cost, headcount, structure, and org health metrics before making a decision.
+Compare 2 scenarios side-by-side to evaluate cost, headcount, structure, and org health metrics before making a decision.
 
 ## Accessing Comparisons
 
-**From the homepage:** Select 2–4 scenarios using the checkboxes, then click **Compare** (bottom-right).
+**From the homepage:**
+1. Select exactly 2 scenarios using the checkboxes
+2. Click **Compare** button (bottom-right)
 
-**From inside a scenario:** Click **Compare** in the taskbar, then select additional scenarios.
+> **Note:** Comparisons only work between 2 scenarios and must be started from the home page scenario list.
 
 ## What You Can Compare
 
@@ -31,14 +33,7 @@ Compare 2–4 scenarios side-by-side to evaluate cost, headcount, structure, and
 
 **Choosing reorganization structure:** Compare "Combine teams under one VP" vs. "Keep teams separate with directors". Check Pyramid Chart for layers, Metrics for SOC, Org Chart for visual clarity.
 
-**Presenting alternatives to leadership:** Create Conservative/Moderate/Aggressive hiring scenarios. Export comparison to present cost and headcount range side-by-side.
-
-## Adding or Removing Scenarios
-
-- **Add:** Use the arrow buttons at the bottom of comparison view to add up to 4 scenarios
-- **Remove:** Click the X on any scenario column
-
-Comparing 2–3 scenarios is ideal; 4+ can be hard to read.
+**Presenting alternatives to leadership:** Create two scenarios (e.g., Conservative vs. Aggressive hiring). Export comparison to present cost and headcount differences side-by-side.
 
 ## Export
 
@@ -50,7 +45,7 @@ In comparison view, click **Export** to download summary metrics, org charts, an
 
 | Problem | Solution |
 |---------|----------|
-| Can't compare more than 2 | Use the + arrow at the bottom of comparison view to add more |
+| Can't select more than 2 scenarios | Comparisons only support 2 scenarios at a time |
 | Org charts look identical | Zoom in or scroll — top-level may look the same while department-level differs |
 | Cost shows no difference | Scenarios must have different changes; identical scenarios will show no difference |
 | Can't export comparison | Check export permissions with admin |

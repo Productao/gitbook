@@ -15,32 +15,31 @@ Plan post-acquisition integration by modeling combined org structures, identifyi
 
 Add a "Company" attribute to the acquired company's data file to distinguish employees during analysis.
 
-## Step 1: Upload Acquired Company Data
+## Step 1: Create Integration Scenario
 
-Use **Partial Upload** to add the acquired org alongside your existing Main Org:
+1. Go to **Scenarios > Create New Scenario**
+2. Choose **Full Org Scenario** (includes your entire current organization)
+3. Name it: "M&A Integration - [Acquired Company]"
+4. Add tags: "M&A", "Integration", "[Year]"
 
-1. Go to **Admin > Data Upload**
-2. Select **Partial Upload**
+## Step 2: Upload Acquired Company Data
+
+Use **Partial Upload** within the scenario to add the acquired org:
+
+1. In your M&A scenario, click **Data Management** button in the scenario taskbar
+2. Click **Upload Partial Data**
 3. Upload the acquired company's CSV file
 4. Map fields and confirm
 
-Both organizations now appear side-by-side in Main Org. Verify by filtering the Directory by "Company" attribute.
-
-## Step 2: Create an Integration Scenario
-
-1. Go to **Scenarios > Create New Scenario**
-2. Name it: "M&A Integration - [Acquired Company]"
-3. Add tags: "M&A", "Integration", "[Year]"
-
-Your scenario starts with both organizations unintegrated.
+Both organizations now appear in your scenario. Verify by filtering the Directory by "Company" attribute.
 
 ## Step 3: Plan Leadership Structure
 
 Start at the top and work down:
 
 1. Decide which executive roles to keep, merge, or eliminate (e.g., two CFOs → one CFO)
-2. Use **Change Manager** to set new reporting relationships
-3. Close redundant positions with a reason note
+2. Drag-and-drop or use position menu to change reporting relationships
+3. Close redundant positions (select RIF or Exit with reason)
 4. Set **effective dates** for phased transitions (Day 1, 90-day, 180-day)
 
 **Common approaches:** Retain acquiring company leadership (fastest), best-of-both selection (higher retention), or redesign from scratch (most complex).
@@ -51,11 +50,11 @@ For each function (Finance, HR, Engineering, etc.):
 
 1. Filter the Directory to that department in both companies
 2. Identify duplicate roles and decide: consolidate, phase, or keep separate
-3. Move teams using **Change Manager** or drag-and-drop
+3. Move teams using drag-and-drop in org chart view
 4. Close eliminated positions
-5. Use the **Bench** to hold positions during transition
+5. Use the **Bench** to hold positions during transition planning
 
-**Example:** Two Finance orgs (15 + 12 people) → Combined Finance team of 20 under one CFO, 5 redundancies eliminated.
+**Example:** Two Finance orgs (15 + 12 people) → Combined Finance team of 20 under one CFO, 7 redundancies eliminated.
 
 ## Step 5: Analyze Cost Impact
 

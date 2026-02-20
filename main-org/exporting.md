@@ -40,10 +40,16 @@ Each manager with direct reports gets their own slide.
 
 ## Directory View Exports
 
-For precise column control:
+For precise column and row control:
 1. Switch to **Directory** view
-2. Apply filters and customize visible columns (show/hide, reorder)
-3. Click Export — the file includes only visible columns in displayed order
+2. Click the **column selector** (top-right) to choose which fields to include
+3. **Drag columns** to reorder them in your preferred sequence
+4. Apply filters to limit which positions export
+5. Click **Export** > **CSV** or **Excel**
+
+**Saved Reports:** After configuring columns and order, click **Save Report** to save this configuration. Access saved reports from the Reports dropdown for consistent recurring exports.
+
+> **Note:** Directory exports are less commonly used. Most users prefer PowerPoint org charts or Workforce Hub analytics for stakeholder presentations.
 
 ## Forecast View Exports
 
@@ -55,7 +61,9 @@ In Forecast view, export the headcount/cost projection table:
 
 ## Workforce Hub Exports
 
-From Workforce Hub, export charts as PNG images (for presentations) or the underlying data as CSV/Excel (for further analysis or BI tools).
+Export individual charts as PNG, or create **slide packs** with multiple charts for comprehensive presentations.
+
+**Learn more:** [Hub Packs](../hub/packs.md)
 
 ## Permissions
 

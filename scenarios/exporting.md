@@ -41,13 +41,22 @@ Best for executive and board presentations. Each manager with direct reports get
 
 ## Data Exports
 
-**CSV / Excel** — All positions from the "Show After" state (or whichever view mode is active), one row per position. Includes change indicators (added/removed/modified). Switch to Directory view, apply filters, then export to control exactly which columns and rows are included.
+**CSV / Excel (Directory)** — Export position data from Directory view:
+1. Switch to **Directory** view
+2. Click the **column selector** (top-right) to choose which fields to include
+3. Drag columns to reorder them how you want
+4. Apply filters to limit which positions export
+5. Click **Export** > **CSV** or **Excel**
+
+**Saved Reports:** After configuring columns and order, click **Save Report** to save this configuration for future use. Access saved reports from the Reports dropdown.
+
+> **Note:** Directory exports are less commonly used. Most users prefer org chart PowerPoint or change summaries for stakeholder communication.
 
 **Change Summary** — Exportable directly from the Change Tracker panel. Includes every changed position with change type, before/after values, cost impact, and effective date.
 
 **Forecast export** — From Forecast view: configure time period, aggregation, and metric, then export the projection table. Shows headcount/cost by department over time with phasing based on effective dates.
 
-**Workforce Hub** — Export charts as PNG for presentations, or underlying data as CSV/Excel for analysis.
+**Workforce Hub** — Export individual charts as PNG, or create slide packs with multiple charts. See [Hub Packs](../hub/packs.md) for creating PowerPoint presentations with multiple analytics charts.
 
 ## Export by Use Case
 

@@ -9,12 +9,13 @@ Analyze DEI metrics in Agentnoon and model workforce changes that improve repres
 
 ## Prerequisites
 
-DEI analysis requires demographic fields (Gender, Ethnicity, etc.) in your employee data upload.
+**IMPORTANT:** DEI analysis requires demographic data fields (Gender, Ethnicity, etc.) in your employee data. Without this data, you cannot perform DEI analysis in Agentnoon.
 
 **Setup (Admin):**
-1. Add DEI columns to your HRIS export CSV
-2. Go to **Data Management > Fields and Attributes** and add fields as Employee Fields
-3. Configure field visibility to restrict access to authorized personnel only
+1. Add DEI columns to your HRIS export CSV (e.g., Gender, Ethnicity, Race, Disability Status)
+2. Upload data via **Data Management > Import Data**
+3. Go to **Data Management > Fields and Attributes** to configure field visibility
+4. Restrict DEI field access to authorized personnel only
 
 > **Privacy:** Obtain consent before collecting demographic data. Comply with applicable laws (GDPR, EEOC, PIPEDA). Never report on groups smaller than 5 people.
 
@@ -22,8 +23,11 @@ DEI analysis requires demographic fields (Gender, Ethnicity, etc.) in your emplo
 
 **In Workforce Hub:**
 1. Go to Main Org > switch view to **Workforce Hub**
-2. Click **+ Add Chart**
-3. Configure: Rows = Department or Job Level, Columns = Gender or Ethnicity, Values = Headcount or Percentage
+2. Select a preconfigured chart from the dropdown (e.g., **Headcount Distribution Chart**)
+3. Use the axis dropdowns to configure:
+   - X-axis: Department, Job Level, or Location
+   - Y-axis: Select your DEI field (Gender, Ethnicity, etc.)
+   - Values: Headcount or Percentage
 4. Apply filters for focused analysis (e.g., Job Level = Manager+ to see leadership pipeline)
 
 **With Spotlight:**
