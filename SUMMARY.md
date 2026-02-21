@@ -89,6 +89,10 @@
 * [🔄 Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
 * [📅 Multi-Year Planning](forecast/multi-year-planning.md)
 
+## Activity Analysis
+
+* [📊 Activity Analysis](activity-analysis/activity-analysis.md)
+
 ## Use Case Tutorials
 
 * [🎓 Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
@@ -161,10 +165,6 @@
 * [💡 Position vs Headcount Management](best-practices/position-vs-headcount.md)
 * [⚖️ Making Org Changes](best-practices/making-org-changes.md)
 * [💰 Best Practices for Salary Data](best-practices/best-practices-for-salary-data.md)
-
-## Activity Analysis
-
-* [📊 Activity Analysis](activity-analysis/activity-analysis.md)
 
 ## Technical Documentation
 

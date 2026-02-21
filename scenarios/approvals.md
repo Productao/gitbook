@@ -1,222 +1,98 @@
 ---
-description: Submitting scenarios for approval
-hidden: false
+description: Streamline multi-level approvals
+icon: thumbs-up
 ---
 
-# Scenario Approvals
+# Approvals
 
-Scenario approvals provide a structured workflow for reviewing and authorizing organizational changes before they're implemented. This feature ensures that all scenario modifications go through appropriate stakeholders for validation, creating accountability and governance around workforce planning decisions.
+### Overview
 
-## Overview of the Approval Workflow
+Approval flows ensure that changes made in a scenario go through the necessary review process before implementation. Scenario creators can define a structured approval flow with two levels of approvers, keeping decision-making streamlined and transparent.
 
-The approval workflow in Agent Noon uses a multi-level approval system that routes scenarios through designated approvers. Once a scenario is submitted, it moves through approval levels sequentially, with each approver reviewing changes and either approving or rejecting them before the scenario proceeds to the next level.
+### Setting Up Approvals
 
-The approval process is designed to:
-- Ensure organizational changes are reviewed by appropriate stakeholders
-- Provide visibility into the impact of proposed changes
-- Create an audit trail of who approved what and when
-- Allow for feedback and iteration on proposed organizational structures
+After making changes in a scenario and before submitting a scenario for approval, approvers must be set up.
 
-## Understanding Approval Levels
+#### 1. Understanding approval levels
 
-Agent Noon supports four levels of approvers, each serving a different purpose:
+1. **Organizational lever approvers**\
+   There are two levels of organization level approvals, which the admin defines.
 
-### Global Approvers (Levels 1 and 2)
+* **Level 1 reviewers:** individuals who check items such as budget implications, org chart hygiene, accuracy of job titles etc.
+*   **Level 2 reviewers:** decision makers who get the final say on hires
 
-**Level 1 Approvers** are the first reviewers who evaluate scenarios after submission. These are typically department heads, finance partners, or workforce planning leads who review the initial feasibility and alignment of proposed changes.
+    Once approvers are added, they receive an email notification with a link to the scenario.
+*   **Scenario level approvers**
 
-**Level 2 Approvers** provide a second layer of review after Level 1 approval. These are often senior leaders or executive stakeholders who provide final authorization before changes are implemented.
+    There are two **additional** levels of approvals, which the scenario creator defines.
 
-Both Level 1 and Level 2 approvers are configured globally in the Settings page and apply to all scenarios across the organization. A scenario must be approved by at least one Level 1 approver before it can proceed to Level 2.
+    * **Level 0 reviewers:** Optional pre-check reviewers who can provide input before the standard approval chain begins.
+    * **Level 3 reviewers:** Optional final reviewers who sign off after the standard Level 2 decision-makers, often used for executive or cross-functional alignment.
 
-### Scenario-Specific Approvers (Levels 0 and 3)
+#### 2. Select org level approvers
 
-**Level 0 Approvers** are scenario-specific reviewers who evaluate changes before they reach the global approval chain. These are typically the direct stakeholders or budget owners for the specific organizational area being modified in the scenario.
+1. Go to **Settings** → **Approval Configurations** to assign organizational level approvers before submission.
+2. Use the **search** to select one or more users to act as approvers.
+3.  Only admins can set up org level approvers<br>
 
-**Level 3 Approvers** are the final scenario-specific reviewers who provide a last review after Level 2 approval. These might be specialized stakeholders who need to sign off on specific types of changes.
+    <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 5.02.54 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Level 0 and Level 3 approvers are configured individually for each scenario, allowing flexibility for different approval needs based on the scope and impact of changes.
+#### 3.  Select scenario level approvers
 
-## Setting Up Approvers
+1. Locate the scenario you want to configure approvals for and click the **three-dot menu <kbd>**(⋮)**</kbd>\
+   next to it.
+2.  Click **Configure Approvals** and select approvers for your scenario.<br>
 
-### Configuring Global Approvers (Admin Only)
+    <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 5.21.50 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Administrators configure global approvers in the Settings page under the General tab:
+### Submitting a Scenario for Approval
 
-1. Navigate to Settings from the main navigation
-2. Go to the General tab
-3. Locate the approval settings section
-4. Add Level 1 approvers by selecting users from your organization
-5. Add Level 2 approvers in the same manner
-6. You can add multiple approvers to each level - only one approver from each level needs to approve for the scenario to proceed
+1. Click on Configure **Submission**.
 
-{% hint style="info" %}
-**Screenshot Placeholder:** Settings > General tab showing Level 1 and Level 2 approver configuration fields with "Add Approver" buttons
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.52.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Configuring Scenario-Specific Approvers
+After making adjustments to your scenario, you can submit it for review.
 
-When working within a scenario, you can configure Level 0 and Level 3 approvers:
+2. Then click on **Submit Scenario,** at the bottom right corner.
 
-1. Open the scenario you want to configure
-2. Open the OpEx Panel (Scenario Impacts and Changes panel)
-3. Click "Configure Submission" at the bottom of the panel
-4. Add Level 0 approvers who should review before global approvers
-5. Add Level 3 approvers who should provide final sign-off
-6. These approvers only apply to this specific scenario
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.52.50 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-**Screenshot Placeholder:** OpEx Panel with "Configure Submission" button highlighted, showing approval level configuration interface
-{% endhint %}
+3. Provide a justification for your scenario before submitting it for approval.
+4. You also have the option to exclude any additions made in the scenario.
+5. Once submitted, scenarios can't be edited unless rejected by an approver. Only then can the submitter make changes.
 
-## Submitting a Scenario for Approval
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.51.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once you've completed your scenario modeling and are ready to submit for review:
+### Approving a Scenario
 
-1. Open the scenario you want to submit
-2. Open the OpEx Panel (Scenario Impacts and Changes panel) on the right side
-3. Review the summary of changes and bottom-line impact
-4. Click "Configure Submission" at the bottom of the panel
-5. The submission interface will show:
-   - Which approvers will review the scenario
-   - The bottom-line impact (cost increase/decrease, headcount changes)
-   - A field for justification text
-6. Provide a clear justification explaining the rationale for your changes
-7. Review all details carefully - this is your final chance before submission
-8. Click "Submit" to send the scenario to the approval queue
+Approvers can review the scenario details but cannot edit them. Only admin can
 
-{% hint style="info" %}
-**Screenshot Placeholder:** Configure Submission modal showing approver list, bottom-line impact summary, justification text field, and Submit button
-{% endhint %}
+#### 1. Viewing approval requests
 
-After submission, the scenario status will update to show it's in the approval process, and it will display which approval level it's currently at.
+1. Click on a scenario to open it.
+2. Click Approve Roles to open the review the changes.
 
-## The Approval Process
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.58.17 PM.png" alt=""><figcaption></figcaption></figure>
 
-### For Approvers
+#### 2. Approving scenario requests
 
-When a scenario is submitted, approvers receive it in their scenario queue (the list of scenarios they have access to):
+The approver can take the following actions for individual change within the scenario:
 
-1. Open the submitted scenario from your scenario list
-2. Open the OpEx Panel (Scenario Impacts and Changes panel)
-3. Review the summary of all changes made in the scenario
-4. For each change, you have two options:
-   - **Green Checkmark**: Approve this change
-   - **Red X**: Reject this change
-5. If rejecting any changes, you must provide a reason for the rejection
-6. After reviewing all changes, provide a final comment for the scenario creator
-7. Submit your review
+*   **Approve**: the role is marked as approved by and moves to the next approver in the workflow.
 
-{% hint style="info" %}
-**Screenshot Placeholder:** Approver view of OpEx Panel showing list of changes with green checkmarks and red X buttons next to each change, with comment field at bottom
-{% endhint %}
+    The process continues until all required approvers have approved the scenario.
+* **Reject**: the scenario is immediately marked as rejected.
+* **Admin actions:** \
+  Admins have the ability to un-submit the entire scenario.
+  * Click **Un-submit** from the three-dot menu. The role will move back into **review** status, allowing scenario collaborators to edit the changes.
 
-{% hint style="warning" %}
-**Important:** Currently, a scenario cannot proceed past an approver if any changes are rejected. The entire scenario must be approved together, or it returns to the creator for revisions.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 5.39.10 PM 1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Approval Flow Sequence
+#### 3. Revising approval requests
 
-The approval flow follows this sequence:
+You can only edit and resubmit scenario for approval if:
 
-1. **Level 0** (if configured): Scenario-specific pre-approval
-2. **Level 1**: First global approval level
-3. **Level 2**: Second global approval level
-4. **Level 3** (if configured): Scenario-specific final approval
+* the change was unsubmitted by approver.
+* the change was rejected by approver.
 
-A scenario must receive approval at each configured level before proceeding to the next. If a scenario is rejected at any level, it returns to the scenario creator for revisions.
-
-## Approval History and Resubmission
-
-### Viewing Approval History
-
-Each scenario maintains a complete approval history log accessible in the OpEx Panel:
-
-- When the scenario was submitted
-- Who reviewed it at each level
-- What changes were approved or rejected
-- Reasons provided for any rejections
-- When the scenario was approved or sent back
-
-This creates a full audit trail of the decision-making process around organizational changes.
-
-{% hint style="info" %}
-**Screenshot Placeholder:** Approval History section in OpEx Panel showing timeline of submission, reviews, approvals, and rejections with timestamps and reviewer names
-{% endhint %}
-
-### Resubmitting After Rejection
-
-When a scenario is rejected and returned to you:
-
-1. Open the scenario to see which changes were rejected and why
-2. Review the rejection reasons in the approval history
-3. Make necessary revisions to address the concerns
-4. Resubmit the scenario using the same process
-
-{% hint style="success" %}
-**Time-Saving Feature:** When you resubmit a scenario to an approver who previously reviewed it, any changes they already approved remain pre-approved. They only need to review the new or modified changes, significantly reducing review time.
-{% endhint %}
-
-## Lock Scenarios Upon Submission
-
-Administrators can enable a setting called "Lock scenarios upon submission" in the General settings. When enabled:
-
-- Scenarios cannot be edited once submitted for approval
-- The scenario remains locked until an approver rejects it and sends it back
-- This prevents changes from being made while a scenario is under review
-- It ensures approvers are reviewing the exact changes that were submitted
-
-When this setting is disabled, scenario creators can continue making edits even while the scenario is in the approval queue.
-
-{% hint style="info" %}
-**Screenshot Placeholder:** General Settings showing "Lock scenarios upon submission" checkbox
-{% endhint %}
-
-## Best Practices for Scenario Approvals
-
-### For Scenario Creators
-
-- **Provide Clear Justification**: Write detailed, specific reasons for your changes. Explain the business rationale and expected outcomes.
-- **Review Before Submitting**: Use the Configure Submission preview to verify all changes are correct before submitting.
-- **Document Context**: Include relevant context about why changes are needed, not just what the changes are.
-- **Respond to Feedback**: When scenarios are rejected, carefully review the reasons and address all concerns in your revisions.
-
-### For Approvers
-
-- **Review Thoroughly**: Examine each change individually rather than approving everything at once.
-- **Provide Specific Feedback**: When rejecting changes, explain clearly what needs to be addressed.
-- **Check Bottom-Line Impact**: Ensure the cost and headcount impacts align with budget constraints and strategic goals.
-- **Consider Dependencies**: Look for potential downstream impacts of proposed changes.
-
-### For Administrators
-
-- **Choose Approvers Carefully**: Select approvers who have the authority and context to make informed decisions.
-- **Communicate the Process**: Ensure all users understand how the approval workflow functions.
-- **Set Clear Guidelines**: Establish criteria for what types of changes need approval and what approvers should look for.
-- **Review Lock Setting**: Decide whether locking scenarios upon submission makes sense for your organization's workflow.
-
-## Common Questions
-
-**Can I have different approvers for different types of scenarios?**
-
-Yes, use Level 0 and Level 3 scenario-specific approvers for this purpose. Global Level 1 and 2 approvers will still review all scenarios, but you can add additional reviewers for specific cases.
-
-**What happens if a Level 1 approver rejects a change?**
-
-The entire scenario is sent back to the creator for revisions. The scenario cannot proceed to Level 2 until all Level 1 approvers approve.
-
-**Can I remove a scenario from the approval queue?**
-
-Contact your administrator or an approver to reject the scenario and send it back to you. You can then make any needed changes or cancel the scenario entirely.
-
-**Do I need to set up all four approval levels?**
-
-No. At minimum, you need at least one Level 1 approver. Level 0, Level 2, and Level 3 are optional and can be used based on your organization's governance needs.
-
----
-
-## Related Articles
-
-- [Creating and Managing Scenarios](creating-scenarios.md)
-- [Scenario Impacts and Changes Panel](impacts-panel.md)
-- [Admin Settings Overview](../admin-settings/overview.md)
+Once fully approved, the scenario is finalized and ready for implementation.
