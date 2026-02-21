@@ -165,7 +165,7 @@ Every placeholder page includes:
 
 ---
 
-For immediate assistance, please contact [support@agentnoon.com](...)
+For immediate assistance, please contact [SupportSWP@dayforce.com](...)
 ```
 
 ### Screenshot Placeholder Format
@@ -390,4 +390,4 @@ For immediate assistance, please contact [support@agentnoon.com](...)
 
 **Maintained By:** Stephen Joly & Claude (Documentation Team)
 
-**Questions?** Contact [support@agentnoon.com](mailto:support@agentnoon.com)
+**Questions?** Contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)

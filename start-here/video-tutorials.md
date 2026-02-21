@@ -152,4 +152,4 @@ Customize fields to match your organization's unique needs.
 
 ## Request a Video
 
-Don't see a video for the feature you need? [Contact support](mailto:support@agentnoon.com) to request a new tutorial video. We create content based on user feedback.
+Don't see a video for the feature you need? [Contact support](mailto:SupportSWP@dayforce.com) to request a new tutorial video. We create content based on user feedback.

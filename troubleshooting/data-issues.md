@@ -131,7 +131,7 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 
 ## When to Contact Support
 
-Contact support@agentnoon.com if:
+Contact SupportSWP@dayforce.com if:
 - Upload fails with unclear error after trying solutions
 - Data corruption occurred after upload
 - Live integration stopped working completely

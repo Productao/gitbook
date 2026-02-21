@@ -118,7 +118,7 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 
 ## When to Contact Support
 
-Contact support@agentnoon.com if:
+Contact SupportSWP@dayforce.com if:
 - Exports consistently fail after trying solutions
 - Integration connection fails with unclear error after credentials verified
 - Data syncing but values are completely wrong

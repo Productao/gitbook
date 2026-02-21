@@ -15,11 +15,11 @@ The Main Org is your current-state organization as it exists today. Understandin
 
 **Key characteristics:**
 - **Read-only**: Cannot be edited directly (view only)
-- **Real-time**: Reflects your current org structure
+- **Real-time**: Reflects your current org structure (only if live data integration is set up; otherwise updated via scheduled imports)
 - **Data-driven**: Updated via imports and syncs
 - **Baseline**: Reference point for all scenario planning
 
-**Use Main Org to:**
+**Use the Main Org to:**
 - Understand current organizational structure
 - Analyze existing metrics (span of control, headcount, cost)
 - Export current state data
@@ -31,41 +31,10 @@ The Main Org is your current-state organization as it exists today. Understandin
 
 ## Main Org Views
 
-Main Org can be viewed in multiple ways depending on what you need to analyze:
-
-### Org Chart View
-Visual, hierarchical tree showing reporting relationships.
-
-**Best for:**
-- Understanding reporting structure
-- Visualizing management chains
-- Presenting to stakeholders
-- Seeing the "big picture"
-
-### Directory View
-Table/spreadsheet view of all positions with sortable columns.
-
-**Best for:**
-- Analyzing data in bulk
-- Filtering and searching
-- Exporting data
-- Reviewing specific attributes
-
-### Forecast View
-Time-based projections of your current organization.
-
-**Best for:**
-- Extending current state into future periods
-- Baseline budget projections
-- Multi-year headcount planning
-
-### Workforce Hub View
-Analytics and visualizations for org structure analysis.
-
-**Best for:**
-- Span of control analysis
-- Headcount distribution
-- Identifying organizational imbalances
+- **Org Chart** — Visual hierarchy showing reporting relationships
+- **Directory** — Table view with sortable columns for bulk analysis
+- **Forecast** — Time-based projections of current organization
+- **Workforce Hub** — Analytics charts for structure analysis
 
 > **[Screenshot placeholder: View dropdown showing Org Chart, Directory, Forecast, and Workforce Hub options]**
 
@@ -73,68 +42,33 @@ Analytics and visualizations for org structure analysis.
 
 ## Data Sync & Refresh
 
-### Initial Import
-When you first set up Agentnoon, you load your current org data from:
-- HRIS systems (Workday, BambooHR, SAP SuccessFactors, etc.)
-- CSV/Excel files
-- API integrations
+**Initial Import:** Load from HRIS systems (Workday, BambooHR, SAP SuccessFactors), CSV/Excel files, or API integrations.
 
-### Regular Sync
-Keep Main Org up-to-date with:
-- **Scheduled refreshes**: Automatic updates on a cadence (daily, weekly)
-- **Manual refreshes**: On-demand updates triggered by admins
-- **Live integrations**: Real-time sync with HRIS
+**Regular Sync:** Scheduled refreshes (daily/weekly), manual refreshes, or real-time sync with HRIS.
 
-**Important:** Main Org updates don't automatically flow into existing scenarios. Scenarios are snapshots taken at creation time.
-
-> **[Screenshot placeholder: Data refresh settings showing scheduled sync configuration]**
+**Important:** The Main Org updates don't automatically flow into existing scenarios. Scenarios are snapshots taken at creation time.
 
 ---
 
-## Span of Control in Main Org
+## Span of Control
 
 **Span of Control (SOC)** is the number of direct reports a manager has.
 
-**Why it matters in Main Org:**
-- Identify managers who are overloaded (too many direct reports)
-- Find narrow spans that create unnecessary layers
-- Baseline for reorganization planning
+**Healthy ranges:** First-Line Managers: 5-10, Mid-Level: 5-8, Executives: 5-10
 
-**Healthy ranges (industry standard):**
-- Individual Contributors: 0 direct reports
-- First-Line Managers: 5-10 direct reports
-- Mid-Level Managers: 5-8 direct reports
-- Executives: 5-10 direct reports
-
-**How Agentnoon displays SOC:**
-- Color-coded managers in org chart
-- SOC metrics in Workforce Hub
-- Flags for unhealthy spans
+Agentnoon displays SOC via color-coded managers in org chart, SOC metrics in Workforce Hub, and flags for unhealthy spans.
 
 > **[Screenshot placeholder: Org chart with span of control color coding showing healthy and unhealthy spans]**
 
 ---
 
-## Layers & Organizational Depth
+## Layers
 
 **Layers** are the number of management levels between an employee and the CEO.
 
-**Example:**
-- CEO: Layer 0
-- VP reporting to CEO: Layer 1
-- Director reporting to VP: Layer 2
-- Manager reporting to Director: Layer 3
-- Individual Contributor: Layer 4
+**Example:** CEO (Layer 0) → VP (Layer 1) → Director (Layer 2) → Manager (Layer 3) → IC (Layer 4)
 
-**Why it matters:**
-- More layers = slower decision-making, less agility
-- Fewer layers = flatter organization, faster communication
-- Industry best practice: 4-7 layers for most companies
-
-**Use Main Org to:**
-- Understand current organizational depth
-- Identify opportunities to flatten structure
-- Baseline layers before reorganization
+**Why it matters:** More layers = slower decisions; industry best practice: 4-7 layers
 
 > **[Screenshot placeholder: Workforce Hub Layers & Spans chart showing distribution of employees across organizational layers]**
 
@@ -142,134 +76,82 @@ Keep Main Org up-to-date with:
 
 ## Exporting Main Org Data
 
-Export your current organizational data for analysis, reporting, or presentations.
-
-**What you can export:**
-- Full org structure (all positions and attributes)
-- Filtered subsets (specific departments, locations)
-- Workforce Hub charts and analytics
-- Directory table views
-
-**Export formats:**
-- CSV/Excel for data analysis
-- PDF for presentations
-- Images for reports
-
-**Common use cases:**
-- Share current headcount with finance
-- Analyze salary distribution in Excel
-- Create org charts for presentations
-- Backup organizational data
+Export formats: CSV/Excel, PDF, images. Export full org structure, filtered subsets, Workforce Hub charts, or directory views.
 
 **Learn more:** [Main Org Exporting](../main-org/exporting.md)
 
 ---
 
-## Org Metrics & Insights
+## Org Metrics
 
-Main Org provides built-in metrics and insights about your organization:
+**Headcount:** Total headcount, by department/location/level, open vs filled positions, employee type distribution
 
-### Headcount Metrics
-- Total headcount
-- Headcount by department, location, job level
-- Open positions vs filled positions
-- Employee type distribution (FTE, contractor, etc.)
+**Cost:** Total compensation, cost by department/location, average salary, salary ranges
 
-### Cost Metrics
-- Total compensation cost
-- Cost by department, location
-- Average salary by level or department
-- Salary range distributions
-
-### Structure Metrics
-- Span of control distribution
-- Number of organizational layers
-- Manager vs IC ratio
-- Departmental size distribution
+**Structure:** Span of control, layers, manager vs IC ratio, department sizes
 
 > **[Screenshot placeholder: Workforce Hub dashboard showing key metrics like total headcount, cost, average span, and layers]**
 
 ---
 
-## Filtering & Searching Main Org
+## Filtering & Searching
 
-Find specific positions or segments of your organization:
+**Filtering:** Department, Location, Job Title, Salary range, Employee type, Manager, Layer, Span of control, custom attributes
 
-**Filtering options:**
-- Department, Location, Job Title
-- Salary range, Employee type
-- Manager, Layer, Span of control
-- Custom attributes (Cost Center, Business Unit, etc.)
+**Search:** Employee name, position title, manager name
 
-**Search capabilities:**
-- Search by employee name
-- Search by position title
-- Search by manager name
-- Combined filters for advanced queries
-
-**Use filtering to:**
-- Analyze specific segments (e.g., "Engineering department in San Francisco")
-- Prepare targeted exports
-- Understand subset headcount and cost
+Use filtering to analyze specific segments, prepare targeted exports, and understand subset headcount/cost.
 
 ---
 
 ## Read-Only Nature of Main Org
 
-**Important:** Main Org is read-only. You cannot make direct edits.
+**Important:** The Main Org is read-only. You cannot make direct edits.
 
-**Why is Main Org read-only?**
+**Why is the Main Org read-only?**
 - Preserves data integrity from HRIS
 - Prevents accidental changes to current reality
 - Ensures consistent source of truth
 - All planning happens in scenarios
 
 **To make changes:**
-1. Create a scenario based on Main Org
+1. Create a scenario based on the Main Org
 2. Model your changes in the scenario
 3. Submit scenario for approval
 4. Implement approved changes in your HRIS
-5. Changes flow back into Main Org via data sync
+5. Changes flow back into the Main Org via data sync
 
-This workflow ensures that Main Org always reflects reality, while scenarios are used for planning.
+This workflow ensures that the Main Org always reflects reality, while scenarios are used for planning.
 
 ---
 
 ## Main Org as Baseline for Scenarios
 
-Every scenario starts as a copy of Main Org at the time of creation.
+Every scenario starts as a copy of the Main Org at the time of creation.
 
 **What this means:**
-- Scenarios capture a snapshot of Main Org
-- Changes in Main Org after scenario creation don't automatically update the scenario
+- Scenarios capture a snapshot of the Main Org
+- Changes in the Main Org after scenario creation don't automatically update the scenario
 - "Show Before" in a scenario always references the Main Org snapshot
 - "Show After" reflects proposed changes
 
 **Example:**
-1. Main Org has 500 employees on Jan 1
+1. The Main Org has 500 employees on Jan 1
 2. You create "Q1 Hiring Plan" scenario on Jan 1 (baseline: 500)
-3. Main Org grows to 520 employees by Feb 1 (new hires)
+3. The Main Org grows to 520 employees by Feb 1 (new hires)
 4. Your scenario's "Before" state still shows 500 (snapshot from Jan 1)
 5. Use Scenario Refresh feature to rebase on current Main Org if needed
 
 ---
 
-## Permissions in Main Org
+## Permissions
 
-Access to Main Org is controlled by access groups and permission levels:
+**Access Groups** define what data users can see (e.g., "Engineering Leadership" sees only Engineering org).
 
-### Access Groups
-Define **what data** users can see.
-
-**Examples:**
-- "Engineering Leadership" sees only Engineering org
-- "Finance Team" sees all departments
-- "HRBP North America" sees only US/Canada positions
-
-### Permission Levels in Main Org
-- **Viewer:** Can see Main Org data within their access group
-- **Planner:** Can see Main Org + create scenarios
-- **Approver:** Can see Main Org + approve scenarios
+**Permission Levels:**
+- **Viewer:** Can see the Main Org data within their access group
+- **Planner:** Can see the Main Org + create scenarios
+- **Approver:** Can see the Main Org + approve scenarios
 - **Admin:** Full access to all Main Org data
 
 **Learn more:** [Access Control](../admin/access-control/overview.md)
@@ -278,12 +160,12 @@ Define **what data** users can see.
 
 ## Next Steps
 
-Now that you understand Main Org concepts:
+Now that you understand the Main Org concepts:
 
 - **Explore your Main Org:** Navigate the org chart and directory
 - **Analyze structure:** Use Workforce Hub to understand span of control
 - **Export data:** Pull current state data for analysis
-- **Create a scenario:** Start planning changes based on Main Org
+- **Create a scenario:** Start planning changes based on the Main Org
 
 **Related concepts:**
 - [Key Concepts](concepts.md) - Core Agentnoon concepts

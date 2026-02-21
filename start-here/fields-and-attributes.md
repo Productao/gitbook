@@ -21,6 +21,23 @@ Fields are individual data points used to capture and store information about yo
 
 Fields appear everywhere in Agentnoon: on cards, in the directory, in analytics charts, and in exports.
 
+## Minimum Required Data
+
+**Absolute minimum fields:**
+- Position ID or Employee ID
+- Manager Position ID or Manager Employee ID
+- Position Name
+
+**Recommended minimum fields for full functionality:**
+- Job Title
+- Department
+- Manager
+- Location
+- Name
+- Employee ID
+- Start Date
+- Email
+
 ## Two Types of Fields
 
 > **[Screenshot placeholder: Fields and Attributes settings showing position fields and people fields grouped separately]**
@@ -60,7 +77,7 @@ Fields are organized into **groups** for easier management:
 - **People Groups** - Fields about individuals (contact info, demographics, HR data)
 - **Position Groups** - Fields about roles (job details, compensation, location)
 
-Groups appear as sections in forms, tables, and exports, making your data easier to navigate.
+Groups appear as sections in the edit panel (right side panel when editing a position), organizing related fields together for easier navigation.
 
 ## Calculated Fields (FX Fields)
 

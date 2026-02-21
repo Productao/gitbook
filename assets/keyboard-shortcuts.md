@@ -119,7 +119,7 @@ These work across the application:
 
 ## No Customization (Yet)
 
-Keyboard shortcuts are currently fixed and cannot be customized. If you have specific shortcut requests, [contact support](mailto:support@agentnoon.com).
+Keyboard shortcuts are currently fixed and cannot be customized. If you have specific shortcut requests, [contact support](mailto:SupportSWP@dayforce.com).
 
 ---
 

@@ -10,7 +10,7 @@ description: >-
 
 1. Shared a link for the Customer integration with Microsoft SSO.
 2. Customer’s IT Admin will need to approve the app via the consent link below
-   1. Consent link: please email us at [support@agentnoon.com](mailto:support@agentnoon.com) and we will send over the consent link for SSO for admins
+   1. Consent link: please email us at [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) and we will send over the consent link for SSO for admins
 3. Other parameters the IT admin will need.
    1. Redirect URI: [https://auth.agentnoon.com/\_\_/auth/handler](https://auth.agentnoon.com/__/auth/handler)
    2. Logout URL: [https://app.agentnoon.com/logout](https://app.agentnoon.com/logout)

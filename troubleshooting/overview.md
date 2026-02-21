@@ -51,7 +51,7 @@ Many issues that look like system bugs are actually data issues:
 
 ## When to Contact Support
 
-Contact support@agentnoon.com if:
+Contact SupportSWP@dayforce.com if:
 - Issue persists after trying all troubleshooting steps
 - Data loss or security concern
 - Multiple users affected

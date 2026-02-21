@@ -93,7 +93,7 @@ Scenarios let you model changes before implementing them:
    - **Partial Org** - select specific departments/teams
    - **New Org** - start from blank canvas
 4. Name your scenario descriptively (e.g., "Q2 Hiring Plan")
-5. Set effective date (optional)
+5. Set budget (optional)
 6. Click **Create**
 
 > **[Screenshot placeholder: Create Scenario modal showing scenario types and naming]**
@@ -105,26 +105,32 @@ Once in a scenario, try these basic edits:
 2. **Edit position details:** Click the card > modify fields in the side panel > save
 3. **Move a position:** Drag and drop a card to a new manager
 4. **Close a position:** Click the card > select **RIF** or **Exit** from the menu
+5. **Bulk edit positions:** Select 3+ positions > click **Edit** > modify shared fields > save changes to all
+6. **Move a team:** Select a manager's card > click **Change Manager** > choose new manager > entire team moves
 
 > **[Screenshot placeholder: Scenario with position card menu showing add/edit/move/close options]**
 
-### 9. Join Two Managers into One
+### 9. View Changes in Forecast
 
-Practice organizational restructuring:
-1. Select the team you want to move
-2. Click "Change Manager"
-3. Choose the new manager from dropdown
-4. Team moves instantly - changes tracked automatically
+See how your changes impact headcount and costs over time:
+1. Click the view switcher and select **Forecast**
+2. The timeline shows your scenario's projected headcount/cost by month
+3. Changes appear based on their effective dates
+4. Toggle between headcount and cost metrics
+5. Hover over any point to see detailed breakdowns
+
+> **[Screenshot placeholder: Forecast view showing timeline with headcount projection]**
 
 ### 10. Export a Chart to PowerPoint
 
 Share your analysis with stakeholders:
 1. Click the view switcher and select **Workforce Hub**
-2. Select a chart from the dropdown (e.g., Headcount Distribution)
-3. Configure the chart axes and filters
-4. Click the **Export** button
-5. Choose **PowerPoint**
-6. The chart exports as an editable slide
+2. Click on any preconfigured chart tile (e.g., Headcount Distribution)
+3. The chart opens - now the chart selector dropdown appears at the top
+4. Configure the chart axes and filters using the gear icon
+5. Click the **Export** button
+6. Choose **PowerPoint**
+7. The chart exports as an editable slide
 
 > **[Screenshot placeholder: Workforce Hub with chart selected and export menu open]**
 

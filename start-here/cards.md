@@ -46,7 +46,8 @@ You can customize what information appears on cards:
    - Total Organization Size
    - Any custom fields your admin has configured
 3. Add or remove fields as needed
-4. Changes apply immediately to all visible cards
+4. Use the **gear button** in the top right to rearrange the order of fields on your cards
+5. Changes apply immediately to all visible cards
 
 **Pro tip:** Attributes with "FX" labels are automatically calculated by Agentnoon and provide instant insights without manual data entry.
 

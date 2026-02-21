@@ -99,6 +99,6 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 
 ## When to Contact Support
 
-Contact support@agentnoon.com if performance doesn't improve after trying solutions, the application consistently times out, or a browser crashes repeatedly.
+Contact SupportSWP@dayforce.com if performance doesn't improve after trying solutions, the application consistently times out, or a browser crashes repeatedly.
 
 Include: org size, browser version, OS, internet speed, computer specs, specific slow actions, and browser console errors (F12 > Console).

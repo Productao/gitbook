@@ -327,7 +327,7 @@ Yes, Agentnoon is SOC 2 compliant with annual audits.
 
 ### Can I get a copy of your security certifications?
 
-Yes, contact your account manager or [support@agentnoon.com](mailto:support@agentnoon.com) to request security documentation.
+Yes, contact your account manager or [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) to request security documentation.
 
 ---
 

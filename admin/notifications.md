@@ -52,4 +52,4 @@ This page will provide a comprehensive list of all notifications sent by the Age
 
 ---
 
-For immediate assistance with notifications, please contact [support@agentnoon.com](mailto:support@agentnoon.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).
+For immediate assistance with notifications, please contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) or refer to [Support & How to Self-Help](../start-here/support-self-help.md).

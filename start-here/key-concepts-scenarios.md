@@ -13,13 +13,13 @@ An editable copy of your Main Org where you model future changes without affecti
 
 ## Change Types
 
-**Addition (green)** — New position created; increases headcount and cost.
+**Addition (green outline)** — New position created; increases headcount and cost.
 
-**Reduction (red)** — Existing position closed; decreases headcount and cost. Types: Layoff/RIF, Voluntary Exit, Elimination.
+**Reduction (red outline)** — Existing position closed; decreases headcount and cost. Types: Layoff/RIF, Voluntary Exit, Elimination.
 
-**Modification (blue)** — Changed attributes on existing position (title, salary, department, manager). May increase or decrease cost.
+**Modification (icon only, no color)** — Changed attributes on existing position (title, salary, department, manager). May increase or decrease cost.
 
-**No Change (white)** — Position exists in both Main Org and scenario; no attributes modified.
+**No Change** — Position exists in both the Main Org and scenario; no attributes modified.
 
 ## Before / After / Changes Views
 
@@ -27,9 +27,11 @@ An editable copy of your Main Org where you model future changes without affecti
 - **Show After** — All scenario changes applied; the proposed future state
 - **Show Changes** — Delta only; shows +/- per department; best for communicating impact
 
-## Change Tracker
+## Change Tracker & OpEx Panel
 
-Real-time panel showing impact of all changes: headcount additions and reductions, net headcount change, net cost impact, breakdown by department. Use it to validate you're hitting budget targets as you work.
+**Change Tracker** — Real-time panel showing impact of all changes: headcount additions and reductions, net headcount change, net cost impact, breakdown by department. Use it to validate you're hitting budget targets as you work.
+
+**OpEx Panel / Scenario Impacts and Changes** — Detailed view of all scenario modifications with before/after values, cost impact per change, and effective dates. Access from the scenario toolbar to review comprehensive change details.
 
 ## Effective Dates
 
@@ -52,7 +54,7 @@ Draft (editable) → Submitted/Pending (locked) → Approved (locked) → Reject
 
 ## Scenario Comparisons
 
-Compare 2–4 scenarios side-by-side: cost, headcount, structure, org health metrics. Create Option A/B/C and use comparisons to choose the best approach for leadership.
+Compare 2 scenarios side-by-side: cost, headcount, structure, org health metrics. Create Option A and Option B and use comparisons to choose the best approach for leadership. Comparisons must be started from the homepage.
 
 ## Projects (Optional)
 

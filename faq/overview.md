@@ -188,7 +188,7 @@ If you're experiencing a specific issue, check the troubleshooting guides:
 
 ### Contact Support
 Can't find your answer? Reach out to Agentnoon support:
-- **Email:** [support@agentnoon.com](mailto:support@agentnoon.com)
+- **Email:** [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
 - **In-app chat:** Click the support icon in the bottom-right corner
 - **Support hours:** Monday-Friday, 9am-5pm PT
 

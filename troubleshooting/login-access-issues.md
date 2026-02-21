@@ -62,7 +62,7 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 
 **Lost MFA device**
 - Use backup recovery codes (if saved during setup)
-- If no backup codes: contact support@agentnoon.com with your email, org name, last login date, and reason for reset
+- If no backup codes: contact SupportSWP@dayforce.com with your email, org name, last login date, and reason for reset
 
 **Disabling MFA**
 - Admins control MFA requirements org-wide; individuals cannot disable it if admin requires it
@@ -86,7 +86,7 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 **Can't reach agentnoon.com**
 - Test other websites; try a different network (hotspot)
 - If it works off your corporate network: ask IT to whitelist `*.agentnoon.com` on port 443 (HTTPS + WebSocket)
-- Contact support@agentnoon.com for Agentnoon IP ranges if IT needs them for allowlisting
+- Contact SupportSWP@dayforce.com for Agentnoon IP ranges if IT needs them for allowlisting
 
 **VPN causing login issues**
 - Try logging in without VPN; if that works, ask IT for split-tunneling or VPN bypass for agentnoon.com
@@ -107,4 +107,4 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 
 **Contact IT for:** network/firewall issues, VPN, SSO provider (Okta/Azure/Google), browser restrictions
 
-**Contact support@agentnoon.com for:** account lockouts, MFA resets, invitation issues, permission problems, or anything not resolved by the solutions above
+**Contact SupportSWP@dayforce.com for:** account lockouts, MFA resets, invitation issues, permission problems, or anything not resolved by the solutions above

@@ -40,7 +40,7 @@ Your **current state** organization as it exists today. This is the source of tr
 **Future state** versions of your organization where you model changes. Think of scenarios as sandboxes where you can experiment with org design.
 
 **Characteristics:**
-- Editable copies of Main Org
+- Editable copies of the Main Org
 - Support "what-if" planning
 - Track all changes
 - Can be compared, shared, and approved
@@ -109,7 +109,7 @@ Visual containers displaying position or employee information.
 
 ---
 
-## Span of Control & Layers
+## Spans and Layers
 
 ### Span of Control (SOC)
 

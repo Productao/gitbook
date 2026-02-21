@@ -9,10 +9,10 @@ description: >-
 ### Prerequisites
 
 * Agentnoon account
-* Valid API key for authentication. This can be requested from [support@agentnoon.com](mailto:support@agentnoon.com)
+* Valid API key for authentication. This can be requested from [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
 * CSV file to be uploaded.
 * API endpoint URL for file upload.
-* Whitelisted IP Address - Contact support@agentnoon.com to whitelist the IP address from which you will be uploading data.
+* Whitelisted IP Address - Contact SupportSWP@dayforce.com to whitelist the IP address from which you will be uploading data.
 * Schema Configuration - Work with your account manager to configure Agentnoon to align with the schema of the data being uploaded.
 * Upload Cadence - Determine the appropriate upload frequency based on your business needs.
 
@@ -44,7 +44,7 @@ description: >-
 1. Verify the API KEY
 2. Prepare the CSV file.
 3. Work with your account manager to configure the Agentnoon schema.
-4. Contact support@agentnoon.com to whitelist your IP address.
+4. Contact SupportSWP@dayforce.com to whitelist your IP address.
 5. Construct the API request.
 6. Send the API request.
 7. Handle the API response.
@@ -66,6 +66,6 @@ The request body should be in \`multipart/form-data\` format, including the CSV 
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 400              | Bad Request - The request could not be understood or contained invalid data.                                                                                                     |
 | 401              | Unauthorized - Authentication failed due to an invalid or missing API Key.                                                                                                       |
-| 403              | Forbidden - The request was valid, but the server is refusing to respond to it.  Contact support@agentnoon.com if you receive this error to ensure your IP has been whitelisted. |
+| 403              | Forbidden - The request was valid, but the server is refusing to respond to it.  Contact SupportSWP@dayforce.com if you receive this error to ensure your IP has been whitelisted. |
 | 415              | Unsupported Media Type - The server does not support the provided file type.                                                                                                     |
 | 500              | Internal Server Error - An unexpected error occurred on the server.                                                                                                              |

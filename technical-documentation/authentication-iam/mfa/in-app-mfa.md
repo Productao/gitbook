@@ -23,4 +23,4 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Note:** If you have enabled in-app Multi-Factor Authentication (MFA), there is currently no way for users to disable it themselves. Please contact _**support@agentnoon.com**_ to have it disabled on your behalf.
+**Note:** If you have enabled in-app Multi-Factor Authentication (MFA), there is currently no way for users to disable it themselves. Please contact _**SupportSWP@dayforce.com**_ to have it disabled on your behalf.
