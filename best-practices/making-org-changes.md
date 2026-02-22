@@ -27,7 +27,7 @@ Never make organizational changes directly in Main Org. Scenarios let you:
 
 In your scenario, make the changes (add, close, move, modify positions), then verify:
 
-- **Change Tracker:** Net headcount and cost impact, with itemized additions/reductions/modifications
+- **OpEx Panel:** Net headcount and cost impact, with itemized additions/reductions/modifications
 - **Org chart:** Reporting relationships are correct; no broken hierarchies (orange icon)
 - **SOC metrics:** Add "Direct SOC" to Card Content to see spans on every card — aim for 5–10 reports per manager
 - **Forecast:** Toggle Show Changes to see department-level headcount deltas over time
@@ -56,7 +56,7 @@ Pre-socialize with key approvers before formal submission to surface concerns ea
 
 Use Agentnoon exports to support communication:
 - **PowerPoint org charts:** Before/after visuals for executive and all-hands presentations
-- **Change Tracker CSV:** Summary of additions, reductions, moves with cost impact
+- **OpEx Panel CSV:** Summary of additions, reductions, moves with cost impact
 - **Forecast export:** Timeline of when changes take effect by department
 
 Lead with the "why" — employees respond better to rationale than to announcements of structure changes alone.

@@ -15,15 +15,15 @@ Scenarios let you model org changes before implementing them. The core cycle: ma
 
 **Bulk:** Select multiple positions, then bulk edit attributes, bulk change manager, or bulk close. See [Bulk Operations](bulk-operations.md).
 
-## The Change Tracker
+## The OpEx Panel
 
-The Change Tracker panel shows real-time impact of every change:
+The OpEx Panel panel shows real-time impact of every change:
 - **Additions (+):** new positions, cost increases, headcount increases
 - **Closures (−):** RIF'd positions, cost savings, headcount reductions
 - **Modifications (~):** changed attributes (title, department, salary, manager)
 - **Net:** total headcount change and total cost change
 
-Check the Change Tracker after every edit to catch unintended impacts early.
+Check the OpEx Panel after every edit to catch unintended impacts early.
 
 ## Time-Based Planning
 
@@ -48,7 +48,7 @@ Create multiple versions (Option A, Option B, Option C) and use Scenario Compari
 ## Common Mistakes to Avoid
 
 - **Delete instead of Close** — Close preserves the audit trail and cost tracking for real reductions; Delete removes all record
-- **Ignoring the Change Tracker** — Unintended cost impacts are easy to miss
+- **Ignoring the OpEx Panel** — Unintended cost impacts are easy to miss
 - **No effective dates** — Forecast shows changes as immediate rather than phased
 - **No alternatives** — Model 2–3 options before choosing one
 - **Too broad access** — Limit Edit access; use View access for stakeholders

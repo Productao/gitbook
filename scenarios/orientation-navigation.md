@@ -11,7 +11,7 @@ When you open a scenario, you'll see:
 - **Main content area:** Org chart, directory, forecast, or hub depending on the selected view
 - **Top toolbar:** View selector, Before/After/Changes toggle, Save/Export/Share/Submit buttons
 - **Side toolbar:** Scenario info, quick actions, change summary
-- **Change Tracker panel:** Real-time impact display (toggle with the 👀 icon)
+- **OpEx Panel panel:** Real-time impact display (toggle with the 👀 icon)
 
 ## Views
 
@@ -40,7 +40,7 @@ Switch views using the dropdown in the toolbar (or keyboard shortcuts):
 - **Spotlight** — Dim unselected positions to focus attention when presenting
 
 **Scenario-only tools:**
-- **Change Tracker (👀)** — All modifications with cost/headcount impact; keep open while working
+- **OpEx Panel (👀)** — All modifications with cost/headcount impact; keep open while working
 - **Comments** — Threaded discussion on specific positions; @mention teammates
 - **Share** — Add collaborators with View/Edit/Comment permissions
 - **Compare** — Side-by-side comparison with other scenarios or Main Org

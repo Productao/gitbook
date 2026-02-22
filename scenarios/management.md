@@ -184,7 +184,7 @@ Best practices for keeping scenarios organized:
 2. Click **Export** button
 3. Select **Org Chart**
 4. Choose **PDF** format
-5. Select options (show symbols, include Change Tracker, etc.)
+5. Select options (show symbols, include OpEx Panel, etc.)
 6. Click **Export**
 
 **When to use:**
@@ -220,7 +220,7 @@ Best practices for keeping scenarios organized:
 - **Solution:** Use consistent naming (v1, v2, v3) or date stamps (2026-02-15).
 
 **Problem:** Lost track of what changed in a scenario.
-- **Solution:** Open scenario and review Change Tracker or export change log for detailed breakdown.
+- **Solution:** Open scenario and review OpEx Panel or export change log for detailed breakdown.
 
 ---
 

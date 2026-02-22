@@ -86,7 +86,7 @@ Create a scenario to test potential changes:
    - Split teams with very high SOC
    - Add manager layers where needed
    - Remove layers where possible
-3. Use the **Change Tracker** to see cost/headcount impact
+3. Use the **OpEx Panel** to see cost/headcount impact
 
 ## Step 7: Compare Options
 

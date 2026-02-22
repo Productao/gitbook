@@ -52,7 +52,7 @@ Best for executive and board presentations. Each manager with direct reports get
 
 > **Note:** Directory exports are less commonly used. Most users prefer org chart PowerPoint or change summaries for stakeholder communication.
 
-**Change Summary** — Exportable directly from the Change Tracker panel. Includes every changed position with change type, before/after values, cost impact, and effective date.
+**Change Summary** — Exportable directly from the OpEx Panel panel. Includes every changed position with change type, before/after values, cost impact, and effective date.
 
 **Forecast export** — From Forecast view: configure time period, aggregation, and metric, then export the projection table. Shows headcount/cost by department over time with phasing based on effective dates.
 
@@ -80,7 +80,7 @@ In Scenario Comparisons view, click **Export** to download a side-by-side summar
 |---------|----------|
 | Export button grayed out | Verify your role has export access; contact scenario owner |
 | Exported data doesn't match screen | Check active view mode (Before/After/Changes) and filters |
-| Change summary is empty | Scenario may have no changes; verify Change Tracker shows changes |
+| Change summary is empty | Scenario may have no changes; verify OpEx Panel shows changes |
 | Effective dates missing from export | Export from Forecast view or use Change Summary export |
 | Can't export comparison | Ensure multiple scenarios are selected in comparison view |
 

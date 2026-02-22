@@ -23,7 +23,7 @@ After selecting positions, click **Bulk Edit** to apply changes:
 
 - **Department, Location, Pay Grade, Manager, custom fields:** Change the value for all selected positions simultaneously
 - **Salary adjustments:** Apply a flat amount or percentage increase to all selected positions
-- **Close positions:** Mark multiple positions as closed (RIF reason); tracked in Change Tracker as cost savings
+- **Close positions:** Mark multiple positions as closed (RIF reason); tracked in OpEx Panel as cost savings
 
 A preview shows which positions will change and their old/new values — review before confirming.
 
@@ -33,13 +33,13 @@ A preview shows which positions will change and their old/new values — review 
 
 **Apply merit increases by pay grade:** Filter by Pay Grade = 10 > Select All > Bulk Edit > Salary > +3% > repeat for other grades
 
-**Close positions for RIF:** Filter by department + criteria > select target positions > Bulk Close > RIF reason > verify cost impact in Change Tracker
+**Close positions for RIF:** Filter by department + criteria > select target positions > Bulk Close > RIF reason > verify cost impact in OpEx Panel
 
 **Relocate remote team:** Filter to Department + Location = Remote > Select All > Bulk Edit > Location > [office city]
 
 ## Change Tracking
 
-All bulk changes are tracked in the Change Tracker panel — change type, old and new values, timestamp. Review there after applying bulk edits to verify expected impact.
+All bulk changes are tracked in the OpEx Panel panel — change type, old and new values, timestamp. Review there after applying bulk edits to verify expected impact.
 
 ## Troubleshooting
 
@@ -48,7 +48,7 @@ All bulk changes are tracked in the Change Tracker panel — change type, old an
 | No checkboxes / Bulk Edit button missing | Must be in Scenario Directory; Main Org Directory is view-only |
 | Select All doesn't select everyone | Only selects visible (filtered) rows; clear filters to expand selection |
 | Bulk edit applied wrong changes | Use scenario undo (Cmd/Ctrl+Z) immediately; or restore from scenario duplicate made before the operation |
-| Changes not in Change Tracker | Refresh the tracker panel; verify changes were applied by reviewing positions individually |
+| Changes not in OpEx Panel | Refresh the tracker panel; verify changes were applied by reviewing positions individually |
 
 ## Related Articles
 

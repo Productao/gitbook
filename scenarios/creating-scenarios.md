@@ -30,7 +30,7 @@ Never use: "New Scenario", "Test", "Draft", "Scenario 1"
 
 ## Step 3: Optional Settings
 
-**Budget:** Set a cost target (e.g., -$2M). Change Tracker shows green/yellow/red progress against budget as you work.
+**Budget:** Set a cost target (e.g., -$2M). OpEx Panel shows green/yellow/red progress against budget as you work.
 
 **Effective Date:** Target implementation date. Used by Forecast to show when scenario changes take effect.
 

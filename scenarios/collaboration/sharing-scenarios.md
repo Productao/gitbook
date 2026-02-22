@@ -30,7 +30,7 @@ Users receive an email notification and can access the scenario from their homep
 - View the scenario org chart
 - See positions and employees
 - Read comments
-- View Change Tracker
+- View OpEx Panel
 - Export data (if permitted)
 
 **What they cannot do:** Make changes, add/edit/delete positions, leave comments.

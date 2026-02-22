@@ -30,7 +30,7 @@ The position becomes vacant and remains in the org chart. The employee is availa
 
 **Backfill (departing employee):** Hover over the departing employee's position > **⋮** > **Add Backfill** — closes the existing position and creates a new vacant one in its place.
 
-**Model new hires:** Add positions, leave them vacant, set salaries and hire dates. Assign real people later when known. Track cost impact in Change Tracker.
+**Model new hires:** Add positions, leave them vacant, set salaries and hire dates. Assign real people later when known. Track cost impact in OpEx Panel.
 
 **Succession planning:** Create multiple scenarios — Scenario A (Candidate 1), Scenario B (Candidate 2) — each assigning a different person to the leadership role.
 

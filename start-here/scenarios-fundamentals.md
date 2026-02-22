@@ -101,9 +101,9 @@ When creating a scenario, choose from three types:
 
 ## Key Scenario Features
 
-### Change Tracker
+### OpEx Panel
 
-> **[Screenshot placeholder: Change Tracker panel showing list of changes with headcount and cost impact]**
+> **[Screenshot placeholder: OpEx Panel panel showing list of changes with headcount and cost impact]**
 
 See every change you've made with cost impact:
 

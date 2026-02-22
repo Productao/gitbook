@@ -23,7 +23,7 @@ An editable copy of your org chart where you can freely add, close, move, and ed
 
 1. **Create** — Choose type, scope, and name
 2. **Model** — Add, close, move, edit positions; set effective dates for phasing
-3. **Analyze** — Review Change Tracker (net headcount, net cost, itemized changes)
+3. **Analyze** — Review OpEx Panel (net headcount, net cost, itemized changes)
 4. **Compare** — Create alternative scenarios and compare side-by-side
 5. **Collaborate** — Share with stakeholders; use Comments to discuss specific positions
 6. **Approve** — Submit through approval workflow; track status
@@ -31,7 +31,7 @@ An editable copy of your org chart where you can freely add, close, move, and ed
 
 ## Key Features
 
-**Change Tracker** — Real-time cost and headcount impact of every change (additions +cost, closures −cost, modifications). No spreadsheet math needed.
+**OpEx Panel** — Real-time cost and headcount impact of every change (additions +cost, closures −cost, modifications). No spreadsheet math needed.
 
 **Time-Based Planning** — Set effective dates to model phased changes. Forecast shows exactly when each change hits headcount and budget.
 
@@ -58,7 +58,7 @@ Reorganizations, annual hiring plans, budget cuts and RIFs, team expansions, M&A
 2. Choose Partial Org > select scope
 3. Name clearly: "Engineering Q2 2026 Reorg"
 4. Start editing — see [Making Position Changes](making-position-changes.md)
-5. Check the Change Tracker frequently
+5. Check the OpEx Panel frequently
 
 ## Related Articles
 

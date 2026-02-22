@@ -59,7 +59,7 @@ Learn how to create and use scenarios to model organizational changes.
 - Creating Full Org vs Partial Org scenarios
 - Adding and editing positions
 - Moving positions and changing managers
-- Using the Change Tracker
+- Using the OpEx Panel
 - Closing positions (RIF)
 
 ---

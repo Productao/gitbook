@@ -58,7 +58,7 @@ For each function (Finance, HR, Engineering, etc.):
 
 ## Step 5: Analyze Cost Impact
 
-Open the **Change Tracker** to review:
+Open the **OpEx Panel** to review:
 - Net headcount reduction
 - Annual compensation savings by department
 - Total cost synergies vs. targets

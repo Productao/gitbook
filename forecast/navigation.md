@@ -3,11 +3,13 @@ description: Navigating the Forecast interface and tools
 hidden: false
 ---
 
-# Forecast Navigation
+# Orientation & Navigation
+
+> **[Screenshot placeholder: Forecast view showing the full interface layout with toolbar, table, and time periods]**
 
 ## Accessing Forecast
 
-From Main Org or any scenario: click the view dropdown at the top > select **Forecast**. Configuration (aggregator, time period, etc.) is retained when you switch between contexts.
+From the Main Org or any scenario: click the view dropdown at the top > select **Forecast**. Configuration (aggregator, time period, etc.) is retained when you switch between contexts.
 
 ## Interface Layout
 
@@ -38,6 +40,10 @@ From Main Org or any scenario: click the view dropdown at the top > select **For
 - **Show Before** — Main Org baseline
 - **Show After** — Scenario final state
 - **Show Changes** — Delta between before and after (+/- per row)
+
+> **[Screenshot placeholder: Forecast top bar showing Row Aggregator, Headcount/Cost toggle, time period selection, and export button]**
+
+> **[Screenshot placeholder: Before/After/Changes toggle in a scenario Forecast view]**
 
 ## Common Navigation Workflows
 

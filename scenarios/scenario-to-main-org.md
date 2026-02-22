@@ -35,7 +35,7 @@ The merge process is the same for both. A partial org scenario only affects posi
 ## Before Merging
 
 1. Verify the scenario is fully approved
-2. Review it one more time (open the scenario, check Change Tracker for complete impact)
+2. Review it one more time (open the scenario, check OpEx Panel for complete impact)
 3. Communicate to affected teams that changes are going live
 4. Choose timing: merge during low-activity periods; coordinate with team announcements
 
@@ -58,4 +58,4 @@ The merge process is the same for both. A partial org scenario only affects posi
 
 - [Scenario Approvals](approvals.md)
 - [Scenario Merging](merging.md)
-- [Change Tracker](tracking-analysis.md)
+- [OpEx Panel](tracking-analysis.md)

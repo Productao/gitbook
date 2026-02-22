@@ -14,7 +14,7 @@ hidden: false
 - Identifying positions to close (by cost, department, level)
 - Using Directory filters to select positions for elimination
 - Modeling RIF (Reduction in Force) options
-- Analyzing cost impact with Change Tracker
+- Analyzing cost impact with OpEx Panel
 - Evaluating organizational impact (span of control, layers)
 - Comparing multiple budget cut scenarios
 - Presenting budget cut options to leadership

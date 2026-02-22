@@ -90,7 +90,7 @@ Toolbar tool that lets you customize which fields appear on position cards. Cont
 
 **Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
 
-### Change Tracker
+### OpEx Panel
 Panel showing all modifications in a scenario: additions (green), reductions (red), modifications (blue), with net cost and headcount impact.
 
 **Also called:** OpEx Panel, Scenario Impacts and Changes

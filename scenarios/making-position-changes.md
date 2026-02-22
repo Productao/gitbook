@@ -27,7 +27,7 @@ New positions show a green indicator in the bottom-left corner.
 
 **Close a position (RIF)**
 - Hover > click **❌** > select reason (Layoff/RIF or Exit/Voluntary) > Confirm
-- Closed positions are tracked in the Change Tracker as cost savings and remain visible (grayed out)
+- Closed positions are tracked in the OpEx Panel as cost savings and remain visible (grayed out)
 - Use Close (not Delete) when modeling real org changes — Close preserves the audit trail
 
 **Duplicate a position**
@@ -35,7 +35,7 @@ New positions show a green indicator in the bottom-left corner.
 - All copies have the same attributes; edit each individually to customize
 
 **Delete a position**
-- Hover > **⋮** > Delete — permanently removes from scenario with no Change Tracker record
+- Hover > **⋮** > Delete — permanently removes from scenario with no OpEx Panel record
 - Use only for test positions or mistakes, not for modeling real reductions
 
 ## Employee Assignment

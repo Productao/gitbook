@@ -61,7 +61,7 @@ The scenario starts with the current structure as the "before" state.
 
 **Broken hierarchies:** Spotlight > Rules > Broken Hierarchies — fix any before proceeding.
 
-**Change Tracker (OpEx Panel):** Shows net headcount change, cost impact, and every individual change with before/after values. Review before submitting.
+**OpEx Panel (OpEx Panel):** Shows net headcount change, cost impact, and every individual change with before/after values. Review before submitting.
 
 **Forecast view:** Switch to Forecast > Aggregate by Department > Show Changes to see which departments gained or lost headcount and when (if effective dates are set).
 

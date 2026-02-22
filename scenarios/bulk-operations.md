@@ -27,7 +27,7 @@ Once positions are selected, the bulk edit panel opens on the right:
 
 **Change Manager** — Reassign all selected positions to report to a different manager. Use this for consolidating teams or restructuring after a manager departure.
 
-**Close Positions (Bulk RIF)** — Mark multiple positions as closed (Layoff/RIF or Exit/Voluntary). Tracks cost savings in Change Tracker and preserves history. Use Close, not Delete, for real org reductions.
+**Close Positions (Bulk RIF)** — Mark multiple positions as closed (Layoff/RIF or Exit/Voluntary). Tracks cost savings in OpEx Panel and preserves history. Use Close, not Delete, for real org reductions.
 
 **Detach Employees** — Remove employees from multiple positions, leaving positions vacant and employees available for reassignment.
 
@@ -39,7 +39,7 @@ Once positions are selected, the bulk edit panel opens on the right:
 
 **Reorganize a whole team:** Directory > Filter by Manager = "Name" > select all > Change Manager to new lead.
 
-**Model a department budget cut:** Directory > Filter by department + pay grade > select target positions > Close Positions > Layoff (RIF) > verify savings in Change Tracker.
+**Model a department budget cut:** Directory > Filter by department + pay grade > select target positions > Close Positions > Layoff (RIF) > verify savings in OpEx Panel.
 
 **Standardize job titles:** Org chart > Cmd/Ctrl+click inconsistently-titled positions > Edit Attributes > Job Title > new standard value.
 

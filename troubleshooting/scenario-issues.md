@@ -9,13 +9,13 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 ## Save & Load Issues
 
-**Scenario won't save / Save button grayed out**
-- Check if scenario is locked (submitted for approval) — cannot edit until returned
+**Can't make changes to a scenario**
+- Check if scenario is locked (submitted for approval) — cannot edit until returned or rejected
 - Verify you have edit permissions (not view-only)
-- Check internet connection; try refreshing the page or a different browser
+- Locked scenarios will show a visual indication that editing is disabled
 
 **Changes keep reverting**
-- Watch for the auto-save indicator; click Save manually and wait for "Changes saved" confirmation
+- All changes autosave automatically as you make them — if changes appear to revert, check your internet connection
 - Clear browser cache; if still reverting, try a different browser and contact support
 
 **Scenario won't load / blank screen**
@@ -44,9 +44,9 @@ Common solutions for scenario save failures, approval problems, change tracking 
 - Reassign or close direct reports first, then close the parent
 - Main Org positions can be "closed" in a scenario but not deleted — use the Reduction interaction
 
-## Change Tracker Issues
+## OpEx Panel Issues
 
-**Change Tracker not updating**
+**OpEx Panel not updating**
 - Click Save, wait a few seconds, then refresh
 - Open via the 👀 icon; if still not updating, close and reopen the scenario
 
@@ -82,7 +82,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 ## Approval Workflow Issues
 
 **Can't submit for approval**
-- Confirm the scenario has changes (check Change Tracker)
+- Confirm the scenario has changes (check OpEx Panel)
 - Ensure all changes are saved; verify you have submit permissions
 - Contact admin if approval workflow needs configuration: [Configuring Approval Flows](../admin/configuring-approval-flows.md)
 
@@ -117,7 +117,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 Contact SupportSWP@dayforce.com if:
 - Scenario corrupted or won't load after trying solutions
-- Changes saving but not appearing in Change Tracker
+- Changes saving but not appearing in OpEx Panel
 - Bulk operations failing repeatedly
 - Approval workflow completely stuck
 

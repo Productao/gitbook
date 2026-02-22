@@ -25,7 +25,7 @@ Since multiple users can edit a scenario with Edit Access, coordinate to avoid c
 1. Add a comment announcing which section you're working on (e.g., "Working on Engineering — taking until EOD")
 2. Check the presence icons before making large structural changes
 3. Work in different departments or branches to minimize overlap
-4. If two users edit the same position simultaneously, the last save wins — use Change Tracker to review what happened
+4. If two users edit the same position simultaneously, the last save wins — use OpEx Panel to review what happened
 
 ## Best Practices
 

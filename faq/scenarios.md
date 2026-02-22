@@ -72,7 +72,7 @@ Answers to common questions about creating, managing, and working with scenarios
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
 ### What's the difference between closing and deleting a position?
-**Answer:** Closing a position tracks it in the Change Tracker as cost savings and preserves history (use for RIFs and budget cuts). Deleting permanently removes it with no tracking (use only for cleanup of test positions or mistakes).
+**Answer:** Closing a position tracks it in the OpEx Panel as cost savings and preserves history (use for RIFs and budget cuts). Deleting permanently removes it with no tracking (use only for cleanup of test positions or mistakes).
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
@@ -110,14 +110,14 @@ Answers to common questions about creating, managing, and working with scenarios
 ## Tracking Impact & Analysis
 
 ### Where do I see the cost and headcount impact of my changes?
-**Answer:** Check the Change Tracker (also called OpEx Panel or Scenario Impacts and Changes). It shows net headcount change, net cost impact, list of all additions and closures, and a submission button for approval.
+**Answer:** Check the OpEx Panel (also called OpEx Panel or Scenario Impacts and Changes). It shows net headcount change, net cost impact, list of all additions and closures, and a submission button for approval.
 
-> **[Screenshot placeholder: Change Tracker panel displaying summary metrics - Net Headcount: +12, Net Cost: +$1.8M, with expandable sections for Additions (15 green), Reductions (3 red), and Data Changes (8 blue)]**
+> **[Screenshot placeholder: OpEx Panel panel displaying summary metrics - Net Headcount: +12, Net Cost: +$1.8M, with expandable sections for Additions (15 green), Reductions (3 red), and Data Changes (8 blue)]**
 
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 
 ### How do I compare two scenarios side-by-side?
-**Answer:** Open both scenarios in separate browser tabs, or use the scenario comparison feature if available. Compare the Change Tracker summaries, org chart structures, and export both to CSV for detailed analysis in Excel.
+**Answer:** Open both scenarios in separate browser tabs, or use the scenario comparison feature if available. Compare the OpEx Panel summaries, org chart structures, and export both to CSV for detailed analysis in Excel.
 
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 

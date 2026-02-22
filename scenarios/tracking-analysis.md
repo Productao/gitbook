@@ -1,29 +1,15 @@
 ---
-description: Monitoring scenario impact and changes
+description: Analyzing scenario impact using Workforce Hub
 hidden: false
 ---
 
-# Scenario Tracking & Analysis
+# Scenario Analysis
 
-Agentnoon automatically tracks every modification in a scenario and shows real-time cost and headcount impact.
-
-## The Change Tracker
-
-The Change Tracker (right panel, toggle with 👀 icon) shows three categories:
-
-- **Additions (+):** New positions — title, department, salary, effective date, cost/headcount impact
-- **Reductions (−):** Closed positions — closure reason, cost savings, effective date
-- **Modifications (~):** Changed positions — before/after values for each field, cost impact
-
-**Summary at bottom:** Net headcount change, net cost impact, total scenario cost.
-
-**Filtering and sorting:** Filter by change type (Additions / Reductions / Modifications); sort by cost impact, effective date, or department.
-
-**Export:** Change Tracker > Export > CSV or PDF — includes all changes with cost/headcount detail and summary totals.
+Agentnoon provides several ways to analyze the impact of your scenario changes beyond the [OpEx Panel](opex-panel.md).
 
 ## Before-and-After Analysis in Workforce Hub
 
-Open Workforce Hub inside a scenario (Org Chart dropdown > Workforce Hub) to compare baseline vs. scenario state:
+Open Workforce Hub inside a scenario (view dropdown > Workforce Hub) to compare baseline vs. scenario state:
 
 - **Headcount comparison:** By department, location, or any attribute
 - **Cost comparison:** Total compensation before and after, broken down by dimension
@@ -31,14 +17,24 @@ Open Workforce Hub inside a scenario (Org Chart dropdown > Workforce Hub) to com
 - **Layers comparison:** Number of management levels before and after
 - **Custom metrics:** Diversity metrics, cost per employee, manager-to-IC ratio (if configured)
 
-Toggle between side-by-side, Before only, or After only views. Apply filters to drill into specific departments or locations.
+Toggle between Before only, or After only views. Apply filters to drill into specific departments or locations.
+
+## Activity Log
+
+The Activity Log tracks every action taken in a scenario — who made what change and when. This provides a full audit trail of scenario modifications.
+
+## Exporting Change Data
+
+To download a record of all changes:
+1. Click the **Export Data** button in the toolbar
+2. Select **Comparisons Report** to download a before/after comparison of all positions
+
+For more export options, see [Exporting Scenario Data](exporting.md).
 
 ## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
-| Unexpected cost impact | Review Modifications — a salary field may have changed unintentionally |
+| Unexpected cost impact | Review modifications in the [OpEx Panel](opex-panel.md) — a salary field may have changed unintentionally |
 | Headcount doesn't match expected | Check closed vs. deleted — closed positions still count as reductions |
-| Can't find a specific change | Filter or sort; check whether it's a Modification vs. Addition/Reduction |
-| Before/after charts look the same | Confirm you're in a scenario (not Main Org); verify changes were saved |
-| Can't export Change Tracker | Check permissions — export may be restricted by admin |
+| Before/after charts look the same | Confirm you're in a scenario (not the Main Org); verify changes were made |

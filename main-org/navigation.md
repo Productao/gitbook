@@ -37,7 +37,7 @@ Clear all filters: Filter icon > Clear All (or remove individual filter tags). F
 
 ## What's NOT Available in Main Org
 
-Add, Edit, Move, Close positions; Assign employees; Bulk operations; Change Tracker; Comments.
+Add, Edit, Move, Close positions; Assign employees; Bulk operations; OpEx Panel; Comments.
 
 To do any of these: create a Scenario.
 
@@ -48,7 +48,7 @@ To do any of these: create a Scenario.
 | Search, Filter, Highlight, Spotlight, Card Content, Export, Layout | ✅ | ✅ |
 | Add/Edit/Move/Close positions | ❌ | ✅ |
 | Bulk Operations | ❌ | ✅ |
-| Change Tracker (👀) | ❌ | ✅ |
+| OpEx Panel (👀) | ❌ | ✅ |
 | Comments | ❌ | ✅ |
 | Approvals | ❌ | ✅ |
 
