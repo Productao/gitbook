@@ -73,6 +73,6 @@ This checklist covers everything an administrator needs to set up and manage the
 
 - [Admin Overview](../../admin/overview.md)
 - [Data Import Guide](../../data-import/data-import.md)
-- [Access Control Overview](../../access-control/access-groups.md)
+- [Access Control Overview](../../access-control/overview.md)
 - [Troubleshooting Overview](../../troubleshooting/overview.md)
 - [Technical Documentation](../../technical-documentation/technical-overview.md)
