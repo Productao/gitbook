@@ -70,9 +70,15 @@ Best for executive and board presentations. Each manager with direct reports get
 
 ## Comparison Exports
 
-In Scenario Comparisons view, click **Export** to download a side-by-side summary (PDF for presentations, CSV/Excel for analysis) of all compared scenarios.
+In Scenario Comparisons view, click **Export Comparison** to download a side-by-side summary of compared scenarios.
 
-**Learn more:** [Scenario Comparison Exporting](comparison-exporting.md)
+**Available formats:**
+
+- **Excel** — Multi-sheet file with a Summary sheet (scenario names, net headcount/cost per scenario), Department Breakdown (headcount and cost by department per scenario), and Change Detail (all position changes with before/after values)
+- **CSV** — Single file with one row per position/metric, columns for each compared scenario
+- **PowerPoint** — Side-by-side org charts with a summary slide
+
+Export before the decision point to capture the state at that moment. Filter before exporting to focus stakeholders on the relevant segment.
 
 ## Troubleshooting
 

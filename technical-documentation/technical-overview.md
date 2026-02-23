@@ -1,6 +1,6 @@
 ---
 description: Technical architecture and system overview
-hidden: false
+hidden: true
 ---
 
 # IPR Technical Overview

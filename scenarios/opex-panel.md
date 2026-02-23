@@ -69,7 +69,18 @@ See [Scenario Approvals](approvals.md) for the full approval workflow.
 
 The OpEx Panel does not have an export/download capability. To download a record of changes:
 
-- **Activity Log** — View the log of all changes made in the scenario
+- **Activity Log** — View the log of all changes made in the scenario (who made what change and when)
 - **Export Data** button in the toolbar → select **Comparisons Report** to download a before/after comparison of all positions
 
 > **[Screenshot placeholder: OpEx Panel showing Effective Date view with changes grouped by date]**
+
+### Before-and-After Analysis in Workforce Hub
+
+Open Workforce Hub inside a scenario (view dropdown > Workforce Hub) to compare baseline vs. scenario state visually:
+
+- **Headcount comparison** by department, location, or any attribute
+- **Cost comparison** — total compensation before and after
+- **Span of Control comparison** — average SOC and distribution
+- **Layers comparison** — number of management levels before and after
+
+Toggle between Before and After views. Apply filters to drill into specific segments.

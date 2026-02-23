@@ -38,16 +38,13 @@
 * [✅ Scenario Approvals](scenarios/approvals.md)
 * [🔍 Scenario Directory](scenarios/directory.md)
 * [📅 Time-Based Planning](scenarios/time-based-planning.md)
-* [📊 Scenario Analysis](scenarios/tracking-analysis.md)
 * [🔄 Scenario Comparisons](scenarios/comparisons.md)
 * [📤 Exporting Scenario Data](scenarios/exporting.md)
-  * [Comparison Exporting](scenarios/comparison-exporting.md)
 * [🗂️ Scenario Management](scenarios/management.md)
   * [Basic Actions](scenarios/management/basic-actions.md)
   * [Tags](scenarios/management/tags.md)
   * [Symbols](scenarios/management/symbols.md)
   * [Organizing Scenarios](scenarios/management/organizing-scenarios.md)
-* [🚧 TBD Project Creation](scenarios/projects.md)
 * [👥 Scenario Collaboration](scenarios/collaboration.md)
   * [Sharing Scenarios](scenarios/collaboration/sharing-scenarios.md)
   * [Commenting](scenarios/collaboration/commenting.md)
@@ -56,7 +53,6 @@
 * [📊 Scenario Forecast](scenarios/scenario-forecast.md)
 * [📈 Scenario Workforce Hub](scenarios/scenario-workforce-hub.md)
 * [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
-  * [TBD Scenario Refresh](scenarios/refresh.md)
   * [Scenario Merging](scenarios/merging.md)
   * [Scenario to Main Org](scenarios/scenario-to-main-org.md)
   * [Partial Data Upload](admin/data-management/partial-data-upload.md)
@@ -98,11 +94,7 @@
 
 * [🎓 Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
 * [🏢 M&A Integration](use-case-tutorials/ma-integration.md)
-* [📋 IPR Building an Annual Hiring Plan](use-case-tutorials/annual-hiring-plan.md)
 * [📊 Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
-* [💰 IPR Modeling Budget Cuts](use-case-tutorials/modeling-budget-cuts.md)
-* [💵 IPR Compensation Planning](use-case-tutorials/compensation-planning.md)
-* [🎯 IPR Succession Planning](use-case-tutorials/succession-planning.md)
 * [📈 Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 
 ## Frequently Asked Questions
@@ -146,8 +138,7 @@
   * [General Settings](settings/general.md)
 * [✅ Configuring Approval Flows](admin/configuring-approval-flows.md)
 * [🔄 Data Refresh & Sync](admin/data-refresh-sync.md)
-* [🔔 TBD Platform Notifications](admin/notifications.md)
-* [👥 TBD Access Groups Examples](admin/access-groups-examples.md)
+* [👥 Access Groups Examples](admin/access-groups-examples.md)
 
 ## Assets & Quick Guides
 
@@ -169,7 +160,6 @@
 
 ## Technical Documentation
 
-* [🔧 IPR Technical Overview](technical-documentation/technical-overview.md)
 * [🔐 Authentication & IAM](authentication-and-identity-security/README.md)
   * [MFA](authentication-and-identity-security/mfa/README.md)
     * [In-App MFA](authentication-and-identity-security/mfa/in-app-mfa.md)
@@ -178,8 +168,6 @@
     * [Microsoft SSO Integration (Azure AD)](authentication-and-identity-security/single-sign-on-sso/microsoft-sso-integration-azure-ad.md)
     * [Google and Microsoft SSO](authentication-and-identity-security/single-sign-on-sso/google-and-microsoft-sso.md)
   * [Whitelisting](authentication-and-identity-security/whitelisting.md)
-  * [IPR Best Practices](authentication-and-identity-security/best-practices.md)
-  * [IPR Troubleshooting Authentication Issues](authentication-and-identity-security/troubleshooting-authentication-issues.md)
 * [🔒 Data Security & Privacy](technical-documentation/data-security-privacy.md)
 * [🔄 Live Data Refresh](live-data-integration/what-is-a-live-data-integration.md)
   * [Available Data Integration Methods](live-data-integration/available-data-integration-methods/README.md)

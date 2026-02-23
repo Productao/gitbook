@@ -1,6 +1,6 @@
 ---
 description: Annual planning workflow and best practices
-hidden: false
+hidden: true
 ---
 
 # IPR Building an Annual Hiring Plan

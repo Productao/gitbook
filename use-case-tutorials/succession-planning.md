@@ -1,6 +1,6 @@
 ---
 description: Identifying and planning for transitions
-hidden: false
+hidden: true
 ---
 
 # IPR Succession Planning

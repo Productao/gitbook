@@ -1,6 +1,6 @@
 ---
 description: Planning and modeling compensation changes
-hidden: false
+hidden: true
 ---
 
 # IPR Compensation Planning
