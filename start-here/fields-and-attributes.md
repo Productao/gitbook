@@ -5,165 +5,54 @@ hidden: false
 
 # Fields and Attributes
 
-Fields (also called attributes) are the data points that define your organization in Agentnoon. Understanding how they work will help you customize what information you track and how it appears throughout the application.
-
-## What Are Fields?
-
-Fields are individual data points used to capture and store information about your positions and people. Examples include:
-
-- Job Title
-- Department
-- Work Location
-- Pay Grade
-- Salary
-- Start Date
-- Manager Name
-
-Fields appear everywhere in Agentnoon: on cards, in the directory, in analytics charts, and in exports.
+Fields are the data points that define your organization in Agentnoon — things like Job Title, Department, Salary, and Location. They appear on cards, in the directory, in analytics charts, and in exports.
 
 ## Minimum Required Data
 
-**Absolute minimum fields:**
+**Absolute minimum:**
 - Position ID or Employee ID
 - Manager Position ID or Manager Employee ID
 - Position Name
 
-**Recommended minimum fields for full functionality:**
-- Job Title
-- Department
-- Manager
-- Location
-- Name
-- Employee ID
-- Start Date
-- Email
+**Recommended for full functionality:**
+- Job Title, Department, Manager, Location, Name, Employee ID, Start Date, Email
 
-## Two Types of Fields
+## Position Fields vs People Fields
 
-> **[Screenshot placeholder: Fields and Attributes settings showing position fields and people fields grouped separately]**
+> **[Screenshot placeholder: Fields settings showing position fields and people fields grouped separately]**
 
-### Position Fields
+**Position fields** are tied to roles and persist even when vacant:
+- Job Title, Department, Salary, Pay Grade, Location, Reports To
 
-**Position fields** are tied to roles in your org structure and exist independently of people:
+**People fields** are tied to individuals and removed when someone leaves:
+- Employee Name, Employee ID, Start Date, Email, Performance Rating
 
-- Job Title
-- Department
-- Base Salary Range
-- Pay Grade
-- Location
-- Job Function
-- Reports To
+This separation lets you plan with positions independently of the people who fill them.
 
-**Why it matters:** Position fields persist even when a role is vacant. This allows you to plan for unfilled positions and budget for future hires.
+## Groups
 
-### People Fields
+Fields are organized into **groups** (e.g., Compensation, Contact Info, Job Details). Groups appear as sections in the edit panel when you click on a position, making it easier to find related fields.
 
-**People fields** are tied to individual employees:
+## Calculated Fields (FX)
 
-- Employee Name
-- Employee ID
-- Start Date
-- Email Address
-- Visa Status
-- Performance Rating
-- Preferred Name
+Some fields are computed automatically by Agentnoon and marked with **FX**:
 
-**Why it matters:** People fields disappear when someone leaves the organization. This separation lets you manage roles and people independently for better workforce planning.
+- **Span of Control** — Number of direct reports
+- **Total Organization Size** — Everyone under a manager (direct + indirect)
+- **Layer** — Distance from the CEO
+- **Average SOC** — Average span across the organization
 
-## Groups: Organizing Related Fields
+These update in real time as the org structure changes.
 
-Fields are organized into **groups** for easier management:
+## Where Fields Appear
 
-- **People Groups** - Fields about individuals (contact info, demographics, HR data)
-- **Position Groups** - Fields about roles (job details, compensation, location)
+- **Cards** — Configure which fields display via **Card Content** in the toolbar
+- **Directory** — Add, remove, and reorder columns
+- **Workforce Hub** — Fields power the axes and breakdowns of every chart
+- **Filters** — Filter by any field value across the application
+- **Highlighting** — Color-code cards by any field
+- **Exports** — Include any field in CSV, Excel, or PowerPoint exports
 
-Groups appear as sections in the edit panel (right side panel when editing a position), organizing related fields together for easier navigation.
+## Admin Configuration
 
-## Calculated Fields (FX Fields)
-
-Some fields are automatically calculated by Agentnoon and marked with "FX":
-
-- **Span of Control** - Number of direct reports
-- **Total Organization Size** - Everyone under a manager (direct + indirect)
-- **Layer** - Distance from CEO
-- **Average SOC** - Average span across the organization
-
-These fields update automatically as your org structure changes, providing instant insights without manual data entry.
-
-## Customizing Field Display
-
-### Card Content
-
-Control which fields appear on org chart cards:
-
-1. Click **Card Content** in the toolbar
-2. Select fields to display (e.g., Department, Work City, Pay Grade)
-3. Reorder fields by dragging
-4. Changes apply immediately
-
-**Pro tip:** Keep card content minimal (3-5 fields) for readability. Add more fields only when needed for specific analysis.
-
-### Directory Columns
-
-Customize table view columns in Directory:
-
-1. Go to **Directory** module
-2. Click column settings
-3. Add/remove columns
-4. Sort and filter by any field
-5. Save your preferred view
-
-## Field Configuration (Admin)
-
-Admins can configure fields to match your organization's needs:
-
-- **Data types** - Text, number, date, dropdown, user reference
-- **Dropdown options** - Define choices for fields like Department or Job Family
-- **Visibility** - Public (all users) or restricted (specific roles)
-- **Mandatory settings** - Require certain fields for data completeness
-- **Field ordering** - Control how fields appear in lists and forms
-
-For details on admin configuration, see [Fields and Attributes Management](../admin/fields-management.md).
-
-## Standard Fields
-
-Every Agentnoon instance includes standard fields:
-
-**Position Fields:**
-- Job Title
-- Department
-- Manager (Reports To)
-- Location
-
-**People Fields:**
-- Name
-- Employee ID
-- Start Date
-- Email
-
-Your admin can add custom fields specific to your organization's needs.
-
-## Using Fields in Analysis
-
-Fields power all analytics in Agentnoon:
-
-- **Filtering** - Show only positions matching specific field values (e.g., "Department = Engineering")
-- **Highlighting** - Color-code cards by field (e.g., highlight by Work Country)
-- **Spotlight** - Find positions where fields match criteria (e.g., "SOC between 1-2")
-- **Charts** - Break down data by any field (e.g., headcount by Department and Layer)
-- **Exports** - Include any field in CSV/Excel exports
-
-## Best Practices
-
-1. **Keep field names clear and consistent** - Use "Work Location" everywhere, not "Office" in some places and "Location" in others
-2. **Use dropdown fields for standardized data** - Prevents typos and inconsistencies (e.g., "NYC" vs "New York City")
-3. **Separate position and people data** - Put compensation on positions, performance ratings on people
-4. **Don't over-customize** - Start with standard fields, add custom ones only when truly needed
-5. **Use calculated fields** - Let Agentnoon compute SOC, layers, and org size automatically
-
-## Next Steps
-
-Now that you understand fields and attributes:
-- Learn how to use them in [Scenarios](scenarios-fundamentals.md) to model changes
-- Explore [Workforce Hub Fundamentals](workforce-hub-fundamentals.md) to see how fields power analytics
-- See [Fields and Attributes Management](../admin/fields-management.md) if you're an admin configuring fields
+Admins can add custom fields, set data types (text, number, date, dropdown), define restricted dropdown values for data consistency, and control field visibility by access group. See [Fields and Attributes Management](../settings/overview.md).

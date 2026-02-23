@@ -5,200 +5,55 @@ hidden: false
 
 # Scenarios Fundamentals
 
-Scenarios are Agentnoon's "what-if" planning tool, allowing you to model organizational changes in a safe sandbox environment before implementing them in real life.
-
-## What is a Scenario?
-
-A **scenario** is an editable copy of your org chart where you can:
-
-- Reorganize teams
-- Add or remove positions
-- Change reporting relationships
-- Model budget cuts or expansions
-- Plan for future growth
-- Test different organizational structures
-
-**Key concept:** Changes in a scenario **do not** affect your Main Org (live data). Scenarios are sandboxes for exploration and planning.
-
-## Why Use Scenarios?
-
-Scenarios let you answer critical questions:
-
-- "What if we reorganized the engineering team under a new VP?"
-- "How much would it cost to add 10 positions in Q2?"
-- "What happens if we flatten the org structure and reduce management layers?"
-- "What's the impact of closing 15 positions to meet budget targets?"
-
-Instead of guessing or working in spreadsheets, you can **see the exact impact** of proposed changes:
-
-- Visual org chart preview
-- Cost calculations
-- Headcount changes
-- Reporting relationship shifts
+A scenario is an editable copy of your org where you can model changes without affecting live data. Changes in a scenario are completely isolated from the Main Org until you choose to implement them.
 
 ## When to Create a Scenario
 
-> **[Screenshot placeholder: Scenario creation dialog showing name field and scenario type options (Full Org, Partial Org, New Org)]**
+> **[Screenshot placeholder: Scenario creation dialog showing name, type, and description fields]**
 
-Create a scenario when you need to:
+Create a scenario whenever you need to model changes to your org structure:
+- Plan a reorganization or restructure
+- Model headcount additions or reductions
+- Explore and compare multiple approaches
+- Prepare a proposal for stakeholder approval
+- Run annual or quarterly planning
 
-1. **Plan a reorganization** - Move teams, combine departments, restructure leadership
-2. **Model headcount changes** - Add positions for hiring plans or close positions for budget cuts
-3. **Explore options** - Compare multiple approaches before deciding
-4. **Prepare proposals** - Build a plan to share with stakeholders for approval
-5. **Annual planning** - Model next year's organizational structure and budget
+## Scenario Types
 
-**Rule of thumb:** If you're considering changes to org structure, create a scenario first.
+**Full Org** — Copy of your entire organization. Use for company-wide planning.
 
-## Main Org vs Scenarios
+**Partial Org** — Copy of a specific department or team. Faster to create and easier to work with. Most commonly used.
 
-| Main Org | Scenarios |
-|----------|-----------|
-| View-only | Fully editable |
-| Current state | Future state or "what-if" |
-| Synced from HRIS | Manually edited |
-| One version | Unlimited versions |
-| Cannot make changes | Add, move, edit, close positions |
+**New Org** — Blank canvas. Use when building a new department or team from scratch.
 
-## Types of Scenarios
+## What You Can Do in a Scenario
 
-When creating a scenario, choose from three types:
+**Position actions:** Add new positions, edit details (title, salary, department), move positions to a new manager, close positions (RIF or Exit), and duplicate positions.
 
-### 1. Full Org Scenario
+**Bulk actions:** Select multiple positions and change manager, edit attributes, or close them in batch.
 
-**What it is:** Complete copy of everyone in your access scope.
+**People actions:** Assign employees to positions, detach employees (creating vacancies), or move employees to the bench during restructuring.
 
-**When to use it:**
-- Company-wide reorganizations
-- Large-scale planning affecting multiple departments
-- Comprehensive annual planning
+## Reviewing Impact
 
-**Example:** "2026 Annual Reorg" scenario containing all 5,000 employees
+The **OpEx Panel** shows the real-time impact of every change you make — additions, reductions, and modifications with cost and headcount impact. Check it frequently to track progress against your goals. See [Scenario Changes & Impact](../scenarios/opex-panel.md).
 
-### 2. Partial Org Scenario (Most Common)
+## Time-Based Planning
 
-**What it is:** Copy of a specific part of the organization (one department, division, or team).
+Set **effective dates** on changes to schedule when they take effect. Forecast then shows the phased impact over time — for example, 5 hires in Q1 and 3 in Q2. See [Time-Based Planning](../scenarios/time-based-planning.md).
 
-**When to use it:**
-- Department-specific reorganizations
-- Focused planning for one area
-- Faster scenario creation (smaller scope = faster performance)
+## Approval Workflow
 
-**Example:** "Commercial NA Q1 Reorg" scenario containing only the 250-person Commercial North America team
+When your scenario is ready, submit it for approval through the OpEx Panel. Scenarios move through approval levels (Level 0 → 1 → 2 → 3) and lock once approved. See [Scenario Approvals](../scenarios/approvals.md).
 
-**Pro tip:** Partial org scenarios are faster to work with and easier to share with specific stakeholders.
+## Comparing Scenarios
 
-### 3. New Org Scenario (Zero-Based)
-
-**What it is:** Blank canvas where you add every position manually.
-
-**When to use it:**
-- Building a new department from scratch
-- Greenfield organizational design
-- Zero-based budgeting exercises
-
-**Example:** "New APAC Office" scenario starting with just a VP and building the entire team
-
-## Key Scenario Features
-
-### OpEx Panel
-
-> **[Screenshot placeholder: OpEx Panel panel showing list of changes with headcount and cost impact]**
-
-See every change you've made with cost impact:
-
-- Positions added (+cost)
-- Positions closed (-cost)
-- Positions moved (no cost change)
-- Net headcount change
-- Net budget impact
-
-### Time-Based Planning
-
-Schedule changes for future effective dates:
-
-- Add 5 positions effective Q2
-- Close 3 positions effective July 1
-- Reorganize team effective January 1, 2026
-
-### Approval Workflows
-
-Submit scenarios for stakeholder review:
-
-- Route to managers for approval
-- Track approval status
-- Comment and collaborate
-- Implement once approved
-
-### Scenario Comparisons
-
-Compare multiple scenarios side-by-side:
-
-- Scenario A vs Scenario B vs Status Quo
-- Visual org chart differences
-- Cost comparisons
-- Headcount comparisons
-
-## Basic Scenario Workflow
-
-Here's the typical process:
-
-1. **Create scenario** from Main Org (Full or Partial)
-2. **Make changes** - Add, move, edit, close positions
-3. **Review changes** - Check change tracker for impact
-4. **Compare options** - Create alternate scenarios to compare approaches
-5. **Submit for approval** - Route to stakeholders
-6. **Implement** - Once approved, work with HR/IT to implement changes in your HRIS
-
-## What You Can Do in Scenarios
-
-**Position actions:**
-- Add new positions
-- Edit position details (title, department, salary, etc.)
-- Move positions to different managers
-- Close positions (RIF - Reduction in Force)
-- Duplicate positions (create 5 identical roles at once)
-- Assign employees to positions
-
-**Bulk actions:**
-- Select multiple positions at once
-- Change manager for entire teams
-- Update attributes across multiple positions
-- Close multiple positions simultaneously
-
-**Analysis:**
-- View cost impact of all changes
-- See before/after comparison
-- Export scenario data
-- Share with collaborators
+Create multiple versions (Option A, Option B) and compare them side-by-side on cost, headcount, and structural metrics. Comparisons are started from the homepage. See [Scenario Comparisons](../scenarios/comparisons.md).
 
 ## Scenarios vs Forecast
 
-**Scenarios** are for modeling **specific organizational structure changes**:
-- Who reports to whom
-- Exact position details
-- Specific team restructuring
+**Scenarios** model specific structural changes — who reports to whom, exact positions, team design.
 
-**Forecast** is for **aggregate headcount planning over time**:
-- How many hires per quarter
-- Budget projections by department
-- Multi-year growth plans
+**Forecast** projects aggregate numbers over time — headcount by quarter, cost by department, multi-year growth.
 
-Use both together: Build a Forecast for annual headcount targets, then create Scenarios to model the specific org structures that achieve those targets.
-
-## Best Practices
-
-1. **Name scenarios clearly** - Include date, department, and purpose (e.g., "Engineering Q2 2026 Expansion")
-2. **Start small** - Use Partial Org scenarios for department-level work
-3. **Create multiple versions** - Compare "Option A", "Option B", "Option C" scenarios
-4. **Review change tracker frequently** - Keep track of cost and headcount impact
-5. **Share with stakeholders early** - Use collaboration features to gather feedback before finalizing
-
-## Next Steps
-
-Ready to start using scenarios?
-
-- Learn [how to create scenarios](../scenarios/creating-scenarios.md)
-- Discover [how to make position changes](../scenarios/making-position-changes.md)
-- Explore [bulk operations](../scenarios/bulk-operations.md) for faster editing
-- See the [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md) tutorial for a complete walkthrough
+Use both together: create a Forecast for high-level targets, then build Scenarios to model the specific org structures that achieve them.
