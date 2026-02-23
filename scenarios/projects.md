@@ -1,6 +1,6 @@
 ---
 description: Creating projects to organize scenarios
-hidden: true
+hidden: false
 ---
 
 # TBD Project Creation

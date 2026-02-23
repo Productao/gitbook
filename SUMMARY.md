@@ -185,3 +185,16 @@
 ## Updates (Legacy)
 
 * [🔄 UI Org Chart Updates Guide](updates/ui-org-chart-updates-guide.md)
+
+## Pages To Write (IPR/TBD)
+
+* [🚧 Technical Overview](technical-documentation/technical-overview.md)
+* [🚧 Scenario Refresh](scenarios/refresh.md)
+* [🚧 Project Creation](scenarios/projects.md)
+* [🚧 Platform Notifications](admin/notifications.md)
+* [🚧 Auth Best Practices](authentication-and-identity-security/best-practices.md)
+* [🚧 Auth Troubleshooting](authentication-and-identity-security/troubleshooting-authentication-issues.md)
+* [🚧 Building an Annual Hiring Plan](use-case-tutorials/annual-hiring-plan.md)
+* [🚧 Modeling Budget Cuts](use-case-tutorials/modeling-budget-cuts.md)
+* [🚧 Compensation Planning](use-case-tutorials/compensation-planning.md)
+* [🚧 Succession Planning](use-case-tutorials/succession-planning.md)

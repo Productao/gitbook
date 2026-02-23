@@ -1,6 +1,6 @@
 ---
 description: Complete reference of all platform notifications
-hidden: true
+hidden: false
 ---
 
 # TBD Platform Notifications

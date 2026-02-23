@@ -1,6 +1,6 @@
 ---
 description: Refreshing scenarios with updated Main Org data
-hidden: true
+hidden: false
 ---
 
 # TBD Scenario Refresh

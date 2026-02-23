@@ -1,6 +1,6 @@
 ---
 description: Step-by-step guide to modeling budget cuts and RIFs
-hidden: true
+hidden: false
 ---
 
 # IPR Modeling Budget Cuts
