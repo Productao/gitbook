@@ -27,11 +27,9 @@ An editable copy of your Main Org where you model future changes without affecti
 - **Show After** — All scenario changes applied; the proposed future state
 - **Show Changes** — Delta only; shows +/- per department; best for communicating impact
 
-## OpEx Panel & OpEx Panel
+## OpEx Panel (Scenario Changes & Impact)
 
-**OpEx Panel** — Real-time panel showing impact of all changes: headcount additions and reductions, net headcount change, net cost impact, breakdown by department. Use it to validate you're hitting budget targets as you work.
-
-**OpEx Panel / Scenario Impacts and Changes** — Detailed view of all scenario modifications with before/after values, cost impact per change, and effective dates. Access from the scenario toolbar to review comprehensive change details.
+The OpEx Panel is the side panel where you review all scenario changes and their impact. It shows headcount additions and reductions, net headcount change, net cost impact, and breakdown by department. You can toggle between cost and headcount views, and see changes grouped by effective date. The OpEx Panel is also where you submit scenarios for approval. See [Scenario Changes & Impact](../scenarios/opex-panel.md).
 
 ## Effective Dates
 

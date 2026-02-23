@@ -140,28 +140,19 @@ The number of management levels between an employee and the CEO.
 
 ## Permissions & Access Control
 
-### Access Groups
-Define who can see what data based on department, location, or custom rules.
+**Access Groups** define who can see what data based on department, location, or custom rules.
 
-### Permission Levels
+**Permission Levels:**
 - **Viewer:** Can see data, cannot edit
 - **Planner:** Can create and edit scenarios
 - **Approver:** Can approve scenario changes
 - **Admin:** Full system access, configuration
 
+**Learn more:** [Access Control](../access-control/overview.md)
+
 ---
 
-## Next Steps
+## Deep Dives
 
-Now that you understand core concepts:
-
-- **Explore Main Org:** View your current organization
-- **Create your first scenario:** Model a simple change
-- **Learn module-specific concepts:**
-  - [Key Concepts for Main Org](key-concepts-main-org.md)
-  - [Key Concepts for Scenarios](key-concepts-scenarios.md)
-
-**Other helpful resources:**
-- [Parts of the Application](parts-of-application.md) - How modules work together
-- [Scenarios Fundamentals](scenarios-fundamentals.md) - Deep dive on scenario planning
-- [Fields and Attributes](fields-and-attributes.md) - Understanding your data
+- [Key Concepts for Main Org](key-concepts-main-org.md) — Data sync, read-only nature, baseline for scenarios
+- [Key Concepts for Scenarios](key-concepts-scenarios.md) — Change types, OpEx Panel, approvals, comparisons
