@@ -3,6 +3,10 @@ description: >-
   In-App Multi-Factor Authentication (MFA) strengthens your Agentnoon account
   security by verifying your identity through a one-time code sent to your
   registered phone number during login
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/mfa/in-app-mfa
 ---
 
 # In-App MFA

@@ -1,6 +1,5 @@
 ---
 description: Workflow checklist for quarterly planning cycles
-hidden: false
 ---
 
 # Quarterly Planning Checklist
@@ -9,7 +8,7 @@ Agentnoon is designed to be intuitive — most users complete these steps in the
 
 This checklist walks through the standard workflow for regular quarterly workforce planning cycles.
 
----
+***
 
 ## Pre-Planning
 
@@ -20,7 +19,7 @@ Prepare for the upcoming quarter's planning cycle.
 3. Get updated budget guidance from Finance
 4. Coordinate with your admin to refresh Main Org data and verify the latest HRIS export is loaded
 
----
+***
 
 ## Scenario Creation
 
@@ -32,7 +31,7 @@ Build the quarterly workforce plan.
 4. Close positions for expected turnover with termination dates, and add backfill positions where needed
 5. Model any reorganizations: add new management positions, move existing positions to new reporting relationships, and close redundant roles
 
----
+***
 
 ## Approval
 
@@ -45,7 +44,7 @@ Get alignment and formal sign-off.
 5. Submit the scenario for approval via the OpEx Panel
 6. If rejected, review feedback, make changes, and resubmit
 
----
+***
 
 ## Monitoring
 
@@ -56,14 +55,14 @@ Track progress throughout the quarter and adjust as needed.
 3. Report actuals vs. plan to Finance and leadership
 4. If significantly off plan, create a revised scenario with adjusted hire dates or positions and resubmit for approval
 
----
+***
 
 ## Additional Resources
 
-- [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
-- [Time-Based Planning](../../scenarios/time-based-planning.md)
-- [Scenario Tracking & Analysis](../../scenarios/tracking-analysis.md)
-- [Annual Planning Checklist](annual-planning-checklist.md)
-- [Department Lead Checklist](department-lead-checklist.md)
-- [Workforce Planner Checklist](workforce-planner-checklist.md)
-- [Admin Checklist](admin-checklist.md)
+* [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
+* [Time-Based Planning](../../scenarios/time-based-planning.md)
+* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
+* [Annual Planning Checklist](annual-planning-checklist.md)
+* [Department Lead Checklist](department-lead-checklist.md)
+* [Workforce Planner Checklist](workforce-planner-checklist.md)
+* [Admin Checklist](admin-checklist.md)

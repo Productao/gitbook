@@ -1,9 +1,8 @@
 ---
 description: Keeping Agentnoon synchronized with your HRIS data
-hidden: false
 ---
 
-# Data Refresh & Sync
+# 🔄 Data Refresh & Sync
 
 Keep your Main Org current by uploading fresh data manually or setting up automated sync with your HRIS.
 
@@ -26,9 +25,9 @@ Keep your Main Org current by uploading fresh data manually or setting up automa
 
 Three integration methods are available (Admin > Settings > Data Management):
 
-- **SFTP** — Agentnoon connects to your SFTP server and pulls CSV files on a schedule
-- **Workday** — Direct API integration for Workday customers
-- **REST API** — Your systems push data to Agentnoon endpoints
+* **SFTP** — Agentnoon connects to your SFTP server and pulls CSV files on a schedule
+* **Workday** — Direct API integration for Workday customers
+* **REST API** — Your systems push data to Agentnoon endpoints
 
 **Recommended sync frequency:** Weekly (Sunday night or Monday morning). Daily is available for fast-moving organizations.
 
@@ -61,19 +60,19 @@ Main Org refreshes do NOT automatically update scenarios. Scenarios are snapshot
 
 ## Troubleshooting Common Issues
 
-| Problem | Solution |
-|---------|----------|
-| New hire not appearing | Check if HRIS exported them; verify sync has run since hire was added; check for validation errors |
-| Terminated employee still showing | Verify HRIS processed termination; wait for next sync (will auto-remove); or upload corrected CSV |
-| Org chart broken after refresh | Look for broken hierarchy indicator (orange icon) in toolbar; fix Manager IDs in HRIS and re-upload |
-| Sync hasn't run in 3+ days | Check Settings > Data Management > Sync Logs; test connection; verify HRIS export is running |
-| Sync taking hours | Normal for >10,000 employees; contact support if unusually slow |
+| Problem                           | Solution                                                                                            |
+| --------------------------------- | --------------------------------------------------------------------------------------------------- |
+| New hire not appearing            | Check if HRIS exported them; verify sync has run since hire was added; check for validation errors  |
+| Terminated employee still showing | Verify HRIS processed termination; wait for next sync (will auto-remove); or upload corrected CSV   |
+| Org chart broken after refresh    | Look for broken hierarchy indicator (orange icon) in toolbar; fix Manager IDs in HRIS and re-upload |
+| Sync hasn't run in 3+ days        | Check Settings > Data Management > Sync Logs; test connection; verify HRIS export is running        |
+| Sync taking hours                 | Normal for >10,000 employees; contact support if unusually slow                                     |
 
 **Full troubleshooting:** [Data Issues](../troubleshooting/data-issues.md)
 
 ## Related Resources
 
-- [Data Import Requirements](../data-import/data-requirements.md)
-- [Partial Data Upload](../data-import/partial-data-upload.md)
-- [Live Data Integration Overview](../live-data-integration/what-is-a-live-data-integration.md)
-- [Data Error Checklist](../data-import/data-error-checklist.md)
+* [Data Import Requirements](../data-import/data-requirements.md)
+* [Partial Data Upload](../data-import/partial-data-upload.md)
+* [Live Data Integration Overview](../live-data-integration/what-is-a-live-data-integration.md)
+* [Data Error Checklist](../data-import/data-error-checklist.md)

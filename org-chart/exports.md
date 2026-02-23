@@ -1,9 +1,11 @@
 ---
 description: Export your org like a pro
-hidden: false
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/org-chart/exports
 ---
 
-# Exports
+# 📤 Exports
 
 ### Overview:
 
@@ -25,10 +27,10 @@ Export your org data in multiple formats - customized exactly how you need it.
 
 Export your org chart directly to PowerPoint with full control over layout, content, and structure. Here's how to customize your exports:
 
-* **Add filters** \
+* **Add filters**\
   Refine your hierarchy export by adding filters<br>
 * **Select hierarchy depth**\
-  Select the number of levels you want to export <br>
+  Select the number of levels you want to export<br>
 * **Choose your layout**\
   This helps you fit larger teams or deeper structures more clearly across slides. Select how you want your org chart to appear
   * Vertical
@@ -46,4 +48,3 @@ Export your org chart directly to PowerPoint with full control over layout, cont
     ![](<../.gitbook/assets/image (31).png>)<br>
 
 Once your options are set, click **Dowload** to download the fully customized org chart presentation.
-

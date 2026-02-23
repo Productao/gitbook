@@ -1,5 +1,9 @@
 ---
 description: Understanding attribute types and how to manage them
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/data-import/attributes-overview
 ---
 
 # Attributes Overview

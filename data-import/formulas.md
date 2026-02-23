@@ -1,5 +1,8 @@
 ---
 description: Create and apply custom formulas to using your own data fields.
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/data-import/formulas
 ---
 
 # Formulas
@@ -20,7 +23,7 @@ Custom formulas in Agentnoon allow you to define new calculated fields using exi
 
 **Example:**\
 \
-Suppose you need to calculate severance for employees marked as "RIF" (Reduction in Force). \
+Suppose you need to calculate severance for employees marked as "RIF" (Reduction in Force).\
 The formula could be structured as:\
 ifElse(in("RIF", \[scenarioState]), max(min(\[Service\_Years], 25), ifElse(\[Level] <= 7, 5, ifElse(\[Level] <= 12, 7, 19))), 0) \* (\[Full\_Compensation] / 25)\
 \

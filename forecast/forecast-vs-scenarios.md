@@ -1,9 +1,8 @@
 ---
 description: Understanding when to use Forecast vs Scenarios
-hidden: false
 ---
 
-# Forecast vs Scenarios
+# 🔄 Forecast vs Scenarios
 
 Forecast and Scenarios are complementary. You'll often use both for the same planning project.
 
@@ -17,33 +16,33 @@ Forecast and Scenarios are complementary. You'll often use both for the same pla
 
 ## Use Forecast When
 
-- Reporting quarterly headcount to the board
-- Preparing annual budget by department for the CFO
-- Comparing 3-5 year cost trajectories across multiple growth scenarios
-- Exporting workforce cost data for budget tools
-- Seeing when hiring costs will hit each quarter
+* Reporting quarterly headcount to the board
+* Preparing annual budget by department for the CFO
+* Comparing 3-5 year cost trajectories across multiple growth scenarios
+* Exporting workforce cost data for budget tools
+* Seeing when hiring costs will hit each quarter
 
 ## Use Scenarios When
 
-- Making org changes (reorgs, RIFs, expansions, promotions)
-- Testing "what-if" alternatives before committing
-- Getting approval for planned changes
-- Modeling who reports to whom in a new structure
-- Modeling budget cuts and seeing structural impact
+* Making org changes (reorgs, RIFs, expansions, promotions)
+* Testing "what-if" alternatives before committing
+* Getting approval for planned changes
+* Modeling who reports to whom in a new structure
+* Modeling budget cuts and seeing structural impact
 
 ## Common Decisions by Use Case
 
-| Need | Tool |
-|------|------|
-| Restructure department | Scenario |
-| See cost impact of the restructure over time | Forecast (of the scenario) |
-| Add 20 new positions | Scenario |
-| See monthly hire ramp from those positions | Forecast (of the scenario) |
-| Report headcount by quarter to board | Forecast |
-| Close positions to meet budget target | Scenario |
-| Compare 3 budget cut options | Scenarios (3 of them) + Forecast |
-| Export workforce cost for Finance | Forecast |
-| Submit hiring plan for approval | Scenario |
+| Need                                         | Tool                             |
+| -------------------------------------------- | -------------------------------- |
+| Restructure department                       | Scenario                         |
+| See cost impact of the restructure over time | Forecast (of the scenario)       |
+| Add 20 new positions                         | Scenario                         |
+| See monthly hire ramp from those positions   | Forecast (of the scenario)       |
+| Report headcount by quarter to board         | Forecast                         |
+| Close positions to meet budget target        | Scenario                         |
+| Compare 3 budget cut options                 | Scenarios (3 of them) + Forecast |
+| Export workforce cost for Finance            | Forecast                         |
+| Submit hiring plan for approval              | Scenario                         |
 
 ## Integrated Workflow
 
@@ -54,7 +53,7 @@ Forecast and Scenarios are complementary. You'll often use both for the same pla
 
 ## Related Resources
 
-- [Forecast Overview](overview.md)
-- [Scenarios Overview](../scenarios/overview.md)
-- [Building Headcount Forecasts](building-headcount-forecasts.md)
-- [Scenario Tracking & Analysis](../scenarios/tracking-analysis.md)
+* [Forecast Overview](overview.md)
+* [Scenarios Overview](../scenarios/overview.md)
+* [Building Headcount Forecasts](building-headcount-forecasts.md)
+* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)

@@ -1,15 +1,19 @@
 ---
 description: Side-by-side comparison of scenarios
-hidden: false
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/scenarios/scenario-comparisons
 ---
 
-# Scenario Comparisons
+# 🔄 Scenario Comparisons
 
 Compare 2 scenarios side-by-side to evaluate cost, headcount, structure, and org health metrics before making a decision.
 
 ## Accessing Comparisons
 
 **From the homepage:**
+
 1. Select exactly 2 scenarios using the checkboxes
 2. Click **Compare** button (bottom-right)
 
@@ -29,7 +33,7 @@ Compare 2 scenarios side-by-side to evaluate cost, headcount, structure, and org
 
 ## Common Workflows
 
-**Evaluating budget cuts:** Create Option A (cut Dept X), Option B (across-the-board cuts), Option C (flatten management). Compare cost (verify ~10% savings), then org chart (evaluate structural disruption), then headcount (see which roles are eliminated). Choose best balance.
+**Evaluating budget cuts:** Create Option A (cut Dept X), Option B (across-the-board cuts), Option C (flatten management). Compare cost (verify \~10% savings), then org chart (evaluate structural disruption), then headcount (see which roles are eliminated). Choose best balance.
 
 **Choosing reorganization structure:** Compare "Combine teams under one VP" vs. "Keep teams separate with directors". Check Pyramid Chart for layers, Metrics for SOC, Org Chart for visual clarity.
 
@@ -39,21 +43,21 @@ Compare 2 scenarios side-by-side to evaluate cost, headcount, structure, and org
 
 In comparison view, click **Export** to download summary metrics, org charts, and cost/headcount tables in PDF, CSV, or Excel format.
 
-**Learn more:** [Scenario Comparison Exporting](comparison-exporting.md)
+**Learn more:** [Scenario Comparison Exporting](/broken/pages/zzz3v999Tg981FX0ZALI)
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Can't select more than 2 scenarios | Comparisons only support 2 scenarios at a time |
-| Org charts look identical | Zoom in or scroll — top-level may look the same while department-level differs |
-| Cost shows no difference | Scenarios must have different changes; identical scenarios will show no difference |
-| Can't export comparison | Check export permissions with admin |
+| Problem                                | Solution                                                                           |
+| -------------------------------------- | ---------------------------------------------------------------------------------- |
+| Can't select more than 2 scenarios     | Comparisons only support 2 scenarios at a time                                     |
+| Org charts look identical              | Zoom in or scroll — top-level may look the same while department-level differs     |
+| Cost shows no difference               | Scenarios must have different changes; identical scenarios will show no difference |
+| Can't export comparison                | Check export permissions with admin                                                |
 | Want to compare a scenario to Main Org | Select Main Org as one of the comparison options — it appears in the scenario list |
 
 ## Related Articles
 
-- [Creating Scenarios](creating-scenarios.md)
-- [Scenario Comparison Exporting](comparison-exporting.md)
-- [Scenario Approvals](approvals.md)
-- [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md)
+* [Creating Scenarios](creating-scenarios.md)
+* [Scenario Comparison Exporting](/broken/pages/zzz3v999Tg981FX0ZALI)
+* [Scenario Approvals](approvals.md)
+* [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md)

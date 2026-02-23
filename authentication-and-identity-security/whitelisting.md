@@ -3,6 +3,10 @@ description: >-
   Whitelisting the following IP addresses and domains ensures uninterrupted and
   secure connectivity between Agentnoon services and your systems
 icon: file-check
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/whitelisting
 ---
 
 # Whitelisting

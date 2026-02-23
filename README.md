@@ -1,6 +1,9 @@
 ---
 cover: .gitbook/assets/Help centre banner big.png
 coverY: 0
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/
 ---
 
 # Agentnoon Help Center
@@ -8,8 +11,6 @@ coverY: 0
 Here you will find all documentation and guides related to our product. These guides are meant to be short and simple to digest, so you can read as much or as little as you need.
 
 Our goal is to make you a product expert in the first 3 days of using Agentnoon!
-
-
 
 ### Jump right in
 

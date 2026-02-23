@@ -3,7 +3,7 @@ description: Tracking scenario changes and workforce cost impact
 icon: arrows-rotate-reverse
 ---
 
-# Scenario Changes & Impact (OpEx Panel)
+# 📊 Scenario Changes & Impact (OpEx Panel)
 
 ### Overview
 
@@ -15,15 +15,13 @@ The Scenario Changes & Impact panel (OpEx Panel) is the central hub for reviewin
 2. Click the **panel toggle** in the top right corner to open the OpEx Panel
 3. The panel appears on the right side of the screen
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-06-23 at 4.52.26 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
 ### What the OpEx Panel Shows
 
 The panel categorizes all scenario changes into:
 
-- **Additions** — New positions created (new hires, new roles)
-- **Reductions** — Positions closed (layoffs, exits, eliminations)
-- **Data Changes** — Modified attributes on existing positions (title changes, salary adjustments, department moves)
+* **Additions** — New positions created (new hires, new roles)
+* **Reductions** — Positions closed (layoffs, exits, eliminations)
+* **Data Changes** — Modified attributes on existing positions (title changes, salary adjustments, department moves)
 
 For each category, the panel shows both **cost impact** and **headcount impact**.
 
@@ -33,21 +31,17 @@ For each category, the panel shows both **cost impact** and **headcount impact**
 
 Click on any position in the OpEx Panel to see detailed modifications:
 
-- **Previous values** → **New values** for each changed field
-- Associated cost impact for that specific change
-- Change type and effective date
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 10.47.57 AM.png" alt=""><figcaption></figcaption></figure>
+* **Previous values** → **New values** for each changed field
+* Associated cost impact for that specific change
+* Change type and effective date
 
 ### Cost Impact Summary
 
 The bottom of the panel shows aggregated totals:
 
-- **Net headcount change** (+/- positions)
-- **Net cost impact** (+/- workforce cost)
-- Each position modification also displays its individual financial impact
-
-<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 10.48.39 AM.png" alt=""><figcaption></figcaption></figure></div>
+* **Net headcount change** (+/- positions)
+* **Net cost impact** (+/- workforce cost)
+* Each position modification also displays its individual financial impact
 
 ### Effective Date View
 
@@ -69,18 +63,18 @@ See [Scenario Approvals](approvals.md) for the full approval workflow.
 
 The OpEx Panel does not have an export/download capability. To download a record of changes:
 
-- **Activity Log** — View the log of all changes made in the scenario (who made what change and when)
-- **Export Data** button in the toolbar → select **Comparisons Report** to download a before/after comparison of all positions
+* **Activity Log** — View the log of all changes made in the scenario (who made what change and when)
+* **Export Data** button in the toolbar → select **Comparisons Report** to download a before/after comparison of all positions
 
-> **[Screenshot placeholder: OpEx Panel showing Effective Date view with changes grouped by date]**
+> **\[Screenshot placeholder: OpEx Panel showing Effective Date view with changes grouped by date]**
 
 ### Before-and-After Analysis in Workforce Hub
 
 Open Workforce Hub inside a scenario (view dropdown > Workforce Hub) to compare baseline vs. scenario state visually:
 
-- **Headcount comparison** by department, location, or any attribute
-- **Cost comparison** — total compensation before and after
-- **Span of Control comparison** — average SOC and distribution
-- **Layers comparison** — number of management levels before and after
+* **Headcount comparison** by department, location, or any attribute
+* **Cost comparison** — total compensation before and after
+* **Span of Control comparison** — average SOC and distribution
+* **Layers comparison** — number of management levels before and after
 
 Toggle between Before and After views. Apply filters to drill into specific segments.

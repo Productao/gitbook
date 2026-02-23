@@ -1,9 +1,8 @@
 ---
 description: Getting data out of Directory for analysis, presentations, and reports
-hidden: false
 ---
 
-# Exporting Data from Directory
+# 📤 Exporting Data from Directory
 
 Export organizational data from Directory, Org Chart, and Workforce Hub for analysis, presentations, and reports.
 
@@ -54,22 +53,22 @@ Export organizational data from Directory, Org Chart, and Workforce Hub for anal
 
 ## Best Practices
 
-- Filter and customize columns **before** exporting — don't export everything and filter in Excel
-- Include export date in filenames: `Engineering-Roster-2026-02-20.csv`
-- Handle salary and personal data according to your organization's data security policies
+* Filter and customize columns **before** exporting — don't export everything and filter in Excel
+* Include export date in filenames: `Engineering-Roster-2026-02-20.csv`
+* Handle salary and personal data according to your organization's data security policies
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Columns missing | Check column settings; visible columns only are exported |
-| Too much data | Apply filters before exporting |
-| Org chart looks different than screen | Use "Fit to Screen" first; adjust layout before export |
-| PowerPoint has too many slides | Filter to a smaller scope (one department or top layers) |
-| Missing people | Check active filters; clear them and try again |
+| Problem                               | Solution                                                 |
+| ------------------------------------- | -------------------------------------------------------- |
+| Columns missing                       | Check column settings; visible columns only are exported |
+| Too much data                         | Apply filters before exporting                           |
+| Org chart looks different than screen | Use "Fit to Screen" first; adjust layout before export   |
+| PowerPoint has too many slides        | Filter to a smaller scope (one department or top layers) |
+| Missing people                        | Check active filters; clear them and try again           |
 
 ## Related Articles
 
-- [Directory Filtering & Sorting](filtering-sorting.md)
-- [Main Org Exporting](../main-org/exporting.md)
-- [Scenario Exporting](../scenarios/exporting.md)
+* [Directory Filtering & Sorting](filtering-sorting.md)
+* [Main Org Exporting](../main-org/exporting.md)
+* [Scenario Exporting](../scenarios/exporting.md)

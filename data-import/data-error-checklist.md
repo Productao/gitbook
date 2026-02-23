@@ -1,5 +1,9 @@
 ---
 description: Common data errors to avoid when uploading data into Agentnoon
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/data-import/data-error-checklist
 ---
 
 # Data Error Checklist

@@ -1,8 +1,11 @@
 ---
 description: Common charts in Agentnoon and how to use them
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/hub/chart-library
 ---
 
-# Chart Library
+# 📚 Chart Library
 
 ### Overview
 

@@ -2,7 +2,7 @@
 description: Auto populate salaries using your compensation bands
 ---
 
-# Compensation Cards
+# 💰 Rate Cards / Compensation Bands
 
 ### Overview
 

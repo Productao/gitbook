@@ -4,7 +4,7 @@ description: >-
   consistency and reduce manual work.
 ---
 
-# Automapping
+# 🔄 Auto Mapping
 
 ### Setting Up Auto-Mapping
 
@@ -17,7 +17,7 @@ To create an auto-mapping rule:
 1. Navigate to **Settings**.
 2. Create a new rule and provide a name and description.
 
-<p align="center"> <img src="../.gitbook/assets/Screenshot 2026-01-30 at 11.48.11 AM.png" alt=""></p>
+<div align="center"><img src="../.gitbook/assets/Screenshot 2026-01-30 at 11.48.11 AM.png" alt=""></div>
 
 3. Upload a CSV file containing the mapping logic.
 4. Click on Create Rule.

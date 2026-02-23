@@ -1,6 +1,5 @@
 ---
 description: Combine changes from multiple scenarios into one
-hidden: false
 ---
 
 # Scenario Merging
@@ -36,21 +35,21 @@ Use "Show only conflicts" filter to review what you'd be overwriting before deci
 
 ## When Not to Use Merge
 
-- Scenarios with significant overlap — coordinate in a single shared scenario instead
-- Final approved scenarios — don't merge into them; create a new scenario
-- Scenarios built on different Main Org baselines
+* Scenarios with significant overlap — coordinate in a single shared scenario instead
+* Final approved scenarios — don't merge into them; create a new scenario
+* Scenarios built on different Main Org baselines
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Duplicate positions after merge | Both scenarios created the same new position; delete one duplicate |
-| Broken hierarchy after merge | Click orange broken hierarchy icon > reassign managers to reconnect |
-| Can't see merged changes | Clear all filters; confirm "Show After" mode is active |
-| Merged wrong scenario | Restore from the automatic backup created before the merge |
+| Problem                         | Solution                                                            |
+| ------------------------------- | ------------------------------------------------------------------- |
+| Duplicate positions after merge | Both scenarios created the same new position; delete one duplicate  |
+| Broken hierarchy after merge    | Click orange broken hierarchy icon > reassign managers to reconnect |
+| Can't see merged changes        | Clear all filters; confirm "Show After" mode is active              |
+| Merged wrong scenario           | Restore from the automatic backup created before the merge          |
 
 ## Related Articles
 
-- [Scenario Comparisons](comparisons.md) — Compare without merging
-- [Scenario Refresh](refresh.md) — Update scenario with Main Org changes
-- [Bulk Operations](bulk-operations.md)
+* [Scenario Comparisons](comparisons.md) — Compare without merging
+* [Scenario Refresh](/broken/pages/fnnfy4SZXur2iTxRXwHb) — Update scenario with Main Org changes
+* [Bulk Operations](bulk-operations.md)

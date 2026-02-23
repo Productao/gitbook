@@ -1,6 +1,5 @@
 ---
 description: Workflow checklist for annual fiscal year planning
-hidden: false
 ---
 
 # Annual Planning Checklist
@@ -9,7 +8,7 @@ Agentnoon is designed to be intuitive — most users complete these steps in the
 
 This checklist walks through the key phases of fiscal year workforce planning.
 
----
+***
 
 ## Pre-Planning
 
@@ -21,23 +20,23 @@ Lay the groundwork for annual planning.
 4. Align with Finance on planning assumptions (merit increase budgets, benefits rates, cost per employee targets)
 5. Request bottom-up plans from all department leaders covering hiring needs, organizational changes, and capability gaps
 
----
+***
 
 ## Scenario Development
 
 Build the comprehensive annual plan.
 
-1. Create a scenario named "FY[Year] Plan" using Full Org
+1. Create a scenario named "FY\[Year] Plan" using Full Org
 2. Add a detailed description covering planning assumptions, strategic priorities, and headcount/budget targets
 3. Work through each department — add positions with hire dates distributed across quarters, salaries from rate cards, and manager assignments
 4. Model compensation increases: apply merit increases with effective dates and update titles/salaries for promotions
 5. Model expected attrition using historical rates and add backfill positions where needed
 6. Create scenario variants to show options:
-   - **Conservative:** Reduce hires by 15-20%, focus on critical roles
-   - **Moderate:** Balanced baseline plan
-   - **Aggressive:** Increase hires by 15-20%, include growth bets
+   * **Conservative:** Reduce hires by 15-20%, focus on critical roles
+   * **Moderate:** Balanced baseline plan
+   * **Aggressive:** Increase hires by 15-20%, include growth bets
 
----
+***
 
 ## Analysis & Approval
 
@@ -51,7 +50,7 @@ Refine the plan and get executive sign-off.
 6. Submit the final scenario for formal approval via the OpEx Panel
 7. Once approved, communicate the plan to department leaders, recruiting, and Finance
 
----
+***
 
 ## Monitoring
 
@@ -62,13 +61,13 @@ Track progress throughout the fiscal year.
 3. Export updated forecast data and report plan vs. actuals with variance explanations to leadership
 4. If significantly off plan at mid-year, create a mid-year reforecast scenario and resubmit for approval
 
----
+***
 
 ## Additional Resources
 
-- [Multi-Year Planning](../../forecast/multi-year-planning.md)
-- [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
-- [Annual Hiring Plan Tutorial](../../use-case-tutorials/annual-hiring-plan.md)
-- [Scenario Comparisons](../../scenarios/comparisons.md)
-- [Workforce Planner Checklist](workforce-planner-checklist.md)
-- [Quarterly Planning Checklist](quarterly-planning-checklist.md)
+* [Multi-Year Planning](../../forecast/multi-year-planning.md)
+* [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
+* [Annual Hiring Plan Tutorial](/broken/pages/ReCH2MxnQgNTLdPp830r)
+* [Scenario Comparisons](../../scenarios/comparisons.md)
+* [Workforce Planner Checklist](workforce-planner-checklist.md)
+* [Quarterly Planning Checklist](quarterly-planning-checklist.md)

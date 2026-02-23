@@ -1,43 +1,42 @@
 ---
 description: Introduction to directory and table views
-hidden: false
 ---
 
-# Directory Overview
+# 📋 Directory Overview
 
 The Directory module is your dedicated table view for analyzing organizational data. While org charts visualize hierarchy, Directory provides a spreadsheet-style interface for sorting, filtering, and exporting position and people data.
 
-> **[Screenshot placeholder: Directory view showing position table with multiple columns (Name, Title, Department, Manager, Salary)]**
+> **\[Screenshot placeholder: Directory view showing position table with multiple columns (Name, Title, Department, Manager, Salary)]**
 
 ## Directory vs Org Chart
 
-| Feature | Directory | Org Chart |
-|---------|-----------|-----------|
-| Format | Table (rows/columns) | Visual hierarchy |
-| Best for | Data analysis | Understanding relationships |
-| Sorting | ✅ Yes | ❌ No |
-| Multiple columns visible | ✅ Many at once | ⚠️ Limited (card space) |
-| See reporting structure | ⚠️ Manager column only | ✅ Visual lines |
-| Export | CSV lists | JPEG, PowerPoint, CSV |
-| Find outliers | ✅ Easy (sort high/low) | ⚠️ Manual search |
+| Feature                  | Directory              | Org Chart                   |
+| ------------------------ | ---------------------- | --------------------------- |
+| Format                   | Table (rows/columns)   | Visual hierarchy            |
+| Best for                 | Data analysis          | Understanding relationships |
+| Sorting                  | ✅ Yes                  | ❌ No                        |
+| Multiple columns visible | ✅ Many at once         | ⚠️ Limited (card space)     |
+| See reporting structure  | ⚠️ Manager column only | ✅ Visual lines              |
+| Export                   | CSV lists              | JPEG, PowerPoint, CSV       |
+| Find outliers            | ✅ Easy (sort high/low) | ⚠️ Manual search            |
 
 ## When to Use Directory
 
-- **Analyze data:** Sort by salary, tenure, pay grade — find highest/lowest values and outliers
-- **Create exports:** Department rosters, contact lists, filtered position lists
-- **Multi-column comparison:** View many attributes simultaneously
-- **Quick lookups:** Find all managers in a location, identify vacant positions
-- **Bulk operations (scenarios only):** Select and edit multiple positions at once
+* **Analyze data:** Sort by salary, tenure, pay grade — find highest/lowest values and outliers
+* **Create exports:** Department rosters, contact lists, filtered position lists
+* **Multi-column comparison:** View many attributes simultaneously
+* **Quick lookups:** Find all managers in a location, identify vacant positions
+* **Bulk operations (scenarios only):** Select and edit multiple positions at once
 
 ## Directory Capabilities
 
-| Feature | Learn More |
-|---------|-----------|
-| Orientation & Navigation | [Navigation & Access](navigation.md) |
-| Filtering & Sorting | [Filtering & Sorting](filtering-sorting.md) |
-| Column Customization | [Column Customization](columns-customization.md) |
-| Bulk Operations (scenarios) | [Bulk Operations](bulk-operations.md) |
-| Exporting Data | [Exporting Data from Directory](exporting-reporting.md) |
+| Feature                     | Learn More                                              |
+| --------------------------- | ------------------------------------------------------- |
+| Orientation & Navigation    | [Navigation & Access](navigation.md)                    |
+| Filtering & Sorting         | [Filtering & Sorting](filtering-sorting.md)             |
+| Column Customization        | [Column Customization](columns-customization.md)        |
+| Bulk Operations (scenarios) | [Bulk Operations](bulk-operations.md)                   |
+| Exporting Data              | [Exporting Data from Directory](exporting-reporting.md) |
 
 ## Common Workflows
 
@@ -59,4 +58,4 @@ The Directory module is your dedicated table view for analyzing organizational d
 4. **Customize columns for your task** — Show only relevant attributes
 5. **Remember filters carry over** — Active filters affect org chart and directory views
 
-> **[Screenshot placeholder: Switching between Org Chart and Directory views using the view dropdown]**
+> **\[Screenshot placeholder: Switching between Org Chart and Directory views using the view dropdown]**

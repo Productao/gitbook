@@ -1,21 +1,21 @@
 ---
 description: How to navigate and explore the org chart, and available toolbar tools
-hidden: false
 ---
 
-# Orientation & Navigation
+# 🧭 Orientation & Navigation
 
 The left toolbar provides all navigation and analysis tools in Main Org. All actions are **view-only** — to make changes to positions, create a Scenario.
 
-> **[Screenshot placeholder: Left toolbar in Main Org showing all tool icons (Search, Filter, Tree View, Highlight, Card Content, Spotlight, Presets, Export, Layout)]**
+> **\[Screenshot placeholder: Left toolbar in Main Org showing all tool icons (Search, Filter, Tree View, Highlight, Card Content, Spotlight, Presets, Export, Layout)]**
 
 ## Toolbar Tools
 
 **Search (🔍)** — Find employees or positions by name or job title. Results navigate the org chart to that position. Works across your entire accessible scope. Shortcut: Cmd/Ctrl+K or `/`.
 
 **Filter** — Show only positions matching specific criteria (Department, Location, Pay Grade, custom fields). Two modes:
-- **Standard Filtering** — Shows only matching positions; may break visual hierarchy
-- **Manager Filtering (recommended)** — Preserves hierarchy by showing managers above filtered positions even if they don't match the filter
+
+* **Standard Filtering** — Shows only matching positions; may break visual hierarchy
+* **Manager Filtering (recommended)** — Preserves hierarchy by showing managers above filtered positions even if they don't match the filter
 
 Clear all filters: Filter icon > Clear All (or remove individual filter tags). Filters persist across org chart, directory, and forecast views.
 
@@ -43,14 +43,14 @@ To do any of these: create a Scenario.
 
 ## Main Org vs Scenario Toolbar
 
-| Tool | Main Org | Scenarios |
-|------|----------|-----------|
-| Search, Filter, Highlight, Spotlight, Card Content, Export, Layout | ✅ | ✅ |
-| Add/Edit/Move/Close positions | ❌ | ✅ |
-| Bulk Operations | ❌ | ✅ |
-| OpEx Panel (👀) | ❌ | ✅ |
-| Comments | ❌ | ✅ |
-| Approvals | ❌ | ✅ |
+| Tool                                                               | Main Org | Scenarios |
+| ------------------------------------------------------------------ | -------- | --------- |
+| Search, Filter, Highlight, Spotlight, Card Content, Export, Layout | ✅        | ✅         |
+| Add/Edit/Move/Close positions                                      | ❌        | ✅         |
+| Bulk Operations                                                    | ❌        | ✅         |
+| OpEx Panel (👀)                                                    | ❌        | ✅         |
+| Comments                                                           | ❌        | ✅         |
+| Approvals                                                          | ❌        | ✅         |
 
 ## Keyboard Shortcuts
 
@@ -58,11 +58,11 @@ To do any of these: create a Scenario.
 
 ## Navigation Best Practices
 
-- Use Search or Filter instead of manually browsing large orgs
-- Use Manager Filtering to maintain hierarchy context when filtering
-- Combine Highlight + Spotlight: Highlight by Department, Spotlight by SOC = 1–2
-- Clear filters between sessions — they carry over to other modules
-- Save Presets for recurring analysis (don't reconfigure the same view repeatedly)
+* Use Search or Filter instead of manually browsing large orgs
+* Use Manager Filtering to maintain hierarchy context when filtering
+* Combine Highlight + Spotlight: Highlight by Department, Spotlight by SOC = 1–2
+* Clear filters between sessions — they carry over to other modules
+* Save Presets for recurring analysis (don't reconfigure the same view repeatedly)
 
 ## Common Workflows
 
@@ -76,6 +76,6 @@ To do any of these: create a Scenario.
 
 ## Related Articles
 
-- [Directory View](directory-view.md)
-- [Org Metrics & Insights](metrics-insights.md)
-- [Creating a Scenario](../scenarios/creating-scenarios.md)
+* [Directory View](directory-view.md)
+* [Org Metrics & Insights](metrics-insights.md)
+* [Creating a Scenario](../scenarios/creating-scenarios.md)

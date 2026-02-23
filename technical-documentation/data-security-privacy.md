@@ -1,13 +1,12 @@
 ---
 description: Data security, privacy, and compliance
-hidden: false
 ---
 
-# Data Security & Privacy
+# 🔒 Data Security & Privacy
 
 Agentnoon is committed to protecting your organizational data with industry-leading security practices, compliance certifications, and transparent privacy policies.
 
----
+***
 
 ## Security Certifications & Compliance
 
@@ -16,21 +15,24 @@ Agentnoon maintains rigorous security standards and complies with major data pro
 ### Compliance Certifications
 
 **SOC 2 Compliant**
-- Independent third-party audit of security controls
-- Validates security, availability, and confidentiality
-- Annual audits ensure continued compliance
+
+* Independent third-party audit of security controls
+* Validates security, availability, and confidentiality
+* Annual audits ensure continued compliance
 
 **GDPR Compliant**
-- Full compliance with EU General Data Protection Regulation
-- Data subject rights fully supported
-- Privacy by design and by default
+
+* Full compliance with EU General Data Protection Regulation
+* Data subject rights fully supported
+* Privacy by design and by default
 
 **ISO 27001 Certified**
-- International standard for information security management
-- Systematic approach to managing sensitive data
-- Regular audits and continuous improvement
 
----
+* International standard for information security management
+* Systematic approach to managing sensitive data
+* Regular audits and continuous improvement
+
+***
 
 ## Data Encryption
 
@@ -39,25 +41,28 @@ Agentnoon protects your data using industry-standard encryption at every stage.
 ### Encryption at Rest
 
 **All data encrypted at rest:**
-- Customer data stored with industry-standard encryption
-- Database encryption enabled
-- File storage encrypted
-- Backup data encrypted
+
+* Customer data stored with industry-standard encryption
+* Database encryption enabled
+* File storage encrypted
+* Backup data encrypted
 
 ### Encryption in Transit
 
 **All data encrypted in transit:**
-- TLS 1.2+ encryption for all connections
-- HTTPS enforced across the platform
-- Secure API communications
-- Encrypted data transfers during integrations
+
+* TLS 1.2+ encryption for all connections
+* HTTPS enforced across the platform
+* Secure API communications
+* Encrypted data transfers during integrations
 
 **Encryption standards:**
-- Industry-standard encryption algorithms
-- Regular security updates and patches
-- Cryptographic key management best practices
 
----
+* Industry-standard encryption algorithms
+* Regular security updates and patches
+* Cryptographic key management best practices
+
+***
 
 ## Access Controls & Authentication
 
@@ -66,132 +71,148 @@ Agentnoon provides robust access controls to ensure only authorized users can ac
 ### Authentication Options
 
 **Single Sign-On (SSO):**
-- SAML 2.0 support
-- Integration with Okta, Azure AD, Google Workspace
-- Centralized identity management
+
+* SAML 2.0 support
+* Integration with Okta, Azure AD, Google Workspace
+* Centralized identity management
 
 **Multi-Factor Authentication (MFA):**
-- Optional MFA for additional security
-- Reduces risk of unauthorized access
-- Support for authenticator apps
+
+* Optional MFA for additional security
+* Reduces risk of unauthorized access
+* Support for authenticator apps
 
 ### Access Management
 
 **Role-Based Access Control (RBAC):**
-- Admin, user, and custom roles
-- Granular permissions per role
-- Field-level access controls
+
+* Admin, user, and custom roles
+* Granular permissions per role
+* Field-level access controls
 
 **Access Groups:**
-- Scope access by department, location, or custom attributes
-- Control who can view, edit, or export data
-- Flexible permission configurations
+
+* Scope access by department, location, or custom attributes
+* Control who can view, edit, or export data
+* Flexible permission configurations
 
 ### Session Management
 
 **Automatic session security:**
-- Auto-timeout after period of inactivity
-- Secure session handling
-- Session invalidation on logout
 
----
+* Auto-timeout after period of inactivity
+* Secure session handling
+* Session invalidation on logout
+
+***
 
 ## Audit Logging
 
 Agentnoon tracks user activity to maintain security and accountability.
 
 **What is logged:**
-- User login and logout events
-- Data access (who viewed what)
-- Data modifications (who changed what)
-- Export activities
-- Admin actions
-- Permission changes
+
+* User login and logout events
+* Data access (who viewed what)
+* Data modifications (who changed what)
+* Export activities
+* Admin actions
+* Permission changes
 
 **Audit log features:**
-- Timestamps for all events
-- User identification
-- Action details
-- Available to administrators
+
+* Timestamps for all events
+* User identification
+* Action details
+* Available to administrators
 
 **Use cases:**
-- Security investigations
-- Compliance audits
-- Troubleshooting access issues
-- Understanding data changes
 
----
+* Security investigations
+* Compliance audits
+* Troubleshooting access issues
+* Understanding data changes
+
+***
 
 ## Data Privacy
 
 ### Data Ownership
 
 **Your data is yours:**
-- You own your organizational data
-- Agentnoon processes data on your behalf
-- You control who accesses your data
-- You can export or delete your data at any time
+
+* You own your organizational data
+* Agentnoon processes data on your behalf
+* You control who accesses your data
+* You can export or delete your data at any time
 
 ### Data Retention Policy
 
 **Data lifecycle:**
-- Data retained while your account is active
-- Data retained for **30 days after account termination**
-- After 30 days, all customer data is permanently deleted
-- Backups purged after retention period
+
+* Data retained while your account is active
+* Data retained for **30 days after account termination**
+* After 30 days, all customer data is permanently deleted
+* Backups purged after retention period
 
 ### Right to Deletion (GDPR)
 
 **Data deletion supported:**
-- Customers can request data deletion at any time
-- Data removed within 30 days of termination
-- Permanent deletion of all customer data
-- Confirmation provided upon completion
+
+* Customers can request data deletion at any time
+* Data removed within 30 days of termination
+* Permanent deletion of all customer data
+* Confirmation provided upon completion
 
 ### Data Export for Compliance
 
 **Export your data anytime:**
-- Export organizational data to CSV or Excel
-- Export user lists and permissions
-- Export audit logs
-- Self-service export via platform
-- API access for automated exports
 
----
+* Export organizational data to CSV or Excel
+* Export user lists and permissions
+* Export audit logs
+* Self-service export via platform
+* API access for automated exports
+
+***
 
 ## Infrastructure & Data Residency
 
 ### Cloud Platform
 
 **Agentnoon:**
-- Hosted on **Google Cloud Platform (GCP)**
-- Enterprise-grade infrastructure
-- 99.9%+ uptime SLA
-- Automated backups and disaster recovery
+
+* Hosted on **Google Cloud Platform (GCP)**
+* Enterprise-grade infrastructure
+* 99.9%+ uptime SLA
+* Automated backups and disaster recovery
 
 **Dayforce SWP:**
-- Hosted on **Microsoft Azure**
-- Redundant infrastructure
-- High availability and performance
+
+* Hosted on **Microsoft Azure**
+* Redundant infrastructure
+* High availability and performance
 
 ### Data Residency Options
 
 **Global infrastructure:**
 
 Agentnoon offers data residency in multiple regions to support data sovereignty requirements:
-- **United States** (US)
-- **European Union** (EU)
-- **Australia** (AUS)
-- **United Arab Emirates** (UAE)
+
+* **United States** (US)
+* **European Union** (EU)
+* **Australia** (AUS)
+* **United Arab Emirates** (UAE)
 
 **Benefits:**
-- Comply with local data protection laws
-- Reduce latency for global teams
-- Meet data residency requirements
+
+* Comply with local data protection laws
+* Reduce latency for global teams
+* Meet data residency requirements
 
 **Note:** Contact your account manager to configure data residency for your organization.
 
----
+***
 
 ## Security Best Practices for Users
 
@@ -215,48 +236,53 @@ To maximize security, we recommend:
 5. **Report suspicious activity** - Contact admin or support immediately
 6. **Be cautious with exports** - Exported data contains sensitive information
 
----
+***
 
 ## Third-Party Security
 
 ### Integrations
 
 **Security for data integrations:**
-- Encrypted connections to HRIS systems (Workday, BambooHR, ADP)
-- Secure SFTP transfers
-- API authentication and authorization
-- Regular security reviews of integration partners
+
+* Encrypted connections to HRIS systems (Workday, BambooHR, ADP)
+* Secure SFTP transfers
+* API authentication and authorization
+* Regular security reviews of integration partners
 
 ### Vendors & Subprocessors
 
 **Agentnoon's vendor management:**
-- Security assessment of all vendors
-- Data Processing Agreements (DPAs) in place
-- Regular vendor security reviews
-- Compliance with GDPR Article 28 (processor requirements)
 
----
+* Security assessment of all vendors
+* Data Processing Agreements (DPAs) in place
+* Regular vendor security reviews
+* Compliance with GDPR Article 28 (processor requirements)
+
+***
 
 ## Vulnerability Management
 
 **Proactive security:**
-- Regular security assessments and penetration testing
-- Vulnerability scanning and remediation
-- Security patch management
-- Bug bounty program (if applicable)
+
+* Regular security assessments and penetration testing
+* Vulnerability scanning and remediation
+* Security patch management
+* Bug bounty program (if applicable)
 
 **Responsible disclosure:**
-- Security researchers can report vulnerabilities
-- Coordinated disclosure process
-- Timely patches for identified issues
 
----
+* Security researchers can report vulnerabilities
+* Coordinated disclosure process
+* Timely patches for identified issues
+
+***
 
 ## Incident Response
 
 ### Security Incident Procedures
 
 In the event of a security incident:
+
 1. **Detection** - Security monitoring and alerting
 2. **Assessment** - Evaluate scope and impact
 3. **Containment** - Stop the incident from spreading
@@ -267,21 +293,23 @@ In the event of a security incident:
 ### Breach Notification
 
 **Transparency commitment:**
-- Notify affected customers promptly
-- Provide details on incident scope and impact
-- Explain remediation steps taken
-- Comply with GDPR breach notification requirements (72 hours)
 
----
+* Notify affected customers promptly
+* Provide details on incident scope and impact
+* Explain remediation steps taken
+* Comply with GDPR breach notification requirements (72 hours)
+
+***
 
 ## Privacy Policy & Terms
 
 For complete details on data handling and privacy:
-- **Privacy Policy:** [Link to privacy policy]
-- **Terms of Service:** [Link to terms]
-- **Data Processing Agreement (DPA):** Available upon request
 
----
+* **Privacy Policy:** \[Link to privacy policy]
+* **Terms of Service:** \[Link to terms]
+* **Data Processing Agreement (DPA):** Available upon request
+
+***
 
 ## Reporting Security Concerns
 
@@ -290,14 +318,15 @@ If you discover a security vulnerability or have security concerns:
 **Contact:** [security@agentnoon.com](mailto:security@agentnoon.com)
 
 **Include:**
-- Description of the issue
-- Steps to reproduce (if applicable)
-- Potential impact
-- Your contact information
+
+* Description of the issue
+* Steps to reproduce (if applicable)
+* Potential impact
+* Your contact information
 
 **Response time:** We aim to respond to security reports within 24-48 hours.
 
----
+***
 
 ## Frequently Asked Questions
 
@@ -329,16 +358,15 @@ Yes, Agentnoon is SOC 2 compliant with annual audits.
 
 Yes, contact your account manager or [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) to request security documentation.
 
----
+***
 
 ## Additional Resources
 
-- [Authentication & IAM](../authentication-and-identity-security/README.md) - SSO and MFA setup
-- [Access Control Overview](../admin/access-control/overview.md) - Managing user permissions
-- [Data Management](../admin/data-management/data-import.md) - Secure data import practices
-- [Support & How to Self-Help](../start-here/support-self-help.md) - General support resources
+* [Authentication & IAM](../authentication-and-identity-security/) - SSO and MFA setup
+* [Access Control Overview](../admin/access-control/overview.md) - Managing user permissions
+* [Data Management](../admin/data-management/data-import.md) - Secure data import practices
+* [Support & How to Self-Help](../start-here/support-self-help.md) - General support resources
 
----
+***
 
-**Last updated:** February 2026
-**Security documentation version:** 1.0
+**Last updated:** February 2026 **Security documentation version:** 1.0

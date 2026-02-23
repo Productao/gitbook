@@ -1,7 +1,4 @@
----
----
-
-# What is a Live Data Integration?
+# 🔄 Live Data Refresh
 
 ### Overview
 

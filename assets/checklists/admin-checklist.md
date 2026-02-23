@@ -1,6 +1,5 @@
 ---
 description: Onboarding checklist for Agentnoon administrators
-hidden: false
 ---
 
 # Admin Checklist
@@ -9,7 +8,7 @@ Agentnoon is designed to be intuitive — most users complete these steps in the
 
 This checklist covers everything an administrator needs to set up and manage the platform.
 
----
+***
 
 ## Initial Setup
 
@@ -22,7 +21,7 @@ This checklist covers everything an administrator needs to set up and manage the
 7. Check [Calculated Agentnoon Attributes](../../data-import/calculated-agentnoon-attributes.md)
 8. Create a test scenario to understand the user experience
 
----
+***
 
 ## User Management
 
@@ -35,7 +34,7 @@ This checklist covers everything an administrator needs to set up and manage the
 7. Read [Access Groups](../../access-control/access-groups.md)
 8. Review [Advanced Access Controls](../../access-control/advanced-access-controls.md)
 
----
+***
 
 ## Configuration
 
@@ -52,27 +51,27 @@ This checklist covers everything an administrator needs to set up and manage the
 11. Read [Configuring Approval Flows](../../admin/configuring-approval-flows.md)
 12. Review [Scenario Approvals](../../scenarios/approvals.md)
 
----
+***
 
 ## Ongoing Admin Tasks
 
-- Refresh Main Org data from your HRIS regularly
-- Monitor user activity and address questions
-- Check for data upload errors
-- Review pending scenario approvals
-- Audit user permissions and access periodically
-- Review and update rate cards as needed
-- Archive or delete old scenarios to keep things tidy
-- Share relevant checklists with different user groups:
-  - [Department Lead Checklist](department-lead-checklist.md)
-  - [Workforce Planner Checklist](workforce-planner-checklist.md)
+* Refresh Main Org data from your HRIS regularly
+* Monitor user activity and address questions
+* Check for data upload errors
+* Review pending scenario approvals
+* Audit user permissions and access periodically
+* Review and update rate cards as needed
+* Archive or delete old scenarios to keep things tidy
+* Share relevant checklists with different user groups:
+  * [Department Lead Checklist](department-lead-checklist.md)
+  * [Workforce Planner Checklist](workforce-planner-checklist.md)
 
----
+***
 
 ## Additional Resources
 
-- [Admin Overview](../../admin/overview.md)
-- [Data Import Guide](../../data-import/data-import.md)
-- [Access Control Overview](../../access-control/overview.md)
-- [Troubleshooting Overview](../../troubleshooting/overview.md)
-- [Technical Documentation](../../technical-documentation/technical-overview.md)
+* [Admin Overview](../../admin/overview.md)
+* [Data Import Guide](../../data-import/data-import.md)
+* [Access Control Overview](../../access-control/overview.md)
+* [Troubleshooting Overview](../../troubleshooting/overview.md)
+* [Technical Documentation](/broken/pages/9JONwbDBLfJCJWvo6kKZ)

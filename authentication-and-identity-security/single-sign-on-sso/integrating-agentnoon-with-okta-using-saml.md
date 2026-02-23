@@ -2,6 +2,10 @@
 description: >-
   SAML integration allows for Okta initiated sign up and login using application
   tile
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/single-sign-on-sso/integrating-agentnoon-with-okta-using-saml
 ---
 
 # Integrating Agentnoon with Okta using SAML

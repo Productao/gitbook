@@ -2,6 +2,10 @@
 description: >-
   Agentnoon supports Single Sign-On (SSO) via Microsoft Azure Active Directory
   using the SAML 2.0 protocol, allowing users to securely access the platform
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/single-sign-on-sso/microsoft-sso-integration-azure-ad
 ---
 
 # Microsoft SSO Integration (Azure AD)
@@ -24,7 +28,7 @@ description: >-
 
 1. We will request a test account to validate the integration setup.
 
-#### 4.  Post-Approval Actions
+#### 4. Post-Approval Actions
 
 1. No further actions are required after the admin approval, as the configuration supports all organizational users by default.
 

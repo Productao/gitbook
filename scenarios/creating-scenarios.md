@@ -1,9 +1,8 @@
 ---
 description: How to create new scenarios
-hidden: false
 ---
 
-# Creating Scenarios
+# ➕ Creating Scenarios
 
 ## How to Create
 
@@ -12,9 +11,10 @@ From the homepage, click **+** or **Create Scenario**. Also accessible from the 
 ## Step 1: Choose Scenario Type
 
 **Partial Org (recommended for most cases)** — Scope to a specific manager's org or a filtered subset. Faster performance, easier to navigate. Choose this for department reorgs, focused planning, and most daily use.
-- *Select by Manager:* Pick a manager; their full reporting hierarchy is included
-- *Filter Selection:* Apply Department/Location filters; preview included positions before confirming
-- Tip: Enable "Manager Filtering" to include the reporting chain above your selection for context
+
+* _Select by Manager:_ Pick a manager; their full reporting hierarchy is included
+* _Filter Selection:_ Apply Department/Location filters; preview included positions before confirming
+* Tip: Enable "Manager Filtering" to include the reporting chain above your selection for context
 
 **Full Org** — Includes your entire accessible org chart. Use for company-wide reorgs and strategic planning requiring cross-functional context. Note: slower with large orgs (5,000+ employees).
 
@@ -39,24 +39,25 @@ Never use: "New Scenario", "Test", "Draft", "Scenario 1"
 ## After Creating
 
 You're taken directly to the scenario org chart. Verify:
-- Scenario name appears in the top-left corner (not Main Org)
-- The correct positions/scope are included
-- Summary bar shows the expected headcount/cost
+
+* Scenario name appears in the top-left corner (not Main Org)
+* The correct positions/scope are included
+* Summary bar shows the expected headcount/cost
 
 Start making changes: [Making Position Changes](making-position-changes.md)
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Scenario creation taking too long | Switch to Partial Org instead of Full Org |
-| Missing positions I expected | Widen filter or select a higher-level manager as the scope |
-| Positions I don't want included | Narrow filter; select a more specific manager |
-| Created wrong type | Delete and recreate — type can't be changed after creation |
+| Problem                           | Solution                                                   |
+| --------------------------------- | ---------------------------------------------------------- |
+| Scenario creation taking too long | Switch to Partial Org instead of Full Org                  |
+| Missing positions I expected      | Widen filter or select a higher-level manager as the scope |
+| Positions I don't want included   | Narrow filter; select a more specific manager              |
+| Created wrong type                | Delete and recreate — type can't be changed after creation |
 
 ## Related Articles
 
-- [Making Position Changes](making-position-changes.md)
-- [Scenario Protips](protips.md)
-- [Scenario Comparisons](comparisons.md)
-- [Organizing Scenarios](management/organizing-scenarios.md)
+* [Making Position Changes](making-position-changes.md)
+* [Scenario Protips](protips.md)
+* [Scenario Comparisons](comparisons.md)
+* [Organizing Scenarios](management/organizing-scenarios.md)

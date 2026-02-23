@@ -1,6 +1,2 @@
----
-hidden: false
----
-
-# Troubleshooting Authentication Issues
+# 🚧 Auth Troubleshooting
 

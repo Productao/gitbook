@@ -1,9 +1,8 @@
 ---
 description: Analyzing diversity metrics and planning inclusive workforce changes
-hidden: false
 ---
 
-# Diversity & Inclusion Analysis
+# 📈 Diversity & Inclusion Analysis
 
 Analyze DEI metrics in Agentnoon and model workforce changes that improve representation and equity.
 
@@ -12,6 +11,7 @@ Analyze DEI metrics in Agentnoon and model workforce changes that improve repres
 **IMPORTANT:** DEI analysis requires demographic data fields (Gender, Ethnicity, etc.) in your employee data. Without this data, you cannot perform DEI analysis in Agentnoon.
 
 **Setup (Admin):**
+
 1. Add DEI columns to your HRIS export CSV (e.g., Gender, Ethnicity, Race, Disability Status)
 2. Upload data via **Data Management > Import Data**
 3. Go to **Data Management > Fields and Attributes** to configure field visibility
@@ -22,15 +22,17 @@ Analyze DEI metrics in Agentnoon and model workforce changes that improve repres
 ## Analyze Current State
 
 **In Workforce Hub:**
+
 1. Go to Main Org > switch view to **Workforce Hub**
 2. Select a preconfigured chart from the dropdown (e.g., **Headcount Distribution Chart**)
 3. Use the axis dropdowns to configure:
-   - X-axis: Department, Job Level, or Location
-   - Y-axis: Select your DEI field (Gender, Ethnicity, etc.)
-   - Values: Headcount or Percentage
+   * X-axis: Department, Job Level, or Location
+   * Y-axis: Select your DEI field (Gender, Ethnicity, etc.)
+   * Values: Headcount or Percentage
 4. Apply filters for focused analysis (e.g., Job Level = Manager+ to see leadership pipeline)
 
 **With Spotlight:**
+
 1. Go to Main Org > **Spotlight** > Fields tab
 2. Select a DEI field and value (e.g., Gender = Woman)
 3. Matching positions highlight across the org chart
@@ -39,27 +41,31 @@ Analyze DEI metrics in Agentnoon and model workforce changes that improve repres
 
 ## Common Gaps to Identify
 
-- Low representation at higher job levels (leadership pipeline)
-- Drop-off points where underrepresented groups decrease
-- Departmental segregation (technical roles underrepresenting certain groups)
-- Pay disparities for comparable roles across demographic groups
+* Low representation at higher job levels (leadership pipeline)
+* Drop-off points where underrepresented groups decrease
+* Departmental segregation (technical roles underrepresenting certain groups)
+* Pay disparities for comparable roles across demographic groups
 
 ## Model DEI Improvements
 
 **Create a DEI scenario:**
+
 1. Click **+ Create Scenario**, name it (e.g., "2026 Diverse Hiring Plan")
 
 **Add diverse hires:**
-- Add Position > set DEI fields on the new position (e.g., Gender = Woman) > set a future hire date
+
+* Add Position > set DEI fields on the new position (e.g., Gender = Woman) > set a future hire date
 
 **Model promotions:**
-- Edit existing employee position > change Job Level and Salary > set Effective Date
+
+* Edit existing employee position > change Job Level and Salary > set Effective Date
 
 **Track impact:** Open **Workforce Hub** within the scenario to see before/after representation changes.
 
 ## Project Changes Over Time
 
 In your DEI scenario, switch to **Forecast** view:
+
 1. Set Aggregator to your DEI field (Gender, Ethnicity)
 2. Choose Quarterly or Yearly view
 3. Apply filters (e.g., Job Level = Manager+) for leadership-specific projections
@@ -83,16 +89,16 @@ This shows when you'll reach representation targets.
 
 ## Troubleshooting
 
-| Issue | Solution |
-|-------|----------|
-| DEI fields not visible | Add columns to CSV upload; mark as Employee Fields in Data Management |
-| Forecast not showing DEI changes | Verify hire dates and effective dates are set; select DEI field in Forecast aggregator |
-| Can't aggregate by DEI field in Workforce Hub | Ensure field exists in Fields and Attributes and is not hidden |
-| Incomplete data (many "prefer not to disclose") | Report on available data with noted limitations; never pressure disclosure |
+| Issue                                           | Solution                                                                               |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------- |
+| DEI fields not visible                          | Add columns to CSV upload; mark as Employee Fields in Data Management                  |
+| Forecast not showing DEI changes                | Verify hire dates and effective dates are set; select DEI field in Forecast aggregator |
+| Can't aggregate by DEI field in Workforce Hub   | Ensure field exists in Fields and Attributes and is not hidden                         |
+| Incomplete data (many "prefer not to disclose") | Report on available data with noted limitations; never pressure disclosure             |
 
 ## Related Resources
 
-- [Workforce Hub Charts](../workforce-hub/creating-charts.md)
-- [Scenario Creation](../scenarios/creating-scenarios.md)
-- [Forecast View](../forecast/forecast-overview.md)
-- [Fields and Attributes](../admin/fields-attributes.md)
+* [Workforce Hub Charts](../workforce-hub/creating-charts.md)
+* [Scenario Creation](../scenarios/creating-scenarios.md)
+* [Forecast View](../forecast/forecast-overview.md)
+* [Fields and Attributes](../admin/fields-attributes.md)

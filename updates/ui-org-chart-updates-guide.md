@@ -2,9 +2,13 @@
 description: >-
   This guide explains the latest updates to the card interface, including field
   segregation, employee assignment, editing, manager updates, and icon usage.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/updates/ui-org-chart-updates-guide
 ---
 
-# UI Org Chart Updates Guide
+# 🔄 UI Org Chart Updates Guide
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 

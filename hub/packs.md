@@ -1,8 +1,11 @@
 ---
 description: Creating, sharing, and exporting packs
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/hub/packs
 ---
 
-# Slide Packs
+# 📦 Slide Packs
 
 ### Overview
 

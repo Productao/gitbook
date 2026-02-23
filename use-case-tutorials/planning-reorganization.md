@@ -1,9 +1,8 @@
 ---
 description: End-to-end reorganization workflow
-hidden: false
 ---
 
-# Planning a Reorganization
+# 🎓 Planning a Reorganization
 
 Model organizational changes in Agentnoon to visualize new structures, identify unintended consequences, and get stakeholder buy-in before making real-world changes.
 
@@ -12,11 +11,13 @@ Model organizational changes in Agentnoon to visualize new structures, identify 
 Before making changes, understand where problems exist.
 
 **Span of Control analysis:**
+
 1. Go to **Workforce Hub** > open the **Layers and Spans of Control** chart
 2. Configure SOC groupings to see distribution (e.g., 0–2, 3–9, 10–15, 16+)
 3. Look for: managers with 1–2 reports (inefficiency), managers with 16+ reports (burnout risk)
 
 **Spotlight to find specific issues:**
+
 1. Main Org > **Spotlight** > select "Direct Span of Control" > set range (e.g., 1–2)
 2. Matching positions highlight across the org chart for visual navigation
 
@@ -25,10 +26,11 @@ Document specific problems: compression points (manager reporting to manager of 
 ## Step 2: Define Goals
 
 Set clear, measurable objectives before modeling. Examples:
-- "Reduce management layers from 8 to 6 in Commercial org"
-- "Eliminate all VP-to-VP reporting relationships"
-- "Balance span of control to 5–9 for all Directors"
-- "Save $400K annually in management costs"
+
+* "Reduce management layers from 8 to 6 in Commercial org"
+* "Eliminate all VP-to-VP reporting relationships"
+* "Balance span of control to 5–9 for all Directors"
+* "Save $400K annually in management costs"
 
 ## Step 3: Create a Reorganization Scenario
 
@@ -45,13 +47,15 @@ The scenario starts with the current structure as the "before" state.
 **Move entire teams:** Hover team lead > **Select Team** (selects lead + all subordinates) > **Change Manager**.
 
 **Flatten hierarchy (remove a layer):**
+
 1. Select all direct reports of the position being removed
 2. Change Manager to the level above
 3. Close the now-empty position with reason "Organizational flattening"
 
 **Add a management layer:**
+
 1. Add new position under the manager (e.g., Senior Manager)
-2. Move ~half the current direct reports to the new manager
+2. Move \~half the current direct reports to the new manager
 
 **Bulk attribute changes (department/location):** Select team > **Edit Attribute** > choose field > set new value.
 
@@ -72,9 +76,10 @@ Create 2–3 options to compare tradeoffs (Conservative / Moderate / Aggressive 
 ## Step 7: Gather Feedback and Iterate
 
 Share the scenario via Scenario Settings > add collaborators by email. Use the **Comments** feature for threaded discussion on specific positions. Common feedback:
-- "Wrong reporting relationship" → Change Manager
-- "Team too large" → Add a manager layer or redistribute
-- "Phase this over two quarters" → Use effective dates (see Step 8)
+
+* "Wrong reporting relationship" → Change Manager
+* "Team too large" → Add a manager layer or redistribute
+* "Phase this over two quarters" → Use effective dates (see Step 8)
 
 ## Step 8: Add Effective Dates for Phased Rollout
 
@@ -95,21 +100,22 @@ If rejected: review feedback, make adjustments, save, and resubmit. Previously a
 ## Step 10: Implement
 
 After approval:
+
 1. Export from Directory view as CSV to share with HR/IT for HRIS implementation
 2. Communicate changes to affected teams — lead with business rationale, not cost savings
 3. Monitor post-reorg: check in with managers, survey employee sentiment, adjust if needed
 
 ## Key Span of Control Guidelines
 
-- **Optimal range:** 5–9 direct reports for most roles
-- **Lower for complexity:** Geographically dispersed or highly cross-functional teams → aim for 5–7
-- **New managers:** 4–6 reports; experienced managers can handle 8–10+
-- **Avoid:** 1–2 reports (inefficiency) or 16+ reports (burnout risk)
+* **Optimal range:** 5–9 direct reports for most roles
+* **Lower for complexity:** Geographically dispersed or highly cross-functional teams → aim for 5–7
+* **New managers:** 4–6 reports; experienced managers can handle 8–10+
+* **Avoid:** 1–2 reports (inefficiency) or 16+ reports (burnout risk)
 
 ## Related Resources
 
-- [Span of Control Analysis](span-of-control-analysis.md)
-- [Bulk Operations](../scenarios/bulk-operations.md)
-- [Scenario Approvals](../scenarios/approvals.md)
-- [Time-Based Planning](../scenarios/time-based-planning.md)
-- [Scenario Comparisons](../scenarios/scenario-comparisons.md)
+* [Span of Control Analysis](span-of-control-analysis.md)
+* [Bulk Operations](../scenarios/bulk-operations.md)
+* [Scenario Approvals](../scenarios/approvals.md)
+* [Time-Based Planning](../scenarios/time-based-planning.md)
+* [Scenario Comparisons](../scenarios/scenario-comparisons.md)

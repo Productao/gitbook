@@ -3,7 +3,7 @@ description: Streamline multi-level approvals
 icon: thumbs-up
 ---
 
-# Approvals
+# ✅ Scenario Approvals
 
 ### Overview
 
@@ -33,35 +33,24 @@ After making changes in a scenario and before submitting a scenario for approval
 
 1. Go to **Settings** → **Approval Configurations** to assign organizational level approvers before submission.
 2. Use the **search** to select one or more users to act as approvers.
-3.  Only admins can set up org level approvers<br>
+3. Only admins can set up org level approvers<br>
 
-    <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 5.02.54 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+#### 3. Select scenario level approvers
 
-#### 3.  Select scenario level approvers
-
-1. Locate the scenario you want to configure approvals for and click the **three-dot menu <kbd>**(⋮)**</kbd>\
+1. Locate the scenario you want to configure approvals for and click the **three-dot menu** (⋮)\*\*\
    next to it.
-2.  Click **Configure Approvals** and select approvers for your scenario.<br>
-
-    <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 5.21.50 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+2. Click **Configure Approvals** and select approvers for your scenario.<br>
 
 ### Submitting a Scenario for Approval
 
 1. Click on Configure **Submission**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.52.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
-
 After making adjustments to your scenario, you can submit it for review.
 
 2. Then click on **Submit Scenario,** at the bottom right corner.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.52.50 PM.png" alt="" width="563"><figcaption></figcaption></figure>
-
 3. Provide a justification for your scenario before submitting it for approval.
 4. You also have the option to exclude any additions made in the scenario.
 5. Once submitted, scenarios can't be edited unless rejected by an approver. Only then can the submitter make changes.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.51.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Approving a Scenario
 
@@ -72,8 +61,6 @@ Approvers can review the scenario details but cannot edit them. Only admin can
 1. Click on a scenario to open it.
 2. Click Approve Roles to open the review the changes.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 6.58.17 PM.png" alt=""><figcaption></figcaption></figure>
-
 #### 2. Approving scenario requests
 
 The approver can take the following actions for individual change within the scenario:
@@ -82,11 +69,9 @@ The approver can take the following actions for individual change within the sce
 
     The process continues until all required approvers have approved the scenario.
 * **Reject**: the scenario is immediately marked as rejected.
-* **Admin actions:** \
+* **Admin actions:**\
   Admins have the ability to un-submit the entire scenario.
   * Click **Un-submit** from the three-dot menu. The role will move back into **review** status, allowing scenario collaborators to edit the changes.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 5.39.10 PM 1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 3. Revising approval requests
 

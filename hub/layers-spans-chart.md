@@ -2,15 +2,15 @@
 description: Detailed guide to using the Layers and Spans of Control chart
 ---
 
-# Layers and Spans of Control Chart
+# 📊 Layers and Spans of Control Chart
 
 The Layers and Spans of Control chart is a matrix showing how many managers fall into different span-of-control ranges across layers or departments. It immediately surfaces where spans are too narrow (compression) or too wide (overload).
 
 ## What It Shows
 
-- **X-axis (columns):** Span of control groupings (e.g., 1–2, 3–5, 6–9, 10–15, 16–25)
-- **Y-axis (rows):** Layers, Department, KLT Area, Pay Grade, or Location
-- **Cell values:** Count of managers in each combination
+* **X-axis (columns):** Span of control groupings (e.g., 1–2, 3–5, 6–9, 10–15, 16–25)
+* **Y-axis (rows):** Layers, Department, KLT Area, Pay Grade, or Location
+* **Cell values:** Count of managers in each combination
 
 **Example:** "In Growth, 114 managers have SOC 1–2, concentrated at layers 5 and 6."
 
@@ -29,9 +29,10 @@ The Layers and Spans of Control chart is a matrix showing how many managers fall
 **High spans (16–25+):** Potential overload — evaluate based on work type, standardization, and manager experience. Not always problematic.
 
 **Layer distribution patterns:**
-- Many narrow spans at senior levels (layers 1–3) = top-heavy, senior leadership compression
-- Many narrow spans at lower levels (layers 5–6) = compression in execution layer
-- Balanced distribution = healthy structure
+
+* Many narrow spans at senior levels (layers 1–3) = top-heavy, senior leadership compression
+* Many narrow spans at lower levels (layers 5–6) = compression in execution layer
+* Balanced distribution = healthy structure
 
 ## Common Use Cases
 
@@ -53,15 +54,15 @@ PNG for presentations, PowerPoint for editable charts (recommended for budget de
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Too many rows (too many layers) | Filter to specific layers or a smaller org scope |
-| Numbers seem wrong | Verify active filters; check if 0-0 grouping is included (inflates counts with ICs) |
-| Can't see narrow spans clearly | Break down further: 1-1, 2-2, 3-3 groupings for granularity |
+| Problem                         | Solution                                                                            |
+| ------------------------------- | ----------------------------------------------------------------------------------- |
+| Too many rows (too many layers) | Filter to specific layers or a smaller org scope                                    |
+| Numbers seem wrong              | Verify active filters; check if 0-0 grouping is included (inflates counts with ICs) |
+| Can't see narrow spans clearly  | Break down further: 1-1, 2-2, 3-3 groupings for granularity                         |
 
 ## Related Resources
 
-- [Headcount Heatmap Chart](headcount-heatmap-chart.md)
-- [Headcount Distribution Chart](headcount-distribution-chart.md)
-- [Hub Overview](overview.md)
-- [Span of Control Analysis Tutorial](../use-case-tutorials/span-of-control-analysis.md)
+* [Headcount Heatmap Chart](headcount-heatmap-chart.md)
+* [Headcount Distribution Chart](headcount-distribution-chart.md)
+* [Hub Overview](overview.md)
+* [Span of Control Analysis Tutorial](../use-case-tutorials/span-of-control-analysis.md)

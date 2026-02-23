@@ -1,15 +1,14 @@
 ---
 description: Accessing Directory and switching between views
-hidden: false
 ---
 
-# Orientation & Navigation
+# 🧭 Orientation & Navigation
 
 ## Accessing Directory
 
-- **From homepage:** Click **Directory** in the top nav bar, or press **5**
-- **From Main Org or Scenario:** Click the Directory/Table icon in the left toolbar (toggles with org chart; filters persist)
-- **From Workforce Hub:** Some charts include a "View in Directory" link that opens Directory pre-filtered to the chart's data
+* **From homepage:** Click **Directory** in the top nav bar, or press **5**
+* **From Main Org or Scenario:** Click the Directory/Table icon in the left toolbar (toggles with org chart; filters persist)
+* **From Workforce Hub:** Some charts include a "View in Directory" link that opens Directory pre-filtered to the chart's data
 
 ## Directory Modes
 
@@ -22,8 +21,9 @@ hidden: false
 ## Switching Views
 
 **Directory → Org Chart:**
-- Click the Org Chart icon in the left toolbar, or press **1**
-- Click the org chart icon next to a position name in Directory to navigate directly to that position
+
+* Click the Org Chart icon in the left toolbar, or press **1**
+* Click the org chart icon next to a position name in Directory to navigate directly to that position
 
 **Org Chart → Directory:** Click the Directory/Table icon in the left toolbar (filters remain active)
 
@@ -35,32 +35,32 @@ hidden: false
 
 ## Keyboard Shortcuts
 
-| Shortcut | Action |
-|----------|--------|
-| **5** | Jump to Directory module |
-| **1** | Return to org chart view |
-| **Cmd/Ctrl+F** | Open search |
-| **Esc** | Clear selection or close panels |
+| Shortcut       | Action                          |
+| -------------- | ------------------------------- |
+| **5**          | Jump to Directory module        |
+| **1**          | Return to org chart view        |
+| **Cmd/Ctrl+F** | Open search                     |
+| **Esc**        | Clear selection or close panels |
 
 ## Directory vs Org Chart: When to Use Each
 
-| Use Directory for | Use Org Chart for |
-|-------------------|-------------------|
-| Sorting by attributes, finding outliers | Understanding reporting structure |
+| Use Directory for                            | Use Org Chart for                                 |
+| -------------------------------------------- | ------------------------------------------------- |
+| Sorting by attributes, finding outliers      | Understanding reporting structure                 |
 | Comparing columns, creating filtered exports | Visualizing hierarchy, presenting to stakeholders |
-| Bulk editing (scenarios) | Drag-and-drop reorgs |
+| Bulk editing (scenarios)                     | Drag-and-drop reorgs                              |
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Directory empty or showing unexpected data | Check active filters; clear all and try again |
-| Can't find toolbar icons | Scroll up to see the left toolbar; try collapsing other panels |
-| Lost track of which mode (Main Org vs Scenario) | Check top-left corner for scenario name |
+| Problem                                         | Solution                                                       |
+| ----------------------------------------------- | -------------------------------------------------------------- |
+| Directory empty or showing unexpected data      | Check active filters; clear all and try again                  |
+| Can't find toolbar icons                        | Scroll up to see the left toolbar; try collapsing other panels |
+| Lost track of which mode (Main Org vs Scenario) | Check top-left corner for scenario name                        |
 
 ## Related Articles
 
-- [Filtering & Sorting](filtering-sorting.md)
-- [Column Customization](columns-customization.md)
-- [Bulk Operations](bulk-operations.md)
-- [Exporting](exporting.md)
+* [Filtering & Sorting](filtering-sorting.md)
+* [Column Customization](columns-customization.md)
+* [Bulk Operations](bulk-operations.md)
+* [Exporting](exporting.md)

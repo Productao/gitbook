@@ -1,5 +1,9 @@
 ---
 description: Basic data field requirements to get started
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/data-import/data-requirements
 ---
 
 # Data Requirements

@@ -1,6 +1,2 @@
----
-hidden: false
----
-
-# Best Practices
+# 🚧 Auth Best Practices
 

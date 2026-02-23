@@ -3,6 +3,10 @@ description: >-
   Securely connect your Agentnoon account using your existing Google or
   Microsoft credentials, simplifying login and reducing the need to manage
   separate passwords
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/single-sign-on-sso/google-and-microsoft-sso
 ---
 
 # Google and Microsoft SSO

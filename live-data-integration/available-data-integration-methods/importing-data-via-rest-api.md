@@ -2,6 +2,10 @@
 description: >-
   Upload a CSV to Agentnoon's REST API using an API KEY. Ensure data matches the
   schema with your account manager. Customize the upload frequency as needed.
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/live-data-integration/available-data-integration-methods/importing-data-via-rest-api
 ---
 
 # Importing Data via REST API
@@ -62,10 +66,10 @@ The request body should be in \`multipart/form-data\` format, including the CSV 
 
 ### Error Handling
 
-| HTTP Status Code | Description                                                                                                                                                                      |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 400              | Bad Request - The request could not be understood or contained invalid data.                                                                                                     |
-| 401              | Unauthorized - Authentication failed due to an invalid or missing API Key.                                                                                                       |
-| 403              | Forbidden - The request was valid, but the server is refusing to respond to it.  Contact SupportSWP@dayforce.com if you receive this error to ensure your IP has been whitelisted. |
-| 415              | Unsupported Media Type - The server does not support the provided file type.                                                                                                     |
-| 500              | Internal Server Error - An unexpected error occurred on the server.                                                                                                              |
+| HTTP Status Code | Description                                                                                                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 400              | Bad Request - The request could not be understood or contained invalid data.                                                                                                      |
+| 401              | Unauthorized - Authentication failed due to an invalid or missing API Key.                                                                                                        |
+| 403              | Forbidden - The request was valid, but the server is refusing to respond to it. Contact SupportSWP@dayforce.com if you receive this error to ensure your IP has been whitelisted. |
+| 415              | Unsupported Media Type - The server does not support the provided file type.                                                                                                      |
+| 500              | Internal Server Error - An unexpected error occurred on the server.                                                                                                               |

@@ -3,11 +3,11 @@ description: Using Workforce Hub analytics within scenarios
 icon: chart-mixed
 ---
 
-# Scenario Workforce Hub
+# 📈 Scenario Workforce Hub
 
 The Scenario Workforce Hub provides analytics to help you validate your scenario changes with data. Use it to analyze span of control, headcount distribution, and org structure before and after your proposed changes.
 
-> **[Screenshot placeholder: Scenario with Workforce Hub selected from the view dropdown, showing span of control layers chart]**
+> **\[Screenshot placeholder: Scenario with Workforce Hub selected from the view dropdown, showing span of control layers chart]**
 
 ## Accessing Scenario Workforce Hub
 
@@ -17,7 +17,7 @@ The Scenario Workforce Hub provides analytics to help you validate your scenario
 
 The Hub automatically reflects your scenario's current state.
 
-> **[Screenshot placeholder: View dropdown menu showing Directory, Forecast, and Workforce Hub options]**
+> **\[Screenshot placeholder: View dropdown menu showing Directory, Forecast, and Workforce Hub options]**
 
 ## Available Charts
 
@@ -31,11 +31,11 @@ The Hub automatically reflects your scenario's current state.
 
 Use the toggle at the top of the scenario to switch Hub analytics between:
 
-- **Show Before** — Baseline metrics from Main Org (current state)
-- **Show After** — Metrics with all scenario changes applied (proposed state)
-- **Show Changes** — Delta between Before and After (what is improving or worsening)
+* **Show Before** — Baseline metrics from Main Org (current state)
+* **Show After** — Metrics with all scenario changes applied (proposed state)
+* **Show Changes** — Delta between Before and After (what is improving or worsening)
 
-> **[Screenshot placeholder: Layers & Spans chart in Show After mode showing modified org structure]**
+> **\[Screenshot placeholder: Layers & Spans chart in Show After mode showing modified org structure]**
 
 **Tip:** "Show Changes" is the most powerful view for communicating impact to stakeholders — it clearly shows what is improving vs. degrading.
 
@@ -58,8 +58,8 @@ Use exported charts in business cases, planning presentations, and leadership re
 
 ## Related Articles
 
-- [Workforce Hub Overview](../hub/overview.md)
-- [Layers & Spans Chart](../hub/layers-spans-chart.md)
-- [Headcount Distribution Chart](../hub/headcount-distribution-chart.md)
-- [Headcount Heatmap Chart](../hub/headcount-heatmap-chart.md)
-- [Scenario Tracking & Analysis](tracking-analysis.md)
+* [Workforce Hub Overview](../hub/overview.md)
+* [Layers & Spans Chart](../hub/layers-spans-chart.md)
+* [Headcount Distribution Chart](../hub/headcount-distribution-chart.md)
+* [Headcount Heatmap Chart](../hub/headcount-heatmap-chart.md)
+* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)

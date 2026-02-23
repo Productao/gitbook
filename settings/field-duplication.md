@@ -1,5 +1,8 @@
 ---
 description: Control which fields are copied when duplicating roles in scenarios.
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/settings/field-duplication
 ---
 
 # Field Duplication

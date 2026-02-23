@@ -1,9 +1,8 @@
 ---
 description: Filtering positions and sorting columns in Directory
-hidden: false
 ---
 
-# Filtering & Sorting
+# 🔍 Filtering & Sorting
 
 ## Sorting
 
@@ -44,15 +43,15 @@ Type in the search box to find positions by name, title, or any attribute. Parti
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Can't find expected positions | Check active filters; clear all and search again |
-| Sort not working | Remove existing sort (click header 3×), then re-sort |
-| Filter options missing a value | That value doesn't exist in the data; check import |
-| Search returns no results | Search only scans filtered rows; clear filters and retry |
+| Problem                        | Solution                                                 |
+| ------------------------------ | -------------------------------------------------------- |
+| Can't find expected positions  | Check active filters; clear all and search again         |
+| Sort not working               | Remove existing sort (click header 3×), then re-sort     |
+| Filter options missing a value | That value doesn't exist in the data; check import       |
+| Search returns no results      | Search only scans filtered rows; clear filters and retry |
 
 ## Related Articles
 
-- [Column Customization](columns-customization.md)
-- [Bulk Operations](bulk-operations.md)
-- [Exporting](exporting.md)
+* [Column Customization](columns-customization.md)
+* [Bulk Operations](bulk-operations.md)
+* [Exporting](/broken/pages/nhhEFUCHOfXmbuyYuLhw)

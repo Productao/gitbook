@@ -2,7 +2,7 @@
 description: Introduction to the Workforce Hub and available analytics charts
 ---
 
-# Hub Overview
+# 📊 Hub Overview
 
 ### What is the Workforce Hub?
 
@@ -114,14 +114,14 @@ The Workforce Hub includes the following chart types:
 * Headcount Cost Chart
 * Stacked Headcount Cost Chart
 
-For detailed information about chart navigation and controls, see [Chart Navigation](chart-navigation.md).
+For detailed information about chart navigation and controls, see [Chart Navigation](/broken/pages/JIAbrci64b9opLOuKIfs).
 
 For information about creating slide packs, see [Packs](packs.md).
 
 ### Visual Guide
 
-> **[Screenshot placeholder: Workforce Hub landing page with chart library]**
+> **\[Screenshot placeholder: Workforce Hub landing page with chart library]**
 
-> **[Screenshot placeholder: Hub navigation showing chart dropdown, filters, and settings]**
+> **\[Screenshot placeholder: Hub navigation showing chart dropdown, filters, and settings]**
 
-> **[Screenshot placeholder: Example of exporting charts to PowerPoint]**
+> **\[Screenshot placeholder: Example of exporting charts to PowerPoint]**

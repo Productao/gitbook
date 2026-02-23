@@ -1,9 +1,8 @@
 ---
 description: Setting up and managing scenario approval workflows
-hidden: false
 ---
 
-# Configuring Approval Flows
+# ✅ Configuring Approval Flows
 
 Approval flows route scenarios through multi-level review before implementation. As an admin, you configure global approvers in Settings and document how scenario-specific approvers work.
 
@@ -28,8 +27,9 @@ You don't have to use all levels. Most organizations use only Levels 1 and 2.
 **With multiple Level 1 approvers:** Any one approver can approve to advance; if any rejects, the scenario is rejected.
 
 **Typical approvers:**
-- Level 1: HR Business Partners, Department heads
-- Level 2: CFO, CHRO, COO — whoever has final budget authority
+
+* Level 1: HR Business Partners, Department heads
+* Level 2: CFO, CHRO, COO — whoever has final budget authority
 
 ## Setting Scenario-Specific Approvers (Levels 0 & 3)
 
@@ -64,15 +64,15 @@ Scenario unlocks and returns to the creator with approval history intact. The cr
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Scenario stuck in approval | Follow up with approver directly; admin can reassign if urgent |
-| Scenario not locking after submission | Enable "Lock Scenarios Upon Submission" in Settings > General |
-| Approver can't find the scenario | Verify approver has access to that org scope and is assigned at the correct level |
-| Need partial approval (approve some, reject others) | Not currently supported; workaround: split into multiple smaller scenarios |
+| Problem                                             | Solution                                                                          |
+| --------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Scenario stuck in approval                          | Follow up with approver directly; admin can reassign if urgent                    |
+| Scenario not locking after submission               | Enable "Lock Scenarios Upon Submission" in Settings > General                     |
+| Approver can't find the scenario                    | Verify approver has access to that org scope and is assigned at the correct level |
+| Need partial approval (approve some, reject others) | Not currently supported; workaround: split into multiple smaller scenarios        |
 
 ## Related Articles
 
-- [Scenario Approvals (User Guide)](../scenarios/approvals.md)
-- [Admin Overview](overview.md)
-- [Access Groups](../access-control/access-groups.md)
+* [Scenario Approvals (User Guide)](../scenarios/approvals.md)
+* [Admin Overview](overview.md)
+* [Access Groups](../access-control/access-groups.md)

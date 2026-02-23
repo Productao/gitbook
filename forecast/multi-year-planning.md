@@ -3,7 +3,7 @@ description: Long-term headcount and budget planning
 hidden: true
 ---
 
-# Multi-Year Planning
+# 📅 Multi-Year Planning
 
 Project workforce headcount and costs up to 5 years into the future using Agentnoon's Forecast module.
 
@@ -33,13 +33,15 @@ Create 3 scenarios with different growth assumptions (Conservative: 10%/year, Mo
 Use ranges when presenting, not exact numbers: "We expect 300–350 employees in 2028" rather than "We'll have 347 employees."
 
 **Plan in phases:**
-- **Year 1 (2026):** High detail — specific positions, titles, salaries, hire dates
-- **Year 2 (2027):** Moderate detail — position counts by department, budget ranges
-- **Year 3+ (2028+):** Directional — headcount targets, rough estimates, acknowledged as preliminary
+
+* **Year 1 (2026):** High detail — specific positions, titles, salaries, hire dates
+* **Year 2 (2027):** Moderate detail — position counts by department, budget ranges
+* **Year 3+ (2028+):** Directional — headcount targets, rough estimates, acknowledged as preliminary
 
 ## Modeling Salary Inflation
 
 Salaries increase over time due to COLA, raises, and promotions. To model this:
+
 1. Use effective dates to apply salary increases in future years (e.g., +3% on Jan 1, 2027)
 2. Forecast shows cost increasing even without new hires
 
@@ -62,7 +64,7 @@ Name versions with dates to track changes over time.
 
 ## Related Resources
 
-- [Forecast Overview](overview.md)
-- [Building Headcount Forecasts](building-headcount-forecasts.md)
-- [Budget Planning & Tracking](budget-planning-tracking.md)
-- [Building an Annual Hiring Plan](../use-case-tutorials/building-annual-hiring-plan.md)
+* [Forecast Overview](overview.md)
+* [Building Headcount Forecasts](building-headcount-forecasts.md)
+* [Budget Planning & Tracking](/broken/pages/i8Gakir7OiTeqKZMK86R)
+* [Building an Annual Hiring Plan](../use-case-tutorials/building-annual-hiring-plan.md)

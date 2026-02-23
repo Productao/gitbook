@@ -1,5 +1,9 @@
 ---
 description: Editing users, assigning multiple scopes, and export access control logs
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/access-control/advanced-access-controls
 ---
 
 # Advanced Access Controls

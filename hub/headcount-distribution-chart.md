@@ -2,7 +2,7 @@
 description: Guide to using the Headcount Distribution chart
 ---
 
-# Headcount Distribution Chart
+# 📈 Headcount Distribution Chart
 
 The Headcount Distribution chart shows how your workforce is allocated across any organizational dimension — layers, departments, locations, pay grades, or custom fields.
 
@@ -16,9 +16,9 @@ The Headcount Distribution chart shows how your workforce is allocated across an
 
 ## Interpreting Layer Distributions
 
-- **Pyramid (bottom-heavy):** More people at lower layers — common in operations-heavy orgs; generally healthy
-- **Inverted pyramid (top-heavy):** More people at senior layers — may indicate excess management or compression
-- **Diamond (balanced):** Concentration in middle layers — common in knowledge work
+* **Pyramid (bottom-heavy):** More people at lower layers — common in operations-heavy orgs; generally healthy
+* **Inverted pyramid (top-heavy):** More people at senior layers — may indicate excess management or compression
+* **Diamond (balanced):** Concentration in middle layers — common in knowledge work
 
 ## Interpreting Department/Location Distributions
 
@@ -46,14 +46,14 @@ PNG for presentations, PowerPoint for editable charts (recommended), CSV (via Sh
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Chart looks unexpected | Check active filters; verify dimension selection |
-| Numbers don't match | Review filters; check access scope; verify effective dates in scenarios |
-| Missing dimensions | Check Data Management > Fields and Attributes; may not be configured |
+| Problem                | Solution                                                                |
+| ---------------------- | ----------------------------------------------------------------------- |
+| Chart looks unexpected | Check active filters; verify dimension selection                        |
+| Numbers don't match    | Review filters; check access scope; verify effective dates in scenarios |
+| Missing dimensions     | Check Data Management > Fields and Attributes; may not be configured    |
 
 ## Related Resources
 
-- [Headcount Heatmap Chart](headcount-heatmap-chart.md)
-- [Layers and Spans of Control Chart](layers-spans-chart.md)
-- [Hub Overview](overview.md)
+* [Headcount Heatmap Chart](headcount-heatmap-chart.md)
+* [Layers and Spans of Control Chart](layers-spans-chart.md)
+* [Hub Overview](overview.md)

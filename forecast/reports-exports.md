@@ -1,9 +1,8 @@
 ---
 description: Generating reports and exporting forecast data
-hidden: false
 ---
 
-# Exporting Data from Forecast
+# 📤 Exporting Data from Forecast
 
 Export Forecast data to share workforce projections with Finance, HR, leadership, and board.
 
@@ -38,22 +37,22 @@ Export Forecast data to share workforce projections with Finance, HR, leadership
 
 ## Working with Exported CSV Data in Excel
 
-- **Pivot tables:** Import CSV, Insert > Pivot Table, drag Departments to rows, time periods to columns, cost to values
-- **Budget comparison:** Add a "Budget Target" column, create a "Variance" column (`=Forecast - Budget`), conditional formatting for over/under
-- **Multi-scenario comparison:** Export each scenario to separate CSVs, place side-by-side in Excel, create comparison charts
+* **Pivot tables:** Import CSV, Insert > Pivot Table, drag Departments to rows, time periods to columns, cost to values
+* **Budget comparison:** Add a "Budget Target" column, create a "Variance" column (`=Forecast - Budget`), conditional formatting for over/under
+* **Multi-scenario comparison:** Export each scenario to separate CSVs, place side-by-side in Excel, create comparison charts
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| CSV export is empty | Check if filters are hiding all data; verify time period has data (future years need hire dates) |
-| Too much data in export | Apply department/location filters first; export one year at a time |
-| Excel can't open CSV | Try Google Sheets first, then save as Excel; check for special characters |
-| PowerPoint export looks blurry | Zoom to level 2–3 in org chart before exporting; reduce card content fields |
+| Problem                        | Solution                                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------ |
+| CSV export is empty            | Check if filters are hiding all data; verify time period has data (future years need hire dates) |
+| Too much data in export        | Apply department/location filters first; export one year at a time                               |
+| Excel can't open CSV           | Try Google Sheets first, then save as Excel; check for special characters                        |
+| PowerPoint export looks blurry | Zoom to level 2–3 in org chart before exporting; reduce card content fields                      |
 
 ## Related Resources
 
-- [Forecast Overview](overview.md)
-- [Forecast Navigation](navigation.md)
-- [Building Headcount Forecasts](building-headcount-forecasts.md)
-- [Building Headcount Forecasts](building-headcount-forecasts.md)
+* [Forecast Overview](overview.md)
+* [Forecast Navigation](navigation.md)
+* [Building Headcount Forecasts](building-headcount-forecasts.md)
+* [Building Headcount Forecasts](building-headcount-forecasts.md)

@@ -1,9 +1,8 @@
 ---
 description: Introduction to scenario planning
-hidden: false
 ---
 
-# Scenarios Overview
+# 🎯 Scenarios Overview
 
 Scenarios are Agentnoon's what-if planning tool. Model organizational changes in a safe sandbox, see exact cost and headcount impact, compare alternatives, and get formal approval — all before touching your live organization.
 
@@ -41,16 +40,16 @@ An editable copy of your org chart where you can freely add, close, move, and ed
 
 ## Scenarios vs Main Org
 
-| Main Org | Scenarios |
-|----------|-----------|
-| Current state | Future / what-if state |
-| View-only | Fully editable |
-| One version | Unlimited versions |
-| Synced from HRIS | Manually modified |
+| Main Org         | Scenarios              |
+| ---------------- | ---------------------- |
+| Current state    | Future / what-if state |
+| View-only        | Fully editable         |
+| One version      | Unlimited versions     |
+| Synced from HRIS | Manually modified      |
 
 ## Common Use Cases
 
-Reorganizations, annual hiring plans, budget cuts and RIFs, team expansions, M&A integration, succession planning.
+Reorganizations, annual hiring plans, budget cuts and RIFs, team expansions, M\&A integration, succession planning.
 
 ## Getting Started
 
@@ -62,8 +61,8 @@ Reorganizations, annual hiring plans, budget cuts and RIFs, team expansions, M&A
 
 ## Related Articles
 
-- [Creating Scenarios](creating-scenarios.md)
-- [Using Scenarios - Basics](using-scenarios-basics.md)
-- [Making Position Changes](making-position-changes.md)
-- [Scenario Tracking & Analysis](tracking-analysis.md)
-- [Forecast vs Scenarios](../forecast/forecast-vs-scenarios.md)
+* [Creating Scenarios](creating-scenarios.md)
+* [Using Scenarios - Basics](using-scenarios-basics.md)
+* [Making Position Changes](making-position-changes.md)
+* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
+* [Forecast vs Scenarios](../forecast/forecast-vs-scenarios.md)

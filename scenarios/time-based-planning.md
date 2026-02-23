@@ -1,9 +1,8 @@
 ---
 description: Using effective dates for phased changes
-hidden: false
 ---
 
-# Time-Based Planning
+# 📅 Time-Based Planning
 
 Use date fields to model organizational changes that occur at specific future points, creating accurate time-phased forecasts.
 
@@ -17,31 +16,32 @@ Use date fields to model organizational changes that occur at specific future po
 
 ## When to Use Each
 
-| Scenario | Use |
-|----------|-----|
-| New hire or filling a vacancy | Hire Date |
-| Layoff, RIF, position elimination | Termination Date |
-| Internal transfer or reorg (same person, new department/manager) | Effective Date |
-| Phased department move (Q3 effective) | Effective Date |
-| Salary increase effective next year | Effective Date |
+| Scenario                                                         | Use              |
+| ---------------------------------------------------------------- | ---------------- |
+| New hire or filling a vacancy                                    | Hire Date        |
+| Layoff, RIF, position elimination                                | Termination Date |
+| Internal transfer or reorg (same person, new department/manager) | Effective Date   |
+| Phased department move (Q3 effective)                            | Effective Date   |
+| Salary increase effective next year                              | Effective Date   |
 
 **Key distinction:** Effective dates preserve position continuity — the same position just changes attributes. Hire/termination dates show positions being created and eliminated.
 
 ## How Effective Dates Work in Forecast
 
 When you change a position's department with an effective date of July 1, 2026:
-- In the org chart (scenario): shows the "after" state (new department)
-- In Forecast (before July 1): position counts in the original department
-- In Forecast (from July 1 onward): position counts in the new department
+
+* In the org chart (scenario): shows the "after" state (new department)
+* In Forecast (before July 1): position counts in the original department
+* In Forecast (from July 1 onward): position counts in the new department
 
 **Show Changes view:** Before the effective date → 0 change; from the effective date → +1 in new dept, -1 in old dept.
 
 **Example:**
 
-| Department | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
-|---|---|---|---|---|
-| Network Operations | 25 | 25 | 20 | 20 |
-| Operations & Logistics | 30 | 30 | 35 | 35 |
+| Department             | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
+| ---------------------- | ------- | ------- | ------- | ------- |
+| Network Operations     | 25      | 25      | 20      | 20      |
+| Operations & Logistics | 30      | 30      | 35      | 35      |
 
 This shows 5 positions moved in Q3 2026.
 
@@ -49,9 +49,9 @@ This shows 5 positions moved in Q3 2026.
 
 Set different effective dates on different positions within the same scenario:
 
-- Teams moving in Q2: effective date April 1, 2026
-- Teams moving in Q3: effective date July 1, 2026
-- Teams moving in Q4: effective date October 1, 2026
+* Teams moving in Q2: effective date April 1, 2026
+* Teams moving in Q3: effective date July 1, 2026
+* Teams moving in Q4: effective date October 1, 2026
 
 Forecast shows the gradual transition, letting budget owners see exactly when departmental headcount and costs shift.
 
@@ -73,6 +73,6 @@ For positions created in a scenario (no "before" state), effective dates control
 
 ## Related Articles
 
-- [Forecast Overview](../forecast/overview.md)
-- [Creating and Managing Scenarios](creating-scenarios.md)
-- [Scenario Tracking & Analysis](tracking-analysis.md)
+* [Forecast Overview](../forecast/overview.md)
+* [Creating and Managing Scenarios](creating-scenarios.md)
+* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)

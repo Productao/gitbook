@@ -2,16 +2,16 @@
 description: Guide to using the Headcount Heatmap chart
 ---
 
-# Headcount Heatmap Chart
+# 🗺️ Headcount Heatmap Chart
 
 The Headcount Heatmap shows workforce distribution across two dimensions simultaneously — revealing structural depth and patterns that are invisible in single-dimension views.
 
 ## What It Shows
 
-- **X-axis (columns):** Primary grouping — Department, KLT Area, Location, Job Function
-- **Y-axis (rows):** Hierarchical dimension — Layers (most useful), Pay Grade, Level
-- **Cell color intensity:** Darker = more headcount in that intersection
-- **Cell values:** Exact headcount numbers
+* **X-axis (columns):** Primary grouping — Department, KLT Area, Location, Job Function
+* **Y-axis (rows):** Hierarchical dimension — Layers (most useful), Pay Grade, Level
+* **Cell color intensity:** Darker = more headcount in that intersection
+* **Cell values:** Exact headcount numbers
 
 **Recommended setup:** X-axis = Department (or KLT Area), Y-axis = Layers.
 
@@ -22,10 +22,11 @@ The Headcount Heatmap shows workforce distribution across two dimensions simulta
 **Concentration points:** Dense cells show where most people are. Small populations at high layers (e.g., 2 people in Layer 9) are potential efficiency flags — are those senior positions adding value?
 
 **Structural anomalies to flag:**
-- One department with 9+ layers when others have 6 — why so many?
-- Very small populations (1–3 people) at high layer numbers
-- Missing middle layers (structural gaps)
-- Highly inconsistent patterns across comparable departments
+
+* One department with 9+ layers when others have 6 — why so many?
+* Very small populations (1–3 people) at high layer numbers
+* Missing middle layers (structural gaps)
+* Highly inconsistent patterns across comparable departments
 
 **Healthy patterns:** 5–6 consistent layers across departments, concentration in middle layers (3–5), minimal populations at extreme layers.
 
@@ -47,15 +48,15 @@ The Headcount Heatmap shows workforce distribution across two dimensions simulta
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Chart looks empty | Check filters; verify X/Y axes are configured; confirm recent data upload |
-| Too many layers showing | May be legitimate or a data issue; filter to Layers 1–6 to reduce noise |
+| Problem                          | Solution                                                                                  |
+| -------------------------------- | ----------------------------------------------------------------------------------------- |
+| Chart looks empty                | Check filters; verify X/Y axes are configured; confirm recent data upload                 |
+| Too many layers showing          | May be legitimate or a data issue; filter to Layers 1–6 to reduce noise                   |
 | Numbers don't match expectations | Check scope filters; verify access permissions; confirm effective date range in scenarios |
 
 ## Related Resources
 
-- [Layers and Spans of Control Chart](layers-spans-chart.md)
-- [Headcount Distribution Chart](headcount-distribution-chart.md)
-- [Hub Overview](overview.md)
-- [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md)
+* [Layers and Spans of Control Chart](layers-spans-chart.md)
+* [Headcount Distribution Chart](headcount-distribution-chart.md)
+* [Hub Overview](overview.md)
+* [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md)

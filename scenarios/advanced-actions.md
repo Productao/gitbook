@@ -3,13 +3,13 @@ description: Advanced operations for scenario management
 icon: gears
 ---
 
-# Advanced Scenario Actions
+# ⚙️ Advanced Scenario Actions
 
 Once you're comfortable with basic scenario operations, these advanced actions unlock powerful workflow capabilities.
 
 ## In This Section
 
-- **[Scenario Refresh](refresh.md)** — Update an existing scenario with the latest Main Org data while preserving your changes
-- **[Scenario Merging](merging.md)** — Combine multiple scenarios into a single consolidated plan
-- **[Scenario to Main Org](scenario-to-main-org.md)** — Promote an approved scenario to become your new current state
-- **[Partial Data Upload](../admin/data-management/partial-data-upload.md)** — Upload data for specific parts of a scenario
+* [**Scenario Refresh**](/broken/pages/fnnfy4SZXur2iTxRXwHb) — Update an existing scenario with the latest Main Org data while preserving your changes
+* [**Scenario Merging**](merging.md) — Combine multiple scenarios into a single consolidated plan
+* [**Scenario to Main Org**](scenario-to-main-org.md) — Promote an approved scenario to become your new current state
+* [**Partial Data Upload**](../admin/data-management/partial-data-upload.md) — Upload data for specific parts of a scenario

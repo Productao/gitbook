@@ -2,6 +2,10 @@
 description: >-
   Securely importing data via SFTP enables you to automate and manage
   large-scale data transfers directly into Agentnoon
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/live-data-integration/available-data-integration-methods/importing-data-via-sftp
 ---
 
 # Importing Data via SFTP

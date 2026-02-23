@@ -1,20 +1,20 @@
 ---
 description: Best practices for organizational changes and restructuring
-hidden: false
 ---
 
-# Making Org Changes
+# ⚖️ Making Org Changes
 
 Best practices for planning, testing, communicating, and implementing organizational changes using Agentnoon.
 
 ## Always Use Scenarios
 
 Never make organizational changes directly in Main Org. Scenarios let you:
-- Test changes and see full impact before committing
-- Identify unintended consequences (broken hierarchies, SOC issues, budget overruns)
-- Compare multiple approaches side-by-side
-- Submit for formal approval with an audit trail
-- Show before/after comparisons for stakeholder communication
+
+* Test changes and see full impact before committing
+* Identify unintended consequences (broken hierarchies, SOC issues, budget overruns)
+* Compare multiple approaches side-by-side
+* Submit for formal approval with an audit trail
+* Show before/after comparisons for stakeholder communication
 
 ## Planning Process
 
@@ -27,19 +27,20 @@ Never make organizational changes directly in Main Org. Scenarios let you:
 
 In your scenario, make the changes (add, close, move, modify positions), then verify:
 
-- **OpEx Panel:** Net headcount and cost impact, with itemized additions/reductions/modifications
-- **Org chart:** Reporting relationships are correct; no broken hierarchies (orange icon)
-- **SOC metrics:** Add "Direct SOC" to Card Content to see spans on every card — aim for 5–10 reports per manager
-- **Forecast:** Toggle Show Changes to see department-level headcount deltas over time
+* **OpEx Panel:** Net headcount and cost impact, with itemized additions/reductions/modifications
+* **Org chart:** Reporting relationships are correct; no broken hierarchies (orange icon)
+* **SOC metrics:** Add "Direct SOC" to Card Content to see spans on every card — aim for 5–10 reports per manager
+* **Forecast:** Toggle Show Changes to see department-level headcount deltas over time
 
 Iterate: if the plan creates new problems (overloaded managers, unexpected cost), create alternative scenarios and compare.
 
 ## Phasing Changes Over Time
 
 Use effective dates to spread changes across phases and reduce disruption:
-- Phase 1 (Q1): Add new manager positions
-- Phase 2 (Q2): Reassign teams to new managers
-- Phase 3 (Q3): Close redundant positions
+
+* Phase 1 (Q1): Add new manager positions
+* Phase 2 (Q2): Reassign teams to new managers
+* Phase 3 (Q3): Close redundant positions
 
 In Forecast, monthly/quarterly view shows exactly when each change hits headcount and budget.
 
@@ -55,9 +56,10 @@ Pre-socialize with key approvers before formal submission to surface concerns ea
 ## Communicating Changes
 
 Use Agentnoon exports to support communication:
-- **PowerPoint org charts:** Before/after visuals for executive and all-hands presentations
-- **OpEx Panel CSV:** Summary of additions, reductions, moves with cost impact
-- **Forecast export:** Timeline of when changes take effect by department
+
+* **PowerPoint org charts:** Before/after visuals for executive and all-hands presentations
+* **OpEx Panel CSV:** Summary of additions, reductions, moves with cost impact
+* **Forecast export:** Timeline of when changes take effect by department
 
 Lead with the "why" — employees respond better to rationale than to announcements of structure changes alone.
 
@@ -70,7 +72,7 @@ Lead with the "why" — employees respond better to rationale than to announceme
 
 ## Related Resources
 
-- [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md)
-- [Scenarios Overview](../scenarios/overview.md)
-- [Configuring Approval Flows](../admin/configuring-approval-flows.md)
-- [Position vs Headcount Management](position-vs-headcount.md)
+* [Planning a Reorganization](../use-case-tutorials/planning-reorganization.md)
+* [Scenarios Overview](../scenarios/overview.md)
+* [Configuring Approval Flows](../admin/configuring-approval-flows.md)
+* [Position vs Headcount Management](position-vs-headcount.md)

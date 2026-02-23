@@ -1,9 +1,8 @@
 ---
 description: Customizing visible columns, reordering, and resizing in Directory
-hidden: false
 ---
 
-# Column Customization
+# 📐 Column Customization
 
 Control which columns appear in Directory, their order, and their widths to create focused views for different tasks.
 
@@ -39,22 +38,22 @@ Save your column configuration as a named view (Views > Save Current View) to qu
 
 ## Column Types
 
-- **Text:** Name, Title, Department — sort alphabetically; filter by value
-- **Numeric:** Salary, Pay Grade, SOC, Layer — sort by value; filter by range
-- **Date:** Start Date — sort chronologically; filter by range
-- **Calculated:** Direct SOC, Total Org Size, Layer, Tenure — computed by Agentnoon; read-only; sortable/filterable
+* **Text:** Name, Title, Department — sort alphabetically; filter by value
+* **Numeric:** Salary, Pay Grade, SOC, Layer — sort by value; filter by range
+* **Date:** Start Date — sort chronologically; filter by range
+* **Calculated:** Direct SOC, Total Org Size, Layer, Tenure — computed by Agentnoon; read-only; sortable/filterable
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Can't find a specific column | Click column settings, scroll through all available columns |
-| Column order resets | Save as a view; column order may not persist across sessions |
-| Text truncated with "..." | Drag column border wider or double-click to auto-fit |
-| Too many columns | Hide less important ones; scroll horizontally for overflow |
+| Problem                      | Solution                                                     |
+| ---------------------------- | ------------------------------------------------------------ |
+| Can't find a specific column | Click column settings, scroll through all available columns  |
+| Column order resets          | Save as a view; column order may not persist across sessions |
+| Text truncated with "..."    | Drag column border wider or double-click to auto-fit         |
+| Too many columns             | Hide less important ones; scroll horizontally for overflow   |
 
 ## Related Articles
 
-- [Filtering & Sorting](filtering-sorting.md)
-- [Exporting](exporting.md)
-- [Navigation & Access](navigation.md)
+* [Filtering & Sorting](filtering-sorting.md)
+* [Exporting](/broken/pages/nhhEFUCHOfXmbuyYuLhw)
+* [Navigation & Access](navigation.md)

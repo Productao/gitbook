@@ -2,7 +2,7 @@
 description: To ensure accurate compensation modeling, analytics, and reporting
 ---
 
-# Best Practices for Salary Data
+# 💰 Best Practices for Salary Data
 
 #### 1. Upload Each Component Separately
 
@@ -26,7 +26,7 @@ _Example:_ If your salary upload uses <mark style="color:green;">Base\_Salary</m
 
 #### 3. Support for Multiple Currencies
 
-&#x20;If your data spans multiple currencies:
+If your data spans multiple currencies:
 
 * Include a <mark style="color:green;">Currency</mark> column (e.g., USD, EUR, NGN)
 * Include a <mark style="color:green;">Salary\_Amount\_Local</mark> field

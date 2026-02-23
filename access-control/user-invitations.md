@@ -1,5 +1,9 @@
 ---
 description: Invite users and manage their access
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/access-control/user-invitations
 ---
 
 # User Invitations
@@ -11,11 +15,11 @@ This guide explains how to invite users to Agentnoon, assign access groups, and 
 ### Inviting a User
 
 1. Click the **Invite User** button.
-2. Enter the users' details (e.g., name and email). You can also invite multiple users at once for quicker onboarding.&#x20;
+2. Enter the users' details (e.g., name and email). You can also invite multiple users at once for quicker onboarding.
 
 * New users are highlighted in green
-* Existing users are highlighted in blue. \
-  &#xNAN;_&#x4E;ote: Email invites are sent only to new users_.
+* Existing users are highlighted in blue.\
+  \&#xNAN;_Note: Email invites are sent only to new users_.
 
 1. Choose the access type:
    * **New Access**: Assign permissions from scratch.
@@ -30,7 +34,7 @@ Scopes define which data subsets a user can access. Unlike access groups, which 
 
 ### Setting Scopes
 
-1. Select the scope for the user based on imported fields such as department, location, or specific teams.&#x20;
+1. Select the scope for the user based on imported fields such as department, location, or specific teams.
 2. Recommended scope settings:
    * **Manager Scope**: Grants access to a specific manager and their direct reports.
 3. You can apply **multiple filters** to refine access, such as limiting visibility to specific departments within a manager’s team.
