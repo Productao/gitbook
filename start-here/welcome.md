@@ -1,8 +1,9 @@
 ---
 description: Introduction to Agentnoon - what it does, who it's for, and how to get started
+icon: hand-wave
 ---
 
-# 🚀 Welcome to Agentnoon
+# Welcome to Agentnoon
 
 Agentnoon is a comprehensive workforce planning and organizational management platform designed to help HR, Finance, and Operations teams make data-driven decisions about their organization's structure and headcount.
 

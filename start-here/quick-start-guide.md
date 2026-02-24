@@ -1,8 +1,9 @@
 ---
 description: Get productive with Agentnoon in your first 30 minutes
+icon: book-open
 ---
 
-# ⚡ Quick Start Guide
+# Quick Start Guide
 
 Welcome! This guide will help you master the essential features of Agentnoon in just 30 minutes.
 
@@ -13,13 +14,13 @@ Complete these 10 core tasks to become production-ready:
 ### 1. Log In and Navigate the Homepage
 
 1. Go to app.agentnoon.com and log in with your credentials
-2. You'll land on the **Homepage** with:
+2. You'll land on the **homepage** with:
    * Your instance name at the top
    * A list of scenarios in the center (may be empty initially)
    * Quick links to documentation and support
-3. Click into **Main Org** to see your current organization
+3. Click into **Open Org Chart** to see your current organization
 
-> **\[Screenshot placeholder: Agentnoon homepage showing scenario list and Main Org button]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.08.16 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Explore the Main Organization
 
@@ -28,7 +29,7 @@ Complete these 10 core tasks to become production-ready:
 3. Click the **expand/collapse** arrows to show/hide reporting lines
 4. Scroll and zoom to explore different parts of your organization
 
-> **\[Screenshot placeholder: Main Org chart view with position cards and hierarchy]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.02.21 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Search for a Person or Position
 
@@ -49,7 +50,7 @@ Customize what information appears on each card:
 
 **Pro tip:** Add FX (calculated) fields like Total Span of Control for instant insights!
 
-> **\[Screenshot placeholder: Card Content panel showing field selection options]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.06.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Create and Save a Custom View
 
@@ -61,12 +62,16 @@ Make the org chart work for you:
 2. Choose a field (e.g., Work Country, Department)
 3. Cards color-code automatically by value
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.38.23 PM.png" alt=""><figcaption></figcaption></figure>
+
 **Apply Filters:**
 
 1. Click the **Filter** button in the toolbar
 2. Select criteria (department, location, etc.)
 3. Check "Preserve manager relationships" to keep reporting context
 4. Click **Apply**
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.44.32 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Save Your View:**
 
@@ -93,17 +98,20 @@ Spotlight helps you discover organizational insights:
 
 Scenarios let you model changes before implementing them:
 
-1. Return to the **Homepage**
+1. Return to the **homepage**
 2. Click **+ Create Scenario** button
 3. Choose scenario type:
    * **Full Org** - includes everyone in your scope
    * **Partial Org** - select specific departments/teams
    * **New Org** - start from blank canvas
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.24.21 PM.png" alt=""><figcaption></figcaption></figure>
+
 4. Name your scenario descriptively (e.g., "Q2 Hiring Plan")
 5. Set budget (optional)
 6. Click **Create**
 
-> **\[Screenshot placeholder: Create Scenario modal showing scenario types and naming]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.25.20 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Make Position Changes in a Scenario
 

@@ -4,8 +4,8 @@
 
 ## Start Here
 
-* [🚀 Welcome to Agentnoon](start-here/welcome.md)
-* [⚡ Quick Start Guide](start-here/quick-start-guide.md)
+* [Welcome to Agentnoon](start-here/welcome.md)
+* [Quick Start Guide](start-here/quick-start-guide.md)
 * [💡 Key Concepts](start-here/concepts.md)
   * [Key Concepts for Main Org](start-here/key-concepts-main-org.md)
   * [Key Concepts for Scenarios](start-here/key-concepts-scenarios.md)
