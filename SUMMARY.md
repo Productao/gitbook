@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Strategic Workforce Planning - Help Center](README.md)
+* [Agentnoon Help Center](README.md)
 
 ## Start Here
 

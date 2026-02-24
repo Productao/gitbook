@@ -1,4 +1,5 @@
 ---
+icon: hand-wave
 cover: .gitbook/assets/Help centre banner big.png
 coverY: 0
 metaLinks:
@@ -6,7 +7,7 @@ metaLinks:
     - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/
 ---
 
-# Strategic Workforce Planning - Help Center
+# Agentnoon Help Center
 
 Guides and best practices to help your team get started and move forward with confidence.
 
