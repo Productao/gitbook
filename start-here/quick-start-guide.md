@@ -13,7 +13,7 @@ Complete these 10 core tasks to become production-ready:
 ### 1. Log In and Navigate the Homepage
 
 1. Go to app.agentnoon.com and log in with your credentials
-2. You'll land on the **homepage** with:
+2. You'll land on the **Homepage** with:
    * Your instance name at the top
    * A list of scenarios in the center (may be empty initially)
    * Quick links to documentation and support
@@ -36,7 +36,7 @@ Use the search bar to find anyone in your organization:
 
 1. Start typing a name or job title
 2. Results appear as you type
-3. Click a result to navigate directly to that position
+3. Click a result to navigate directly to that position within the organization
 
 ### 4. Add Card Content
 
@@ -72,8 +72,8 @@ Make the org chart work for you:
 
 1. Once you've configured highlights and filters, click **Views** in the toolbar
 2. Click **Save Current View**
-3. Name your view (e.g., "Engineering Team" or "US Employees")
-4. Your saved view appears in the Views dropdown for quick access later
+3. Name your View (e.g., "Engineering Team" or "US Employees")
+4. Your saved View appears in the Views dropdown for quick access later
 
 > **\[Screenshot placeholder: Highlight and Filter panels with saved view dropdown]**
 
@@ -93,7 +93,7 @@ Spotlight helps you discover organizational insights:
 
 Scenarios let you model changes before implementing them:
 
-1. Return to the **homepage**
+1. Return to the **Homepage**
 2. Click **+ Create Scenario** button
 3. Choose scenario type:
    * **Full Org** - includes everyone in your scope
@@ -107,7 +107,7 @@ Scenarios let you model changes before implementing them:
 
 ### 8. Make Position Changes in a Scenario
 
-Once in a scenario, try these basic edits:
+Once in a Scenario, try these basic edits:
 
 1. **Add a position:** Hover over a card > click the **+** button > fill in details
 2. **Edit position details:** Click the card > modify fields in the side panel > save
@@ -122,7 +122,7 @@ Once in a scenario, try these basic edits:
 
 See how your changes impact headcount and costs over time:
 
-1. Click the view switcher and select **Forecast**
+1. Click the View switcher and select **Forecast**
 2. The timeline shows your scenario's projected headcount/cost by month
 3. Changes appear based on their effective dates
 4. Toggle between headcount and cost metrics

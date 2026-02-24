@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Agentnoon Help Center](README.md)
+* [Strategic Workforce Planning - Help Center](README.md)
 
 ## Start Here
 
@@ -93,7 +93,7 @@
 ## Use Case Tutorials
 
 * [🎓 Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
-* [🏢 M&A Integration](use-case-tutorials/ma-integration.md)
+* [🏢 M\&A Integration](use-case-tutorials/ma-integration.md)
 * [📊 Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
 * [📈 Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 

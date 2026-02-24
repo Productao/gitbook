@@ -48,7 +48,9 @@ Ready to become an Agentnoon expert? Here's your learning path:
 
 * Browse our comprehensive documentation using the navigation menu
 * Search for specific topics using the search bar
-* Contact support at [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
 * Check out our [Video Tutorials](video-tutorials.md) for visual guides
+* Contact support at [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
+
+
 
 Let's get started building a better organization together!

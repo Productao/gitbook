@@ -78,9 +78,7 @@ If you've tried troubleshooting and still need help:
 
 ### Email Support
 
-**Agentnoon Support:** SupportSWP@dayforce.com
-
-**Dayforce Customers:** SupportSWP@dayforce.com
+SupportSWP@dayforce.com
 
 **When emailing, please include:**
 
