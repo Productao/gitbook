@@ -21,6 +21,7 @@ The panel categorizes all scenario changes into:
 
 * **Additions** — New positions created (new hires, new roles)
 * **Reductions** — Positions closed (layoffs, exits, eliminations)
+* **Moves** — Positions whose direct manager has changed in the scenario (purely hierarchy changes)
 * **Data Changes** — Modified attributes on existing positions (title changes, salary adjustments, department moves)
 
 For each category, the panel shows both **cost impact** and **headcount impact**.

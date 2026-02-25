@@ -12,13 +12,13 @@ Agentnoon supports keyboard shortcuts to help you navigate and work more efficie
 
 Switch between major views using number keys:
 
-| Key | Action         |
-| --- | -------------- |
-| `1` | Home           |
-| `2` | Main Org       |
-| `3` | Org Chart view |
-| `4` | (Reserved)     |
-| `5` | Directory view |
+| Key | Action                                                    |
+| --- | --------------------------------------------------------- |
+| `1` | Org Chart View                                            |
+| `2` | Directory View                                            |
+| `3` | Forecast View                                             |
+| `4` | Workforce Hub                                             |
+| `5` | Productivity View (or Activity Analysis if in a Scenario) |
 
 **Usage:** Press the number key from anywhere in the application to jump to that module.
 
@@ -53,20 +53,7 @@ When working in scenarios:
 
 **Pro tip:** Combine with filters to isolate the positions you want, then use `x` to rapidly select them all.
 
-***
 
-## Common Shortcuts
-
-These work across the application:
-
-| Key                    | Action                       |
-| ---------------------- | ---------------------------- |
-| `/`                    | Open search/command palette  |
-| `Cmd/Ctrl + S`         | Save changes (scenarios)     |
-| `Cmd/Ctrl + Z`         | Undo last action (scenarios) |
-| `Cmd/Ctrl + Shift + Z` | Redo (scenarios)             |
-| `Cmd/Ctrl + K`         | Quick search                 |
-| `Esc`                  | Close panels or dialogs      |
 
 ***
 

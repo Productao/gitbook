@@ -1,6 +1,5 @@
 ---
 description: Editing multiple positions at once
-hidden: false
 ---
 
 # Bulk Operations
@@ -9,7 +8,7 @@ Make the same change to many positions at once instead of editing one by one.
 
 ## Three Ways to Select Multiple Positions
 
-**Org chart multi-select** — Hold Cmd (Mac) or Ctrl (Windows) and click position cards. Best for cherry-picking specific visible positions (up to ~20).
+**Org chart multi-select** — Hover over a card, and hit the "X" key on your keyboard. Best for cherry-picking specific visible positions (up to \~20).
 
 **Select Team** — Hover over a manager > **⋮** > **Select Team** — selects the manager + all direct reports. Best for acting on an entire team.
 
@@ -47,25 +46,25 @@ Once positions are selected, the bulk edit panel opens on the right:
 
 ## Keyboard Shortcuts
 
-| Action | Shortcut |
-|--------|----------|
-| Multi-select (org chart) | Cmd/Ctrl+click |
-| Quick-select while hovering | X key |
-| Select all (Directory) | Cmd/Ctrl+A |
-| Deselect all | Esc |
+| Action                      | Shortcut       |
+| --------------------------- | -------------- |
+| Multi-select (org chart)    | Cmd/Ctrl+click |
+| Quick-select while hovering | X key          |
+| Select all (Directory)      | Cmd/Ctrl+A     |
+| Deselect all                | Esc            |
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Can't multi-select in org chart | Hold Cmd/Ctrl while clicking; or use Directory view |
-| Bulk edit panel won't open | Select at least 2 positions |
-| Some positions didn't change | Those may have field restrictions; check Activity Log |
-| Wrong positions selected | Use Undo (Cmd/Ctrl+Z) immediately, or check Activity Log to revert |
-| Directory selected too many | Refine filters, or manually deselect rows before applying |
+| Problem                         | Solution                                                           |
+| ------------------------------- | ------------------------------------------------------------------ |
+| Can't multi-select in org chart | Hold Cmd/Ctrl while clicking; or use Directory view                |
+| Bulk edit panel won't open      | Select at least 2 positions                                        |
+| Some positions didn't change    | Those may have field restrictions; check Activity Log              |
+| Wrong positions selected        | Use Undo (Cmd/Ctrl+Z) immediately, or check Activity Log to revert |
+| Directory selected too many     | Refine filters, or manually deselect rows before applying          |
 
 ## Related Articles
 
-- [Scenario Directory](directory.md)
-- [Making Position Changes](making-position-changes.md)
-- [Time-Based Planning](time-based-planning.md)
+* [Scenario Directory](directory.md)
+* [Making Position Changes](making-position-changes.md)
+* [Time-Based Planning](time-based-planning.md)

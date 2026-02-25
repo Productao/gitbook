@@ -3,7 +3,7 @@ description: Viewing forecast projections within scenarios
 icon: chart-line
 ---
 
-# Scenario Forecast
+# 📊 Scenario Forecast
 
 Scenario Forecast shows time-phased projections of your planned changes — when they take effect, headcount and cost over time, and before/after comparisons.
 
@@ -22,23 +22,27 @@ Open any scenario > click the view dropdown > select **Forecast**.
 **Time period:** Monthly (detailed hiring plans), Quarterly (most common for planning and reporting), Yearly (multi-year strategy, shows up to 5 years).
 
 **Before / After / Changes toggle:**
-- **Show Before** — Main Org baseline extended over time
-- **Show After** — All scenario changes applied; view full proposed state
-- **Show Changes** — Delta only (+ and −); most useful for communicating impact
+
+* **Show Before** — Main Org baseline extended over time
+* **Show After** — All scenario changes applied; view full proposed state
+* **Show Changes** — Delta only (+ and −); most useful for communicating impact
+
+**\[Screenshot placeholder: Zoomed in Before and After example, clear delta]**
 
 ## How Effective Dates Work in Forecast
 
 When you change a position's department with an effective date of July 1, 2026:
-- In Forecast (through Q2): the position appears in its original department
-- In Forecast (from Q3 onward): the position appears in its new department
+
+* In Forecast (through Q2): the position appears in its original department
+* In Forecast (from Q3 onward): the position appears in its new department
 
 Without an effective date, changes are treated as immediate — the position appears in the new state for all time periods.
 
 **Example (Show After, Quarterly):**
 
-| Department | Q1 | Q2 | Q3 | Q4 |
-|---|---|---|---|---|
-| Network Ops | 25 | 25 | 20 | 20 |
+| Department      | Q1 | Q2 | Q3 | Q4 |
+| --------------- | -- | -- | -- | -- |
+| Network Ops     | 25 | 25 | 20 | 20 |
 | Ops & Logistics | 30 | 30 | 35 | 35 |
 
 The 5 positions moved in Q3.
@@ -63,6 +67,6 @@ The 5 positions moved in Q3.
 
 ## Related Articles
 
-- [Time-Based Planning](time-based-planning.md)
-- [Forecast Overview](../forecast/overview.md)
-- [Forecast Navigation](../forecast/navigation.md)
+* [Time-Based Planning](time-based-planning.md)
+* [Forecast Overview](../forecast/overview.md)
+* [Forecast Navigation](../forecast/navigation.md)

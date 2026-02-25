@@ -19,14 +19,6 @@ The Hub automatically reflects your scenario's current state.
 
 > **\[Screenshot placeholder: View dropdown menu showing Directory, Forecast, and Workforce Hub options]**
 
-## Available Charts
-
-**Layers & Spans Chart** — Shows how many org layers exist and how many direct reports each manager has. Use to identify spans that are too narrow (micromanagement risk) or too wide (lack of support) after your changes.
-
-**Headcount Distribution Chart** — Shows headcount broken down by any organizational dimension (department, location, job level, custom fields). Use to validate departmental balance after changes.
-
-**Headcount Heatmap** — Two-dimensional view of headcount across any two attributes (e.g., Department × Job Level). Use to identify gaps or concentrations in your org design.
-
 ## Before / After / Changes Toggle
 
 Use the toggle at the top of the scenario to switch Hub analytics between:

@@ -1,6 +1,5 @@
 ---
 description: Spot scenario changes with visual symbols
-icon: symbols
 ---
 
 # Symbols

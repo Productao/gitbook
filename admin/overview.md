@@ -175,41 +175,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 
 ***
 
-## Admin Onboarding Checklist
-
-### First 30 Days
-
-**Week 1: Setup & Familiarization**
-
-* [ ] Complete Agentnoon admin training
-* [ ] Review current data structure and fields
-* [ ] Understand existing access control setup
-* [ ] Test data upload process with sample file
-* [ ] Explore Settings pages to understand all options
-
-**Week 2: User Management**
-
-* [ ] Invite key users (HR, Finance, Ops leaders)
-* [ ] Create access groups for departments or regions
-* [ ] Set up admin accounts for other power users
-* [ ] Configure default views for different user types
-
-**Week 3: Data & Configuration**
-
-* [ ] Set up regular data refresh schedule
-* [ ] Configure rate cards (if applicable)
-* [ ] Set up auto mapping rules
-* [ ] Create custom fields specific to organization needs
-
-**Week 4: Approval & Finalization**
-
-* [ ] Configure approval workflows (Level 1 & 2 approvers)
-* [ ] Test scenario approval process end-to-end
-* [ ] Document admin procedures for future reference
-* [ ] Train power users on creating scenarios
-
-***
-
 ## Ongoing Admin Maintenance
 
 ### Weekly Tasks

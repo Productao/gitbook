@@ -36,7 +36,6 @@
   * [Working with People](scenarios/working-with-people.md)
 * [📊 Scenario Changes & Impact (OpEx Panel)](scenarios/opex-panel.md)
 * [✅ Scenario Approvals](scenarios/approvals.md)
-* [🔍 Scenario Directory](scenarios/directory.md)
 * [📅 Time-Based Planning](scenarios/time-based-planning.md)
 * [🔄 Scenario Comparisons](scenarios/comparisons.md)
 * [📤 Exporting Scenario Data](scenarios/exporting.md)
@@ -49,7 +48,7 @@
   * [Sharing Scenarios](scenarios/collaboration/sharing-scenarios.md)
   * [Commenting](scenarios/collaboration/commenting.md)
   * [Working with Others](scenarios/collaboration/co-editing.md)
-  * [Notifications](scenarios/collaboration/notifications.md)
+* [🔍 Scenario Directory](scenarios/directory.md)
 * [📊 Scenario Forecast](scenarios/scenario-forecast.md)
 * [📈 Scenario Workforce Hub](scenarios/scenario-workforce-hub.md)
 * [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
@@ -138,6 +137,7 @@
   * [General Settings](settings/general.md)
 * [✅ Configuring Approval Flows](admin/configuring-approval-flows.md)
 * [🔄 Data Refresh & Sync](admin/data-refresh-sync.md)
+* [Notifications](admin-capabilities/notifications.md)
 * [👥 Access Groups Examples](admin/access-groups-examples.md)
 
 ## Assets & Quick Guides

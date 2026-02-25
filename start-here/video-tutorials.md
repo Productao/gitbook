@@ -73,9 +73,24 @@ Learn how to create and use scenarios to model organizational changes.
 
 ## Admin Videos
 
-### Data Import (Simplified Method)
+### Data Import
 
-Step-by-step guide to uploading your organizational data.
+Standard import method for organizations.
+
+[Watch: Standard Data Import →](https://www.loom.com/share/c1ea19c6913046968287cf910783886b)
+
+**Topics covered:**
+
+* Field mapping
+* Handling nested hierarchies
+* Custom attribute configuration
+* Troubleshooting common errors
+
+***
+
+### Partial Upload (power users only)
+
+Step-by-step guide to upload partial data to a scenario without overwriting the whole thing.
 
 [Watch: Simplified Data Import →](https://www.loom.com/share/a76e43032b6a4928a4a6d0b813503ba9?sid=a6a5cbb7-f1fa-4fab-8ef1-f3738654dcf6)
 
@@ -86,21 +101,6 @@ Step-by-step guide to uploading your organizational data.
 * Mapping columns to Agentnoon fields
 * Validation and error handling
 * Submitting the import
-
-***
-
-### Data Import (Legacy Method)
-
-Alternative import method for organizations with complex data structures.
-
-[Watch: Legacy Data Import →](https://www.loom.com/share/c1ea19c6913046968287cf910783886b)
-
-**Topics covered:**
-
-* Advanced field mapping
-* Handling nested hierarchies
-* Custom attribute configuration
-* Troubleshooting common errors
 
 ***
 

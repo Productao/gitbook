@@ -35,7 +35,7 @@ Complete these 10 core tasks to become production-ready:
 
 Use the search bar to find anyone in your organization:
 
-1. Start typing a name or job title
+1. Start typing a name, job title, or unique ID (i.e., employee ID or position ID)
 2. Results appear as you type
 3. Click a result to navigate directly to that position within the organization
 
@@ -120,7 +120,7 @@ Once in a Scenario, try these basic edits:
 1. **Add a position:** Hover over a card > click the **+** button > fill in details
 2. **Edit position details:** Click the card > modify fields in the side panel > save
 3. **Move a position:** Drag and drop a card to a new manager
-4. **Close a position:** Click the card > select **RIF** or **Exit** from the menu
+4. **Close a position:** Click the card > select **Close Position** from the menu
 5. **Bulk edit positions:** Select 3+ positions > click **Edit** > modify shared fields > save changes to all
 6. **Move a team:** Select a manager's card > click **Change Manager** > choose new manager > entire team moves
 

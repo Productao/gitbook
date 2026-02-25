@@ -14,22 +14,23 @@ When you open a scenario, you'll see:
 * **Side toolbar:** Scenario info, quick actions, change summary
 * **OpEx Panel panel:** Real-time impact display (toggle with the 👀 icon)
 
-## Views
+## Modules
 
-Switch views using the dropdown in the toolbar (or keyboard shortcuts):
+Switch modules using the dropdown in the toolbar (or keyboard shortcuts):
 
-| View          | Use for                                       | Shortcut |
-| ------------- | --------------------------------------------- | -------- |
-| Org Chart     | Drag-and-drop reorgs, visualizing structure   | `3`      |
-| Directory     | Bulk edits, filtering and analysis            | `5`      |
-| Forecast      | Time-based planning, seeing phased changes    | —        |
-| Workforce Hub | Validating org health, before/after analytics | —        |
+| View              | Use for                                            | Keyboard Shortcut |
+| ----------------- | -------------------------------------------------- | ----------------- |
+| Org Chart         | Drag-and-drop reorgs, visualizing structure        | 1                 |
+| Directory         | Bulk edits, filtering and analysis                 | 2                 |
+| Forecast          | Time-based planning, seeing phased changes         | 3                 |
+| Workforce Hub     | Validating org health, before/after analytics      | 4                 |
+| Activity Analysis | Identifying key processes and allocating resources | 5                 |
 
 ## Before / After / Changes Toggle
 
 * **Show After** — Working mode: see results as you make changes
-* **Show Changes** — Review mode: see only what's different from baseline
-* **Show Before** — Reference mode: compare against current state
+* **Show Changes** — Review mode: see only what's different from baseline (i.e., the Main Org data)
+* **Show Before** — Reference mode: compare against current state (i.e., the Main Org data)
 
 ## Toolbar Tools
 
@@ -40,29 +41,27 @@ Switch views using the dropdown in the toolbar (or keyboard shortcuts):
 * **Highlight** — Color-code cards by attribute (e.g., "Change Type" to visually scan adds/closes/edits)
 * **Card Content** — Control which fields appear on position cards
 * **Spotlight** — Dim unselected positions to focus attention when presenting
+* **Views** — Create combinations of filters, highlights and card content and save them in a customer view
 
 **Scenario-only tools:**
 
-* **OpEx Panel (👀)** — All modifications with cost/headcount impact; keep open while working
-* **Comments** — Threaded discussion on specific positions; @mention teammates
+* **Activity Log** — Review and download an audit log of all changes made in a scenario since creation
 * **Share** — Add collaborators with View/Edit/Comment permissions
-* **Compare** — Side-by-side comparison with other scenarios or Main Org
 * **Export** — Org chart, change log, directory data
+* **Comments** — Threaded discussion on specific positions; @mention teammates
+
+## Non-Toolbar Tools
+
+**Available in Home Page**
+
+* **Compare** — Side-by-side comparison with other scenarios or Main Org (accessible from the home screen)
 * **Approvals** — Submit through approval workflow
+* **Share** — Add collaborators with View/Edit/Comment permissions
+
+**Available in Scenario**
+
+* **OpEx Panel (👀)** — All modifications with cost/headcount impact; keep open while working
 * **Timeline** — Changes by effective date for phased planning
-
-## Keyboard Shortcuts
-
-| Action                   | Shortcut          |
-| ------------------------ | ----------------- |
-| Search                   | `/` or Cmd/Ctrl+K |
-| Save                     | Cmd/Ctrl+S        |
-| Undo                     | Cmd/Ctrl+Z        |
-| Redo                     | Cmd/Ctrl+Shift+Z  |
-| Org Chart view           | `3`               |
-| Directory view           | `5`               |
-| Multi-select             | Cmd/Ctrl+click    |
-| Select range (Directory) | Shift+click       |
 
 ## Org Chart Navigation
 

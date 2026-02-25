@@ -5,7 +5,7 @@ icon: hand-wave
 
 # Welcome to Agentnoon
 
-Agentnoon is a comprehensive workforce planning and organizational management platform designed to help HR, Finance, and Operations teams make data-driven decisions about their organization's structure and headcount.
+Agentnoon is a comprehensive workforce planning and organizational design platform designed to help HR, Finance, and Organizational Design teams make data-driven decisions about their organization's structure and headcount.
 
 ## What is Agentnoon?
 
@@ -25,7 +25,7 @@ Agentnoon is designed for:
 
 * **HR Teams** - Manage organizational structure, succession planning, and workforce analytics
 * **Finance Teams** - Forecast headcount costs, manage budgets, and model scenarios
-* **Operations Leaders** - Optimize team structures, analyze span of control, and plan reorganizations
+* **Org Design Leaders** - Optimize team structures, analyze span of control, and plan reorganizations
 * **Executives** - Make strategic decisions about organizational design and growth
 
 ## Key Benefits

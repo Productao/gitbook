@@ -3,15 +3,16 @@ description: Planning merger and acquisition integration
 icon: building
 ---
 
-# M&A Integration
+# 🏢 M\&A Integration
 
 Plan post-acquisition integration by modeling combined org structures, identifying redundancies, and analyzing cost synergies before making real-world changes.
 
 ## Prerequisites
 
 **From both companies:**
-- Acquiring company: Main Org loaded in Agentnoon
-- Acquired company: HRIS export (CSV with positions, managers, compensation)
+
+* Acquiring company: Main Org loaded in Agentnoon
+* Acquired company: HRIS export (CSV with positions, managers, compensation)
 
 Add a "Company" attribute to the acquired company's data file to distinguish employees during analysis.
 
@@ -19,14 +20,14 @@ Add a "Company" attribute to the acquired company's data file to distinguish emp
 
 1. Go to **Scenarios > Create New Scenario**
 2. Choose **Full Org Scenario** (includes your entire current organization)
-3. Name it: "M&A Integration - [Acquired Company]"
-4. Add tags: "M&A", "Integration", "[Year]"
+3. Name it: "M\&A Integration - \[Acquired Company]"
+4. Add tags: "M\&A", "Integration", "\[Year]"
 
 ## Step 2: Upload Acquired Company Data
 
 Use **Partial Upload** within the scenario to add the acquired org:
 
-1. In your M&A scenario, click **Data Management** button in the scenario toolbar
+1. In your M\&A scenario, click **Data Management** button in the scenario toolbar
 2. Click **Upload Partial Data**
 3. Upload the acquired company's CSV file
 4. Map fields and confirm
@@ -59,37 +60,25 @@ For each function (Finance, HR, Engineering, etc.):
 ## Step 5: Analyze Cost Impact
 
 Open the **OpEx Panel** to review:
-- Net headcount reduction
-- Annual compensation savings by department
-- Total cost synergies vs. targets
+
+* Net headcount reduction
+* Annual compensation savings by department
+* Total cost synergies vs. targets
 
 Focus on ongoing savings, not one-time severance costs.
 
-## Step 6: Phase the Integration
-
-Use effective dates to stagger changes:
-
-| Phase | Timing | Focus |
-|-------|--------|-------|
-| Day 1 | Immediate | Leadership, critical redundancies |
-| 30-60 days | Month 2 | Support functions (HR, Finance, Legal) |
-| 90-120 days | Quarter 2 | Customer-facing teams, product |
-| 6-12 months | Ongoing | Full integration, culture |
-
-View phasing in **Forecast** > Quarterly > Show Changes.
-
-## Step 7: Compare Integration Approaches
+## Step 6: Compare Integration Approaches
 
 Create multiple scenarios to evaluate tradeoffs:
 
-- **Fast (3 months):** Maximum synergies, higher disruption
-- **Moderate (6 months):** Balanced approach, standard timeline
-- **Slow (12 months):** Minimal disruption, slower savings
-- **Selective:** Integrate support only, keep customer-facing separate
+* **Fast (3 months):** Maximum synergies, higher disruption
+* **Moderate (6 months):** Balanced approach, standard timeline
+* **Slow (12 months):** Minimal disruption, slower savings
+* **Selective:** Integrate support only, keep customer-facing separate
 
 Use **Scenario Comparisons** to view headcount, cost, and timing differences side-by-side.
 
-## Step 8: Export for Approval
+## Step 7: Export for Approval
 
 1. **PowerPoint:** Before/after org charts for executive review
 2. **Excel:** Cost synergies by function and phase
@@ -105,7 +94,7 @@ Use **Scenario Comparisons** to view headcount, cost, and timing differences sid
 
 ## Related Articles
 
-- [Planning a Reorganization](planning-reorganization.md)
-- [Scenario Comparisons](../scenarios/comparisons.md)
-- [Time-Based Planning](../scenarios/time-based-planning.md)
-- [Partial Upload Guide](../admin/data-management/partial-upload.md)
+* [Planning a Reorganization](planning-reorganization.md)
+* [Scenario Comparisons](../scenarios/comparisons.md)
+* [Time-Based Planning](../scenarios/time-based-planning.md)
+* [Partial Upload Guide](../admin/data-management/partial-upload.md)

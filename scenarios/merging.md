@@ -41,12 +41,9 @@ Use "Show only conflicts" filter to review what you'd be overwriting before deci
 
 ## Troubleshooting
 
-| Problem                         | Solution                                                            |
-| ------------------------------- | ------------------------------------------------------------------- |
-| Duplicate positions after merge | Both scenarios created the same new position; delete one duplicate  |
-| Broken hierarchy after merge    | Click orange broken hierarchy icon > reassign managers to reconnect |
-| Can't see merged changes        | Clear all filters; confirm "Show After" mode is active              |
-| Merged wrong scenario           | Restore from the automatic backup created before the merge          |
+| Problem               | Solution                                                   |
+| --------------------- | ---------------------------------------------------------- |
+| Merged wrong scenario | Restore from the automatic backup created before the merge |
 
 ## Related Articles
 

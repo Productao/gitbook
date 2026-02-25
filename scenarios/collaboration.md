@@ -11,4 +11,4 @@ Scenarios are built for teamwork. Agentnoon provides collaboration features incl
 * [**Sharing Scenarios**](collaboration/sharing-scenarios.md) — Control who can view or edit your scenarios
 * [**Commenting**](collaboration/commenting.md) — Discuss plans with scenario-level comments
 * [**Working with Others**](collaboration/co-editing.md) — Presence indicators and coordinating with teammates
-* [**Notifications**](collaboration/notifications.md) — Stay updated on approvals, invitations, and account activity
+* [**Notifications**](../admin-capabilities/notifications.md) — Stay updated on approvals, invitations, and account activity

@@ -1,28 +1,22 @@
 ---
 description: Understanding position and employee cards
-hidden: false
 ---
 
 # Cards
 
 Cards are the building blocks of the org chart. Each card represents a position in your organization and displays key information at a glance.
 
-> **[Screenshot placeholder: Org chart view showing multiple position cards arranged in a hierarchy]**
+> **\[Screenshot placeholder: Org chart view showing multiple position cards arranged in a hierarchy]**
 
 ## What's on a Card
 
-Every card shows:
+Cards only show selected content that is added in from the Card Content panel. By default, cards only show **name** and **job title.**&#x20;
 
-- **Name** and **job title**
-- **Department** or team
-- **Direct reports count** and **total org size** (people under this position)
-- Any additional fields you've configured (location, salary, pay grade, etc.)
-
-Positions with an assigned employee show the employee's name. Vacant positions show the position title only.
+Positions with an assigned employee show the employee's name when the Name attribute is selected in card content (the actual name of this may vary depending on your imported data). Vacant positions show the position title only and a blank name.
 
 ## Customizing Card Content
 
-> **[Screenshot placeholder: Card Content panel open in toolbar showing available fields]**
+> **\[Screenshot placeholder: Card Content panel open in toolbar showing available fields]**
 
 1. Click **Card Content** in the toolbar
 2. Select which attributes to display (Work City, Pay Grade, Span of Control, etc.)
@@ -33,7 +27,7 @@ Fields marked with **FX** are calculated automatically by Agentnoon (Span of Con
 
 ## Highlighting
 
-> **[Screenshot placeholder: Org chart with cards color-coded by department]**
+> **\[Screenshot placeholder: Org chart with cards color-coded by department]**
 
 Color-code cards by any attribute:
 

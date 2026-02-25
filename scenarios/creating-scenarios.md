@@ -28,13 +28,9 @@ Good examples: "Engineering Q2 2026 Reorg", "Commercial NA Budget Cut 10%", "Pro
 
 Never use: "New Scenario", "Test", "Draft", "Scenario 1"
 
-## Step 3: Optional Settings
+## Step 3: Set a Budget (optional)
 
-**Budget:** Set a cost target (e.g., -$2M). OpEx Panel shows green/yellow/red progress against budget as you work.
-
-**Effective Date:** Target implementation date. Used by Forecast to show when scenario changes take effect.
-
-**Description:** Document the purpose, problem being solved, key constraints, and expected outcomes. Future you and collaborators will thank you.
+Set a cost target (e.g., -$2M, +$150K). OpEx Panel shows this target next to the bottom line.
 
 ## After Creating
 
@@ -48,12 +44,12 @@ Start making changes: [Making Position Changes](making-position-changes.md)
 
 ## Troubleshooting
 
-| Problem                           | Solution                                                   |
-| --------------------------------- | ---------------------------------------------------------- |
-| Scenario creation taking too long | Switch to Partial Org instead of Full Org                  |
-| Missing positions I expected      | Widen filter or select a higher-level manager as the scope |
-| Positions I don't want included   | Narrow filter; select a more specific manager              |
-| Created wrong type                | Delete and recreate — type can't be changed after creation |
+| Problem                                                              | Solution                                                                                                                                                           |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Scenario creation taking too long                                    | Confirm your internet connection is stable. Refresh and try again. It is normal for scenario creatoin to take sometimes 5-10 minutes for very large organizations. |
+| Missing positions I expected                                         | Confirm the missing positions are present in the Main Org. Confirm these positions were not excluded by the filters selected if using a partial scenario.          |
+| Positions I don't want included were included in my partial scenario | Confirm the filter achieve the desired hierarchy. Try a narrowwer filter; select a more specific manager                                                           |
+| Created wrong scenario type                                          | Delete and recreate — type can't be changed after creation                                                                                                         |
 
 ## Related Articles
 

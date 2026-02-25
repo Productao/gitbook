@@ -81,13 +81,13 @@ Use ← → buttons to move cards left or right within the same manager level. T
 
 ## Troubleshooting
 
-| Problem                                   | Solution                                         |
-| ----------------------------------------- | ------------------------------------------------ |
-| Can't make any changes                    | You're in Main Org (view-only) — open a scenario |
-| Changes aren't showing up                 | Click Save after editing                         |
-| Accidentally deleted a position           | Check Activity Log to undo, or recreate it       |
-| Drag-and-drop not working                 | Use ⋮ > Change Manager instead                   |
-| Can't find position to assign employee to | Create the position first, then assign           |
+| Problem                                   | Solution                                                                                                                                                                                                       |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Can't make any changes                    | Confirm you are not in the Main Org (view-only). Check if you have permissions to edit certain attributes/fields (contact your admin). Confirm you have a stable internet connection, and refresh the browser. |
+| Changes aren't showing up                 | Confirm you have a stable connection to the internet, and refresh the browser.                                                                                                                                 |
+| Accidentally deleted a position           | Check Activity Log to undo, or recreate it                                                                                                                                                                     |
+| Drag-and-drop not working                 | Confirm you have a stable connection to the internet, and refresh the browser. If still not working, use the Change Manager feature instead by hovering over the card you want to move.                        |
+| Can't find position to assign employee to | Ensure the position you would like to assign an employee to exists. If it does, this may be a bug, please reach out to support.                                                                                |
 
 ## Related Resources
 

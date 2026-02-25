@@ -1,6 +1,5 @@
 ---
 description: Add comments and discussions to scenarios
-hidden: false
 ---
 
 # Commenting
@@ -9,7 +8,7 @@ Comments let you discuss scenarios with teammates — ask questions, provide fee
 
 Comments are added at the **scenario level** (the scenario as a whole), not on individual position cards.
 
----
+***
 
 ## How to Add a Comment
 
@@ -18,15 +17,16 @@ Comments are added at the **scenario level** (the scenario as a whole), not on i
 3. Type your comment
 4. Click **Post**
 
-> **[Screenshot placeholder: Comments panel open on the left side of a scenario, showing a comment thread]**
+> **\[Screenshot placeholder: Comments panel open on the left side of a scenario, showing a comment thread]**
 
 **When to use:**
-- General questions about the scenario
-- High-level feedback and suggestions
-- Summarizing changes you made
-- Requesting review from stakeholders
 
----
+* General questions about the scenario
+* High-level feedback and suggestions
+* Summarizing changes you made
+* Requesting review from stakeholders
+
+***
 
 ## Viewing and Managing Comments
 
@@ -36,15 +36,16 @@ Comments are added at the **scenario level** (the scenario as a whole), not on i
 
 **Delete comments:** Open a comment > click **⋮** > **Delete**. Only comment authors and scenario owners can delete comments.
 
----
+***
 
 ## Common Commenting Workflows
 
 ### Documenting Decisions
 
 Add a comment after each major change to document your reasoning:
-- "Closed this role due to budget constraints — $120K savings"
-- "Added 5 new SDE roles to support the AI initiative roadmap"
+
+* "Closed this role due to budget constraints — $120K savings"
+* "Added 5 new SDE roles to support the AI initiative roadmap"
 
 When the scenario is approved, comments serve as the historical record.
 
@@ -58,11 +59,12 @@ When the scenario is approved, comments serve as the historical record.
 ### Coordinating Between Planners
 
 If two planners are working on the same scenario:
+
 1. Planner A adds a comment: "Working on Engineering section now"
 2. Planner B sees the comment and adds: "Got it, I'll handle Sales"
 3. Both resolve comments as work progresses
 
----
+***
 
 ## Best Practices
 
@@ -71,20 +73,20 @@ If two planners are working on the same scenario:
 3. **Resolve when done** — Keep the comment list focused on active discussions
 4. **Document decisions** — Comments may be exported and shared with approvers
 
----
+***
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Comments not showing | Refresh the page; check if you're filtering to show only unresolved |
+| Problem                | Solution                                                               |
+| ---------------------- | ---------------------------------------------------------------------- |
+| Comments not showing   | Refresh the page; check if you're filtering to show only unresolved    |
 | Can't delete a comment | You can only delete your own comments unless you're the scenario owner |
-| Too many comments | Resolve addressed comments; use filters to show only unresolved |
+| Too many comments      | Resolve addressed comments; use filters to show only unresolved        |
 
----
+***
 
 ## Next Steps
 
-- Learn [Notifications](notifications.md) to stay updated on approvals and invitations
-- Explore [Sharing Scenarios](sharing-scenarios.md) to control who can comment
-- Return to [Scenario Collaboration](../collaboration.md) overview
+* Learn [Notifications](../../admin-capabilities/notifications.md) to stay updated on approvals and invitations
+* Explore [Sharing Scenarios](sharing-scenarios.md) to control who can comment
+* Return to [Scenario Collaboration](../collaboration.md) overview

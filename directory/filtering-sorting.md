@@ -29,18 +29,6 @@ Active filters appear as tags above the table. Multiple filters use **AND logic*
 
 Type in the search box to find positions by name, title, or any attribute. Partial matches work; case-insensitive. Search only works on currently filtered (visible) rows.
 
-## Common Workflows
-
-**Analyze department compensation:** Filter = Department > Sort = Salary (high→low) > Export CSV.
-
-**Find compression:** Filter = Direct SOC = 1–2 AND Pay Grade > 12 > Sort = Layer (low→high).
-
-**Vacancy list for recruiting:** Filter = Employee Name = (empty) > Sort = Department (A→Z) > Export CSV.
-
-**Pay equity check:** Filter = Job Title = "Software Engineer" > Sort = Salary (high→low) to compare across departments/locations.
-
-**Find recent hires:** Sort = Start Date (newest→oldest).
-
 ## Troubleshooting
 
 | Problem                        | Solution                                                 |

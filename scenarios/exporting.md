@@ -3,7 +3,7 @@ description: Exporting scenario data and visuals
 icon: download
 ---
 
-# Exporting Scenario Data
+# 📤 Exporting Scenario Data
 
 Export scenario data, visuals, and analytics for stakeholder presentations, approval documentation, and analysis.
 
@@ -16,6 +16,7 @@ Export scenario data, visuals, and analytics for stakeholder presentations, appr
 ## How to Export
 
 All exports follow the same pattern:
+
 1. Open scenario
 2. Switch to the relevant view (Org Chart, Directory, Forecast, or Workforce Hub)
 3. Set view mode (Before / After / Changes)
@@ -29,11 +30,12 @@ Exports respect your current view mode, active filters, and access permissions.
 **JPEG** — Screenshot of the current framed view. Good for quick visual updates in email or Slack.
 
 **PowerPoint** — Full org chart as structured slides. Configure:
-- Filters (department, location)
-- Hierarchy depth (top 3 layers, full org, or custom)
-- Layout (Vertical, Horizontal, Compact)
-- Slide depth (layers per slide)
-- Card content (Titles only or full details)
+
+* Filters (department, location)
+* Hierarchy depth (top 3 layers, full org, or custom)
+* Layout (Vertical, Horizontal, Compact)
+* Slide depth (layers per slide)
+* Card content (Titles only or full details)
 
 Best for executive and board presentations. Each manager with direct reports gets its own slide.
 
@@ -42,6 +44,7 @@ Best for executive and board presentations. Each manager with direct reports get
 ## Data Exports
 
 **CSV / Excel (Directory)** — Export position data from Directory view:
+
 1. Switch to **Directory** view
 2. Click the **column selector** (top-right) to choose which fields to include
 3. Drag columns to reorder them how you want
@@ -74,24 +77,23 @@ In Scenario Comparisons view, click **Export Comparison** to download a side-by-
 
 **Available formats:**
 
-- **Excel** — Multi-sheet file with a Summary sheet (scenario names, net headcount/cost per scenario), Department Breakdown (headcount and cost by department per scenario), and Change Detail (all position changes with before/after values)
-- **CSV** — Single file with one row per position/metric, columns for each compared scenario
-- **PowerPoint** — Side-by-side org charts with a summary slide
+* **Excel** — Multi-sheet file with a Summary sheet (scenario names, net headcount/cost per scenario), Department Breakdown (headcount and cost by department per scenario), and Change Detail (all position changes with before/after values)
+* **CSV** — Single file with one row per position/metric, columns for each compared scenario
+* **PowerPoint** — Side-by-side org charts with a summary slide
 
 Export before the decision point to capture the state at that moment. Filter before exporting to focus stakeholders on the relevant segment.
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Export button grayed out | Verify your role has export access; contact scenario owner |
-| Exported data doesn't match screen | Check active view mode (Before/After/Changes) and filters |
-| Change summary is empty | Scenario may have no changes; verify OpEx Panel shows changes |
-| Effective dates missing from export | Export from Forecast view or use Change Summary export |
-| Can't export comparison | Ensure multiple scenarios are selected in comparison view |
+| Problem                             | Solution                                                      |
+| ----------------------------------- | ------------------------------------------------------------- |
+| Export button grayed out            | Verify your role has export access; contact scenario owner    |
+| Exported data doesn't match screen  | Check active view mode (Before/After/Changes) and filters     |
+| Change summary is empty             | Scenario may have no changes; verify OpEx Panel shows changes |
+| Effective dates missing from export | Export from Forecast view or use Change Summary export        |
 
 ## Related Articles
 
-- [Main Org Exporting](../main-org/exporting.md)
-- [Scenario Comparisons](comparisons.md)
-- [Forecast Reports & Exports](../forecast/reports-exports.md)
+* [Main Org Exporting](../main-org/exporting.md)
+* [Scenario Comparisons](comparisons.md)
+* [Forecast Reports & Exports](../forecast/reports-exports.md)

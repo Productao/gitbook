@@ -1,6 +1,5 @@
 ---
 description: What scenarios are and when to use them
-hidden: false
 ---
 
 # Scenarios Fundamentals
@@ -9,20 +8,21 @@ A scenario is an editable copy of your org where you can model changes without a
 
 ## When to Create a Scenario
 
-> **[Screenshot placeholder: Scenario creation dialog showing name, type, and description fields]**
+> **\[Screenshot placeholder: Scenario creation dialog showing name, type, and description fields]**
 
 Create a scenario whenever you need to model changes to your org structure:
-- Plan a reorganization or restructure
-- Model headcount additions or reductions
-- Explore and compare multiple approaches
-- Prepare a proposal for stakeholder approval
-- Run annual or quarterly planning
+
+* Plan a reorganization or restructure
+* Model headcount additions or reductions
+* Explore and compare multiple approaches
+* Prepare a proposal for stakeholder approval
+* Run annual or quarterly planning
 
 ## Scenario Types
 
 **Full Org** — Copy of your entire organization. Use for company-wide planning.
 
-**Partial Org** — Copy of a specific department or team. Faster to create and easier to work with. Most commonly used.
+**Partial Org** — Copy of a subset of your organization. Faster to create and easier to work with. Most commonly used.
 
 **New Org** — Blank canvas. Use when building a new department or team from scratch.
 

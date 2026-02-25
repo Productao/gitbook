@@ -47,7 +47,7 @@ Even though Main Org is view-only, it's incredibly powerful for analysis and exp
 
 ### 2. Search and Find
 
-* **Search by name** - Find any employee or position instantly
+* **Search by name or unique ID** - Find any employee or position instantly
 * **Search by job title** - Locate specific roles (e.g., "VP of Engineering")
 * **Navigate directly** - Search results take you straight to that position in the org chart
 
@@ -103,6 +103,7 @@ Main Org data comes from your HRIS integration:
 
 **Common integrations:**
 
+* Dayforce
 * Workday
 * BambooHR
 * ADP
