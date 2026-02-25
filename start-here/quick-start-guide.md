@@ -80,7 +80,9 @@ Make the org chart work for you:
 3. Name your View (e.g., "Engineering Team" or "US Employees")
 4. Your saved View appears in the Views dropdown for quick access later
 
-> **\[Screenshot placeholder: Highlight and Filter panels with saved view dropdown]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.28.32 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.29.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Use Spotlight to Find Patterns
 
@@ -118,13 +120,25 @@ Scenarios let you model changes before implementing them:
 Once in a Scenario, try these basic edits:
 
 1. **Add a position:** Hover over a card > click the **+** button > fill in details
-2. **Edit position details:** Click the card > modify fields in the side panel > save
-3. **Move a position:** Drag and drop a card to a new manager
-4. **Close a position:** Click the card > select **Close Position** from the menu
-5. **Bulk edit positions:** Select 3+ positions > click **Edit** > modify shared fields > save changes to all
-6. **Move a team:** Select a manager's card > click **Change Manager** > choose new manager > entire team moves
 
-> **\[Screenshot placeholder: Scenario with position card menu showing add/edit/move/close options]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 3.57.01 PM.png" alt=""><figcaption></figcaption></figure>
+
+2. **Edit position details:** Click the card > modify fields in the side panel > save
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.00.31 PM.png" alt=""><figcaption></figcaption></figure>
+
+3. **Move a position:** Drag and drop a card to a new manager
+4. **Close a position:** Click the card > select **RIF** or **Exit** from the menu
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.03.19 PM.png" alt=""><figcaption></figcaption></figure>
+
+4. **Bulk edit positions:** Select 3+ positions > click **Edit** > modify shared fields > save changes to all
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.08.05 PM.png" alt=""><figcaption></figcaption></figure>
+
+4. **Move a team:** Select a manager's card > click **Change Manager** > choose new manager > entire team moves
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.58.33 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 9. View Changes in Forecast
 
