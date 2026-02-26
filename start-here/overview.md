@@ -30,7 +30,7 @@ Agentnoon is organized into five modules. Each one serves a different purpose, b
 
 It reflects data imported from your HRIS or data source and is **view-only**. Use Main Org to explore reporting relationships, search for positions, and establish the baseline for scenario planning.
 
-> **\[Screenshot placeholder: Main Org view showing org chart with positions and reporting lines]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.06.36 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Scenarios
 
@@ -40,7 +40,7 @@ Add, move, edit, or close positions, then review the cost and headcount impact i
 
 Use scenarios to plan reorganizations, model budget cuts, test team structures, compare multiple approaches, and submit proposals for approval.
 
-> **\[Screenshot placeholder: Scenario view showing editable org chart with change indicator symbols]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.24.28 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Forecast
 
@@ -48,7 +48,7 @@ Use scenarios to plan reorganizations, model budget cuts, test team structures, 
 
 It shows how scenario changes phase in based on hire dates and effective dates, using monthly, quarterly, or yearly views. Use Before, After, and Changes to compare projected impact.
 
-> **\[Screenshot placeholder: Forecast view showing headcount projections by quarter and department]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.27.04 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Workforce Hub
 
@@ -56,7 +56,7 @@ It shows how scenario changes phase in based on hire dates and effective dates, 
 
 Use charts such as Layers and Spans of Control, Headcount Distribution, and Heatmaps to review structure, depth, and distribution. Charts can be filtered and exported for presentations.
 
-> **\[Screenshot placeholder: Workforce Hub showing the Layers and Spans of Control chart]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.27.52 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Directory
 
@@ -64,9 +64,7 @@ Use charts such as Layers and Spans of Control, Headcount Distribution, and Heat
 
 Use it to sort, filter, and analyze position and employee data in rows and columns. In scenarios, Directory supports bulk edits and exports.
 
-> **\[Screenshot placeholder: Directory view showing table with position rows and attribute columns]**
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.28.24 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
