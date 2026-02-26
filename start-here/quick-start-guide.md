@@ -150,7 +150,7 @@ See how your changes impact headcount and costs over time:
 4. Toggle between headcount and cost metrics
 5. Hover over any point to see detailed breakdowns
 
-> **\[Screenshot placeholder: Forecast view showing timeline with headcount projection]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.04.29 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### 10. Export a Chart to PowerPoint
 
@@ -158,13 +158,16 @@ Share your analysis with stakeholders:
 
 1. Click the view switcher and select **Workforce Hub**
 2. Click on any preconfigured chart tile (e.g., Headcount Distribution)
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.07.19 AM.png" alt=""><figcaption></figcaption></figure>
+
 3. The chart opens - now the chart selector dropdown appears at the top
 4. Configure the chart axes and filters using the gear icon
 5. Click the **Export** button
 6. Choose **PowerPoint**
 7. The chart exports as an editable slide
 
-> **\[Screenshot placeholder: Workforce Hub with chart selected and export menu open]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.13.06 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## ✅ You're Ready!
 

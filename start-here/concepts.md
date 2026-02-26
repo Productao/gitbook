@@ -1,8 +1,9 @@
 ---
 description: Essential concepts for understanding Agentnoon
+icon: circle-exclamation
 ---
 
-# 💡 Key Concepts
+# Key Concepts
 
 These core concepts will help you navigate Agentnoon and understand how workforce planning works in the platform.
 
@@ -16,7 +17,7 @@ These core concepts will help you navigate Agentnoon and understand how workforc
 
 **Key insight:** Agentnoon is primarily position-based. You plan with positions first, then assign people to them. This allows you to model future org structures even before hiring.
 
-> **\[Screenshot placeholder: Position card showing open position vs filled position with employee]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.33.39 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -66,7 +67,7 @@ Table/spreadsheet view of all positions with sortable columns.
 
 **Pro tip:** Switch between views with keyboard shortcuts (3 for Org Chart, 5 for Directory).
 
-> **\[Screenshot placeholder: Side-by-side comparison of Org Chart view vs Directory view]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.38.48 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -89,7 +90,7 @@ Visual containers displaying position or employee information.
 * Drag to move to new manager (in scenarios)
 * Color-coded by change type
 
-> **\[Screenshot placeholder: Example position card showing name, title, department, salary, and other attributes]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.57.10 AM.png" alt="" width="292"><figcaption></figcaption></figure>
 
 ***
 
@@ -127,7 +128,7 @@ The number of direct reports a manager has.
 * Mid-Level Managers: 5-8 direct reports
 * Executives: 5-10 direct reports
 
-> **\[Screenshot placeholder: Org chart with span of control highlighting]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.59.43 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Layers
 

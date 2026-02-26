@@ -19,7 +19,7 @@ The Main Org is your current-state organization as it exists today.
 * **Data-driven**: Updated via imports and syncs
 * **Baseline**: Reference point for all scenario planning
 
-> **\[Screenshot placeholder: Main Org view showing read-only current state with organization structure]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.06.36 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -30,7 +30,7 @@ The Main Org is your current-state organization as it exists today.
 * **Forecast** — Time-based projections of current organization
 * **Workforce Hub** — Analytics charts for structure analysis
 
-> **\[Screenshot placeholder: View dropdown showing Org Chart, Directory, Forecast, and Workforce Hub options]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.08.06 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -1,8 +1,9 @@
 ---
 description: Foundational concepts and terminology to understand Agentnoon
+icon: book-open-lines
 ---
 
-# 📖 Agentnoon 101
+# Agentnoon 101
 
 This section introduces the building blocks of Agentnoon — the modules, the interface elements, and the data structure behind your org chart.
 

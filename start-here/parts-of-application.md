@@ -16,7 +16,7 @@ Your current organizational structure, synced from your HRIS or data file. The M
 
 Use it to explore your current org, search for people or positions, analyze span of control, and apply highlights or filters.
 
-> **\[Screenshot placeholder: Main Org view showing org chart with positions and reporting lines]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.23.25 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -26,7 +26,7 @@ Editable copies of your org where you can model changes without affecting live d
 
 Use scenarios to plan reorganizations, model budget cuts, test team structures, compare multiple approaches, and submit proposals for approval.
 
-> **\[Screenshot placeholder: Scenario view showing editable org chart with change indicator symbols]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.24.28 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,7 +36,7 @@ Forward-looking headcount and cost projections over time. Forecast works in mont
 
 Use it for annual hiring plans, quarterly budget reviews, multi-year projections, and tracking plan vs. actuals.
 
-> **\[Screenshot placeholder: Forecast view showing headcount projections by quarter and department]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.27.04 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -46,7 +46,7 @@ Pre-built analytics charts that turn your org data into visual insights. Charts 
 
 Use it to get an understanding of the size and shape of your organization, identify structural opportunities (compression, deep hierarchies) for optimization, prepare charts for presentations, and export visuals as PowerPoint or PNG.
 
-> **\[Screenshot placeholder: Workforce Hub showing the Layers and Spans of Control chart]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.27.52 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -56,7 +56,7 @@ A searchable, sortable table view of all positions and people. Customize which c
 
 Use it when you need data in rows and columns rather than a visual org chart.
 
-> **\[Screenshot placeholder: Directory view showing table with position rows and attribute columns]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.28.24 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -66,7 +66,7 @@ When you log in, you land on the homepage, which shows your recently accessed sc
 
 From the homepage, click into the Main Org or open any scenario to get started.
 
-> **\[Screenshot placeholder: Agentnoon homepage showing scenario list and Main Org access]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.29.15 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
