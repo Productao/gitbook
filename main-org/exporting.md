@@ -3,85 +3,101 @@ description: Exporting data and visuals from Main Org
 icon: download
 ---
 
-# Main Org Exporting
+# 📤 Exporting Data
 
-Export org data and visuals for reporting, analysis, presentations, and HRIS integration.
+You can export organizational data and visuals from Main Org for reporting, analysis, and presentations.
+
+Exports reflect your current view, including active filters and visible columns.
 
 ## Export Formats
 
-**Visual exports:**
-- **JPEG** — Screenshot of current org chart view (what you see is what you export)
-- **PowerPoint** — Full org chart as structured slides with configurable depth, layout, and card content
+#### Visual Exports
 
-**Data exports:**
-- **CSV** — Raw position/employee data; respects active filters and column visibility
-- **Excel** — Same as CSV with pre-formatted columns, bold headers, and correct cell types
-- **EIB File** — Workday Enterprise Interface Builder format for direct HRIS import (admin only)
-- **Template exports** — Admin-configured exports with preset columns and formatting
+* **JPEG** — screenshot of the current org chart view
+* **PowerPoint** — A structured org chart with configurable depth and layout
+
+#### Data Exports
+
+* **CSV** — Raw position and employee data
+* **Excel** — Formatted spreadsheet export
+* **EIB File** — Workday Enterprise Interface Builder format (admin only)
+* **Template Exports** — Admin-configured export templates
 
 ## How to Export
 
-1. Navigate to Main Org (any view)
-2. Apply filters if you want a subset of the data
-3. Click **Export**
-4. Select format and configure options
-5. Click **Download**
+1. Navigate to Main Org.
+2. Apply filters if you want to export a subset of data.
+3. Click **Export**.
+4. Select your preferred format.
+5. Configure export options (if applicable).
+6. Download the file.
 
-## PowerPoint Configuration
+### PowerPoint Configuration
 
-When exporting as PowerPoint:
-- **Filters:** Export only specific departments, locations, or business units
-- **Hierarchy depth:** Full org, top 3 layers, top 5 layers, or custom
-- **Layout:** Vertical (top-down), Horizontal (left-to-right), or Compact
-- **Slide depth:** How many layers per slide (1–2 for clarity, 3–4 for balance, 5+ for density)
-- **Card content:** Titles only, or full card content (department, level, compensation, etc.)
+When exporting to PowerPoint, you can configure:
 
-Each manager with direct reports gets their own slide.
+* Filters (department, location, etc.)
+* Hierarchy depth
+* Layout (vertical, horizontal, compact)
+* Slide depth (layers per slide)
+* Card content (titles only or full details)
 
-## Directory View Exports
+Each manager with direct reports appears on a separate slide.
 
-For precise column and row control:
-1. Switch to **Directory** view
-2. Click the **column selector** (top-right) to choose which fields to include
-3. **Drag columns** to reorder them in your preferred sequence
-4. Apply filters to limit which positions export
-5. Click **Export** > **CSV** or **Excel**
+### Exporting from Directory&#x20;
+
+For structured data control:
+
+1. Switch to **Directory** view.
+2. Select which columns to display.
+3. Reorder columns if needed.
+4. Apply filters.
+5. Click **Export** and choose CSV or Excel.
+
+Exports include visible columns and respect active filters.
 
 **Saved Reports:** After configuring columns and order, click **Save Report** to save this configuration. Access saved reports from the Reports dropdown for consistent recurring exports.
 
 > **Note:** Directory exports are less commonly used. Most users prefer PowerPoint org charts or Workforce Hub analytics for stakeholder presentations.
 
-## Forecast View Exports
+### Exporting from Forecast&#x20;
 
-In Forecast view, export the headcount/cost projection table:
-1. Configure time period (monthly/quarterly/yearly), aggregation, and metric
-2. Click Export to download the table with rows per department/location and columns per time period
+In Forecast view, you can export projection tables:
+
+1. Configure the row aggregator, time period (Monthly, Quarterly, or Yearly), and metric (Headcount or Cost).
+2. Click **Export**.
+3. Download the table showing projected headcount or cost by time period.
+
+Forecast exports reflect effective dates and hire dates used in scenarios.
 
 **Learn more:** [Forecast Reports & Exports](../forecast/reports-exports.md)
 
-## Workforce Hub Exports
+### Exporting from Workforce Hub&#x20;
 
-Export individual charts as PNG, or create **slide packs** with multiple charts for comprehensive presentations.
+From Workforce Hub, you can export charts and underlying data:
+
+* **PNG** — Export the chart as an image.
+* **PowerPoint** — Export the chart as an editable slide.
+* **CSV** — Export the underlying chart data (via table view).
+
+For multi-chart presentations, use Slide Packs to generate a PowerPoint with multiple charts
 
 **Learn more:** [Hub Packs](../hub/packs.md)
 
 ## Permissions
 
-Exports respect your access scope — you can only export data you can see. Sensitive attributes hidden by your access group are excluded from exports. EIB exports are typically restricted to admins and HRIS teams.
+Exports respect your assigned Access Group.
+
+You can only export data that you have permission to view. Fields restricted by your access scope will not appear in exported files. EIB exports are typically restricted to admins and HRIS teams.
 
 ## Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| Export button grayed out | Check export permissions with admin |
-| File is empty | Filters may be too restrictive; try removing them |
-| Takes a long time | Filter to a smaller subset or export by department |
-| Columns missing | Check column visibility in Directory view; some may be permission-restricted |
+<table><thead><tr><th width="332.578125">Problem</th><th>Solution</th></tr></thead><tbody><tr><td>Export button unavailable</td><td>Verify export permissions with your administrator.</td></tr><tr><td>Empty file</td><td>Remove restrictive filters and try again.</td></tr><tr><td>Slow export</td><td>Filter to a smaller subset before exporting.</td></tr><tr><td>Missing columns</td><td>Confirm columns are visible before exporting. </td></tr></tbody></table>
 
 **More help:** [Export & Integration Issues](../troubleshooting/export-integration-issues.md)
 
 ## Related Articles
 
-- [Directory Exporting & Reporting](../directory/exporting-reporting.md)
-- [Forecast Reports & Exports](../forecast/reports-exports.md)
-- [Scenario Exporting](../scenarios/exporting.md)
+* [Directory Exporting & Reporting](../directory/exporting-reporting.md)
+* [Forecast Reports & Exports](../forecast/reports-exports.md)
+* [Scenario Exporting](../scenarios/exporting.md)

@@ -4,13 +4,11 @@
 
 ## Start Here
 
-* [Welcome to Agentnoon](start-here/welcome.md)
 * [Quick Start Guide](start-here/quick-start-guide.md)
+* [Platform Overview](start-here/overview.md)
 * [Key Concepts](start-here/concepts.md)
-  * [Key Concepts for Main Org](start-here/key-concepts-main-org.md)
   * [Key Concepts for Scenarios](start-here/key-concepts-scenarios.md)
 * [Agentnoon 101](start-here/agentnoon-101.md)
-  * [Parts of the Application](start-here/parts-of-application.md)
   * [Cards](start-here/cards.md)
   * [Fields and Attributes](start-here/fields-and-attributes.md)
   * [Scenarios Fundamentals](start-here/scenarios-fundamentals.md)

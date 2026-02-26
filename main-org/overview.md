@@ -4,23 +4,24 @@ description: Understanding the Main Organization view
 
 # 🏢 Main Org Overview
 
-Main Org is your view into the current state of your organization. It's a real-time, interactive org chart that syncs with your HRIS system, providing a visual representation of who reports to whom and how your organization is structured.
+Main Org is your current-state organization as it exists today.
 
-## What is Main Org?
+It provides a real-time, interactive view of your organizational structure and reflects the data imported from your HRIS or uploaded data source.
 
-**Main Org** represents your organization's **current state** - not future plans or what-if scenarios. Think of it as a living snapshot of your org structure that updates as your HRIS data changes.
+Main Org represents your live organizational data — not future plans or what-if scenarios.
 
-Key characteristics:
+**Key characteristics:**
+
+* View-only — You cannot edit Main Org directly
+* Synced from your data source — Data comes from your HRIS or imported files
+* Single source of truth — All users with access see the same current state
+* Baseline for planning — Scenarios are created from Main Org
 
 > **\[Screenshot placeholder: Main Org org chart view with example organization]**
 
-* **View-only** - You cannot edit Main Org directly
-* **Synced from your HRIS** - Data comes from Workday, BambooHR, or your data source
-* **Real-time** - Reflects your latest org data (refresh frequency depends on your integration settings)
-* **Single version** - Everyone with access sees the same current state
-* **Scoped to your access** - You only see parts of the org you have permission to view
+***
 
-## Main Org vs Scenarios
+## Main Org vs. Scenarios
 
 | Main Org         | Scenarios              |
 | ---------------- | ---------------------- |
@@ -34,137 +35,154 @@ Key characteristics:
 
 **When to use Scenarios:** When you need to model changes, plan reorganizations, or test different structures.
 
+***
+
+## Main Org as Baseline for Scenarios
+
+Every Scenario begins as a copy of Main Org at the time it is created.
+
+* Scenarios capture a point-in-time snapshot of Main Org.
+* Changes made in Main Org after a Scenario is created do not automatically update that Scenario.
+* In a Scenario, **Show Before** references the original Main Org snapshot.
+* **Show After** reflects the proposed changes within the Scenario.
+
+If Main Org has changed and you need to align your planning work, use **Scenario Refresh** to rebase the Scenario on the current Main Org.
+
+## Main Org Views
+
+* **Org Chart** — Visual hierarchy showing reporting relationships
+* **Directory** — Table view with sortable columns for bulk analysis
+* **Forecast** — Time-based projections of current organization
+* **Workforce Hub** — Analytics charts for structure analysis
+
+> **\[Screenshot placeholder: View dropdown showing Org Chart, Directory, Forecast, and Workforce Hub options]**
+
+
+
+***
+
 ## What You Can Do in Main Org
 
-Even though Main Org is view-only, it's incredibly powerful for analysis and exploration:
+Although Main Org is view-only, it supports exploration and analysis of your current organization.
 
-### 1. Explore the Organization
+#### Explore the Organization
 
-* **Navigate the hierarchy** - Click to expand/collapse teams
-* **Zoom and pan** - Use trackpad gestures or mouse controls
-* **Switch layout** - Toggle between vertical, horizontal, or compact views
-* **Adjust display levels** - Show 1, 2, or 3 levels at once
+* Navigate the hierarchy by expanding or collapsing reporting lines
+* Zoom and pan across the org chart
+* Switch between vertical, horizontal, or compact layouts
+* Adjust display levels to show 1–3 levels at a time
 
-### 2. Search and Find
+#### Search and Filter
 
-* **Search by name or unique ID** - Find any employee or position instantly
-* **Search by job title** - Locate specific roles (e.g., "VP of Engineering")
-* **Navigate directly** - Search results take you straight to that position in the org chart
+* Search by name or job title
+* Filter by attributes such as department, location, or pay grade
+* Use Manager Filtering to preserve reporting context
+* Combine multiple filters to narrow your view
 
-### 3. Filter and Focus
+#### Highlight and Analyze
 
-* **Filter by attributes** - Show only specific departments, locations, or pay grades
-* **Manager filtering** - Preserve hierarchy while filtering (recommended)
-* **Multiple filters** - Combine filters to narrow your view
-* **Clear filters** - Reset to see the full organization
+* Color-code positions by attributes such as department, location, or pay grade
+* Use legends and outlines to add visual context or a second highlight dimension
+* Customize color schemes (configured by administrators)
+* Apply Spotlight rules to identify positions that meet specific criteria, including pre-built rules and custom attributes
 
-### 4. Highlight and Visualize
+#### Customize and Save Views
 
-* **Color-code by attribute** - Highlight by department, location, work country, pay grade, etc.
-* **Add legends** - See what each color represents
-* **Use outlines** - Add a second highlight dimension with card outlines
-* **Customize colors** - Admins can configure color schemes
+* Add, remove, or reorder fields displayed on position cards
+* Include calculated fields such as Span of Control or Layer
+* Save configured views for quick access later
 
-### 5. Spotlight Specific Positions
+#### Export and Switch Views
 
-* **Apply rules** - Find positions matching criteria (e.g., "Span of Control 1-2")
-* **Pre-built rules** - Use common span of control or layer-based rules
-* **Custom fields** - Spotlight by any attribute in your org
-* **Focus attention** - Spotlighted positions appear in blue, others grayed out
+* Export the org chart as JPEG or PowerPoint
+* Export filtered data as CSV
+* Switch to Directory view for table-based analysis
 
-### 6. Customize Card Content
 
-* **Add/remove fields** - Control what information appears on cards
-* **Reorder fields** - Drag fields to change display order
-* **Use calculated fields** - Include auto-calculated metrics like SOC, layers, total org size
 
-### 7. Export and Share
-
-* **JPEG export** - Screenshot of current org chart view
-* **PowerPoint export** - One slide per manager
-* **CSV export** - Raw data for Excel analysis
-* **Custom templates** - Admins can configure export column structure
-
-### 8. Save Views (Presets)
-
-* **Save current settings** - Store filter, highlight, and display configurations
-* **Quick switching** - Instantly switch between saved views
-* **Share presets** - Other users can access your saved views
-
-### 9. Switch to Directory View
-
-* **Table format** - See org data in rows and columns
-* **Sort and filter** - Analyze data in spreadsheet format
-* **Export lists** - Download filtered lists to CSV
-
-## Main Org Data Source
-
-Main Org data comes from your HRIS integration:
-
-**Common integrations:**
-
-* Dayforce
-* Workday
-* BambooHR
-* ADP
-* Rippling
-* Manual CSV upload
-* SFTP file sync
-* REST API
-
-**Refresh frequency depends on your setup:**
-
-* **Live integrations** - Daily or real-time sync
-* **Manual uploads** - Updated when admin uploads new data
-* **Scheduled syncs** - Weekly or monthly (configurable)
-
-**Important:** Changes made in your HRIS will appear in Main Org after the next sync. Changes made in Agentnoon Scenarios do NOT flow back to Main Org automatically.
-
-## Access and Permissions
-
-Not everyone sees the entire organization in Main Org:
-
-* **Full access** - Some users see the entire company
-* **Scoped access** - Others see only specific departments or divisions
-* **Manager-based scoping** - Access determined by reporting relationships
-* **Department-based scoping** - Access limited to specific org units
-
-Your access is configured by your Agentnoon admin. If you need access to additional areas, contact your admin.
+***
 
 ## Common Workflows
 
-### Exploring the Organization
+#### Exploring the Organization
 
-1. Log into Agentnoon
-2. Click **Main Org** (or press keyboard shortcut **1**)
-3. Navigate to area of interest (search, filter, or browse)
-4. Customize view (highlight, card content, layout)
-5. Export or save preset for future use
+1. Open Main Org.
+2. Navigate to the area of interest using search, filters, or hierarchy navigation.
+3. Customize your view using highlights or card content as needed.
+4. Save a view if you plan to revisit it.
 
-### Analyzing Span of Control
+#### Analyzing Span of Control
 
-1. Go to Main Org
-2. Apply Spotlight → "Average Immediate SOC" → "1-2"
-3. Review highlighted positions
-4. Note potential compression opportunities
-5. Create Scenario to model reorganization
+1. Open Main Org.
+2. Apply Spotlight using span of control criteria.
+3. Review highlighted positions.
+4. Create a Scenario if structural changes are required.
 
-### Preparing for Stakeholder Meeting
+#### Preparing for a Stakeholder Meeting
 
-1. Go to Main Org
-2. Filter to specific department
-3. Highlight by relevant attribute (location, pay grade, etc.)
-4. Export to PowerPoint
-5. Present to stakeholders
+1. Filter to the relevant department or team.
+2. Highlight by a key attribute (for example, location or pay grade).
+3. Export the org chart or data for presentation.
+
+***
+
+## Data Source and Refresh
+
+#### Initial Import
+
+Data can be loaded to the Main Org from:&#x20;
+
+* HRIS integrations (for example, Dayforce, Workday, BambooHR, ADP, Rippling, etc.)
+* CSV or Excel files
+* API integrations&#x20;
+
+#### Ongoing Sync
+
+Main Org may be refreshed through:
+
+* Scheduled syncs (daily or weekly)
+* Manual uploads
+* Real-time integrations (if configured)
+
+Refresh frequency depends on your organization’s integration setup.
+
+**Important** — Updates to Main Org do **not** automatically flow into existing scenarios.
+
+Each scenario captures a snapshot of Main Org at the time it is created.
+
+To apply approved changes:
+
+1. Model changes in a scenario.
+2. Submit for approval.
+3. Implement changes in your HRIS.
+4. Refresh data so updates appear in Main Org.
+
+
+
+***
+
+## Access and Permissions
+
+Your view of Main Org depends on your assigned Access Group.
+
+Some users may see the entire organization, while others may only see specific departments or teams.
+
+If you need access to additional areas, contact your administrator.
+
+
+
+***
 
 ## Best Practices
 
-1. **Start here first** - Always explore Main Org before creating scenarios
-2. **Use filters strategically** - Manager filtering preserves hierarchy better than standard filtering
-3. **Save useful presets** - Create saved views for departments you analyze frequently
-4. **Check your scope** - Know what parts of the org you have access to
-5. **Understand data freshness** - Know when your data last synced from HRIS
-6. **Don't forget to clear filters** - Active filters carry over to other modules
+* Start here first - Always explore Main Org before creating scenarios
+* Use filters strategically - Manager filtering preserves hierarchy better than standard filtering
+* Save useful presets - Create saved views for departments you analyze frequently
+* Check your scope - Know what parts of the org you have access to
+* Understand data freshness - Know when your data last synced from HRIS
+* Don't forget to clear filters - Active filters carry over to other modules
+
+***
 
 ## Limitations
 
@@ -176,7 +194,9 @@ Main Org is view-only, so you cannot:
 * Model future changes
 * See historical views (Main Org always shows current state)
 
-**To make changes:** Create a Scenario instead. Scenarios are editable copies where you can model any organizational changes you want to explore.
+To make changes, create a Scenario.
+
+***
 
 ## Next Steps
 

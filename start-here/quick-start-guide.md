@@ -1,84 +1,91 @@
 ---
-description: Get productive with Agentnoon in your first 30 minutes
+description: Get productive in your first 30 minutes.
 icon: book-open
 ---
 
 # Quick Start Guide
 
-Welcome! This guide will help you master the essential features of Agentnoon in just 30 minutes.
+This guide walks you through the core workflows in Agentnoon. By the end, you’ll know how to:
 
-## 🎯 Your Learning Path
+* Explore your current organization
+* Model changes in a scenario
+* See headcount and cost impact over time
+* Export insights for stakeholders
 
-Complete these 10 core tasks to become production-ready:
-
-### 1. Log In and Navigate the Homepage
+### 1. Log In and Open Your Organization
 
 1. Go to app.agentnoon.com and log in with your credentials
-2. You'll land on the **homepage** with:
+2. You'll land on the **Homepage** with:
    * Your instance name at the top
-   * A list of scenarios in the center (may be empty initially)
+   * A list of Scenarios in the main panel (this may be empty initially)
    * Quick links to documentation and support
-3. Click into **Open Org Chart** to see your current organization
+3. Click **Open Org Chart** to see your current organization
+
+You are now in **Main Org**, where you can begin exploring your organizational structure.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.08.16 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Explore the Main Organization
 
-1. In Main Org, you'll see **cards** representing positions arranged hierarchically
-2. Hover over any card to see quick details
-3. Click the **expand/collapse** arrows to show/hide reporting lines
-4. Scroll and zoom to explore different parts of your organization
+In **Main Org**, positions appear as cards arranged in a hierarchy.
+
+To navigate:
+
+1. Hover over a card to see quick details.
+2. Click the expand or collapse arrows to show or hide reporting lines.
+3. Scroll and zoom to explore different areas of the org.
+
+Take a few minutes to move around and familiarize yourself with the structure.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.02.21 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Search for a Person or Position
 
-Use the search bar to find anyone in your organization:
+Use the search bar to find any person or position:
 
-1. Start typing a name, job title, or unique ID (i.e., employee ID or position ID)
-2. Results appear as you type
-3. Click a result to navigate directly to that position within the organization
+1. Start typing a name, job title, or unique ID (i.e., employee ID or position ID) — results appear as you type.
+2. Click a result to navigate directly to that person or position in the org chart.
 
 ### 4. Add Card Content
 
-Customize what information appears on each card:
+You can control which fields are visible on each card:
 
-1. Click the **Card Content** button in the toolbar
-2. Select which fields to display (work city, department, salary, etc.)
-3. Check/uncheck fields to add or remove them
-4. Cards update immediately to show your selections
+1. Click the **Card Content** button in the toolbar.
+2. Select which fields to display (for example, work city, department, salary, etc.).
+3. Check or uncheck fields to add or remove them.
+4. Cards update immediately to reflect your selections.
 
-**Pro tip:** Add FX (calculated) fields like Total Span of Control for instant insights!
+:bulb: You can also include calculated (FX) fields, such as **Total Span of Control**, to surface additional insight directly in the org chart.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.06.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Create and Save a Custom View
 
-Make the org chart work for you:
+Use **Highlight** and **Filter** to focus on specific teams or attributes.
 
 **Apply Highlighting:**
 
-1. Click the **Highlight** button in the toolbar
-2. Choose a field (e.g., Work Country, Department)
-3. Cards color-code automatically by value
+1. Click **Highlight** in the toolbar.
+2. Choose a field (for example, Work Country or Department).
+3. Cards will automatically color-code by value
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.38.23 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Apply Filters:**
 
-1. Click the **Filter** button in the toolbar
-2. Select criteria (department, location, etc.)
-3. Check "Preserve manager relationships" to keep reporting context
-4. Click **Apply**
+1. Click **Filter** in the toolbar.
+2. Select criteria (for example, Department, Location, etc.)
+3. Check **preserve manager relationships** to maintain reporting context.
+4. Click **Apply.**
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.44.32 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Save Your View:**
 
-1. Once you've configured highlights and filters, click **Views** in the toolbar
-2. Click **Save Current View**
-3. Name your View (e.g., "Engineering Team" or "US Employees")
-4. Your saved View appears in the Views dropdown for quick access later
+1. After applying highlights and filters, click **Views** in the toolbar.
+2. Select **Save Current View**
+3. Enter a name (for example, “Engineering Team” or “US Employees").
+4. Your saved view will appear in the Views dropdown for quick access later.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.28.32 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -86,53 +93,80 @@ Make the org chart work for you:
 
 ### 6. Use Spotlight to Find Patterns
 
-Spotlight helps you discover organizational insights:
+Spotlight highlights positions that match selected rules, helping you quickly spot patterns across the organization.
 
-1. Click the Spotlight button
+1. Click **Spotlight** in the toolbar.
 2. Choose from pre-configured rules:
    * Average span of control ranges
    * Specific pay grades
    * Custom field values
-3. Matching positions highlight automatically
-4. View list of all matching positions
+3. Positions that match will highlight automatically.
+4. Review the list of matching positions to investigate further.
 
 ### 7. Create Your First Scenario
 
 Scenarios let you model changes before implementing them:
 
-1. Return to the **homepage**
-2. Click **+ Create Scenario** button
-3. Choose scenario type:
-   * **Full Org** - includes everyone in your scope
-   * **Partial Org** - select specific departments/teams
-   * **New Org** - start from blank canvas
+1. Return to the **Homepage**.
+2. Click **+ Create Scenario**.
+3. Choose a scenario type:
+   * **Full Org** - Includes everyone in your scope
+   * **Partial Org** - Select specific departments or teams
+   * **New Org** - Start from blank canvas
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.24.21 PM.png" alt=""><figcaption></figcaption></figure>
 
-4. Name your scenario descriptively (e.g., "Q2 Hiring Plan")
-5. Set budget (optional)
+4. Enter a clear name (for example, “Q2 Hiring Plan”).
+5. Set a budget (optional).
 6. Click **Create**
+
+You’re now working in an editable version of your organization where you can begin modeling changes.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.25.20 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Make Position Changes in a Scenario
 
-Once in a Scenario, try these basic edits:
-
 1. **Add a position:** Hover over a card > click the **+** button > fill in details
+
+Once inside a scenario, you can begin modeling changes.
+
+**Add a position**
+
+1. Hover over a card.
+2. click the **+** button.
+3. Enter the position details and save.
+
+**Edit a position**
+
+1. &#x20;Click the card.
+2. Modify fields in the side panel and save.
+
+**Move a position**
+
+* Drag and drop a card to a new manager.
+
+**Move a team**
+
+1. Select the manager's card.
+2. Click **Change Manager.**
+3. Choose a new manager to move the entire team.
+
+**Close a position**
+
+1. Click the card.
+2. Select **Close Position** from the menu.
+
+**Bulk edit positions**
+
+1. Select three or more positions.
+2. Click **Edit**.
+3. Modify shared fields and save changes to all.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 3.57.01 PM.png" alt=""><figcaption></figcaption></figure>
 
-2. **Edit position details:** Click the card > modify fields in the side panel > save
-
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.00.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-3. **Move a position:** Drag and drop a card to a new manager
-4. **Close a position:** Click the card > select **RIF** or **Exit** from the menu
-
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.03.19 PM.png" alt=""><figcaption></figcaption></figure>
-
-4. **Bulk edit positions:** Select 3+ positions > click **Edit** > modify shared fields > save changes to all
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.08.05 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -142,36 +176,50 @@ Once in a Scenario, try these basic edits:
 
 ### 9. View Changes in Forecast
 
-See how your changes impact headcount and costs over time:
+Forecast shows the projected impact of your scenario so you can easily see how changes affect headcount and cost over time.&#x20;
 
-1. Click the View switcher and select **Forecast**
-2. The timeline shows your scenario's projected headcount/cost by month
-3. Changes appear based on their effective dates
-4. Toggle between headcount and cost metrics
-5. Hover over any point to see detailed breakdowns
+1.  Click the **View switcher** and select **Forecast**.
+
+    The timeline shows your scenario’s projected headcount or cost by month.\
+    Changes appear based on their effective dates.
+2.  Toggle between **Headcount** and **Cost** metrics.
+
+    Hover over any point on the timeline to see a detailed breakdown.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.04.29 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### 10. Export a Chart to PowerPoint
 
-Share your analysis with stakeholders:
+Export charts directly from Agentnoon to share your analysis with stakeholders:
 
-1. Click the view switcher and select **Workforce Hub**
-2. Click on any preconfigured chart tile (e.g., Headcount Distribution)
+1. Click the **View Switcher** and select **Workforce Hub**.
+2. Click on any preconfigured chart tile (for example, Headcount Distribution).
+
+The chart opens with the chart selector dropdown at the top
+
+3. Configure the chart axes and filters using the gear icon
+4. Click **Export.**
+5. Choose **PowerPoint** to export the chart as an editable slide.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.07.19 AM.png" alt=""><figcaption></figcaption></figure>
 
 3. The chart opens - now the chart selector dropdown appears at the top
 4. Configure the chart axes and filters using the gear icon
-5. Click the **Export** button
-6. Choose **PowerPoint**
-7. The chart exports as an editable slide
+5. The chart exports as an editable slide
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.13.06 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## ✅ You're Ready!
 
-If you can complete these 10 tasks, you're ready to use Agentnoon effectively!
+If you can:
+
+* Navigate Main Org
+* Create a scenario
+* Make and review changes
+* View impact in Forecast
+* Export insights
+
+You’re ready to start planning with confidence.
 
 ## Next Steps
 

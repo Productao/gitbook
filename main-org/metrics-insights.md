@@ -4,7 +4,14 @@ description: Understanding organizational health metrics
 
 # 📊 Org Metrics & Insights
 
-Agentnoon automatically calculates organizational metrics (marked "FX" for formula-based) that update in real-time. Find them on org chart cards (via Card Content), in Directory columns, in Workforce Hub charts, and in exports.
+Agentnoon automatically calculates organizational metrics (marked **“**&#x46;X” for formula-based) that update in real time. You can view these metrics:
+
+* On org chart cards (via Card Content)
+* In Directory columns
+* In Workforce Hub charts
+* In exports
+
+These metrics are calculated from your current organizational data and refresh when Main Org data is updated.
 
 ## Span of Control (SOC) Metrics
 

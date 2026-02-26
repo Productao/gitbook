@@ -1,0 +1,83 @@
+---
+description: >-
+  A short introduction to Agentnoon — what the platform does, its core modules,
+  and how they fit together. This page explains the main pieces so you know
+  where to go next.
+icon: layer-group
+---
+
+# Platform Overview
+
+## What is Agentnoon?
+
+Agentnoon helps you turn workforce data into clear insights so you can forecast costs, model changes, and respond quickly as business needs evolve.
+
+With real-time dashboards and planning tools in one view, teams can run “what-if” scenarios, align plans to key goals, and make decisions faster and with greater confidence.
+
+***
+
+## Core Modules
+
+The platform is built around a simple principle: understand your current state, model proposed changes, measure the impact, and share insights with stakeholders.
+
+Agentnoon is organized into five modules. Each one serves a different purpose, but they all work from the same underlying data. Here's how the core modules fit together.
+
+> **\[Screenshot placeholder: Agentnoon homepage showing the five main modules]**
+
+#### Main Org
+
+**Main Org** is your current, live organizational structure.
+
+It reflects data imported from your HRIS or data source and is **view-only**. Use Main Org to explore reporting relationships, search for positions, and establish the baseline for scenario planning.
+
+> **\[Screenshot placeholder: Main Org view showing org chart with positions and reporting lines]**
+
+#### Scenarios
+
+**Scenarios** are **editable** copies of your organization where you can model changes without affecting live data.
+
+Add, move, edit, or close positions, then review the cost and headcount impact in the OpEx Panel.
+
+Use scenarios to plan reorganizations, model budget cuts, test team structures, compare multiple approaches, and submit proposals for approval.
+
+> **\[Screenshot placeholder: Scenario view showing editable org chart with change indicator symbols]**
+
+#### Forecast
+
+**Forecast** provides forward-looking headcount and cost projections over time.
+
+It shows how scenario changes phase in based on hire dates and effective dates, using monthly, quarterly, or yearly views. Use Before, After, and Changes to compare projected impact.
+
+> **\[Screenshot placeholder: Forecast view showing headcount projections by quarter and department]**
+
+#### Workforce Hub
+
+**Workforce Hub** provides preconfigured analytics charts to help you analyze your organization.
+
+Use charts such as Layers and Spans of Control, Headcount Distribution, and Heatmaps to review structure, depth, and distribution. Charts can be filtered and exported for presentations.
+
+> **\[Screenshot placeholder: Workforce Hub showing the Layers and Spans of Control chart]**
+
+#### Directory
+
+**Directory** is the table view of your organization.
+
+Use it to sort, filter, and analyze position and employee data in rows and columns. In scenarios, Directory supports bulk edits and exports.
+
+> **\[Screenshot placeholder: Directory view showing table with position rows and attribute columns]**
+
+
+
+***
+
+## How the Modules Work Together
+
+A typical workflow moves through the modules in this order:
+
+1. **Main Org** — Understand your current state.
+2. **Workforce Hub** — Analyze structure and identify opportunities.
+3. **Scenarios** — Model proposed changes.
+4. **Forecast** — Project headcount and cost over time.
+5. **Directory** — Export detailed data for reporting.
+
+Each module supports a specific stage of workforce planning, working together as a connected system.

@@ -5,17 +5,21 @@ icon: circle-exclamation
 
 # Key Concepts
 
-These core concepts will help you navigate Agentnoon and understand how workforce planning works in the platform.
+These core concepts will help you navigate Agentnoon and understand how workforce planning works within the platform.
 
 ***
 
 ## Positions vs People
 
-**Position:** A job role in your organization, whether filled or open. Positions have attributes like title, department, salary range, and reporting structure.
+#### **Position**
 
-**Person/Employee:** The individual assigned to a position. One person can only fill one position at a time.
+A job role in your organization, whether filled or open. Positions include attributes such as title, department, salary range, and reporting structure.
 
-**Key insight:** Agentnoon is primarily position-based. You plan with positions first, then assign people to them. This allows you to model future org structures even before hiring.
+#### **People (Employee)**
+
+The individual assigned to a position. One person can only fill one position at a time.
+
+:bulb: Agentnoon is primarily position-based. You plan by creating and modifying positions first, then assigning people to them. This allows you to model future organizational structures before roles are filled.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.33.39 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,29 +27,26 @@ These core concepts will help you navigate Agentnoon and understand how workforc
 
 ## Main Org vs Scenarios
 
-### Main Org
+#### **Main Org**
 
-Your **current state** organization as it exists today. This is the source of truth imported from your HRIS or data file.
+Your **current-state** organization as it exists today.
 
-**Characteristics:**
+* View-only (cannot be edited directly)
+* Reflects real-time or imported data
+* Updated through data sync
+* Serves as the baseline for scenario planning
 
-* View-only (read-only)
-* Reflects real-time data
-* Updated via data imports
-* Cannot be edited directly
+**Learn more:** [Key Concepts for Main Org](/broken/pages/sdPpZlvz7HLxJDQxhUFd)
 
-**Learn more:** [Key Concepts for Main Org](key-concepts-main-org.md)
+#### **Scenarios**
 
-### Scenarios
+Editable copies of Main Org used for planning **future** changes.
 
-**Future state** versions of your organization where you model changes. Think of scenarios as sandboxes where you can experiment with org design.
+* Support what-if modeling
+* Track additions, reductions, and modifications
+* Can be compared, shared, and submitted for approval
 
-**Characteristics:**
-
-* Editable copies of the Main Org
-* Support "what-if" planning
-* Track all changes
-* Can be compared, shared, and approved
+Scenarios are isolated from Main Org until changes are implemented externally and data is refreshed.
 
 **Learn more:** [Key Concepts for Scenarios](key-concepts-scenarios.md)
 
@@ -53,19 +54,27 @@ Your **current state** organization as it exists today. This is the source of tr
 
 ## Views: Org Chart vs Directory
 
-### Org Chart View
+#### Org Chart View
 
-Visual, hierarchical tree showing reporting relationships.
+A visual, hierarchical view that displays reporting relationships.
 
-**Best for:** Understanding structure, visualizing chains, dragging positions
+Best used for:
 
-### Directory View
+* Understanding organizational structure
+* Visualizing reporting lines
+* Drag-and-drop changes in scenarios
 
-Table/spreadsheet view of all positions with sortable columns.
+#### Directory View
 
-**Best for:** Analyzing data in bulk, filtering, exporting, bulk editing
+A table-style view of all positions and employees with sortable columns.
 
-**Pro tip:** Switch between views with keyboard shortcuts (3 for Org Chart, 5 for Directory).
+Best used for:
+
+* Bulk analysis
+* Filtering and sorting data
+* Exporting structured reports
+
+:bulb: You can switch between Org Chart and Directory views at any time with keyboard shortcuts (3 for Org Chart, 5 for Directory).
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.38.48 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -73,22 +82,23 @@ Table/spreadsheet view of all positions with sortable columns.
 
 ## Cards
 
-Visual containers displaying position or employee information.
+In Org Chart view, each position appears as a card.
 
-**What's on a card:**
+Cards display key information such as:
 
-* Name and Title
+* Name and title
 * Department
-* Salary
 * Direct reports count
-* Other configured attributes
+* Additional selected attributes
+
+Card content can be configured to display different fields, including calculated metrics.
 
 **Card interactions:**
 
 * Click to open detail panel
 * Hover to see quick info
 * Drag to move to new manager (in scenarios)
-* Color-coded by change type
+* Color-coded indicators show change type (in scenarios)
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.57.10 AM.png" alt="" width="292"><figcaption></figcaption></figure>
 
@@ -96,20 +106,35 @@ Visual containers displaying position or employee information.
 
 ## Attributes vs Fields
 
-**Attributes:** Data points about positions or people (e.g., Department, Location, Salary, Title).
+#### **Attributes**
 
-**Fields:** How attributes are organized and displayed in the UI.
+&#x20;Data points about positions or people (for example, Department, Location, Salary, Title).
 
-**System attributes** (calculated by Agentnoon):
+#### **Fields**
 
-* Span of Control
-* Layer
-* Total Org Size
-* Cost Impact
+How attributes are organized and displayed in the platform.
 
-**Custom attributes** (defined by your admin):
+Attributes appear throughout the system — on cards, in the Directory, in analytics charts, in filters, and in exports.&#x20;
 
-* Business Unit, Cost Center, Employee Type, Pay Grade, etc.
+There are two types of attributes:
+
+1.  **System attributes** (FX)\
+    Calculated automatically by the platform. These update automatically as the organization changes. Examples include:
+
+    * Span of Control
+    * Layer
+    * Total Org Size
+    * Cost Impact
+
+
+2.  **Custom attributes**&#x20;
+
+    Defined by your administrator to reflect your organization’s structure. Custom attributes can be used in filters, highlights, analytics, and exports. Examples may include:
+
+    * Business Unit
+    * Cost Center
+    * Employee Type
+    * Pay Grade
 
 **Learn more:** [Fields and Attributes](fields-and-attributes.md)
 
@@ -117,45 +142,47 @@ Visual containers displaying position or employee information.
 
 ## Spans and Layers
 
-### Span of Control (SOC)
+#### Span of Control (SOC)
 
-The number of direct reports a manager has.
+Span of Control helps evaluate management distribution and organizational balance. It is calculated automatically and reflects the number of positions that report directly to a given position.
 
-**Healthy ranges:**
+Common ranges:
 
-* Individual Contributors: 0 direct reports
-* First-Line Managers: 5-10 direct reports
-* Mid-Level Managers: 5-8 direct reports
-* Executives: 5-10 direct reports
+* **Individual Contributors:** 0 direct reports
+* **First-Line Managers:** 5–10 direct reports
+* **Mid-Level Managers:** 5–8 direct reports
+* **Executives:** 5–10 direct reports
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.59.43 AM.png" alt=""><figcaption></figcaption></figure>
 
-### Layers
+#### Layers
 
-The number of management levels between an employee and the CEO.
+Layers help define organizational depth and represents the number of management levels between a position and the CEO. Industry best practice typically ranges from 4–7 layers for most companies, depending on size and complexity.
 
-**Example:**
+Example:
 
 * CEO: Layer 0
 * VP: Layer 1
 * Director: Layer 2
 * Manager: Layer 3
-* IC: Layer 4
-
-**Industry best practice:** 4-7 layers for most companies
+* Individual Contributor: Layer 4
 
 ***
 
 ## Permissions & Access Control
 
-**Access Groups** define who can see what data based on department, location, or custom rules.
+#### **Access Groups**
 
-**Permission Levels:**
+Access Groups define who can see what data in the platform and can be scoped based on department, location, or other defined attributes.
 
-* **Viewer:** Can see data, cannot edit
-* **Planner:** Can create and edit scenarios
-* **Approver:** Can approve scenario changes
-* **Admin:** Full system access, configuration
+Permission Levels:
+
+* Viewer: Can see data, cannot edit
+* Planner: Can create and edit scenarios
+* Approver: Can approve scenario changes
+* Admin: Full system access, configuration
+
+Permissions are configured by administrators.
 
 **Learn more:** [Access Control](../access-control/overview.md)
 
@@ -163,5 +190,5 @@ The number of management levels between an employee and the CEO.
 
 ## Deep Dives
 
-* [Key Concepts for Main Org](key-concepts-main-org.md) — Data sync, read-only nature, baseline for scenarios
+* [Key Concepts for Main Org](/broken/pages/sdPpZlvz7HLxJDQxhUFd) — Data sync, read-only nature, baseline for scenarios
 * [Key Concepts for Scenarios](key-concepts-scenarios.md) — Change types, OpEx Panel, approvals, comparisons
