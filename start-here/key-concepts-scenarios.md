@@ -29,11 +29,11 @@ An editable copy of your Main Org where you model future changes without affecti
 
 ## OpEx Panel (Scenario Changes & Impact)
 
-The OpEx Panel is the side panel where you review all scenario changes and their impact. It shows headcount additions and reductions, net headcount change, net cost impact, and breakdown by department. You can toggle between cost and headcount views, and see changes grouped by effective date. The OpEx Panel is also where you submit scenarios for approval. See [Scenario Changes & Impact](opex-panel.md).
+The OpEx Panel is the side panel where you review all scenario changes and their impact. It shows headcount additions and reductions, net headcount change, net cost impact, and breakdown by department. You can toggle between cost and headcount views, and see changes grouped by effective date. The OpEx Panel is also where you submit scenarios for approval. See [Scenario Changes & Impact](../scenarios/opex-panel.md).
 
 ## Effective Dates
 
-Date when a planned change takes effect. Set different dates on different changes in the same scenario to model phased rollouts. Forecast shows the time-phased impact. See [Time-Based Planning](time-based-planning.md).
+Date when a planned change takes effect. Set different dates on different changes in the same scenario to model phased rollouts. Forecast shows the time-phased impact. See [Time-Based Planning](../scenarios/time-based-planning.md).
 
 ## The Bench
 
@@ -60,8 +60,8 @@ Group related scenarios under a project for larger initiatives. Example: "2026 R
 
 ## Related Articles
 
-* [Scenarios Overview](overview.md)
-* [Creating Scenarios](creating-scenarios.md)
-* [Time-Based Planning](time-based-planning.md)
-* [Scenario Comparisons](comparisons.md)
-* [Scenario Approvals](approvals.md)
+* [Scenarios Overview](../scenarios/overview.md)
+* [Creating Scenarios](../scenarios/creating-scenarios.md)
+* [Time-Based Planning](../scenarios/time-based-planning.md)
+* [Scenario Comparisons](../scenarios/comparisons.md)
+* [Scenario Approvals](../scenarios/approvals.md)

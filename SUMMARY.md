@@ -25,10 +25,10 @@
 ## Scenarios
 
 * [🎯 Scenarios Overview](scenarios/overview.md)
-* [Key Concepts for Scenarios](scenarios/key-concepts-scenarios.md)
+* [Key Concepts for Scenarios](start-here/key-concepts-scenarios.md)
 * [🧭 Orientation & Navigation](scenarios/orientation-navigation.md)
 * [➕ Creating Scenarios](scenarios/creating-scenarios.md)
-* [📝 Using Scenarios - Basics](scenarios/using-scenarios-basics.md)
+* [📝 Using Scenarios](scenarios/using-scenarios-basics.md)
   * [Making Position Changes](scenarios/making-position-changes.md)
   * [Bulk Operations](scenarios/bulk-operations.md)
   * [Working with People](scenarios/working-with-people.md)
