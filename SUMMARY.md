@@ -7,7 +7,6 @@
 * [Quick Start Guide](start-here/quick-start-guide.md)
 * [Platform Overview](start-here/overview.md)
 * [Key Concepts](start-here/concepts.md)
-  * [Key Concepts for Scenarios](start-here/key-concepts-scenarios.md)
 * [Agentnoon 101](start-here/agentnoon-101.md)
   * [Cards](start-here/cards.md)
   * [Fields and Attributes](start-here/fields-and-attributes.md)
@@ -26,6 +25,7 @@
 ## Scenarios
 
 * [🎯 Scenarios Overview](scenarios/overview.md)
+* [Key Concepts for Scenarios](scenarios/key-concepts-scenarios.md)
 * [🧭 Orientation & Navigation](scenarios/orientation-navigation.md)
 * [➕ Creating Scenarios](scenarios/creating-scenarios.md)
 * [📝 Using Scenarios - Basics](scenarios/using-scenarios-basics.md)

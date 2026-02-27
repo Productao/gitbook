@@ -48,7 +48,7 @@ Editable copies of Main Org used for planning **future** changes.
 
 Scenarios are isolated from Main Org until changes are implemented externally and data is refreshed.
 
-**Learn more:** [Key Concepts for Scenarios](key-concepts-scenarios.md)
+**Learn more:** [Key Concepts for Scenarios](../scenarios/key-concepts-scenarios.md)
 
 ***
 
@@ -191,4 +191,4 @@ Permissions are configured by administrators.
 ## Deep Dives
 
 * [Key Concepts for Main Org](/broken/pages/sdPpZlvz7HLxJDQxhUFd) — Data sync, read-only nature, baseline for scenarios
-* [Key Concepts for Scenarios](key-concepts-scenarios.md) — Change types, OpEx Panel, approvals, comparisons
+* [Key Concepts for Scenarios](../scenarios/key-concepts-scenarios.md) — Change types, OpEx Panel, approvals, comparisons
