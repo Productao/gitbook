@@ -1,8 +1,9 @@
 ---
 description: Understanding organizational health metrics
+icon: chart-simple
 ---
 
-# 📊 Org Metrics & Insights
+# Org Metrics & Insights
 
 Agentnoon automatically calculates organizational metrics (marked **“**&#x46;X” for formula-based) that update in real time. You can view these metrics:
 

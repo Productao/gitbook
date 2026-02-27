@@ -1,8 +1,9 @@
 ---
 description: Troubleshooting tips and how to get help when you're stuck
+icon: message-question
 ---
 
-# 🆘 Support & How to Self-Help
+# Support & How to Self-Help
 
 Stuck on something? Here's how to get unstuck quickly!
 

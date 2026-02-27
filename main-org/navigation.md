@@ -1,12 +1,13 @@
 ---
 description: How to navigate and explore the org chart, and available toolbar tools
+icon: route
 ---
 
-# 🧭 Orientation & Navigation
+# Orientation & Navigation
 
 The left toolbar provides all navigation and analysis tools in Main Org. All actions are **view-only** — to make changes to positions, create a Scenario.
 
-> **\[Screenshot placeholder: Left toolbar in Main Org showing all tool icons (Search, Filter, Tree View, Highlight, Card Content, Spotlight, Presets, Export, Layout)]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 2.08.06 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Toolbar Tools
 
@@ -68,6 +69,10 @@ Spotlight helps identify patterns within the organization.
 #### **Presets (Saved Views)**
 
 Save your current configuration of: Filters, Highlights and Card Content. Saved views can be reloaded later and may be available to other users based on permissions.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.28.32 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 2.29.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Export**
 

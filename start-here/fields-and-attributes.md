@@ -1,5 +1,6 @@
 ---
 description: Understanding data structure and custom fields
+icon: objects-align-left
 ---
 
 # Fields and Attributes
@@ -20,7 +21,7 @@ Fields are the data points that define your organization in Agentnoon — things
 
 ## Position Fields vs People Fields
 
-> **\[Screenshot placeholder: Fields settings showing position fields and people fields grouped separately]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 1.55.20 AM.png" alt=""><figcaption></figcaption></figure>
 
 **Position fields** are tied to roles and persist even when vacant: Example position fields include:
 

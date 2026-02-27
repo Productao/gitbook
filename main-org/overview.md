@@ -1,8 +1,9 @@
 ---
 description: Understanding the Main Organization view
+icon: sitemap
 ---
 
-# 🏢 Main Org Overview
+# Main Org Overview
 
 Main Org is your current-state organization as it exists today.
 
@@ -17,7 +18,7 @@ Main Org represents your live organizational data — not future plans or what-i
 * Single source of truth — All users with access see the same current state
 * Baseline for planning — Scenarios are created from Main Org
 
-> **\[Screenshot placeholder: Main Org org chart view with example organization]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.06.36 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,9 +56,7 @@ If Main Org has changed and you need to align your planning work, use **Scenario
 * **Forecast** — Time-based projections of current organization
 * **Workforce Hub** — Analytics charts for structure analysis
 
-> **\[Screenshot placeholder: View dropdown showing Org Chart, Directory, Forecast, and Workforce Hub options]**
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.08.06 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

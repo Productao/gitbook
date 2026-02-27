@@ -1,6 +1,6 @@
 ---
 description: Introduction to workforce analytics and insights
-hidden: false
+icon: chart-fft
 ---
 
 # Workforce Hub Fundamentals
@@ -11,11 +11,11 @@ Workforce Hub is for **analysis**, not editing. Use it to understand your org st
 
 ## Available Charts
 
-> **[Screenshot placeholder: Workforce Hub showing chart tiles on first open]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 2.03.32 AM.png" alt=""><figcaption></figcaption></figure>
 
-- **Layers and Spans of Control** — Distribution of managers across org layers and span ranges. Identifies compression (managers with 1–2 reports) and overburdened managers.
-- **Headcount Distribution** — Breakdown of headcount by layer, department, location, or any field.
-- **Headcount Heatmap** — Two-dimensional view of headcount across any two attributes. Useful for spotting anomalies in org depth.
+* **Layers and Spans of Control** — Distribution of managers across org layers and span ranges. Identifies compression (managers with 1–2 reports) and overburdened managers.
+* **Headcount Distribution** — Breakdown of headcount by layer, department, location, or any field.
+* **Headcount Heatmap** — Two-dimensional view of headcount across any two attributes. Useful for spotting anomalies in org depth.
 
 For the full list, see [Chart Library](../hub/chart-library.md).
 
@@ -25,10 +25,10 @@ When you first open Workforce Hub, click on any chart tile to view it. After ope
 
 Each chart has consistent controls:
 
-- **Gear icon** — Chart properties, sorting options, axis configuration, and number vs. percentage toggle
-- **Filters** — Narrow data to specific departments, locations, or other attributes
-- **Table view** — Switch to see underlying data in spreadsheet format
-- **Click any bar or segment** — Drill into the specific positions behind that data point
+* **Gear icon** — Chart properties, sorting options, axis configuration, and number vs. percentage toggle
+* **Filters** — Narrow data to specific departments, locations, or other attributes
+* **Table view** — Switch to see underlying data in spreadsheet format
+* **Click any bar or segment** — Drill into the specific positions behind that data point
 
 For detailed navigation, see [Chart Navigation](../hub/chart-navigation.md).
 

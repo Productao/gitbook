@@ -1,8 +1,9 @@
 ---
 description: Start here - Agentnoon basics in bite-sized videos
+icon: play
 ---
 
-# 🎥 Video Tutorials
+# Video Tutorials
 
 Learn Agentnoon visually with these short tutorial videos. Each video covers a specific feature or workflow in 5-10 minutes.
 

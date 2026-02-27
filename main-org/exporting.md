@@ -32,6 +32,8 @@ Exports reflect your current view, including active filters and visible columns.
 5. Configure export options (if applicable).
 6. Download the file.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 2.14.25 AM.png" alt=""><figcaption></figcaption></figure>
+
 ### PowerPoint Configuration
 
 When exporting to PowerPoint, you can configure:
@@ -54,6 +56,8 @@ For structured data control:
 4. Apply filters.
 5. Click **Export** and choose CSV or Excel.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 2.15.49 AM.png" alt=""><figcaption></figcaption></figure>
+
 Exports include visible columns and respect active filters.
 
 **Saved Reports:** After configuring columns and order, click **Save Report** to save this configuration. Access saved reports from the Reports dropdown for consistent recurring exports.
@@ -67,6 +71,8 @@ In Forecast view, you can export projection tables:
 1. Configure the row aggregator, time period (Monthly, Quarterly, or Yearly), and metric (Headcount or Cost).
 2. Click **Export**.
 3. Download the table showing projected headcount or cost by time period.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 2.17.19 AM.png" alt=""><figcaption></figcaption></figure>
 
 Forecast exports reflect effective dates and hire dates used in scenarios.
 
@@ -82,7 +88,9 @@ From Workforce Hub, you can export charts and underlying data:
 
 For multi-chart presentations, use Slide Packs to generate a PowerPoint with multiple charts
 
-**Learn more:** [Hub Packs](../hub/packs.md)
+**Learn more:** [Slide Packs](../hub/packs.md)
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 2.19.25 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Permissions
 

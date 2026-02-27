@@ -13,14 +13,14 @@
   * [Fields and Attributes](start-here/fields-and-attributes.md)
   * [Scenarios Fundamentals](start-here/scenarios-fundamentals.md)
   * [Workforce Hub Fundamentals](start-here/workforce-hub-fundamentals.md)
-* [🎥 Video Tutorials](start-here/video-tutorials.md)
-* [🆘 Support & How to Self-Help](start-here/support-self-help.md)
+* [Video Tutorials](start-here/video-tutorials.md)
+* [Support & How to Self-Help](start-here/support-self-help.md)
 
 ## Main Org
 
-* [🏢 Main Org Overview](main-org/overview.md)
-* [🧭 Orientation & Navigation](main-org/navigation.md)
-* [📊 Org Metrics & Insights](main-org/metrics-insights.md)
+* [Main Org Overview](main-org/overview.md)
+* [Orientation & Navigation](main-org/navigation.md)
+* [Org Metrics & Insights](main-org/metrics-insights.md)
 * [📤 Exporting Data](main-org/exporting.md)
 
 ## Scenarios

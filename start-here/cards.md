@@ -1,12 +1,13 @@
 ---
 description: Understanding position and employee cards
+icon: cards-blank
 ---
 
 # Cards
 
 Cards are the building blocks of the org chart. Each card represents a position in your organization and displays key information at a glance.
 
-> **\[Screenshot placeholder: Org chart view showing multiple position cards arranged in a hierarchy]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.06.36 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## What's on a Card
 
@@ -16,7 +17,7 @@ Positions with an assigned employee show the employee's name when the Name attri
 
 ## Customizing Card Content
 
-> **\[Screenshot placeholder: Card Content panel open in toolbar showing available fields]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 1.50.36 AM.png" alt=""><figcaption></figcaption></figure>
 
 1. Click **Card Content** in the toolbar
 2. Select which attributes to display (Work City, Pay Grade, Span of Control, etc.)
@@ -27,7 +28,7 @@ Fields marked with **FX** are calculated automatically by Agentnoon (Span of Con
 
 ## Highlighting
 
-> **\[Screenshot placeholder: Org chart with cards color-coded by department]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 1.52.04 AM.png" alt=""><figcaption></figcaption></figure>
 
 Color-code cards by any attribute:
 

@@ -1,5 +1,6 @@
 ---
 description: What scenarios are and when to use them
+icon: compass-drafting
 ---
 
 # Scenarios Fundamentals
@@ -8,7 +9,11 @@ A scenario is an editable copy of your org where you can model changes without a
 
 ## When to Create a Scenario
 
-> **\[Screenshot placeholder: Scenario creation dialog showing name, type, and description fields]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.24.21 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 1.25.20 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.24.28 AM.png" alt=""><figcaption></figcaption></figure>
 
 Create a scenario whenever you need to model changes to your org structure:
 
