@@ -85,25 +85,6 @@
 
 * [📊 Activity Analysis](activity-analysis/activity-analysis.md)
 
-
-## Frequently Asked Questions
-
-* [❓ FAQ Overview](faq/overview.md)
-* [🚀 Getting Started FAQs](faq/getting-started.md)
-* [📊 Data & Import FAQs](faq/data-import.md)
-* [🎯 Scenarios FAQs](faq/scenarios.md)
-* [📈 Forecast FAQs](faq/forecast.md)
-* [🔑 Permissions & Access FAQs](faq/permissions-access.md)
-
-## Troubleshooting
-
-* [🛠️ Troubleshooting Overview](troubleshooting/overview.md)
-* [🔑 Login & Access Issues](troubleshooting/login-access-issues.md)
-* [📊 Data Issues](troubleshooting/data-issues.md)
-* [🎯 Scenario Issues](troubleshooting/scenario-issues.md)
-* [⚡ Performance Issues](troubleshooting/performance-issues.md)
-* [📤 Export & Integration Issues](troubleshooting/export-integration-issues.md)
-
 ## Admin Capabilities
 
 * [⚙️ Admin Overview](admin/overview.md)
@@ -130,6 +111,24 @@
 * [Notifications](admin-capabilities/notifications.md)
 * [👥 Access Groups Examples](admin/access-groups-examples.md)
 
+## Technical Documentation
+
+* [🔐 Authentication & IAM](authentication-and-identity-security/README.md)
+  * [MFA](authentication-and-identity-security/mfa/README.md)
+    * [In-App MFA](authentication-and-identity-security/mfa/in-app-mfa.md)
+  * [Single Sign-On (SSO)](authentication-and-identity-security/single-sign-on-sso/README.md)
+    * [Integrating Agentnoon with Okta using SAML](authentication-and-identity-security/single-sign-on-sso/integrating-agentnoon-with-okta-using-saml.md)
+    * [Microsoft SSO Integration (Azure AD)](authentication-and-identity-security/single-sign-on-sso/microsoft-sso-integration-azure-ad.md)
+    * [Google and Microsoft SSO](authentication-and-identity-security/single-sign-on-sso/google-and-microsoft-sso.md)
+  * [Whitelisting](authentication-and-identity-security/whitelisting.md)
+* [🔒 Data Security & Privacy](technical-documentation/data-security-privacy.md)
+* [🔄 Live Data Refresh](live-data-integration/what-is-a-live-data-integration.md)
+  * [Available Data Integration Methods](live-data-integration/available-data-integration-methods/README.md)
+    * [Importing Data via SFTP](live-data-integration/available-data-integration-methods/importing-data-via-sftp.md)
+    * [Importing Data via Workday](live-data-integration/available-data-integration-methods/importing-data-via-workday.md)
+    * [Importing Data via REST API](live-data-integration/available-data-integration-methods/importing-data-via-rest-api.md)
+  * [Integration Overview & Technical FAQ](live-data-integration/integration-overview-and-technical-faq.md)
+
 ## Reference Guides
 
 * [🎥 Video Tutorial Library](assets/video-library.md)
@@ -151,33 +150,24 @@
   * [Making Org Changes](best-practices/making-org-changes.md)
   * [Best Practices for Salary Data](best-practices/best-practices-for-salary-data.md)
 
-## Technical Documentation
 
-* [🔐 Authentication & IAM](authentication-and-identity-security/README.md)
-  * [MFA](authentication-and-identity-security/mfa/README.md)
-    * [In-App MFA](authentication-and-identity-security/mfa/in-app-mfa.md)
-  * [Single Sign-On (SSO)](authentication-and-identity-security/single-sign-on-sso/README.md)
-    * [Integrating Agentnoon with Okta using SAML](authentication-and-identity-security/single-sign-on-sso/integrating-agentnoon-with-okta-using-saml.md)
-    * [Microsoft SSO Integration (Azure AD)](authentication-and-identity-security/single-sign-on-sso/microsoft-sso-integration-azure-ad.md)
-    * [Google and Microsoft SSO](authentication-and-identity-security/single-sign-on-sso/google-and-microsoft-sso.md)
-  * [Whitelisting](authentication-and-identity-security/whitelisting.md)
-* [🔒 Data Security & Privacy](technical-documentation/data-security-privacy.md)
-* [🔄 Live Data Refresh](live-data-integration/what-is-a-live-data-integration.md)
-  * [Available Data Integration Methods](live-data-integration/available-data-integration-methods/README.md)
-    * [Importing Data via SFTP](live-data-integration/available-data-integration-methods/importing-data-via-sftp.md)
-    * [Importing Data via Workday](live-data-integration/available-data-integration-methods/importing-data-via-workday.md)
-    * [Importing Data via REST API](live-data-integration/available-data-integration-methods/importing-data-via-rest-api.md)
-  * [Integration Overview & Technical FAQ](live-data-integration/integration-overview-and-technical-faq.md)
+## Frequently Asked Questions
 
-## Org Chart (Legacy)
+* [❓ FAQ Overview](faq/overview.md)
+* [🚀 Getting Started FAQs](faq/getting-started.md)
+* [📊 Data & Import FAQs](faq/data-import.md)
+* [🎯 Scenarios FAQs](faq/scenarios.md)
+* [📈 Forecast FAQs](faq/forecast.md)
+* [🔑 Permissions & Access FAQs](faq/permissions-access.md)
 
-* [🗺️ Org Chart Navigation](org-chart/org-chart-navigation.md)
-* [📊 Span of Control Metrics](org-chart/span-of-control-metrics.md)
-* [📤 Exports](org-chart/exports.md)
+## Troubleshooting
 
-## Updates (Legacy)
-
-* [🔄 UI Org Chart Updates Guide](updates/ui-org-chart-updates-guide.md)
+* [🛠️ Troubleshooting Overview](troubleshooting/overview.md)
+* [🔑 Login & Access Issues](troubleshooting/login-access-issues.md)
+* [📊 Data Issues](troubleshooting/data-issues.md)
+* [🎯 Scenario Issues](troubleshooting/scenario-issues.md)
+* [⚡ Performance Issues](troubleshooting/performance-issues.md)
+* [📤 Export & Integration Issues](troubleshooting/export-integration-issues.md)
 
 ## Pages To Write (IPR/TBD)
 
