@@ -8,11 +8,11 @@ The Headcount Distribution chart shows how your workforce is allocated across an
 
 ## Configuration
 
-**X-axis dimension:** Layers (most common), Department, KLT Area, Location, Pay Grade, Job Function, or any custom attribute. Change via the second dropdown in the chart navigation bar.
+**X-axis dimension** — Layers (most common), Department, KLT Area, Location, Pay Grade, Job Function, or any custom attribute. Change via the second dropdown in the chart navigation bar.
 
-**Display mode (gear icon):** Toggle between Counts (absolute headcount) and Percentages (relative proportions). Use percentages to compare across differently-sized organizations; use counts for budget planning.
+**Display mode (gear icon)** — Toggle between Counts (absolute headcount) and Percentages (relative proportions). Use percentages to compare across differently-sized organizations; use counts for budget planning.
 
-**Sort order (gear icon):** Ascending, Descending, or Natural order (Layer 1, 2, 3... or alphabetical). Use Natural order for hierarchical data; Descending to rank by size.
+**Sort order (gear icon)** — Ascending, Descending, or Natural order (Layer 1, 2, 3... or alphabetical). Use Natural order for hierarchical data; Descending to rank by size.
 
 ## Interpreting Layer Distributions
 
@@ -26,13 +26,13 @@ Shows relative team sizes side-by-side. Quickly identify the largest and smalles
 
 ## Use Cases
 
-**Org structure analysis:** Layers × Percentage × Natural sort to see org shape for leadership review.
+**Org structure analysis** — Layers × Percentage × Natural sort to see org shape for leadership review.
 
-**Department comparison:** Department/KLT Area × Numbers × Descending to rank team sizes for resource allocation.
+**Department comparison** — Department/KLT Area × Numbers × Descending to rank team sizes for resource allocation.
 
-**Geographic distribution:** Work Country or City × Percentage to analyze location concentration.
+**Geographic distribution** — Work Country or City × Percentage to analyze location concentration.
 
-**Pay grade distribution:** Pay Grade × Percentage × Natural sort to identify compression or skewed compensation levels.
+**Pay grade distribution** — Pay Grade × Percentage × Natural sort to identify compression or skewed compensation levels.
 
 ## Interactive Features
 

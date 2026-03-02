@@ -25,47 +25,47 @@ Export organizational data from Directory, Org Chart, and Workforce Hub for anal
 
 ## Exporting from Org Chart
 
-**JPEG:** Apply highlights and adjust zoom/layout, then Export > JPEG.
+**JPEG** — Apply highlights and adjust zoom/layout, then **Export** > **JPEG**.
 
-**PowerPoint:** Export > PowerPoint — configure scope (full org or filtered), hierarchy depth, layout, slide depth, and card content.
+**PowerPoint** — **Export** > **PowerPoint** > configure scope (full org or filtered), hierarchy depth, layout, slide depth, and card content.
 
-**CSV from org chart:** Apply filters, then Export > CSV — includes all visible positions with their attributes.
+**CSV** — Apply filters, then **Export** > **CSV** — includes all visible positions with their attributes.
 
 ## Exporting from Workforce Hub
 
-**PNG:** Configure chart > Download icon > PNG. High-resolution for presentations.
+**PNG** — Configure the chart > click the Download icon > **PNG**. High-resolution for presentations.
 
-**PowerPoint:** Download icon > PowerPoint — editable chart object, not just an image.
+**PowerPoint** — Download icon > **PowerPoint** — exports an editable chart object, not just an image.
 
-**CSV (underlying data):** Click **Show Table** first > Download icon > CSV. Use for deeper analysis in Excel or BI tools.
+**CSV (underlying data)** — Click **Show Table** first > Download icon > **CSV**. Use for deeper analysis in Excel or BI tools.
 
 ## Common Export Workflows
 
-**Department roster:** Directory > Filter by Department > show Name, Title, Manager, Email, Location > Export CSV.
+**Department roster** — Directory > Filter by Department > show Name, Title, Manager, Email, Location > Export CSV.
 
-**Org chart for executive presentation:** Main Org > Filter to top 3 layers > apply Department highlighting > Export PowerPoint.
+**Org chart for executive presentation** — Main Org > Filter to top 3 layers > apply Department highlighting > Export PowerPoint.
 
-**Compensation analysis:** Directory > show Department, Pay Grade, Salary, Title > sort > Export CSV.
+**Compensation analysis** — Directory > show Department, Pay Grade, Salary, Title > sort > Export CSV.
 
-**Open positions / vacancy report:** Directory > filter Employee Name = (empty) > show Job Title, Department, Manager, Pay Grade > Export CSV for recruiting.
+**Open positions / vacancy report** — Directory > Filter Employee Name = (empty) > show Job Title, Department, Manager, Pay Grade > Export CSV for recruiting.
 
-**Span of control report:** Directory > filter Direct SOC = 1–2 > show Name, Title, Department, Direct SOC, Pay Grade > Export CSV.
+**Span of control report** — Directory > Filter Direct SOC = 1–2 > show Name, Title, Department, Direct SOC, Pay Grade > Export CSV.
 
 ## Best Practices
 
-* Filter and customize columns **before** exporting — don't export everything and filter in Excel
-* Include export date in filenames: `Engineering-Roster-2026-02-20.csv`
+* Filter and customize columns before exporting — don't export everything and filter in Excel
+* Include the export date in filenames: `Engineering-Roster-2026-02-20.csv`
 * Handle salary and personal data according to your organization's data security policies
 
 ## Troubleshooting
 
-| Problem                               | Solution                                                 |
-| ------------------------------------- | -------------------------------------------------------- |
-| Columns missing                       | Check column settings; visible columns only are exported |
-| Too much data                         | Apply filters before exporting                           |
-| Org chart looks different than screen | Use "Fit to Screen" first; adjust layout before export   |
-| PowerPoint has too many slides        | Filter to a smaller scope (one department or top layers) |
-| Missing people                        | Check active filters; clear them and try again           |
+| Problem                               | Solution                                                    |
+| ------------------------------------- | ----------------------------------------------------------- |
+| Columns missing from export           | Check column settings — only visible columns are exported   |
+| Too much data                         | Apply filters before exporting                              |
+| Org chart looks different than screen | Use **Fit to Screen** first; adjust layout before exporting |
+| PowerPoint has too many slides        | Filter to a smaller scope (one department or top layers)    |
+| Missing people                        | Check active filters; clear them and try again              |
 
 ## Related Articles
 

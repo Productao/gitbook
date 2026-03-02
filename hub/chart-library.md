@@ -7,46 +7,44 @@ metaLinks:
 
 # 📚 Chart Library
 
-### Overview
+Agentnoon provides a variety of charts to analyze your organization's structure, spans, layers, and costs.
 
-Agentnoon provides a variety of **charts** to analyze your organization's structure, spans, layers, and costs. This guide explains each chart category and its use case.
-
-#### 1. High-Level Organizational View Charts
+## High-Level Organizational View Charts
 
 These charts provide a **bird’s-eye view** of the organization:
 
-* **Org Map**: Shows a **proportional split** of headcount across the organization in one visual.
-* **Icicle Chart**: Displays an **abstract version of the org chart**, allowing navigation and summary insights.
-* **Proportion Chart**: Breaks down **headcount distribution** across different areas of the company.
+* **Org Map** — Proportional split of headcount across the organization in one visual
+* **Icicle Chart** — Abstract version of the org chart for navigation and summary insights
+* **Proportion Chart** — Headcount distribution broken down across different areas of the company
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.21.05 AM.png" alt=""><figcaption><p>Orgmap</p></figcaption></figure>
 
-#### 2. Span of Control Charts
+## Span of Control Charts
 
 Used to **analyze managerial spans**:
 
-* **Span of Control Distribution**: Groups managers based on their span sizes (e.g., **1:1, 1:3, 3:5, etc.**).
-* **Average Span of Control**: Provides a **summary view** of the average span across different departments or entities.
+* **Span of Control Distribution** — Groups managers by span sizes (e.g., 1:1, 1:3, 3:5)
+* **Average Span of Control** — Summary view of average span across departments or entities
+
+
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.21.19 AM.png" alt=""><figcaption><p>Headcount heatmap</p></figcaption></figure>
 
-#### 3. Layers & Hierarchy Charts
+## Layers & Hierarchy Charts
 
 These charts help visualize **organizational depth and hierarchy**:
 
-* **Headcount Heatmap**: Shows **headcount distribution across levels**, with an x-axis for department or entity.
-* **Layers & Span of Control Chart**: Combines **layers and spans**, where the x-axis represents span and the y-axis represents department.
-* **Pyramid Chart**: Displays headcount distribution by **layer or level**, identifying whether the org is **top-heavy, bottom-heavy, or balanced**.
+* **Headcount Heatmap** — Headcount distribution across levels, with department or entity on the x-axis
+* **Layers & Span of Control Chart** — Combines layers and spans; x-axis = span, y-axis = department
+* **Pyramid Chart** — Headcount distribution by layer or level; identifies whether the org is top-heavy, bottom-heavy, or balanced
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.21.28 AM.png" alt=""><figcaption><p>Pyramid view</p></figcaption></figure>
 
-#### 4. Cost Analysis Charts
+## Cost Analysis Charts
 
 Used to analyze **workforce expenses**:
 
-* **Headcount Cost Chart**: Displays total **cost by team or entity**.
-* **Stacked Headcount Cost Chart**: Breaks down total cost into **components** like **salary, benefits, and additional expenses**.
+* **Headcount Cost Chart** — Total cost by team or entity
+* **Stacked Headcount Cost Chart** — Total cost broken down into components: salary, benefits, and additional expenses
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.22.22 AM.png" alt=""><figcaption></figcaption></figure>
-
-By using these **charts**, you can **gain insights into workforce structure, managerial spans, hierarchy, and financial impact** within Agentnoon.

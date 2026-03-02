@@ -4,7 +4,7 @@ description: Introduction to directory and table views
 
 # 📋 Directory Overview
 
-The Directory module is your dedicated table view for analyzing organizational data. While org charts visualize hierarchy, Directory provides a spreadsheet-style interface for sorting, filtering, and exporting position and people data.
+The Directory is your dedicated table view for analyzing organizational data. While the org chart visualizes hierarchy, Directory provides a spreadsheet-style interface for sorting, filtering, and exporting position and people data.
 
 > **\[Screenshot placeholder: Directory view showing position table with multiple columns (Name, Title, Department, Manager, Salary)]**
 
@@ -22,11 +22,11 @@ The Directory module is your dedicated table view for analyzing organizational d
 
 ## When to Use Directory
 
-* **Analyze data:** Sort by salary, tenure, pay grade — find highest/lowest values and outliers
-* **Create exports:** Department rosters, contact lists, filtered position lists
-* **Multi-column comparison:** View many attributes simultaneously
-* **Quick lookups:** Find all managers in a location, identify vacant positions
-* **Bulk operations (scenarios only):** Select and edit multiple positions at once
+* **Analyze data** — Sort by salary, tenure, pay grade to find outliers and highest/lowest values
+* **Create exports** — Department rosters, contact lists, filtered position lists
+* **Multi-column comparison** — View many attributes simultaneously
+* **Quick lookups** — Find all managers in a location, identify vacant positions
+* **Bulk operations** _(scenarios only)_ — Select and edit multiple positions at once
 
 ## Directory Capabilities
 
@@ -40,22 +40,22 @@ The Directory module is your dedicated table view for analyzing organizational d
 
 ## Common Workflows
 
-**Find highest-paid positions:** Sort Salary column high to low.
+**Find highest-paid positions** — Sort the Salary column high to low.
 
-**Export department roster:** Filter to Department = Engineering > show Name, Title, Email, Manager > Export CSV.
+**Export a department roster** — Filter to Department = Engineering > show Name, Title, Email, Manager > Export CSV.
 
-**Identify vacant positions:** Filter Employee Name = (empty) > sort by Department > review or export.
+**Identify vacant positions** — Filter Employee Name = (empty) > sort by Department > review or export.
 
-**Analyze pay equity:** Filter to Job Title = "Software Engineer" > sort by Salary > compare across departments.
+**Analyze pay equity** — Filter to Job Title = "Software Engineer" > sort by Salary > compare across departments.
 
-**Find compression opportunities:** Filter to Direct SOC = 1–2 > sort by Pay Grade (high to low).
+**Find compression opportunities** — Filter to Direct SOC = 1–2 > sort by Pay Grade (high to low).
 
 ## Best Practices
 
-1. **Use Directory for data analysis** — Table format is better for sorting and comparing numbers
-2. **Use Org Chart for relationships** — Visual format is better for understanding hierarchy
-3. **Filter before exporting** — Don't export everything; narrow to what you need
-4. **Customize columns for your task** — Show only relevant attributes
-5. **Remember filters carry over** — Active filters affect org chart and directory views
+* Use Directory for data analysis — table format is better for sorting and comparing numbers
+* Use Org Chart for relationships — visual format is better for understanding hierarchy
+* Filter before exporting — narrow to what you need rather than exporting everything
+* Customize columns for your task — show only relevant attributes
+* Remember that active filters carry over between Org Chart and Directory views
 
 > **\[Screenshot placeholder: Switching between Org Chart and Directory views using the view dropdown]**

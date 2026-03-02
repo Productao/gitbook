@@ -17,9 +17,9 @@ The Headcount Heatmap shows workforce distribution across two dimensions simulta
 
 ## How to Read It
 
-**Layer depth:** Count how many rows have data per column — this is how many layers that department has. Consistent depth across departments indicates standardized structure; outlier columns indicate structural variation.
+**Layer depth** — Count how many rows have data per column — this is how many layers that department has. Consistent depth across departments indicates standardized structure; outlier columns indicate structural variation.
 
-**Concentration points:** Dense cells show where most people are. Small populations at high layers (e.g., 2 people in Layer 9) are potential efficiency flags — are those senior positions adding value?
+**Concentration points** — Dense cells show where most people are. Small populations at high layers (e.g., 2 people in Layer 9) are potential efficiency flags — are those senior positions adding value?
 
 **Structural anomalies to flag:**
 
@@ -28,7 +28,7 @@ The Headcount Heatmap shows workforce distribution across two dimensions simulta
 * Missing middle layers (structural gaps)
 * Highly inconsistent patterns across comparable departments
 
-**Healthy patterns:** 5–6 consistent layers across departments, concentration in middle layers (3–5), minimal populations at extreme layers.
+**Healthy patterns** — 5–6 consistent layers across departments, concentration in middle layers (3–5), minimal populations at extreme layers.
 
 ## Common Use Cases
 
