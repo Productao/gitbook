@@ -85,12 +85,6 @@
 
 * [📊 Activity Analysis](activity-analysis/activity-analysis.md)
 
-## Use Case Tutorials
-
-* [🎓 Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
-* [🏢 M\&A Integration](use-case-tutorials/ma-integration.md)
-* [📊 Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
-* [📈 Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 
 ## Frequently Asked Questions
 
@@ -136,7 +130,7 @@
 * [Notifications](admin-capabilities/notifications.md)
 * [👥 Access Groups Examples](admin/access-groups-examples.md)
 
-## Assets & Quick Guides
+## Reference Guides
 
 * [🎥 Video Tutorial Library](assets/video-library.md)
 * [✅ Quick Start Checklist](assets/quick-start-checklist.md)
@@ -147,12 +141,15 @@
   * [Annual Planning Checklist](assets/checklists/annual-planning-checklist.md)
 * [⌨️ Keyboard Shortcuts](assets/keyboard-shortcuts.md)
 * [📚 Glossary](assets/glossary.md)
-
-## Best Practices
-
-* [💡 Position vs Headcount Management](best-practices/position-vs-headcount.md)
-* [⚖️ Making Org Changes](best-practices/making-org-changes.md)
-* [💰 Best Practices for Salary Data](best-practices/best-practices-for-salary-data.md)
+* [🎓 Use Case Tutorials](use-case-tutorials/planning-reorganization.md)
+  * [Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
+  * [M&A Integration](use-case-tutorials/ma-integration.md)
+  * [Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
+  * [Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
+* [💡 Best Practices](best-practices/position-vs-headcount.md)
+  * [Position vs Headcount Management](best-practices/position-vs-headcount.md)
+  * [Making Org Changes](best-practices/making-org-changes.md)
+  * [Best Practices for Salary Data](best-practices/best-practices-for-salary-data.md)
 
 ## Technical Documentation
 
