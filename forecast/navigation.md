@@ -12,7 +12,7 @@ metaLinks:
 
 ## Accessing Forecast
 
-From the Main Org or any scenario: click the view dropdown at the top > select **Forecast**. Configuration (aggregator, time period, etc.) is retained when you switch between contexts.
+From Main Org or any scenario: click the module dropdown at the top > select **Forecast**. Configuration (aggregator, time period, etc.) is retained when you switch between contexts.
 
 ## Interface Layout
 
@@ -27,13 +27,13 @@ From the Main Org or any scenario: click the view dropdown at the top > select *
 * **Year selector** — Which year to display (Monthly/Quarterly only)
 * **Export button** — CSV download
 
-**Forecast table:** Rows = aggregator groups, Columns = time periods, Values = headcount or cost.
+**Forecast table** — Rows = aggregator groups, Columns = time periods, Values = headcount or cost.
 
 ## Key Controls
 
-**Row Aggregator:** Department for budget planning, Location for geographic analysis, Pay Grade for compensation analysis, People for individual review, any custom field for business unit or cost center views.
+**Row Aggregator** — Department for budget planning, Location for geographic analysis, Pay Grade for compensation analysis, People for individual review, any custom field for business unit or cost center views.
 
-**Headcount vs Cost:** Headcount = count of positions per period (a 2026 hire persists into 2027 unless terminated). Cost = salary ÷ 12 per month, ÷ 4 per quarter, full year for yearly view.
+**Headcount vs. Cost** — Headcount = count of positions per period (a 2026 hire persists into 2027 unless terminated). Cost = salary ÷ 12 per month, ÷ 4 per quarter, full year for yearly view.
 
 **Time periods:**
 
@@ -47,33 +47,23 @@ From the Main Org or any scenario: click the view dropdown at the top > select *
 * **Show After** — Scenario final state
 * **Show Changes** — Delta between before and after (+/- per row)
 
-> **\[Screenshot placeholder: Forecast top bar showing Row Aggregator, Headcount/Cost toggle, time period selection, and export button]**
-
-> **\[Screenshot placeholder: Before/After/Changes toggle in a scenario Forecast view]**
-
 ## Common Navigation Workflows
 
-**Quarterly budget review:** Aggregator = Department > Quarterly > Cost > Salary + Bonus > Export CSV
+**Quarterly budget review** — Aggregator = Department > Quarterly > Cost > Salary + Bonus > Export CSV.
 
-**Hiring plan tracking:** Aggregator = Department > Monthly > Headcount > Show Changes (in scenario) > see which months headcount grows
+**Hiring plan tracking** — Aggregator = Department > Monthly > Headcount > Show Changes (in scenario) > see which months headcount grows.
 
-**Multi-year planning:** Aggregator = Department > Yearly (see all 5 years) > Cost > Export for executive presentation
+**Multi-year planning** — Aggregator = Department > Yearly (see all 5 years) > Cost > Export for executive presentation.
 
-**Geographic cost analysis:** Aggregator = Location or Country > Yearly > Cost
+**Geographic cost analysis** — Aggregator = Location or Country > Yearly > Cost.
 
 ## Troubleshooting
 
-| Problem                              | Solution                                                        |
-| ------------------------------------ | --------------------------------------------------------------- |
-| Future months show zero headcount    | Positions need hire dates to appear in future periods           |
-| Costs don't match expectations       | Check monthly ÷ 12; verify all monetary fields are selected     |
-| Filters not working                  | Check if existing filters are active; clear all and start fresh |
-| Before/After/Changes options missing | Only available in scenarios, not Main Org                       |
-| Export missing data                  | Check active filters; verify correct time period is selected    |
+<table><thead><tr><th width="324.609375">Problem</th><th>Solution</th></tr></thead><tbody><tr><td>Future months show zero headcount</td><td>Positions need hire dates to appear in future periods</td></tr><tr><td>Costs don't match expectations</td><td>Check monthly ÷ 12; verify all monetary fields are selected</td></tr><tr><td>Filters not working</td><td>Check if existing filters are active; clear all and start fresh</td></tr><tr><td>Before/After/Changes options missing</td><td>Only available in scenarios, not Main Org</td></tr><tr><td>Export missing data</td><td>Check active filters; verify correct time period is selected</td></tr></tbody></table>
 
 ## Related Resources
 
 * [Forecast Overview](overview.md)
 * [Building Headcount Forecasts](building-headcount-forecasts.md)
-* [Forecast vs Scenarios](forecast-vs-scenarios.md)
+* [Forecast vs Scenarios](/broken/pages/MKRiiU8DK4L0RAbqG70N)
 * [Forecast Reports & Exports](reports-exports.md)

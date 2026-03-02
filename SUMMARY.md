@@ -79,7 +79,6 @@
 * [🧭 Orientation & Navigation](forecast/navigation.md)
 * [📊 Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
 * [📤 Exporting Data from Forecast](forecast/reports-exports.md)
-* [🔄 Forecast vs Scenarios](forecast/forecast-vs-scenarios.md)
 * [📅 Multi-Year Planning](forecast/multi-year-planning.md)
 
 ## Activity Analysis

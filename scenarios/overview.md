@@ -104,4 +104,4 @@ Submit Scenarios for formal review, including routing them through multi-level a
 * [Using Scenarios - Basics](using-scenarios-basics.md)
 * [Making Position Changes](making-position-changes.md)
 * [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
-* [Forecast vs Scenarios](../forecast/forecast-vs-scenarios.md)
+* [Forecast vs Scenarios](/broken/pages/MKRiiU8DK4L0RAbqG70N)
