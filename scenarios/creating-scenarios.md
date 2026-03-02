@@ -56,6 +56,6 @@ Ready to start? [Making Position Changes](making-position-changes.md)
 ## Related Articles
 
 * [Making Position Changes](making-position-changes.md)
-* [Scenario Protips](protips.md)
+* [Scenario Protips](/broken/pages/4VFjDfDt82fUCA5jJ9DM)
 * [Scenario Comparisons](comparisons.md)
 * [Organizing Scenarios](management/organizing-scenarios.md)

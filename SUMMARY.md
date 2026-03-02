@@ -32,8 +32,8 @@
   * [Making Position Changes](scenarios/making-position-changes.md)
   * [Bulk Operations](scenarios/bulk-operations.md)
   * [Working with People](scenarios/working-with-people.md)
-* [📊 Scenario Changes & Impact (OpEx Panel)](scenarios/opex-panel.md)
-* [✅ Scenario Approvals](scenarios/approvals.md)
+* [Scenario Changes & Impact (OpEx Panel)](scenarios/opex-panel.md)
+* [Scenario Approvals](scenarios/approvals.md)
 * [📅 Time-Based Planning](scenarios/time-based-planning.md)
 * [🔄 Scenario Comparisons](scenarios/comparisons.md)
 * [📤 Exporting Scenario Data](scenarios/exporting.md)
@@ -53,7 +53,6 @@
   * [Scenario Merging](scenarios/merging.md)
   * [Scenario to Main Org](scenarios/scenario-to-main-org.md)
   * [Partial Data Upload](admin/data-management/partial-data-upload.md)
-* [💡 Scenario Protips](scenarios/protips.md)
 
 ## Directory
 

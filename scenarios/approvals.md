@@ -3,7 +3,20 @@ description: Streamline multi-level approvals
 icon: thumbs-up
 ---
 
-# ✅ Scenario Approvals
+# Scenario Approvals
+
+### Before Submitting for Approval
+
+Before submitting perform the following checks:&#x20;
+
+* The name is clear and descriptive
+* The justification explains business rationale and expected outcomes
+* All changes reviewed in "Show Changes" mode
+* The cost impact and headcount delta match targets
+* The effective dates are set correctly
+* The key views are exported for documentation
+
+### Submitting a Scenario for Approval
 
 ## Scenario Approvals
 

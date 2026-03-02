@@ -4,7 +4,7 @@ description: Working in scenarios with other users
 
 # Working with Others
 
-Multiple users can have a scenario open at the same time. Agentnoon shows you who else is present and lets you coordinate via comments.
+Multiple users can have a scenario open at the same time. Agentnoon shows who else is present and lets you coordinate via comments. Give edit access only to active collaborators and use view-only for stakeholders who just need visibility.
 
 ## Real-Time Presence
 
@@ -33,6 +33,10 @@ Since multiple users can edit a scenario with Edit Access, coordinate to avoid c
 * **Divide by section** — Work in different departments or functions
 * **Review together** — Walk through the final scenario as a team before submitting for approval
 * **Limit concurrent editors** — 2–3 people editing at once is manageable; more can cause confusion
+
+:bulb:**Protip —** Use Comments to explain changes, tag collaborators (@mention), and document assumptions. This is especially important for changes that might need justification during approval.
+
+Give edit access only to active collaborators; use view-only for stakeholders who just need visibility
 
 ## Related Articles
 

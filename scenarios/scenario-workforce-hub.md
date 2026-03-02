@@ -33,11 +33,11 @@ Use the toggle at the top of the scenario to switch Hub analytics between:
 
 ## Common Use Cases
 
-**Validate a reorganization:** Switch to Layers & Spans > toggle Show Before then Show After > find managers with extreme spans > adjust in the org chart > re-validate.
+**Validate a reorganization** — Switch to Layers & Spans > toggle **Show Before** then **Show After** > identify managers with extreme spans > adjust in the org chart > revalidate.
 
-**Check departmental balance:** Switch to Headcount Distribution > select Department > toggle Show Changes > confirm changes align with goals.
+**Check departmental balance** — Switch to Headcount Distribution > select Department > toggle **Show Changes** > confirm changes align with goals.
 
-**Identify succession gaps:** Switch to Headcount Heatmap > set X = Job Level, Y = Department > toggle Show After > look for departments missing senior roles.
+**Identify succession gaps** — Switch to Headcount Heatmap > set X = Job Level, Y = Department > toggle **Show After** > look for departments missing senior roles.
 
 ## Exporting Hub Charts
 

@@ -4,11 +4,7 @@ description: Add comments and discussions to scenarios
 
 # Commenting
 
-Comments let you discuss scenarios with teammates — ask questions, provide feedback, document decisions, and coordinate with stakeholders, all within your planning work.
-
-Comments are added at the **scenario level** (the scenario as a whole), not on individual position cards.
-
-***
+Comments let you discuss scenarios with teammates — ask questions, provide feedback, document decisions, and tag collaborators (@mention), all within your planning work.&#x20;
 
 ## How to Add a Comment
 
@@ -26,37 +22,33 @@ Comments are added at the **scenario level** (the scenario as a whole), not on i
 * Summarizing changes you made
 * Requesting review from stakeholders
 
-***
-
 ## Viewing and Managing Comments
 
-**View all comments:** Click the Comments icon in the left panel to see all comments, sorted by most recent.
+**View all comments** — Click the **Comments** icon in the left panel to see all comments, sorted by most recent.
 
-**Resolve comments:** Open a comment thread > click **Resolve**. Resolved comments are kept for the record but removed from the active list.
+**Resolve comments** — Open a comment thread > click **Resolve**. Resolved comments are kept for the record but removed from the active list.
 
-**Delete comments:** Open a comment > click **⋮** > **Delete**. Only comment authors and scenario owners can delete comments.
-
-***
+**Delete comments** — Open a comment > click **⋮** > **Delete**. Only comment authors and scenario owners can delete comments.
 
 ## Common Commenting Workflows
 
-### Documenting Decisions
+#### Documenting Decisions
 
-Add a comment after each major change to document your reasoning:
+&#x20;Add a comment after each major change to document your reasoning, for example:
 
 * "Closed this role due to budget constraints — $120K savings"
 * "Added 5 new SDE roles to support the AI initiative roadmap"
 
 When the scenario is approved, comments serve as the historical record.
 
-### Collecting Feedback
+#### Collecting Feedback
 
 1. Share the scenario with stakeholders (View Only or Comment Only access)
 2. Add a comment explaining what you need: "Please review and leave comments by Friday"
 3. Stakeholders add their own comments
 4. Resolve comments as you address each piece of feedback
 
-### Coordinating Between Planners
+#### Coordinating Between Planners
 
 If two planners are working on the same scenario:
 
@@ -64,16 +56,12 @@ If two planners are working on the same scenario:
 2. Planner B sees the comment and adds: "Got it, I'll handle Sales"
 3. Both resolve comments as work progresses
 
-***
-
 ## Best Practices
 
-1. **Comment liberally** — Explain your reasoning for key decisions
-2. **Be specific** — "Should this role report to Engineering VP?" is better than "Thoughts?"
-3. **Resolve when done** — Keep the comment list focused on active discussions
-4. **Document decisions** — Comments may be exported and shared with approvers
-
-***
+* **Comment liberally** — Explain your reasoning for key decisions
+* **Be specific** — "Should this role report to the Engineering VP?" is better than "Thoughts?"
+* **Resolve when done** — Keep the comment list focused on active discussions
+* **Document decisions** — Comments may be exported and shared with approvers
 
 ## Troubleshooting
 
@@ -82,8 +70,6 @@ If two planners are working on the same scenario:
 | Comments not showing   | Refresh the page; check if you're filtering to show only unresolved    |
 | Can't delete a comment | You can only delete your own comments unless you're the scenario owner |
 | Too many comments      | Resolve addressed comments; use filters to show only unresolved        |
-
-***
 
 ## Next Steps
 

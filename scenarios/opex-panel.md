@@ -3,7 +3,16 @@ description: Tracking scenario changes and workforce cost impact
 icon: arrows-rotate-reverse
 ---
 
-# 📊 Scenario Changes & Impact (OpEx Panel)
+# Scenario Changes & Impact (OpEx Panel)
+
+### :bulb: Protip - before you finalize
+
+Always switch to "Show Changes" mode to see the delta — don't just work in "Show After." Catch unintended modifications before submission.Then, validate in multiple views:
+
+* Org Chart — Does the structure look correct visually?
+* Directory — Are all attributes consistent?
+* Forecast — Is the timing accurate?
+* Workforce Hub — Are span of control and layers healthy?
 
 ## Scenario Changes & Impact (OpEx Panel)
 
