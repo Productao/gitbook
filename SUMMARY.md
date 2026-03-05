@@ -24,29 +24,29 @@
 
 ## Scenarios
 
-* [🎯 Scenarios Overview](scenarios/overview.md)
+* [Scenarios Overview](scenarios/overview.md)
 * [Key Concepts for Scenarios](start-here/key-concepts-scenarios.md)
 * [🧭 Orientation & Navigation](scenarios/orientation-navigation.md)
-* [➕ Creating Scenarios](scenarios/creating-scenarios.md)
-* [📝 Using Scenarios](scenarios/using-scenarios-basics.md)
+* [Creating Scenarios](scenarios/creating-scenarios.md)
+* [Using Scenarios](scenarios/using-scenarios-basics.md)
   * [Making Position Changes](scenarios/making-position-changes.md)
   * [Bulk Operations](scenarios/bulk-operations.md)
   * [Working with People](scenarios/working-with-people.md)
 * [Scenario Changes & Impact (OpEx Panel)](scenarios/opex-panel.md)
 * [Scenario Approvals](scenarios/approvals.md)
-* [📅 Time-Based Planning](scenarios/time-based-planning.md)
-* [🔄 Scenario Comparisons](scenarios/comparisons.md)
+* [Time-Based Planning](scenarios/time-based-planning.md)
+* [Scenario Comparisons](scenarios/comparisons.md)
 * [📤 Exporting Scenario Data](scenarios/exporting.md)
-* [🗂️ Scenario Management](scenarios/management.md)
+* [Scenario Management](scenarios/management.md)
   * [Basic Actions](scenarios/management/basic-actions.md)
   * [Tags](scenarios/management/tags.md)
   * [Symbols](scenarios/management/symbols.md)
   * [Organizing Scenarios](scenarios/management/organizing-scenarios.md)
-* [👥 Scenario Collaboration](scenarios/collaboration.md)
+* [Scenario Collaboration](scenarios/collaboration.md)
   * [Sharing Scenarios](scenarios/collaboration/sharing-scenarios.md)
   * [Commenting](scenarios/collaboration/commenting.md)
   * [Working with Others](scenarios/collaboration/co-editing.md)
-* [🔍 Scenario Directory](scenarios/directory.md)
+* [Scenario Directory](scenarios/directory.md)
 * [📊 Scenario Forecast](scenarios/scenario-forecast.md)
 * [📈 Scenario Workforce Hub](scenarios/scenario-workforce-hub.md)
 * [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
@@ -56,29 +56,29 @@
 
 ## Directory
 
-* [📋 Directory Overview](directory/overview.md)
-* [🧭 Orientation & Navigation](directory/navigation.md)
-* [🔍 Filtering & Sorting](directory/filtering-sorting.md)
-* [📐 Column Customization](directory/columns-customization.md)
-* [✏️ Bulk Operations](directory/bulk-operations.md)
-* [📤 Exporting Data from Directory](directory/exporting-reporting.md)
+* [Directory Overview](directory/overview.md)
+* [Orientation & Navigation](directory/navigation.md)
+* [Filtering & Sorting](directory/filtering-sorting.md)
+* [Column Customization](directory/columns-customization.md)
+* [Bulk Operations](directory/bulk-operations.md)
+* [Exporting Data from Directory](directory/exporting-reporting.md)
 
 ## Hub
 
-* [📊 Hub Overview](hub/overview.md)
+* [Hub Overview](hub/overview.md)
 * [🧭 Orientation & Navigation](hub/orientation-navigation.md)
-* [📦 Slide Packs](hub/packs.md)
-* [📚 Chart Library](hub/chart-library.md)
-* [📊 Layers and Spans of Control Chart](hub/layers-spans-chart.md)
-* [📈 Headcount Distribution Chart](hub/headcount-distribution-chart.md)
-* [🗺️ Headcount Heatmap Chart](hub/headcount-heatmap-chart.md)
+* [Slide Packs](hub/packs.md)
+* [Chart Library](hub/chart-library.md)
+* [Layers and Spans of Control Chart](hub/layers-spans-chart.md)
+* [Headcount Distribution Chart](hub/headcount-distribution-chart.md)
+* [Headcount Heatmap Chart](hub/headcount-heatmap-chart.md)
 
 ## Forecast
 
-* [📈 Forecast Overview](forecast/overview.md)
-* [🧭 Orientation & Navigation](forecast/navigation.md)
-* [📊 Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
-* [📤 Exporting Data from Forecast](forecast/reports-exports.md)
+* [Forecast Overview](forecast/overview.md)
+* [Orientation & Navigation](forecast/navigation.md)
+* [Building Headcount Forecasts](forecast/building-headcount-forecasts.md)
+* [Exporting Data from Forecast](forecast/reports-exports.md)
 * [📅 Multi-Year Planning](forecast/multi-year-planning.md)
 
 ## Activity Analysis
@@ -142,14 +142,13 @@
 * [📚 Glossary](assets/glossary.md)
 * [🎓 Use Case Tutorials](use-case-tutorials/overview.md)
   * [Planning a Reorganization](use-case-tutorials/planning-reorganization.md)
-  * [M&A Integration](use-case-tutorials/ma-integration.md)
+  * [M\&A Integration](use-case-tutorials/ma-integration.md)
   * [Conducting Span of Control Analysis](use-case-tutorials/span-of-control-analysis.md)
   * [Diversity & Inclusion Analysis](use-case-tutorials/diversity-inclusion-analysis.md)
 * [💡 Best Practices](best-practices/overview.md)
   * [Position vs Headcount Management](best-practices/position-vs-headcount.md)
   * [Making Org Changes](best-practices/making-org-changes.md)
   * [Best Practices for Salary Data](best-practices/best-practices-for-salary-data.md)
-
 
 ## Frequently Asked Questions
 

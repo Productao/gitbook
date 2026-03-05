@@ -1,5 +1,6 @@
 ---
 description: Combine changes from multiple scenarios into one
+icon: merge
 ---
 
 # Scenario Merging

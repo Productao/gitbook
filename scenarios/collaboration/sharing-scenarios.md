@@ -1,5 +1,6 @@
 ---
 description: Share scenarios with team members and control access levels
+icon: arrow-up-from-square
 ---
 
 # Sharing Scenarios
@@ -10,6 +11,11 @@ Share scenarios to collaborate with teammates, collect stakeholder feedback, and
 
 1. Open the scenario
 2. Click **Share** in the left panel or top toolbar
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 10.49.35 AM (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 1.34.55 PM.png" alt=""><figcaption></figcaption></figure>
+
 3. Enter email addresses or select users from the list
 4. Choose an access level
 5. Optionally add a message

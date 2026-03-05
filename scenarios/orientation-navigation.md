@@ -28,40 +28,40 @@ Switch modules using the dropdown in the toolbar (or keyboard shortcuts):
 
 ## Before / After / Changes Toggle
 
-* **Show After** — Working mode: see results as you make changes
-* **Show Changes** — Review mode: see only what's different from baseline (i.e., the Main Org data)
-* **Show Before** — Reference mode: compare against current state (i.e., the Main Org data)
+* **Show After** - Working mode: see results as you make changes
+* **Show Changes** - Review mode: see only what's different from baseline (i.e., the Main Org data)
+* **Show Before** - Reference mode: compare against current state (i.e., the Main Org data)
 
 ## Toolbar Tools
 
 **Available in Main Org and Scenarios:**
 
-* **Search** (🔍) — Find by name or title; shortcut: `/` or Cmd/Ctrl+K
-* **Filter** — Show only positions matching criteria (department, location, salary range, custom fields)
-* **Highlight** — Color-code cards by attribute (e.g., "Change Type" to visually scan adds/closes/edits)
-* **Card Content** — Control which fields appear on position cards
-* **Spotlight** — Dim unselected positions to focus attention when presenting
-* **Views** — Create combinations of filters, highlights and card content and save them in a customer view
+* **Search** - Find by name or title; shortcut: `/` or Cmd/Ctrl+K
+* **Filter** -Show only positions matching criteria (department, location, salary range, custom fields)
+* **Highlight** - Color-code cards by attribute (e.g., "Change Type" to visually scan adds/closes/edits)
+* **Card Content** - Control which fields appear on position cards
+* **Spotlight** - Dim unselected positions to focus attention when presenting
+* **Views** - Create combinations of filters, highlights and card content and save them in a customer view
 
 **Scenario-only tools:**
 
-* **Activity Log** — Review and download an audit log of all changes made in a scenario since creation
-* **Share** — Add collaborators with View/Edit/Comment permissions
-* **Export** — Org chart, change log, directory data
-* **Comments** — Threaded discussion on specific positions; @mention teammates
+* **Activity Log** - Review and download an audit log of all changes made in a scenario since creation
+* **Share** - Add collaborators with View/Edit/Comment permissions
+* **Export** - Org chart, change log, directory data
+* **Comments** - Threaded discussion on specific positions; @mention teammates
 
 ## Non-Toolbar Tools
 
 **Available in Home Page**
 
-* **Compare** — Side-by-side comparison with other scenarios or Main Org (accessible from the home screen)
-* **Approvals** — Submit through approval workflow
-* **Share** — Add collaborators with View/Edit/Comment permissions
+* **Compare** - Side-by-side comparison with other scenarios or Main Org (accessible from the home screen)
+* **Approvals** - Submit through approval workflow
+* **Share** - Add collaborators with View/Edit/Comment permissions
 
 **Available in Scenario**
 
-* **OpEx Panel (👀)** — All modifications with cost/headcount impact; keep open while working
-* **Timeline** — Changes by effective date for phased planning
+* **OpEx Panel -** All modifications with cost/headcount impact; keep open while working
+* **Timeline** - Changes by effective date for phased planning
 
 ## Org Chart Navigation
 

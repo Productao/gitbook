@@ -1,5 +1,6 @@
 ---
 description: Add comments and discussions to scenarios
+icon: message
 ---
 
 # Commenting
@@ -13,7 +14,7 @@ Comments let you discuss scenarios with teammates — ask questions, provide fee
 3. Type your comment
 4. Click **Post**
 
-> **\[Screenshot placeholder: Comments panel open on the left side of a scenario, showing a comment thread]**
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 1.36.54 PM.png" alt=""><figcaption></figcaption></figure>
 
 **When to use:**
 

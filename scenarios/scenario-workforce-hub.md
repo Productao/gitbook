@@ -7,7 +7,7 @@ icon: chart-mixed
 
 The Scenario Workforce Hub provides analytics to help you validate your scenario changes with data. Use it to analyze span of control, headcount distribution, and org structure before and after your proposed changes.
 
-> **\[Screenshot placeholder: Scenario with Workforce Hub selected from the view dropdown, showing span of control layers chart]**
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Accessing Scenario Workforce Hub
 
@@ -17,7 +17,7 @@ The Scenario Workforce Hub provides analytics to help you validate your scenario
 
 The Hub automatically reflects your scenario's current state.
 
-> **\[Screenshot placeholder: View dropdown menu showing Directory, Forecast, and Workforce Hub options]**
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Before / After / Changes Toggle
 
@@ -27,7 +27,7 @@ Use the toggle at the top of the scenario to switch Hub analytics between:
 * **Show After** — Metrics with all scenario changes applied (proposed state)
 * **Show Changes** — Delta between Before and After (what is improving or worsening)
 
-> **\[Screenshot placeholder: Layers & Spans chart in Show After mode showing modified org structure]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 1.46.42 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Tip:** "Show Changes" is the most powerful view for communicating impact to stakeholders — it clearly shows what is improving vs. degrading.
 

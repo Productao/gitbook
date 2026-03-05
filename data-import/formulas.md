@@ -19,7 +19,7 @@ Custom formulas in Agentnoon allow you to define new calculated fields using exi
    * Use basic math operations, existing variables, and conditional logic to define your formula. Conditional logic allows you to apply different rules based on specific conditions.
    * You can use supported functions like ifElse, in, min, max, and arithmetic operations.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Example:**\
 \

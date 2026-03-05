@@ -1,8 +1,9 @@
 ---
 description: Introduction to Forecast and headcount planning
+icon: chart-mixed
 ---
 
-# 📈 Forecast Overview
+# Forecast Overview
 
 Forecast is Agentnoon's pivot table-style visualization tool for analyzing headcount and workforce costs over time. It provides flexible ways to view and aggregate data from your Main Org or Scenarios — by department, location, time period, and more.
 
@@ -32,7 +33,7 @@ Forecast and Scenario work together — Create a scenario with your planned chan
 
 From Main Org or any scenario: click the module dropdown at the top > select **Forecast**.
 
-> **\[Screenshot placeholder: Forecast dropdown menu location in top navigation bar]**
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ## How Forecast Works
 
@@ -56,8 +57,6 @@ Forecast functions like a pivot table with three key components:
 
 * Headcount — number of positions/employees
 * Cost — workforce cost (salary and configured compensation)
-
-
 
 ## Understanding Forecast Data
 
@@ -84,8 +83,6 @@ Forecast functions like a pivot table with three key components:
 
 **Note:** Agentnoon supports annualizable compensation. One-time payments (signing bonuses, spot bonuses) are not currently supported in Forecast.
 
-
-
 ## Key Forecast Capabilities
 
 **Flexible aggregation** — View your workforce from any angle:
@@ -100,11 +97,15 @@ Forecast functions like a pivot table with three key components:
 * **Quarterly** — Standard for budget planning and board reporting
 * **Yearly** — Best for annual budget planning; shows full annual cost per year; up to 5 years
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 3.08.11 PM.png" alt=""><figcaption></figcaption></figure>
+
 **Before / After / Changes (scenarios only):**
 
 * **Show Before** — Main Org baseline (current state)
 * **Show After** — Scenario final state
 * **Show Changes** — Delta between before and after
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 3.09.32 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Example:** You move 5 people from Network Ops to Operations & Logistics:
 

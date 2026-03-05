@@ -1,10 +1,13 @@
 ---
 description: Customizing visible columns, reordering, and resizing in Directory
+icon: columns-3
 ---
 
-# 📐 Column Customization
+# Column Customization
 
 Control which columns appear in Directory, their order, and their widths to create focused views for different tasks.
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ## Show / Hide Columns
 
@@ -42,6 +45,8 @@ Drag the border between column headers to resize manually. Double-click the bord
 ## Saving Views
 
 Save your column configuration as a named view via **Views** > **Save Current View** to quickly reload it later. Create separate views for different tasks — Compensation Analysis, Contact Lists, SOC Review, and so on.
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting
 

@@ -2,7 +2,7 @@
 description: Best practices for organizational changes and restructuring
 ---
 
-# ⚖️ Making Org Changes
+# Making Org Changes
 
 Best practices for planning, testing, communicating, and implementing organizational changes using Agentnoon.
 

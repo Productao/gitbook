@@ -42,7 +42,7 @@ This guide explains what attributes are in Agentnoon, the different types, and h
   * Start Date
 *   State attributes help standardize planning workflows by prompting users to enter essential information during structural changes.<br>
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Editing and Managing Global Attributes
 

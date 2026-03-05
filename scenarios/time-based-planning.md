@@ -1,8 +1,9 @@
 ---
 description: Using effective dates for phased changes
+icon: calendar-days
 ---
 
-# 📅 Time-Based Planning
+# Time-Based Planning
 
 ## Time-Based Planning
 
@@ -10,11 +11,11 @@ Use date fields to model organizational changes that occur at specific future po
 
 ## Core Date Fields
 
-**Hire Date** — When a new position starts (person joins or vacancy is filled). The position appears in Forecast headcount and cost from this date forward.
+**Hire Date** - When a new position starts (person joins or vacancy is filled). The position appears in Forecast headcount and cost from this date forward.
 
-**Termination Date** — When a person leaves or a position is eliminated. The position no longer appears in headcount after this date and costs are removed from projections.
+**Termination Date** - When a person leaves or a position is eliminated. The position no longer appears in headcount after this date and costs are removed from projections.
 
-**Effective Date** — When a change to an existing position takes effect (transfer, reorg, attribute change). The position appears in its "before" state until the effective date, then in its "after" state from that date forward.
+**Effective Date** - When a change to an existing position takes effect (transfer, reorg, attribute change). The position appears in its "before" state until the effective date, then in its "after" state from that date forward.
 
 ### When to Use Each
 
@@ -32,9 +33,9 @@ Use date fields to model organizational changes that occur at specific future po
 
 When you change a position's department with an effective date of July 1, 2026:
 
-* **In the org chart** — shows the "after" state (new department)
-* **In Forecast before July 1** — position counts in the original department
-* **In Forecast from July 1 onward** — position counts in the new department
+* **In the org chart** - shows the "after" state (new department)
+* **In Forecast before July 1** - position counts in the original department
+* **In Forecast from July 1 onward** - position counts in the new department
 
 **Show Changes view:** Before the effective date → 0 change; from the effective date → +1 in new department, -1 in old department.
 

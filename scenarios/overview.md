@@ -1,8 +1,9 @@
 ---
 description: Introduction to scenario planning
+icon: pen-ruler
 ---
 
-# 🎯 Scenarios Overview
+# Scenarios Overview
 
 ## What Is a Scenario?
 
@@ -18,9 +19,11 @@ Use Scenarios to model reorganizations, hiring plans, budget adjustments, and st
 
 When creating a Scenario, you can choose the type that matches your scope and purpose:
 
-1. **Partial Org (recommended)** — Includes a selected portion of the organization, such as a department or reporting line. Best for focused changes within a specific team or area.
-2. **Full Org** — Includes your entire accessible organization. Best for company-wide planning or large-scale restructuring.
-3. **New Org** — Starts with a blank structure. Best for designing a new department from scratch.
+1. **Partial Org (recommended)** - Includes a selected portion of the organization, such as a department or reporting line. Best for focused changes within a specific team or area.
+2. **Full Org** - Includes your entire accessible organization. Best for company-wide planning or large-scale restructuring.
+3. **New Org** - Starts with a blank structure. Best for designing a new department from scratch.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.42.38 AM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -28,13 +31,13 @@ When creating a Scenario, you can choose the type that matches your scope and pu
 
 A Scenario typically moves through the following stages:
 
-* **Create** — Generate a Scenario from Main Org.
-* **Model** — Make structural and data changes.
-* **Analyze** — Review headcount and cost impact.
-* **Compare** — Evaluate alternative Scenarios.
-* **Collaborate** — Share and gather feedback.
-* **Approve** — Submit the Scenario for review.
-* **Implement** — Apply approved changes in your HRIS.
+* **Create** - Generate a Scenario from Main Org.
+* **Model** - Make structural and data changes.
+* **Analyze** - Review headcount and cost impact.
+* **Compare** - Evaluate alternative Scenarios.
+* **Collaborate** - Share and gather feedback.
+* **Approve** - Submit the Scenario for review.
+* **Implement** - Apply approved changes in your HRIS.
 
 ***
 

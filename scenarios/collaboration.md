@@ -1,8 +1,9 @@
 ---
 description: Working with teammates on scenarios
+icon: user-group-simple
 ---
 
-# 👥 Scenario Collaboration
+# Scenario Collaboration
 
 Scenarios are built for teamwork. Agentnoon provides collaboration features including sharing, commenting, and presence indicators to help teams plan together.
 

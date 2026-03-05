@@ -2,7 +2,7 @@
 description: Best practices for position-based vs headcount-based planning
 ---
 
-# 💡 Position vs Headcount Management
+# Position vs Headcount Management
 
 Agentnoon is position-first. Understanding this distinction is key to effective workforce planning.
 

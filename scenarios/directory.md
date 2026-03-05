@@ -1,12 +1,15 @@
 ---
 description: Table view in scenarios with change highlighting
+icon: magnifying-glass
 ---
 
-# 🔍 Scenario Directory
+# Scenario Directory
 
 The Scenario Directory is a spreadsheet-style table of all positions with change highlighting, bulk selection, and export. Unlike the Main Org Directory (view-only), Scenario Directory lets you select, bulk edit, and export changed data.
 
 **How to Access:** Click the Directory icon in the toolbar, select it from the Org Chart dropdown, or press `2`.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Scenario-Specific Columns
 

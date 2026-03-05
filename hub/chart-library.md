@@ -1,11 +1,12 @@
 ---
 description: Common charts in Agentnoon and how to use them
+icon: books
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/hub/chart-library
 ---
 
-# 📚 Chart Library
+# Chart Library
 
 Agentnoon provides a variety of charts to analyze your organization's structure, spans, layers, and costs.
 
@@ -17,7 +18,7 @@ These charts provide a **bird’s-eye view** of the organization:
 * **Icicle Chart** — Abstract version of the org chart for navigation and summary insights
 * **Proportion Chart** — Headcount distribution broken down across different areas of the company
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.21.05 AM.png" alt=""><figcaption><p>Orgmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ## Span of Control Charts
 
@@ -26,9 +27,7 @@ Used to **analyze managerial spans**:
 * **Span of Control Distribution** — Groups managers by span sizes (e.g., 1:1, 1:3, 3:5)
 * **Average Span of Control** — Summary view of average span across departments or entities
 
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.21.19 AM.png" alt=""><figcaption><p>Headcount heatmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ## Layers & Hierarchy Charts
 
@@ -38,7 +37,7 @@ These charts help visualize **organizational depth and hierarchy**:
 * **Layers & Span of Control Chart** — Combines layers and spans; x-axis = span, y-axis = department
 * **Pyramid Chart** — Headcount distribution by layer or level; identifies whether the org is top-heavy, bottom-heavy, or balanced
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.21.28 AM.png" alt=""><figcaption><p>Pyramid view</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ## Cost Analysis Charts
 
@@ -47,4 +46,4 @@ Used to analyze **workforce expenses**:
 * **Headcount Cost Chart** — Total cost by team or entity
 * **Stacked Headcount Cost Chart** — Total cost broken down into components: salary, benefits, and additional expenses
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.22.22 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>

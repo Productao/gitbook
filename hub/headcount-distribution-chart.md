@@ -1,8 +1,9 @@
 ---
 description: Guide to using the Headcount Distribution chart
+icon: chart-fft
 ---
 
-# 📈 Headcount Distribution Chart
+# Headcount Distribution Chart
 
 The Headcount Distribution chart shows how your workforce is allocated across any organizational dimension — layers, departments, locations, pay grades, or custom fields.
 

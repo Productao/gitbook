@@ -2,7 +2,7 @@
 description: Analyzing diversity metrics and planning inclusive workforce changes
 ---
 
-# 📈 Diversity & Inclusion Analysis
+# Diversity & Inclusion Analysis
 
 Analyze DEI metrics in Agentnoon and model workforce changes that improve representation and equity.
 

@@ -1,12 +1,13 @@
 ---
 description: Organizing, tagging, and versioning scenarios
+icon: folders
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/scenarios/scenario-management
 ---
 
-# 🗂️ Scenario Management
+# Scenario Management
 
 As you create more scenarios, keeping them organized becomes essential. This section covers tools for managing your growing library of workforce planning scenarios.
 

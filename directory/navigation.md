@@ -1,8 +1,9 @@
 ---
 description: Accessing Directory and switching between views
+icon: circle-location-arrow
 ---
 
-# 🧭 Orientation & Navigation
+# Orientation & Navigation
 
 ## Directory Modes
 

@@ -1,5 +1,6 @@
 ---
 description: Renaming, duplicating, archiving, and deleting scenarios
+icon: location-arrow
 ---
 
 # Basic Actions
@@ -9,6 +10,8 @@ As you create more scenarios, keeping them organized becomes essential. This sec
 ## Rename a Scenario
 
 **From the homepage:** Click **⋮** > **Rename** > enter new name > **Save**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 10.49.35 AM.png" alt=""><figcaption></figcaption></figure>
 
 **From inside a scenario:** Click the scenario name in the top-left, type the new name, and press **Enter**.
 
@@ -41,6 +44,8 @@ Archive rather than delete for scenarios that were approved, implemented, or use
 1. Click **⋮** on the scenario
 2. Select **Delete**
 3. Confirm deletion
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Deletion is permanent and cannot be undone. Use it only for test scenarios or duplicates you no longer need.
 

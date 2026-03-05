@@ -20,4 +20,4 @@ Duplication settings let you control which attributes are carried over when dupl
    * **Be copied:** when duplicating or adding roles (e.g., Job Title, Level).
    *   **Be excluded:** during duplication (e.g., Employee Name, Performance).<br>
 
-       <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>

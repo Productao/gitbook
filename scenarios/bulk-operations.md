@@ -1,5 +1,6 @@
 ---
 description: Editing multiple positions at once
+icon: ball-pile
 ---
 
 # Bulk Operations
@@ -20,22 +21,22 @@ Always review the selection count and list in the bulk edit panel before applyin
 
 Once positions are selected, the bulk edit panel opens on the right:
 
-* **Edit Attributes** — Change department, location, job function, pay grade, or any custom field for all selected positions simultaneously. Note: salary is typically not bulk-editable and requires individual consideration.
-* **Change Manager** — Reassign all selected positions to a different manager. Use for consolidating teams or restructuring after a manager departure.
-* **Close Positions (Bulk RIF)** — Mark multiple positions as closed (Layoff/RIF or Exit/Voluntary). Tracks cost savings in the OpEx Panel and preserves history. Use Close, not Delete, for real org reductions.
-* **Detach Employees** — Remove employees from multiple positions, leaving positions vacant and employees available for reassignment.
-* **Move to Bench** — Remove employees from the org chart and place them on the bench. Note: Detach leaves positions vacant; Move to Bench removes employees from the structure entirely.
-* **Duplicate** — Create multiple copies of a position. Duplicate first, then bulk edit the copies to customize attributes.
+* **Edit Attributes** - Change department, location, job function, pay grade, or any custom field for all selected positions simultaneously. Note: salary is typically not bulk-editable and requires individual consideration.
+* **Change Manager** - Reassign all selected positions to a different manager. Use for consolidating teams or restructuring after a manager departure.
+* **Close Positions (Bulk RIF)** - Mark multiple positions as closed (Layoff/RIF or Exit/Voluntary). Tracks cost savings in the OpEx Panel and preserves history. Use Close, not Delete, for real org reductions.
+* **Detach Employees** - Remove employees from multiple positions, leaving positions vacant and employees available for reassignment.
+* **Move to Bench** - Remove employees from the org chart and place them on the bench. Note: Detach leaves positions vacant; Move to Bench removes employees from the structure entirely.
+* **Duplicate** - Create multiple copies of a position. Duplicate first, then bulk edit the copies to customize attributes.
 
 ## Common Workflows
 
-**Reorganize a whole team** — Directory > Filter by Manager = "Name" > select all > Change Manager to new lead.
+**Reorganize a whole team** - Directory > Filter by Manager = "Name" > select all > Change Manager to new lead.
 
-**Model a department budget cut** — Directory > Filter by department + pay grade > select target positions > Close Positions > Layoff (RIF) > verify savings in OpEx Panel.
+**Model a department budget cut** - Directory > Filter by department + pay grade > select target positions > Close Positions > Layoff (RIF) > verify savings in OpEx Panel.
 
-**Standardize job titles** — Org Chart > `Cmd/Ctrl+click` inconsistently-titled positions > Edit Attributes > Job Title > enter new standard value.
+**Standardize job titles** - Org Chart > `Cmd/Ctrl+click` inconsistently-titled positions > Edit Attributes > Job Title > enter new standard value.
 
-**Scale a team** — Duplicate one position (e.g., 10x "Software Engineer") > select all copies > Edit Attributes to customize specialties or locations.
+**Scale a team** - Duplicate one position (e.g., 10x "Software Engineer") > select all copies > Edit Attributes to customize specialties or locations.
 
 ## Keyboard Shortcuts
 
@@ -55,6 +56,8 @@ Once positions are selected, the bulk edit panel opens on the right:
 | Some positions didn't change    | Those positions may have field restrictions — check the Activity Log     |
 | Wrong positions selected        | Use Undo (`Cmd/Ctrl+Z`) immediately, or check the Activity Log to revert |
 | Directory selected too many     | Refine your filters, or manually deselect rows before applying           |
+
+
 
 ## Related Articles
 

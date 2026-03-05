@@ -1,14 +1,15 @@
 ---
 description: Navigating the Forecast interface and tools
+icon: compass
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/forecast/forecast-navigation
 ---
 
-# 🧭 Orientation & Navigation
+# Orientation & Navigation
 
-> **\[Screenshot placeholder: Forecast view showing the full interface layout with toolbar, table, and time periods]**
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ## Accessing Forecast
 

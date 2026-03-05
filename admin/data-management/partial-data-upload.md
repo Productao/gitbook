@@ -2,6 +2,7 @@
 description: >-
   Update specific fields or add new records without re-uploading your entire
   dataset.
+icon: arrow-up-from-bracket
 ---
 
 # Partial Data Upload

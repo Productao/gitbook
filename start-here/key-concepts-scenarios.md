@@ -13,19 +13,19 @@ An editable copy of your Main Org where you model future changes without affecti
 
 ## Change Types
 
-**Addition (green outline)** — New position created; increases headcount and cost.
+**Addition (green outline)** - New position created; increases headcount and cost.
 
-**Reduction (red outline)** — Existing position closed; decreases headcount and cost. Types: Layoff/RIF, Voluntary Exit, Elimination.
+**Reduction (red outline)** - Existing position closed; decreases headcount and cost. Types: Layoff/RIF, Voluntary Exit, Elimination.
 
-**Modification (icon only, no color)** — Changed attributes on existing position (title, salary, department, manager). May increase or decrease cost.
+**Modification (icon only, no color)** - Changed attributes on existing position (title, salary, department, manager). May increase or decrease cost.
 
-**No Change** — Position exists in both the Main Org and scenario; no attributes modified.
+**No Change** - Position exists in both the Main Org and scenario; no attributes modified.
 
 ## Before / After / Changes Views
 
-* **Show Before** — Main Org (current reality); your baseline
-* **Show After** — All scenario changes applied; the proposed future state
-* **Show Changes** — Delta only; shows +/- per department; best for communicating impact
+* **Show Before** - Main Org (current reality); your baseline
+* **Show After** - All scenario changes applied; the proposed future state
+* **Show Changes** - Delta only; shows +/- per department; best for communicating impact
 
 ## OpEx Panel (Scenario Changes & Impact)
 
@@ -41,18 +41,26 @@ Holding area for employees detached from positions but not yet placed elsewhere.
 
 ## Scenario Views
 
-* **Org Chart** — Visual hierarchy; drag-and-drop; best for structural changes
-* **Directory** — Table view; bulk operations; best for mass edits and filtering
-* **Forecast** — Time-phased projections; headcount/cost by period
-* **Workforce Hub** — Analytics charts (SOC, distribution, heatmap); before/after comparison
+* **Org Chart** - Visual hierarchy; drag-and-drop; best for structural changes
+* **Directory** - Table view; bulk operations; best for mass edits and filtering
+* **Forecast** - Time-phased projections; headcount/cost by period
+* **Workforce Hub** - Analytics charts (SOC, distribution, heatmap); before/after comparison
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.47.15 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Approval States
 
 Draft (editable) → Submitted/Pending (locked) → Approved (locked) → Rejected (editable for revisions). Once approved, scenarios lock to preserve the approved state.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.57.53 AM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.59.47 AM.png" alt=""><figcaption></figcaption></figure>
+
 ## Scenario Comparisons
 
 Compare 2 scenarios side-by-side: cost, headcount, structure, org health metrics. Create Option A and Option B and use comparisons to choose the best approach for leadership. Comparisons must be started from the homepage.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.56.07 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Projects (Optional)
 

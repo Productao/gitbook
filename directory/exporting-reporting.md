@@ -1,8 +1,9 @@
 ---
 description: Getting data out of Directory for analysis, presentations, and reports
+icon: download
 ---
 
-# 📤 Exporting Data from Directory
+# Exporting Data from Directory
 
 Export organizational data from Directory, Org Chart, and Workforce Hub for analysis, presentations, and reports.
 
@@ -21,6 +22,8 @@ Export organizational data from Directory, Org Chart, and Workforce Hub for anal
 3. Sort as desired
 4. Click **Export** > **CSV**
 
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
 **Admin export templates:** Admins can configure standardized export templates with preset columns and filters for one-click exports used across the team.
 
 ## Exporting from Org Chart
@@ -31,6 +34,8 @@ Export organizational data from Directory, Org Chart, and Workforce Hub for anal
 
 **CSV** — Apply filters, then **Export** > **CSV** — includes all visible positions with their attributes.
 
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 ## Exporting from Workforce Hub
 
 **PNG** — Configure the chart > click the Download icon > **PNG**. High-resolution for presentations.
@@ -38,6 +43,8 @@ Export organizational data from Directory, Org Chart, and Workforce Hub for anal
 **PowerPoint** — Download icon > **PowerPoint** — exports an editable chart object, not just an image.
 
 **CSV (underlying data)** — Click **Show Table** first > Download icon > **CSV**. Use for deeper analysis in Excel or BI tools.
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ## Common Export Workflows
 

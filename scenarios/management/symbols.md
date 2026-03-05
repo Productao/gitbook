@@ -1,5 +1,6 @@
 ---
 description: Spot scenario changes with visual symbols
+icon: diamonds-4
 ---
 
 # Symbols

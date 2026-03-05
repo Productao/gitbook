@@ -1,5 +1,6 @@
 ---
 description: Implement approved scenarios to your Main Org
+icon: traffic-cone
 ---
 
 # Scenario to Main Org

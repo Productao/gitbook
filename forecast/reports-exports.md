@@ -1,8 +1,9 @@
 ---
 description: Generating reports and exporting forecast data
+icon: calendar-lines-pen
 ---
 
-# 📤 Exporting Data from Forecast
+# Exporting Data from Forecast
 
 Export Forecast data to share workforce projections with Finance, HR, leadership, and board.
 
@@ -18,6 +19,8 @@ Export Forecast data to share workforce projections with Finance, HR, leadership
 2. Apply any filters for targeted reports
 3. Select Before/After/Changes mode — use **Show Changes** for scenario impact reports
 4. Click **Export** (top-right) and select format
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 3.16.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Common Report Configurations
 
@@ -53,4 +56,3 @@ Export Forecast data to share workforce projections with Finance, HR, leadership
 * [Forecast Overview](overview.md)
 * [Forecast Navigation](navigation.md)
 * [Building Headcount Forecasts](building-headcount-forecasts.md)
-

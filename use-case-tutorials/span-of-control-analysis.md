@@ -2,7 +2,7 @@
 description: Step-by-step guide to analyzing and optimizing management structure
 ---
 
-# 📊 Conducting Span of Control Analysis
+# Conducting Span of Control Analysis
 
 Learn how to identify opportunities for organizational efficiency by analyzing span of control across your organization.
 
@@ -137,7 +137,7 @@ After your analysis:
 
 ## Related Resources
 
-* [**Span of Control Metrics**](../org-chart/span-of-control-metrics.md) - Understand the calculations
+* [**Span of Control Metrics**](/broken/pages/65MxFCp0OninhGkMRCUC) - Understand the calculations
 * [**Scenario Creation**](../scenarios/creating-scenarios.md) - Model your changes
 * [**Planning a Reorganization**](planning-reorganization.md) - Full reorg workflow
 

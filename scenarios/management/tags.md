@@ -1,5 +1,6 @@
 ---
 description: Organizing scenarios with tags and filters
+icon: tag
 ---
 
 # Tags
@@ -9,8 +10,14 @@ Tags help you organize and filter scenarios by department, quarter, project, or 
 ### Adding Tags to Scenarios
 
 1. Click **⋮** on any scenario
-2. Select **Add Tag** or **Change Tag**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 1.22.55 PM.png" alt=""><figcaption></figcaption></figure>
+
+2. Select **Change Tag**
 3. Choose an existing tag from the dropdown or type a new tag name
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 4. Press **Enter**
 
 The tag appears as a colored label on the scenario card.

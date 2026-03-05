@@ -1,8 +1,9 @@
 ---
 description: Guide to using the Headcount Heatmap chart
+icon: map
 ---
 
-# 🗺️ Headcount Heatmap Chart
+# Headcount Heatmap Chart
 
 The Headcount Heatmap shows workforce distribution across two dimensions simultaneously — revealing structural depth and patterns that are invisible in single-dimension views.
 

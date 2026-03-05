@@ -29,6 +29,14 @@ All exports follow the same pattern:
 
 Exports respect your current view mode, active filters, and access permissions.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.49.21 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.49.55 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.49.44 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.50.09 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## Org Chart Exports
 
 **JPEG** — Screenshot of the current framed view. Good for quick visual updates in email or Slack.

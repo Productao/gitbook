@@ -10,7 +10,7 @@ description: >-
 
 Auto-mapping rules are configured within **Settings**.
 
-<figure><img src="../.gitbook/assets/image (44).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 To create an auto-mapping rule:
 

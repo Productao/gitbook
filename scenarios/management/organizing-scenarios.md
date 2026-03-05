@@ -1,5 +1,6 @@
 ---
 description: Best practices for naming, versioning, and organizing scenarios
+icon: inbox-full
 ---
 
 # Organizing Scenarios

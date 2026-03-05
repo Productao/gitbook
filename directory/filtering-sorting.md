@@ -1,8 +1,9 @@
 ---
 description: Filtering positions and sorting columns in Directory
+icon: filter
 ---
 
-# üîç Filtering & Sorting
+# Filtering & Sorting
 
 ## Sorting
 
@@ -13,6 +14,9 @@ Click a column header to sort ascending (‚Üë); click again to sort descending (‚
 ## Filtering
 
 1. Click the **Filter** icon
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 2. Select an attribute (Department, Location, Pay Grade, etc.)
 3. Choose values to include
 4. Click **Apply**
@@ -27,6 +31,8 @@ Active filters appear as tags above the table. Multiple filters use AND logic ‚Ä
 ## Search
 
 Type in the search box to find positions by name, title, or any attribute. Partial matches work and search is case-insensitive. Search only scans currently filtered (visible) rows.
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Common Workflows
 

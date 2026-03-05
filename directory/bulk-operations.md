@@ -1,8 +1,9 @@
 ---
 description: Selecting multiple positions and performing bulk edits in Scenario Directory
+icon: pen-to-square
 ---
 
-# ✏️ Bulk Operations
+# Bulk Operations
 
 Bulk operations in Directory let you select multiple positions and apply changes simultaneously. Available in Scenario Directory only — not in Main Org Directory (view-only).
 
@@ -20,6 +21,8 @@ After selecting positions, click **Bulk Edit** to apply changes:
 * **Department, Location, Pay Grade, Manager, custom fields** — Change the value for all selected positions simultaneously
 * **Salary adjustments** — Apply a flat amount or percentage increase to all selected positions
 * **Close positions** — Mark multiple positions as closed (RIF reason); tracked in the OpEx Panel as cost savings
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 A preview shows which positions will change and their old/new values — review before confirming.
 

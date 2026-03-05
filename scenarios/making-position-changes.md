@@ -1,17 +1,23 @@
 ---
 description: Add, edit, move, and remove positions
+icon: up-down-left-right
 ---
 
 # Making Position Changes
 
-All position editing happens in Scenarios — Main Org is view-only. Hover over any position card to reveal action buttons.
+All position editing happens in Scenarios - Main Org is view-only. Hover over any position card to reveal action buttons.
 
 ## Basic Actions
 
 #### Add a Direct Report
 
 1. Hover over a manager card and click **+**
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.13.47 AM.png" alt=""><figcaption></figcaption></figure>
+
 2. A new blank position appears below. Click **Edit** to fill in details (title, department, salary, location, etc.)
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.16.41 AM.png" alt=""><figcaption></figcaption></figure>
 
 New positions are marked with a green indicator in the bottom-left corner.
 
@@ -31,16 +37,24 @@ New positions are marked with a green indicator in the bottom-left corner.
 
 * Hover > click **❌** > select a reason (Layoff/RIF or Exit/Voluntary) > **Confirm**
 * Closed positions stay visible (grayed out) and are tracked in the OpEx Panel as cost savings
-* Always use **Close** instead of Delete when modeling real reductions — it preserves the audit trail
+* Always use **Close** instead of Delete when modeling real reductions - it preserves the audit trail
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.17.15 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Duplicate a Position
 
 * Hover > click **📋** > enter quantity > **Duplicate**
-* All copies share the same attributes — edit each individually to customize
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.46.50 AM.png" alt=""><figcaption></figcaption></figure>
+
+* All copies share the same attributes - edit each individually to customize
 
 #### Delete a Position
 
 * Hover > **⋮** > **Delete** — permanently removes the position from the scenario with no OpEx Panel record
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * Use only for test positions or mistakes, not for modeling real reductions
 
 #### Employee Assignment
@@ -49,19 +63,25 @@ New positions are marked with a green indicator in the bottom-left corner.
 
 * Hover > click **📎 Assign** > search and select an employee > **Assign**
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.49.32 AM.png" alt=""><figcaption></figcaption></figure>
+
 **Detach an employee**
 
-* Hover > **⋮** > **Detach Employee**
+* Hover > click **📎 Assign** > **Detach Employee**
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Actions (⋮ Menu)
 
-**Add backfill** — Closes the current position and creates a new replacement with the same details. Use for succession planning or modeling departures.
+**Add backfill** - Closes the current position and creates a new replacement with the same details. Use for succession planning or modeling departures.
 
-**Add dotted line** — Creates matrix reporting to a secondary manager. The position keeps its primary (solid line) manager and gains a dotted-line relationship.
+**Add dotted line** - Creates matrix reporting to a secondary manager. The position keeps its primary (solid line) manager and gains a dotted-line relationship.
 
-**Make root** — Elevates the position to top-level (no manager). Use for modeling separate org units or new subsidiaries.
+**Make root** - Elevates the position to top-level (no manager). Use for modeling separate org units or new subsidiaries.
 
-**Select team** — Selects the manager and all direct reports for bulk actions.
+**Select team** - Selects the manager and all direct reports for bulk actions.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.57.38 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Selecting Multiple Positions
 
@@ -71,11 +91,15 @@ New positions are marked with a green indicator in the bottom-left corner.
 
 **Entire team:** Hover over manager > **⋮** > **Select Team**
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 12.00.32 PM.png" alt=""><figcaption></figcaption></figure>
+
 Once selected, you can change the manager for all, close multiple positions, or edit attributes in bulk. See [Bulk Operations](bulk-operations.md).
 
 ## Adding Comments
 
 Hover > **⋮** > **Comment** — add notes, @mention collaborators, explain decisions or ask questions inline on a specific position.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.59.14 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Reordering Cards
 

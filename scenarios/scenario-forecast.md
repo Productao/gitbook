@@ -11,6 +11,8 @@ Scenario Forecast shows time-phased projections of your planned changes — when
 
 Open any scenario > click the view dropdown > select **Forecast**.
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 ## Configuration
 
 * **Row aggregator** — Department, Location, Country, Employee Type, Manager, Job Title, or any custom field
@@ -21,10 +23,16 @@ Open any scenario > click the view dropdown > select **Forecast**.
 **Before / After / Changes toggle:**
 
 * **Show Before** — Main Org baseline extended over time
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 1.42.58 PM.png" alt=""><figcaption></figcaption></figure>
+
 * **Show After** — All scenario changes applied; view full proposed state
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 1.43.18 PM.png" alt=""><figcaption></figcaption></figure>
+
 * **Show Changes** — Delta only (+ and −); most useful for communicating impact
 
-> **\[Screenshot placeholder: Zoomed in Before and After example, clear delta]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 1.43.41 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## How Effective Dates Work in Forecast
 

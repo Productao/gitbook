@@ -2,7 +2,7 @@
 description: To ensure accurate compensation modeling, analytics, and reporting
 ---
 
-# 💰 Best Practices for Salary Data
+# Best Practices for Salary Data
 
 #### 1. Upload Each Component Separately
 

@@ -2,7 +2,7 @@
 description: End-to-end reorganization workflow
 ---
 
-# 🎓 Planning a Reorganization
+# Planning a Reorganization
 
 Model organizational changes in Agentnoon to visualize new structures, identify unintended consequences, and get stakeholder buy-in before making real-world changes.
 

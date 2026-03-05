@@ -1,8 +1,9 @@
 ---
 description: Introduction to the Workforce Hub and available analytics charts
+icon: chart-simple
 ---
 
-# 📊 Hub Overview
+# Hub Overview
 
 ## What is the Workforce Hub?
 
@@ -20,6 +21,8 @@ The **Workforce Hub** is Agentnoon's analytics center for understanding organiza
 ## Accessing the Workforce Hub
 
 Open Agentnoon > click **Workforce Hub** in the main navigation. Pre-configured charts load immediately.
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ## Key Features
 
@@ -98,8 +101,8 @@ For information about creating slide packs, see [Packs](packs.md).
 
 ### Visual Guide
 
-> **\[Screenshot placeholder: Workforce Hub landing page with chart library]**
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-> **\[Screenshot placeholder: Hub navigation showing chart dropdown, filters, and settings]**
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-> **\[Screenshot placeholder: Example of exporting charts to PowerPoint]**
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>

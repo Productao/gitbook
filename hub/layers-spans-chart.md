@@ -1,8 +1,9 @@
 ---
 description: Detailed guide to using the Layers and Spans of Control chart
+icon: layer-group
 ---
 
-# 📊 Layers and Spans of Control Chart
+# Layers and Spans of Control Chart
 
 The Layers and Spans of Control chart is a matrix showing how many managers fall into different span-of-control ranges across layers or departments. It immediately surfaces where spans are too narrow (compression) or too wide (overload).
 

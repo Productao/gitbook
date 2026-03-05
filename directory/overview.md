@@ -1,12 +1,13 @@
 ---
 description: Introduction to directory and table views
+icon: list-tree
 ---
 
-# 📋 Directory Overview
+# Directory Overview
 
 The Directory is your dedicated table view for analyzing organizational data. While the org chart visualizes hierarchy, Directory provides a spreadsheet-style interface for sorting, filtering, and exporting position and people data.
 
-> **\[Screenshot placeholder: Directory view showing position table with multiple columns (Name, Title, Department, Manager, Salary)]**
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Directory vs Org Chart
 
@@ -58,4 +59,4 @@ The Directory is your dedicated table view for analyzing organizational data. Wh
 * Customize columns for your task — show only relevant attributes
 * Remember that active filters carry over between Org Chart and Directory views
 
-> **\[Screenshot placeholder: Switching between Org Chart and Directory views using the view dropdown]**
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>

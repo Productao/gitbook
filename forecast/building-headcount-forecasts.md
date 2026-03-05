@@ -1,8 +1,9 @@
 ---
 description: Creating and managing headcount forecasts
+icon: user
 ---
 
-# 📊 Building Headcount Forecasts
+# Building Headcount Forecasts
 
 Let me pull the full section first.---
 

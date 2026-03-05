@@ -7,7 +7,11 @@ icon: arrows-rotate-reverse
 
 ### :bulb: Protip - before you finalize
 
-Always switch to "Show Changes" mode to see the delta — don't just work in "Show After." Catch unintended modifications before submission.Then, validate in multiple views:
+Always switch to "Show Changes" mode to see the delta — don't just work in "Show After."&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.18.24 PM.png" alt=""><figcaption></figcaption></figure>
+
+Catch unintended modifications before submission. Then, validate in multiple views:
 
 * Org Chart — Does the structure look correct visually?
 * Directory — Are all attributes consistent?
@@ -22,7 +26,12 @@ The OpEx Panel is the central hub for reviewing all changes made in a scenario a
 
 1. Open any scenario
 2. Click the panel toggle in the top-right corner
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.22.53 PM.png" alt=""><figcaption></figcaption></figure>
+
 3. The panel appears on the right side of the screen
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## What the OpEx Panel Shows
 
@@ -58,9 +67,15 @@ Toggle to the effective date view to see all changes grouped by their effective 
 
 1. Review all changes and their impact in the panel
 2. Click **Configure Submission** at the bottom
-3. Review the approver list and bottom-line impact
-4. Add a justification for your changes
-5. Click **Submit**
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.57.53 AM.png" alt=""><figcaption></figcaption></figure>
+
+2. Review the approver list and bottom-line impact
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.59.47 AM.png" alt=""><figcaption></figcaption></figure>
+
+3. Add a justification for your changes
+4. Click **Submit**
 
 See [Scenario Approvals](approvals.md) for the full approval workflow.
 
@@ -68,21 +83,21 @@ See [Scenario Approvals](approvals.md) for the full approval workflow.
 
 The OpEx Panel doesn't have a built-in export. To download a record of changes:
 
-* **Activity Log** — A log of all changes made in the scenario (who changed what and when)
+* **Activity Log** - A log of all changes made in the scenario (who changed what and when)
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 * **Export Data** in the toolbar → select **Comparisons Report** to download a before/after comparison of all positions
 
 ## Before-and-After Analysis in Workforce Hub
 
 Open Workforce Hub inside a scenario (module dropdown > **Workforce Hub**) to compare baseline vs. scenario state:
 
-* **Headcount** — by department, location, or any attribute
-* **Cost** — total compensation before and after
-* **Span of Control** — average SOC and distribution
-* **Layers** — number of management levels before and after
+* **Headcount** -  by department, location, or any attribute
+* **Cost** - total compensation before and after
+* **Span of Control** - average SOC and distribution
+* **Layers** - number of management levels before and after
 
 Toggle between Before and After views. Apply filters to drill into specific segments.
 
-
-
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.37.59 PM.png" alt=""><figcaption></figcaption></figure>

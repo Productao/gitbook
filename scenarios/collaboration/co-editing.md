@@ -1,5 +1,6 @@
 ---
 description: Working in scenarios with other users
+icon: arrows-minimize
 ---
 
 # Working with Others
@@ -10,7 +11,7 @@ Multiple users can have a scenario open at the same time. Agentnoon shows who el
 
 When other users have the same scenario open, their **profile icons** appear at the top of the scenario. Hover over an icon to see the user's name.
 
-> **\[Screenshot placeholder: Scenario top bar showing two user profile icons indicating co-presence]**
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 1.39.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 Use presence indicators to:
 
