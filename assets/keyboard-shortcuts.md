@@ -1,12 +1,11 @@
 ---
 description: Keyboard shortcuts for faster navigation and productivity
+icon: keyboard
 ---
 
-# ⌨️ Keyboard Shortcuts
+# Keyboard Shortcuts
 
 Agentnoon supports keyboard shortcuts to help you navigate and work more efficiently across the platform.
-
-***
 
 ## Module Navigation
 
@@ -21,8 +20,6 @@ Switch between major views using number keys:
 | `5` | Productivity View (or Activity Analysis if in a Scenario) |
 
 **Usage:** Press the number key from anywhere in the application to jump to that module.
-
-***
 
 ## Directory View Shortcuts
 
@@ -39,8 +36,6 @@ When working in Directory view (table format):
 
 **Pro tip:** Use `j` and `k` to navigate quickly through rows, then `x` to select positions for bulk operations.
 
-***
-
 ## Scenario Shortcuts
 
 When working in scenarios:
@@ -54,8 +49,6 @@ When working in scenarios:
 **Pro tip:** Combine with filters to isolate the positions you want, then use `x` to rapidly select them all.
 
 
-
-***
 
 ## Workflow Examples
 
@@ -72,8 +65,6 @@ When working in scenarios:
 
 **Alternative:** Use `Cmd/Ctrl + Click` to multi-select rows without keyboard
 
-***
-
 ### Rapidly Select Cards in Org Chart
 
 1. Apply filters or use Spotlight to isolate positions
@@ -84,8 +75,6 @@ When working in scenarios:
 6. Continue clicking and pressing `x` for all cards
 7. Perform bulk action
 
-***
-
 ## Tips for Power Users
 
 1. **Combine number keys with search:** Press `5` to jump to Directory, then `/` to search
@@ -93,21 +82,15 @@ When working in scenarios:
 3. **Master `x` for bulk operations:** Select 10+ cards in seconds using click + `x` pattern
 4. **Learn `o` shortcut:** When reviewing directory, press `o` to see position in org chart context
 
-***
-
 ## Platform-Specific Notes
 
 * **Mac:** Use `Cmd` for shortcuts (e.g., `Cmd + S`)
 * **Windows/Linux:** Use `Ctrl` for shortcuts (e.g., `Ctrl + S`)
 * All other keys (number keys, letter keys) work the same across platforms
 
-***
-
 ## No Customization (Yet)
 
 Keyboard shortcuts are currently fixed and cannot be customized. If you have specific shortcut requests, [contact support](mailto:SupportSWP@dayforce.com).
-
-***
 
 ## Related Resources
 

@@ -9,7 +9,7 @@ As you create more scenarios, keeping them organized becomes essential. This sec
 
 ## Rename a Scenario
 
-**From the homepage:** Click **⋮** > **Rename** > enter new name > **Save**
+**From the homepage:** Click on the "Edit" icon > enter new name > **Save**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-03-05 at 10.49.35 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -21,23 +21,11 @@ As you create more scenarios, keeping them organized becomes essential. This sec
 
 Use duplication to test alternatives while keeping the original intact.
 
-1. Click **⋮** on the scenario
-2. Select **Duplicate**
-3. A copy is created with "\[Original Name] Copy"
-4. Rename the duplicate to reflect its purpose
+1. Click on "Duplicate" icon
+2. A copy is created with "\[Original Name] Copy"
+3. Rename the duplicate to reflect its purpose
 
 The duplicate includes all positions, changes, and effective dates. It does not include shared access or approval status — it starts as a new draft.
-
-## Archive a Scenario
-
-Archiving removes a scenario from your active list while preserving it for historical reference.
-
-1. Click **⋮** on the scenario
-2. Select **Archive**
-
-To view archived scenarios, toggle **Show Archived** on the homepage. Archived scenarios can be unarchived from the **⋮** menu.
-
-Archive rather than delete for scenarios that were approved, implemented, or used for important decisions.
 
 ## Delete a Scenario
 

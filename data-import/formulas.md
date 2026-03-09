@@ -1,5 +1,6 @@
 ---
 description: Create and apply custom formulas to using your own data fields.
+icon: superscript
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/data-import/formulas

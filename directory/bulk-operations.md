@@ -42,11 +42,9 @@ All bulk changes are tracked in the OpEx Panel — change type, old and new valu
 
 ## Troubleshooting
 
-<table><thead><tr><th width="336.53125">Problem</th><th>Solution</th></tr></thead><tbody><tr><td>No checkboxes / Bulk Edit button missing</td><td>Must be in Scenario Directory — Main Org Directory is view-only</td></tr><tr><td>Select All doesn't select everyone</td><td>Only selects visible (filtered) rows — clear filters to expand selection</td></tr><tr><td>Bulk edit applied wrong changes</td><td>Use Undo (<code>Cmd/Ctrl+Z</code>) immediately, or restore from a scenario duplicate made before the operation</td></tr><tr><td>Changes not in OpEx Panel</td><td>Refresh the tracker panel; verify changes were applied by reviewing positions individually</td></tr></tbody></table>
+<table><thead><tr><th width="336.53125">Problem</th><th>Solution</th></tr></thead><tbody><tr><td>No checkboxes / Bulk Edit button missing</td><td>Must be in Scenario Directory — Main Org Directory is view-only</td></tr><tr><td>Select All doesn't select everyone</td><td>Only selects visible (filtered) rows — clear filters to expand selection</td></tr><tr><td>Bulk edit applied wrong changes</td><td>Use Undo immediately, or restore from a scenario duplicate made before the operation</td></tr><tr><td>Changes not in OpEx Panel</td><td>Refresh the tracker panel; verify changes were applied by reviewing positions individually</td></tr></tbody></table>
 
 ## Related Articles
 
 * [Scenario Directory](../scenarios/directory.md)
 * [Filtering & Sorting](filtering-sorting.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
-

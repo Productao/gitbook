@@ -1,5 +1,6 @@
 ---
 description: End-to-end reorganization workflow
+icon: ellipsis-stroke
 ---
 
 # Planning a Reorganization

@@ -1,11 +1,9 @@
 ---
 description: Practical examples of access group configurations
-hidden: true
+icon: user-group
 ---
 
-# 👥 Access Groups Examples
-
-> **Note: This page is in progress. Content coming soon!**
+# Access Groups Examples
 
 This page will provide practical, real-world examples of how to configure access groups for common organizational scenarios.
 

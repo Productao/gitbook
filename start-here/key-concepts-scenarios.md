@@ -15,7 +15,7 @@ An editable copy of your Main Org where you model future changes without affecti
 
 **Addition (green outline)** - New position created; increases headcount and cost.
 
-**Reduction (red outline)** - Existing position closed; decreases headcount and cost. Types: Layoff/RIF, Voluntary Exit, Elimination.
+**Reduction (red outline)** - Existing position closed; decreases headcount and cost. Types: RIF and Exits.
 
 **Modification (icon only, no color)** - Changed attributes on existing position (title, salary, department, manager). May increase or decrease cost.
 

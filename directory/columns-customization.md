@@ -46,7 +46,7 @@ Drag the border between column headers to resize manually. Double-click the bord
 
 Save your column configuration as a named view via **Views** > **Save Current View** to quickly reload it later. Create separate views for different tasks — Compensation Analysis, Contact Lists, SOC Review, and so on.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-06 at 12.09.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting
 
@@ -55,5 +55,4 @@ Save your column configuration as a named view via **Views** > **Save Current Vi
 ## Related Articles
 
 * [Filtering & Sorting](filtering-sorting.md)
-* [Exporting](/broken/pages/nhhEFUCHOfXmbuyYuLhw)
 * [Navigation & Access](navigation.md)

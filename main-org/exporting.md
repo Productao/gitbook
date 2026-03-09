@@ -76,7 +76,7 @@ In Forecast view, you can export projection tables:
 
 Forecast exports reflect effective dates and hire dates used in scenarios.
 
-**Learn more:** [Forecast Reports & Exports](../forecast/reports-exports.md)
+**Learn more:** [Forecast Reports & Exports](/broken/pages/do4YSEYxP7xeY1oR8rJ1)
 
 ### Exporting from Workforce Hub&#x20;
 
@@ -107,5 +107,5 @@ You can only export data that you have permission to view. Fields restricted by 
 ## Related Articles
 
 * [Directory Exporting & Reporting](../directory/exporting-reporting.md)
-* [Forecast Reports & Exports](../forecast/reports-exports.md)
+* [Forecast Reports & Exports](/broken/pages/do4YSEYxP7xeY1oR8rJ1)
 * [Scenario Exporting](../scenarios/exporting.md)

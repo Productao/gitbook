@@ -16,7 +16,7 @@ Catch unintended modifications before submission. Then, validate in multiple vie
 * Org Chart — Does the structure look correct visually?
 * Directory — Are all attributes consistent?
 * Forecast — Is the timing accurate?
-* Workforce Hub — Are span of control and layers healthy?
+* Workforce Hub — Are org metrics healthy?
 
 ## Scenario Changes & Impact (OpEx Panel)
 
@@ -40,6 +40,7 @@ The panel categorizes all scenario changes into:
 * **Additions** — New positions created (new hires, new roles)
 * **Reductions** — Positions closed (layoffs, exits, eliminations)
 * **Data Changes** — Modified attributes on existing positions (title changes, salary adjustments, department moves)
+* **Moves** — Changing reporting structures
 
 For each category, the panel shows cost and headcount impact. Switch between salary and custom formulas to evaluate changes using your preferred financial metric.
 
@@ -70,9 +71,15 @@ Toggle to the effective date view to see all changes grouped by their effective 
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.57.53 AM.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.59.47 AM.png" alt=""><figcaption></figcaption></figure>
+
 2. Review the approver list and bottom-line impact
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.59.47 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 3. Add a justification for your changes
 4. Click **Submit**

@@ -2,29 +2,30 @@
 description: >-
   Auto-mapping automatically maps attributes using configurable rules to ensure
   consistency and reduce manual work.
+icon: bolt-auto
 ---
 
-# 🔄 Auto Mapping
+# Auto Mapping
 
 ### Setting Up Auto-Mapping
 
 Auto-mapping rules are configured within **Settings**.
 
-<figure><img src="../.gitbook/assets/image (44) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 To create an auto-mapping rule:
 
 1. Navigate to **Settings**.
 2. Create a new rule and provide a name and description.
 
-<div align="center"><img src="../.gitbook/assets/Screenshot 2026-01-30 at 11.48.11 AM.png" alt=""></div>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 3. Upload a CSV file containing the mapping logic.
 4. Click on Create Rule.
 
 Once the file is uploaded, the system guides you through configuring how the mapping should be applied.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-30 at 12.01.03 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-30 at 12.01.03 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Configuring the Mapping Logic
 
@@ -33,7 +34,7 @@ After uploading the CSV:
 1. Select the column(s) that will act as the **independant attribute(s)** (e.g. National Department).
 2. The remaining columns will be treated as **dependant attributes** (e.g. Location and International Department), that are automatically populated when a source value is selected or updated.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-30 at 12.04.56 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-30 at 12.04.56 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### Example
 

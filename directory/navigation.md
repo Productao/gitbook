@@ -9,7 +9,7 @@ icon: circle-location-arrow
 
 **Main Org Directory (view-only)** — Sort, filter, search, and export. No editing. Use for current state analysis and reporting.
 
-**Scenario Directory (editable)** — Everything above plus bulk select, bulk edit, change tracking symbols, and add/close positions. Use for planning org changes.
+**Scenario Directory (editable)** — Everything above plus bulk select, bulk edit, and add/close positions. Use for planning org changes.
 
 ## Accessing Directory
 
@@ -25,20 +25,18 @@ Pagination — Change rows per page (25/50/100/500) at the bottom of the table. 
 
 ## Keyboard Shortcuts
 
-| Action                          | Shortcut     |
-| ------------------------------- | ------------ |
-| Jump to Directory module        | `2`          |
-| Return to Org Chart             | `1`          |
-| Open search                     | `Cmd/Ctrl+F` |
-| Clear selection or close panels | `Esc`        |
+| Action                          | Shortcut |
+| ------------------------------- | -------- |
+| Jump to Directory module        | `2`      |
+| Return to Org Chart             | `1`      |
+| Clear selection or close panels | `Esc`    |
 
 ## Troubleshooting
 
-| Problem                                          | Solution                                                       |
-| ------------------------------------------------ | -------------------------------------------------------------- |
-| Directory empty or showing unexpected data       | Check active filters; clear all and try again                  |
-| Can't find toolbar icons                         | Scroll up to see the left toolbar; try collapsing other panels |
-| Lost track of which mode (Main Org vs. Scenario) | Check the top-left corner for the scenario name                |
+| Problem                                    | Solution                                                       |
+| ------------------------------------------ | -------------------------------------------------------------- |
+| Directory empty or showing unexpected data | Check active filters; clear all and try again                  |
+| Can't find toolbar icons                   | Scroll up to see the left toolbar; try collapsing other panels |
 
 ## Related Articles
 

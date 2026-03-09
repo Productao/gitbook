@@ -1,5 +1,6 @@
 ---
 description: Onboarding checklist for Agentnoon administrators
+icon: user-crown
 ---
 
 # Admin Checklist
@@ -7,8 +8,6 @@ description: Onboarding checklist for Agentnoon administrators
 Agentnoon is designed to be intuitive — most users complete these steps in their first session.
 
 This checklist covers everything an administrator needs to set up and manage the platform.
-
-***
 
 ## Initial Setup
 
@@ -21,8 +20,6 @@ This checklist covers everything an administrator needs to set up and manage the
 7. Check [Calculated Agentnoon Attributes](../../data-import/calculated-agentnoon-attributes.md)
 8. Create a test scenario to understand the user experience
 
-***
-
 ## User Management
 
 1. Invite key users (HR, Finance, Operations leaders)
@@ -33,8 +30,6 @@ This checklist covers everything an administrator needs to set up and manage the
 6. Test access restrictions to ensure proper permissions
 7. Read [Access Groups](../../access-control/access-groups.md)
 8. Review [Advanced Access Controls](../../access-control/advanced-access-controls.md)
-
-***
 
 ## Configuration
 
@@ -51,8 +46,6 @@ This checklist covers everything an administrator needs to set up and manage the
 11. Read [Configuring Approval Flows](../../admin/configuring-approval-flows.md)
 12. Review [Scenario Approvals](../../scenarios/approvals.md)
 
-***
-
 ## Ongoing Admin Tasks
 
 * Refresh Main Org data from your HRIS regularly
@@ -66,12 +59,9 @@ This checklist covers everything an administrator needs to set up and manage the
   * [Department Lead Checklist](department-lead-checklist.md)
   * [Workforce Planner Checklist](workforce-planner-checklist.md)
 
-***
-
 ## Additional Resources
 
 * [Admin Overview](../../admin/overview.md)
 * [Data Import Guide](../../data-import/data-import.md)
 * [Access Control Overview](../../access-control/overview.md)
 * [Troubleshooting Overview](../../troubleshooting/overview.md)
-* [Technical Documentation](/broken/pages/9JONwbDBLfJCJWvo6kKZ)

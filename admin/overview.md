@@ -1,8 +1,9 @@
 ---
 description: Administrative capabilities and configuration overview
+icon: gear-complex
 ---
 
-# ⚙️ Admin Overview
+# Admin Overview
 
 Admins in Agentnoon have elevated permissions to configure the platform, manage users, and maintain data integrity. This guide covers everything admins need to know to effectively manage their Agentnoon instance.
 
@@ -14,9 +15,7 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 
 * Initial admins are set up during customer onboarding
 * Existing admins can grant admin privileges to other users
-* Agentnoon (as the vendor) has super-admin access for support purposes (not documented for end users)
-
-***
+* Agentnoon (as the vendor) has super-admin access for support purposes
 
 ## Admin vs Regular User Permissions
 
@@ -38,8 +37,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 * **Rate card management:** Upload and configure compensation rate cards
 * **Auto mapping:** Configure automatic field population rules
 * **Access control:** Define who can see what data based on field values
-
-***
 
 ## Core Admin Responsibilities
 
@@ -173,8 +170,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 * Data sync preferences
 * UI customization options
 
-***
-
 ## Ongoing Admin Maintenance
 
 ### Weekly Tasks
@@ -203,8 +198,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 * Comprehensive access audit
 * Review and update approval workflows
 * Renew or expand Agentnoon licenses
-
-***
 
 ## Common Admin Workflows
 
@@ -251,8 +244,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 6. Save
 7. Users now have filtered view automatically
 
-***
-
 ## Security & Data Governance
 
 ### Best Practices
@@ -268,8 +259,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 * Never commit .env files or credentials to the Agentnoon system
 * Use access groups to restrict salary visibility
 * Be cautious with export permissions (exports respect access groups)
-
-***
 
 ## Getting Help
 
@@ -287,8 +276,6 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 * [Data Import Requirements](../data-import/data-requirements.md)
 * [Access Control Guide](../access-control/access-groups.md)
 * [Rate Cards Setup](../settings/compensation-cards.md)
-
-***
 
 ## Next Steps
 

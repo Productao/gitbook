@@ -1,8 +1,9 @@
 ---
 description: Complete library of Agentnoon tutorial videos
+icon: video
 ---
 
-# 🎥 Video Tutorial Library
+# Video Tutorial Library
 
 Learn Agentnoon visually with these short tutorial videos. Each video covers a specific feature or workflow in 5-10 minutes.
 
@@ -21,8 +22,6 @@ Quick overview of Agentnoon's main modules and how to navigate between them.
 * Keyboard shortcuts (1-5)
 * Basic navigation patterns
 
-***
-
 ### Org Chart Essentials
 
 Learn how to explore and interact with your organizational chart.
@@ -36,8 +35,6 @@ Learn how to explore and interact with your organizational chart.
 * Search and filtering
 * Highlighting by attributes
 * Spotlight feature
-
-***
 
 ### Workforce Hub Analytics
 
@@ -53,8 +50,6 @@ Understand how to use pre-built charts to analyze your organization.
 * Reading span of control matrices
 * Using interactive features
 
-***
-
 ### Scenarios for What-If Planning
 
 Learn how to create and use scenarios to model organizational changes.
@@ -69,27 +64,9 @@ Learn how to create and use scenarios to model organizational changes.
 * Using the OpEx Panel
 * Closing positions (RIF)
 
-***
-
 ## Admin Videos
 
-### Data Import (Simplified Method)
-
-Step-by-step guide to uploading your organizational data.
-
-[Watch: Simplified Data Import →](https://www.loom.com/share/a76e43032b6a4928a4a6d0b813503ba9?sid=a6a5cbb7-f1fa-4fab-8ef1-f3738654dcf6)
-
-**Topics covered:**
-
-* CSV file preparation
-* Required vs optional fields
-* Mapping columns to Agentnoon fields
-* Validation and error handling
-* Submitting the import
-
-***
-
-### Data Import (Legacy Method)
+### Data Import&#x20;
 
 Alternative import method for organizations with complex data structures.
 
@@ -101,8 +78,6 @@ Alternative import method for organizations with complex data structures.
 * Handling nested hierarchies
 * Custom attribute configuration
 * Troubleshooting common errors
-
-***
 
 ### Access Control Setup
 
@@ -118,8 +93,6 @@ Learn how to configure user permissions and access groups.
 * Managing permissions (view, edit, admin)
 * Testing access configurations
 
-***
-
 ### Field Management
 
 Customize fields to match your organization's unique needs.
@@ -133,8 +106,6 @@ Customize fields to match your organization's unique needs.
 * Configuring dropdown options
 * Field visibility settings
 * Ordering and grouping fields
-
-***
 
 ## Video Learning Path
 
@@ -156,16 +127,12 @@ Customize fields to match your organization's unique needs.
 
 **Total time:** \~60 minutes for full admin onboarding
 
-***
-
 ## Additional Resources
 
 * [Quick Start Guide](quick-start-guide.md) - Get started in 30 minutes
 * [Agentnoon 101](agentnoon-101.md) - Core concepts and terminology
 * [Support & How to Self-Help](support-self-help.md) - Troubleshooting basics
 * [Full Video Library](video-library.md) - All videos organized by topic
-
-***
 
 ## Request a Video
 

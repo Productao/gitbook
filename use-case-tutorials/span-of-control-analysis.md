@@ -1,5 +1,6 @@
 ---
 description: Step-by-step guide to analyzing and optimizing management structure
+icon: magnifying-glass-chart
 ---
 
 # Conducting Span of Control Analysis
@@ -137,14 +138,12 @@ After your analysis:
 
 ## Related Resources
 
-* [**Span of Control Metrics**](/broken/pages/65MxFCp0OninhGkMRCUC) - Understand the calculations
+* [**Span of Control Metrics**](../main-org/metrics-insights.md) - Understand the calculations
 * [**Scenario Creation**](../scenarios/creating-scenarios.md) - Model your changes
 * [**Planning a Reorganization**](planning-reorganization.md) - Full reorg workflow
 
 ## Visual Guide
 
-> **\[Screenshot placeholder: Org chart with span of control highlighting showing problematic managers]**
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-> **\[Screenshot placeholder: Span of control metrics and analytics in Workforce Hub]**
-
-> **\[Screenshot placeholder: Before/after comparison showing improved SOC distribution]**
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>

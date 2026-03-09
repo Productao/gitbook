@@ -1,8 +1,9 @@
 ---
 description: Managing user permissions and data access in Agentnoon
+icon: key
 ---
 
-# 🔑 Access Control
+# Access Control
 
 Access Control in Agentnoon lets you define who can see what data and what actions they can perform. Use access groups and permission settings to ensure the right people have the right level of access.
 

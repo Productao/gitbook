@@ -3,6 +3,7 @@ description: >-
   Securely connect your Agentnoon account using your existing Google or
   Microsoft credentials, simplifying login and reducing the need to manage
   separate passwords
+icon: google
 metaLinks:
   alternates:
     - >-
@@ -20,11 +21,11 @@ We have recently released a **beta self-service feature** for SSO enforcement, c
 1. First, log in to Agentnoon using your Microsoft or Google SSO account.
 2. Click on your profile picture in the top navigation bar, then select **Update Authentication**.
 
-<figure><img src="../../.gitbook/assets/image (37) (1).png" alt="" width="479"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 3. You will be redirected to a page to authenticate with your chosen SSO provider (Google or Microsoft).
 
-<figure><img src="../../.gitbook/assets/image (38) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 3. Once authentication is successful, you will have the option to enforce SSO for all email addresses within your organization.
 

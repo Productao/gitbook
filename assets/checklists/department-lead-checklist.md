@@ -1,6 +1,6 @@
 ---
 description: Planning checklist for managers and department leaders
-hidden: false
+hidden: true
 ---
 
 # Department Lead Checklist
@@ -9,7 +9,7 @@ Agentnoon is designed to be intuitive — most users complete these steps in the
 
 This checklist covers the key workflows for managers planning department changes, team growth, and reorganizations.
 
----
+***
 
 ## Quarterly Planning
 
@@ -47,7 +47,7 @@ Use this workflow for regular quarterly planning cycles.
 
 **Learn more:** [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
 
----
+***
 
 ## Organizational Changes
 
@@ -82,13 +82,13 @@ Use this workflow for reorganizations, restructures, and reporting changes.
 
 **Learn more:** [Planning a Reorganization](../../use-case-tutorials/planning-reorganization.md)
 
----
+***
 
 ## Additional Resources
 
-- [Scenarios Overview](../../scenarios/overview.md)
-- [Creating Scenarios](../../scenarios/creating-scenarios.md)
-- [Making Position Changes](../../scenarios/making-position-changes.md)
-- [Time-Based Planning](../../scenarios/time-based-planning.md)
-- [Span of Control Analysis](../../use-case-tutorials/span-of-control-analysis.md)
-- [Quick Start Checklist](../quick-start-checklist.md)
+* [Scenarios Overview](../../scenarios/overview.md)
+* [Creating Scenarios](../../scenarios/creating-scenarios.md)
+* [Making Position Changes](../../scenarios/making-position-changes.md)
+* [Time-Based Planning](../../scenarios/time-based-planning.md)
+* [Span of Control Analysis](../../use-case-tutorials/span-of-control-analysis.md)
+* [Quick Start Checklist](../quick-start-checklist.md)

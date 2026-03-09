@@ -34,7 +34,6 @@ Partial Upload lets you update select records or append new ones to your Agentno
 | Adding an acquired company for M\&A integration | Major restructuring affecting the entire company        |
 | Appending a new business unit or department     | Correcting fundamental data issues across all employees |
 | Bulk updating a subset of employees             | Starting fresh after major changes                      |
-| Adding temporary or contractor workforce        |                                                         |
 
 **General rule:** Use Partial Upload for targeted changes, Full Import for complete replacement.
 
@@ -60,9 +59,8 @@ Partial Uploads can be performed by administrators and users with data managemen
 ## Uploading the File
 
 1. Navigate to **Data Management → Partial Upload**
-2. Choose your file type (**Google Sheets or CSV**).
-3. If using Google Sheets, paste the link.
-4. Click **Upload** to begin processing.
+2. Upload your file (**CSV**).
+3. Click **Upload** to begin processing.
 
 ## Mapping Changes
 
@@ -102,7 +100,7 @@ Export the acquired company's org structure, including:
 
 **Critical:** Add a "Company" or "Original Organization" column with the value set to the acquired company's name. This lets you filter and distinguish between organizations.
 
-> **\[Screenshot placeholder: Excel file with acquired company data including "Company" column set to "Acquired Co"]**
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 2: Perform Partial Upload**
 

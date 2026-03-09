@@ -70,7 +70,7 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Answer:** Create a CSV with only the fields you want to update, always include Employee ID or Position ID to match records, then upload via Data Management → Partial Upload. Only those fields for those employees will be updated—nothing else changes.
 
-**Learn more:** [Partial Data Upload](../data-import/partial-data-upload.md)
+**Learn more:** [Partial Data Upload](/broken/pages/gGQXp4gTO4do683ar0OU)
 
 ***
 

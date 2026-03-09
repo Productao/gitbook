@@ -9,11 +9,11 @@ Make the same change across multiple positions at once instead of editing one by
 
 ## Selecting Multiple Positions
 
-| Method                     | How                                                                                       | Best for                                                                |
-| -------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Org chart multi-select** | Hold `Cmd` (Mac) or `Ctrl` (Windows) and click cards                                      | Cherry-picking specific visible positions (up to \~20)                  |
-| **Select Team**            | Hover over a manager > ⋮ > Select Team                                                    | Acting on an entire team                                                |
-| **Directory selection**    | Switch to Directory, apply filters, click the header checkbox to select all filtered rows | Large-scale operations (50+ positions) or cross-departmental selections |
+| Method                     | How                                                                                                     | Best for                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Org chart multi-select** | Hold `Cmd` (Mac) or `Ctrl` (Windows) and click cards OR Hover over cards and press "x" on your keyboard | Cherry-picking specific visible positions (up to \~20)                  |
+| **Select Team**            | Hover over a manager > ⋮ > Select Team                                                                  | Acting on an entire team                                                |
+| **Directory selection**    | Switch to Directory, apply filters, click the header checkbox to select all filtered rows               | Large-scale operations (50+ positions) or cross-departmental selections |
 
 Always review the selection count and list in the bulk edit panel before applying.
 
@@ -40,24 +40,22 @@ Once positions are selected, the bulk edit panel opens on the right:
 
 ## Keyboard Shortcuts
 
-| Action                      | Shortcut         |
-| --------------------------- | ---------------- |
-| Multi-select (org chart)    | `Cmd/Ctrl+click` |
-| Quick-select while hovering | `X`              |
-| Select all (Directory)      | `Cmd/Ctrl+A`     |
-| Deselect all                | `Esc`            |
+| Action                      | Shortcut            |
+| --------------------------- | ------------------- |
+| Multi-select (org chart)    | `Cmd/Ctrl+click`    |
+| Quick-select while hovering | `X`                 |
+| Select all (Directory)      | `select all button` |
+| Deselect all                | `Esc`               |
 
 ## Troubleshooting
 
-| Problem                         | Solution                                                                 |
-| ------------------------------- | ------------------------------------------------------------------------ |
-| Can't multi-select in org chart | Hold `Cmd/Ctrl` while clicking, or switch to Directory view              |
-| Bulk edit panel won't open      | Select at least 2 positions                                              |
-| Some positions didn't change    | Those positions may have field restrictions — check the Activity Log     |
-| Wrong positions selected        | Use Undo (`Cmd/Ctrl+Z`) immediately, or check the Activity Log to revert |
-| Directory selected too many     | Refine your filters, or manually deselect rows before applying           |
-
-
+| Problem                         | Solution                                                             |
+| ------------------------------- | -------------------------------------------------------------------- |
+| Can't multi-select in org chart | Hold `Cmd/Ctrl` while clicking, or switch to Directory view          |
+| Bulk edit panel won't open      | Select at least 2 positions                                          |
+| Some positions didn't change    | Those positions may have field restrictions — check the Activity Log |
+| Wrong positions selected        | Use Undo immediately from the Activity Log to revert                 |
+| Directory selected too many     | Refine your filters, or manually deselect rows before applying       |
 
 ## Related Articles
 

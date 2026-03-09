@@ -1,5 +1,6 @@
 ---
 description: Basic data field requirements to get started
+icon: file-check
 metaLinks:
   alternates:
     - >-
@@ -19,8 +20,6 @@ This guide explains the essential fields required to set up data in Agentnoon, a
    * Example: If Ali's Position ID is `1` and Shayan's Position ID is `2`, and Shayan reports to Ali, then Shayan’s **Manager’s Position ID** is `1`.
 3. **Job Title**: The title assigned to each position (e.g., CEO, Head of Product) to display on the org chart.
 
-**Example Data Template:** [https://docs.google.com/spreadsheets/d/1CYUSEkljMDEMadGuJU50PnKyBhuaQe0rfh-PxWhhnMc/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1CYUSEkljMDEMadGuJU50PnKyBhuaQe0rfh-PxWhhnMc/edit?gid=0#gid=0)
-
 ### Custom Fields
 
 * You can import unlimited custom fields, such as:
@@ -28,7 +27,7 @@ This guide explains the essential fields required to set up data in Agentnoon, a
   * **Name**
   * **Location**
   * **Employment Status**
-  * **Start Dates and End Dates** (useful for tracking hires and planned terminations)
+  * **Start Dates and End Dates** (useful for tracking hires, planned terminations, and generate accurate forecasts)
 
 ### Employee vs. Position Fields
 

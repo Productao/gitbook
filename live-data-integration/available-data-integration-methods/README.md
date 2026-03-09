@@ -1,4 +1,5 @@
 ---
+icon: album-collection
 metaLinks:
   alternates:
     - >-
@@ -35,6 +36,4 @@ This approach leverages Workday reports exposed via secure endpoints, allowing A
 
 **Best for:** Workday customers seeking direct, report-driven data synchronization.
 
-***
-
-Each integration method supports secure data transfer and customer-defined refresh schedules. Select the method that best aligns with your source systems and operational requirements, then refer to the corresponding guide for detailed setup instructions.
+Note: Each integration method supports secure data transfer and customer-defined refresh schedules. Select the method that best aligns with your source systems and operational requirements, then refer to the corresponding guide for detailed setup instructions.

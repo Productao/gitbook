@@ -1,5 +1,6 @@
 ---
 description: To ensure accurate compensation modeling, analytics, and reporting
+icon: sack-dollar
 ---
 
 # Best Practices for Salary Data

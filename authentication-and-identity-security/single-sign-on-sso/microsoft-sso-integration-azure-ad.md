@@ -2,6 +2,7 @@
 description: >-
   Agentnoon supports Single Sign-On (SSO) via Microsoft Azure Active Directory
   using the SAML 2.0 protocol, allowing users to securely access the platform
+icon: windows
 metaLinks:
   alternates:
     - >-

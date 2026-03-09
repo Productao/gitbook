@@ -18,7 +18,6 @@ The Directory is your dedicated table view for analyzing organizational data. Wh
 | Sorting                  | ✅ Yes                  | ❌ No                        |
 | Multiple columns visible | ✅ Many at once         | ⚠️ Limited (card space)     |
 | See reporting structure  | ⚠️ Manager column only | ✅ Visual lines              |
-| Export                   | CSV lists              | JPEG, PowerPoint, CSV       |
 | Find outliers            | ✅ Easy (sort high/low) | ⚠️ Manual search            |
 
 ## When to Use Directory

@@ -1,8 +1,9 @@
 ---
 description: Set your organization's name, currency, and other core details
+icon: gears
 ---
 
-# General
+# General Settings
 
 ### Overview
 

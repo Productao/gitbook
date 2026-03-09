@@ -1,5 +1,6 @@
 ---
 description: Best practices for position-based vs headcount-based planning
+icon: user-group-crown
 ---
 
 # Position vs Headcount Management

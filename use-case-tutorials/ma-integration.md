@@ -1,8 +1,9 @@
 ---
 description: Planning merger and acquisition integration
+icon: stack-overflow
 ---
 
-# M&A Integration
+# M\&A Integration
 
 Plan post-acquisition integration by modeling combined org structures, identifying redundancies, and analyzing cost synergies before making real-world changes.
 

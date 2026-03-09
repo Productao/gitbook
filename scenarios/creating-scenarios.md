@@ -25,9 +25,9 @@ From the homepage, click **+** or **Create Scenario**. Also accessible via the t
 
 Use the pattern: **\[Area] \[Purpose] \[Time Period]**
 
-✅ "Engineering Q2 2026 Reorg" · "Commercial NA Budget Cut 10%" · "Product Team Q3 Growth - Option A"
+(Best Practice) ✅ "Engineering Q2 2026 Reorg" · "Commercial NA Budget Cut 10%" · "Product Team Q3 Growth - Option A"
 
-❌ "New Scenario" · "Test" · "Draft" · "Scenario 1"
+(Not recommended) ❌ "New Scenario" · "Test" · "Draft" · "Scenario 1"
 
 ### Step 3: Optional Settings
 
@@ -57,6 +57,5 @@ Ready to start? [Making Position Changes](making-position-changes.md)
 ## Related Articles
 
 * [Making Position Changes](making-position-changes.md)
-* [Scenario Protips](/broken/pages/4VFjDfDt82fUCA5jJ9DM)
 * [Scenario Comparisons](comparisons.md)
 * [Organizing Scenarios](management/organizing-scenarios.md)

@@ -1,5 +1,6 @@
 ---
 description: Invite users and manage their access
+icon: calendar-circle-user
 metaLinks:
   alternates:
     - >-
@@ -21,12 +22,14 @@ This guide explains how to invite users to Agentnoon, assign access groups, and 
 * Existing users are highlighted in blue.\
   \&#xNAN;_Note: Email invites are sent only to new users_.
 
-1. Choose the access type:
-   * **New Access**: Assign permissions from scratch.
-   * **Replicate Access**: Copy permissions from an existing user.
-2. Select the relevant **Access Group** to determine which fields the user can view or edit.
+2. Choose the access type:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 7.28.22 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+* **New Access**: Assign permissions from scratch.
+* **Replicate Access**: Copy permissions from an existing user.
+
+3. Select the relevant **Access Group** to determine which fields the user can view or edit.
+
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 ### Understanding Scopes
 

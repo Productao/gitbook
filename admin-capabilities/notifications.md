@@ -28,9 +28,8 @@ Click the notification bell in the top-right corner to see recent in-app notific
 
 ## Troubleshooting
 
-| Problem                               | Solution                                                             |
-| ------------------------------------- | -------------------------------------------------------------------- |
-| Not receiving approval request emails | Check spam; verify your email address in your profile; contact admin |
-| Not receiving invitation email        | Check spam; ask the scenario owner to reshare                        |
-| In-app notification bell not updating | Refresh the page or log out and back in                              |
-| Missing approval status update        | Check the scenario's Approvals panel directly                        |
+| Problem                               | Solution                                                                                                                      |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Not receiving approval request emails | Check spam; verify your email address in your profile; contact admin                                                          |
+| Not receiving invitation email        | Go directly to app.agentnoon.com and signup with your account - you'll get redirected to the Organization you were invited to |
+| Missing approval status update        | Check the scenario's Approvals panel directly                                                                                 |

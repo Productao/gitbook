@@ -11,9 +11,7 @@ Scenarios are editable copies of your organization used for planning future chan
 
 Each Scenario begins as a snapshot of Main Org at the time it is created. Changes made in a Scenario do not affect Main Org.
 
-Use Scenarios to model reorganizations, hiring plans, budget adjustments, and structural changes before implementing them in your HRIS.
-
-***
+Use Scenarios to model reorganizations, hiring plans, budget adjustments, and structural changes before implementing them.
 
 ## Three Scenario Types
 
@@ -25,8 +23,6 @@ When creating a Scenario, you can choose the type that matches your scope and pu
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.42.38 AM.png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## The Scenario Lifecycle
 
 A Scenario typically moves through the following stages:
@@ -37,9 +33,7 @@ A Scenario typically moves through the following stages:
 * **Compare** - Evaluate alternative Scenarios.
 * **Collaborate** - Share and gather feedback.
 * **Approve** - Submit the Scenario for review.
-* **Implement** - Apply approved changes in your HRIS.
-
-***
+* **Implement** - Apply approved changes in your Org.
 
 ## Key Features
 
@@ -73,8 +67,6 @@ Review differences in headcount, cost, structure, and key metrics before selecti
 
 Submit Scenarios for formal review, including routing them through multi-level approvers while maintaining a full audit trail of all changes.&#x20;
 
-***
-
 ## Scenarios vs. Main Org
 
 | Scenarios              | Main Org         |
@@ -89,22 +81,16 @@ Submit Scenarios for formal review, including routing them through multi-level a
 
 **When to use Scenarios:** When you need to model changes, plan reorganizations, or test different structures.
 
-***
-
 ## Getting Started
 
-1. Main Org > **Create Scenario** (top right) or Homepage > **+**
+1. Main Org > **Create Scenario** (top right) or Homepage > "**+"** button
 2. Choose Partial Org > select scope
 3. Name clearly: For example, "Engineering Q2 2026 Reorg"
 4. Start editing — see [Making Position Changes](making-position-changes.md)
 5. Check the OpEx Panel frequently for insights
-
-***
 
 ## Related Articles
 
 * [Creating Scenarios](creating-scenarios.md)
 * [Using Scenarios - Basics](using-scenarios-basics.md)
 * [Making Position Changes](making-position-changes.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
-* [Forecast vs Scenarios](/broken/pages/MKRiiU8DK4L0RAbqG70N)

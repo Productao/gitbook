@@ -1,5 +1,6 @@
 ---
 description: Update your authentication and switch to SSO
+icon: right-to-bracket
 metaLinks:
   alternates:
     - >-

@@ -1,5 +1,6 @@
 ---
 description: Workflow checklist for annual fiscal year planning
+hidden: true
 ---
 
 # Annual Planning Checklist
@@ -67,7 +68,6 @@ Track progress throughout the fiscal year.
 
 * [Multi-Year Planning](../../forecast/multi-year-planning.md)
 * [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
-* [Annual Hiring Plan Tutorial](/broken/pages/ReCH2MxnQgNTLdPp830r)
 * [Scenario Comparisons](../../scenarios/comparisons.md)
 * [Workforce Planner Checklist](workforce-planner-checklist.md)
 * [Quarterly Planning Checklist](quarterly-planning-checklist.md)

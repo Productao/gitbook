@@ -9,8 +9,6 @@ icon: filter
 
 Click a column header to sort ascending (↑); click again to sort descending (↓); click a third time to remove the sort.
 
-**Multi-column sort** — Click the first header for primary sort, then `Shift+click` additional headers for secondary/tertiary sort. Example: Department (A→Z) → Pay Grade (high→low) → Salary (high→low).
-
 ## Filtering
 
 1. Click the **Filter** icon
@@ -32,7 +30,7 @@ Active filters appear as tags above the table. Multiple filters use AND logic �
 
 Type in the search box to find positions by name, title, or any attribute. Partial matches work and search is case-insensitive. Search only scans currently filtered (visible) rows.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ## Common Workflows
 
@@ -59,4 +57,3 @@ Type in the search box to find positions by name, title, or any attribute. Parti
 
 * [Column Customization](columns-customization.md)
 * [Bulk Operations](bulk-operations.md)
-* [Exporting](/broken/pages/nhhEFUCHOfXmbuyYuLhw)

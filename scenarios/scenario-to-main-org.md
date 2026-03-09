@@ -3,9 +3,11 @@ description: Implement approved scenarios to your Main Org
 icon: traffic-cone
 ---
 
-# Scenario to Main Org
+# Scenario to Main Org Merge
 
 Merge an approved scenario into Main Org to make planned changes the new organizational baseline.
+
+**Note:** Scenario to Main org Merge is only used for accounts with no automated integration setup.
 
 **Before you start:**
 
@@ -60,15 +62,7 @@ The merge process is the same for both. A Partial Org scenario only affects posi
 | Some changes didn't apply             | Check which fields were selected; verify conflicts were resolved with scenario values             |
 | Merge is taking a long time           | Wait — large orgs with many changes take longer; don't refresh the page                           |
 
-| Problem                               | Solution                                                                                          |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Scenario doesn't appear in merge list | Verify scenario status = "Approved"; check admin permissions; refresh page                        |
-| New positions didn't merge            | "Include New Positions" was unchecked — create a new scenario with just those positions and merge |
-| Some changes didn't apply             | Check which fields were selected; verify conflicts were resolved with scenario values             |
-| Merge is taking a long time           | Wait — large orgs with many changes take longer; don't refresh the page                           |
-
 ## Related Articles
 
 * [Scenario Approvals](approvals.md)
 * [Scenario Merging](merging.md)
-* [OpEx Panel](/broken/pages/BweIAu0kM4eCKuYXwrHV)

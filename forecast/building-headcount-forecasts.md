@@ -5,8 +5,6 @@ icon: user
 
 # Building Headcount Forecasts
 
-Let me pull the full section first.---
-
 ## Building Headcount Forecasts
 
 Building a headcount forecast means creating a Scenario with planned changes, then viewing that Scenario in Forecast mode to see projections over time.
@@ -198,7 +196,6 @@ Set hire dates based on your hiring timeline:
 
 ## Next Steps
 
-* [**Budget Planning & Tracking**](/broken/pages/i8Gakir7OiTeqKZMK86R) - Align forecasts with budget constraints
-* [**Forecast Reports & Exports**](reports-exports.md) - Advanced reporting techniques
+* [**Forecast Reports & Exports**](/broken/pages/do4YSEYxP7xeY1oR8rJ1) - Advanced reporting techniques
 * [**Multi-Year Planning**](multi-year-planning.md) - Long-term strategic workforce planning
 * [**Time-Based Planning**](../scenarios/time-based-planning.md) - More on effective dates and phasing

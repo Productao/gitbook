@@ -1,8 +1,9 @@
 ---
 description: Authentication and identity security overview
+icon: lock
 ---
 
-# 🔐 Authentication & IAM
+# Authentication & IAM
 
 This section covers authentication and identity management for Agentnoon.
 

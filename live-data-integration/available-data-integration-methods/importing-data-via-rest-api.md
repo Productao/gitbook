@@ -2,6 +2,7 @@
 description: >-
   Upload a CSV to Agentnoon's REST API using an API KEY. Ensure data matches the
   schema with your account manager. Customize the upload frequency as needed.
+icon: square-a-lock
 metaLinks:
   alternates:
     - >-

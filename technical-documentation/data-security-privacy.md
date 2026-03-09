@@ -1,12 +1,11 @@
 ---
 description: Data security, privacy, and compliance
+icon: shield-quartered
 ---
 
-# 🔒 Data Security & Privacy
+# Data Security & Privacy
 
 Agentnoon is committed to protecting your organizational data with industry-leading security practices, compliance certifications, and transparent privacy policies.
-
-***
 
 ## Security Certifications & Compliance
 
@@ -31,8 +30,6 @@ Agentnoon maintains rigorous security standards and complies with major data pro
 * International standard for information security management
 * Systematic approach to managing sensitive data
 * Regular audits and continuous improvement
-
-***
 
 ## Data Encryption
 
@@ -61,8 +58,6 @@ Agentnoon protects your data using industry-standard encryption at every stage.
 * Industry-standard encryption algorithms
 * Regular security updates and patches
 * Cryptographic key management best practices
-
-***
 
 ## Access Controls & Authentication
 
@@ -104,8 +99,6 @@ Agentnoon provides robust access controls to ensure only authorized users can ac
 * Secure session handling
 * Session invalidation on logout
 
-***
-
 ## Audit Logging
 
 Agentnoon tracks user activity to maintain security and accountability.
@@ -132,8 +125,6 @@ Agentnoon tracks user activity to maintain security and accountability.
 * Compliance audits
 * Troubleshooting access issues
 * Understanding data changes
-
-***
 
 ## Data Privacy
 
@@ -174,8 +165,6 @@ Agentnoon tracks user activity to maintain security and accountability.
 * Self-service export via platform
 * API access for automated exports
 
-***
-
 ## Infrastructure & Data Residency
 
 ### Cloud Platform
@@ -212,8 +201,6 @@ Agentnoon offers data residency in multiple regions to support data sovereignty 
 
 **Note:** Contact your account manager to configure data residency for your organization.
 
-***
-
 ## Security Best Practices for Users
 
 To maximize security, we recommend:
@@ -236,8 +223,6 @@ To maximize security, we recommend:
 5. **Report suspicious activity** - Contact admin or support immediately
 6. **Be cautious with exports** - Exported data contains sensitive information
 
-***
-
 ## Third-Party Security
 
 ### Integrations
@@ -258,8 +243,6 @@ To maximize security, we recommend:
 * Regular vendor security reviews
 * Compliance with GDPR Article 28 (processor requirements)
 
-***
-
 ## Vulnerability Management
 
 **Proactive security:**
@@ -274,8 +257,6 @@ To maximize security, we recommend:
 * Security researchers can report vulnerabilities
 * Coordinated disclosure process
 * Timely patches for identified issues
-
-***
 
 ## Incident Response
 
@@ -299,23 +280,11 @@ In the event of a security incident:
 * Explain remediation steps taken
 * Comply with GDPR breach notification requirements (72 hours)
 
-***
-
-## Privacy Policy & Terms
-
-For complete details on data handling and privacy:
-
-* **Privacy Policy:** \[Link to privacy policy]
-* **Terms of Service:** \[Link to terms]
-* **Data Processing Agreement (DPA):** Available upon request
-
-***
-
 ## Reporting Security Concerns
 
 If you discover a security vulnerability or have security concerns:
 
-**Contact:** [security@agentnoon.com](mailto:security@agentnoon.com)
+**Contact:** [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
 
 **Include:**
 
@@ -325,8 +294,6 @@ If you discover a security vulnerability or have security concerns:
 * Your contact information
 
 **Response time:** We aim to respond to security reports within 24-48 hours.
-
-***
 
 ## Frequently Asked Questions
 
@@ -357,8 +324,6 @@ Yes, Agentnoon is SOC 2 compliant with annual audits.
 ### Can I get a copy of your security certifications?
 
 Yes, contact your account manager or [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) to request security documentation.
-
-***
 
 ## Additional Resources
 

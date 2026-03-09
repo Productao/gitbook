@@ -1,8 +1,9 @@
 ---
 description: Recommended approaches for workforce planning in Agentnoon
+icon: lightbulb
 ---
 
-# 💡 Best Practices
+# Best Practices
 
 Guidelines and recommended approaches for getting the most out of Agentnoon.
 

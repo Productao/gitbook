@@ -1,12 +1,11 @@
 ---
 description: Agentnoon terminology and definitions
+icon: gitbook-assistant
 ---
 
-# 📚 Glossary
+# Glossary
 
 A comprehensive reference of Agentnoon terminology, workforce planning concepts, and common abbreviations.
-
-***
 
 ## A
 
@@ -56,8 +55,6 @@ Automatically populates dependent fields when you select certain values. Example
 
 The rate at which employees leave the organization (voluntary or involuntary). Modeled in Agentnoon by closing positions or setting termination dates.
 
-***
-
 ## B
 
 ### Before/After/Changes
@@ -88,8 +85,6 @@ Actions performed on multiple positions simultaneously (e.g., bulk close, bulk e
 
 **Learn more:** [Bulk Operations](../scenarios/bulk-operations.md)
 
-***
-
 ## C
 
 ### Card
@@ -110,7 +105,7 @@ Panel showing all modifications in a scenario: additions (green), reductions (re
 
 **Also called:** OpEx Panel, Scenario Impacts and Changes
 
-**Learn more:** [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
+**Learn more:** [Scenario Changes & Impact (OpEx)](../scenarios/opex-panel.md)
 
 ### Compensation (Total Compensation)
 
@@ -121,8 +116,6 @@ Sum of all pay components (salary, bonus, stock, allowances). In Agentnoon, tota
 File format used for data uploads. A spreadsheet exported as a .csv file with columns representing fields and rows representing positions/employees.
 
 **Learn more:** [Data Requirements](../data-import/data-requirements.md)
-
-***
 
 ## D
 
@@ -156,8 +149,6 @@ Spreadsheet-style table view of positions/employees. Alternative to org chart vi
 
 Positions reporting directly to a manager (not indirect reports). A manager with 5 direct reports has a SOC of 5.
 
-***
-
 ## E
 
 ### Effective Date
@@ -180,9 +171,7 @@ Field that describes the person in a position (e.g., employee name, hire date, p
 
 Download data from Agentnoon in various formats: CSV (for Excel), PowerPoint (for presentations), or Image (PNG/JPEG).
 
-**Learn more:** [Forecast Reports & Exports](../forecast/reports-exports.md)
-
-***
+**Learn more:** [Main Org Export](../main-org/exporting.md)
 
 ## F
 
@@ -191,12 +180,6 @@ Download data from Agentnoon in various formats: CSV (for Excel), PowerPoint (fo
 Data attribute for positions or employees (e.g., Salary, Department, Title, Location). Fields can be standard (built-in) or custom (user-created).
 
 **Learn more:** [Fields and Attributes Management](../settings/fields.md)
-
-### Field Duplication
-
-Setting that controls whether a field's value copies when duplicating a position in scenarios. Useful for copying position attributes but not employee-specific details.
-
-**Learn more:** [Field Duplication](../settings/field-duplication.md)
 
 ### Filter
 
@@ -230,8 +213,6 @@ Scenario that copies your entire Main Org. Use for company-wide planning (annual
 
 **Learn more:** [Creating Scenarios](../scenarios/creating-scenarios.md)
 
-***
-
 ## H
 
 ### Headcount
@@ -256,8 +237,6 @@ Date when a future position starts. Controls when the position appears in Foreca
 
 Source system for employee data (Workday, BambooHR, ADP, etc.). Agentnoon imports data from your HRIS.
 
-***
-
 ## I
 
 ### IC (Individual Contributor)
@@ -273,8 +252,6 @@ Automated connection between your HRIS and Agentnoon. Syncs data automatically o
 **Types:** SFTP, Workday, REST API
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
-
-***
 
 ## L
 
@@ -302,8 +279,6 @@ See **Integration**
 Setting that prevents scenario editing after submission for approval. Ensures approvers review a stable version.
 
 **Learn more:** [Configuring Approval Flows](../admin/configuring-approval-flows.md)
-
-***
 
 ## M
 
@@ -333,8 +308,6 @@ System-calculated values displayed throughout Agentnoon (SOC, manager count, IC 
 
 Pay component field (Salary, Bonus, Stock, Allowances). Can be displayed as separate columns in Forecast.
 
-***
-
 ## N
 
 ### New Org Scenario
@@ -342,8 +315,6 @@ Pay component field (Salary, Bonus, Stock, Allowances). Can be displayed as sepa
 Scenario starting from scratch (no positions copied from Main Org). Use for modeling brand-new teams or business units.
 
 **Learn more:** [Creating Scenarios](../scenarios/creating-scenarios.md)
-
-***
 
 ## O
 
@@ -367,15 +338,13 @@ Visual hierarchy view of your organization showing reporting relationships. Defa
 
 **Learn more:** [Main Org Overview](../main-org/overview.md)
 
-***
-
 ## P
 
 ### Partial Data Upload
 
 CSV upload that updates specific fields without replacing all data. Must include Employee ID to match records.
 
-**Learn more:** [Partial Data Upload](../data-import/partial-data-upload.md)
+**Learn more:** [Partial Data Upload](../admin/data-management/partial-data-upload.md)
 
 ### Partial Org Scenario
 
@@ -397,8 +366,6 @@ A role with defined structure and budget (title, department, salary, manager). P
 
 Field that describes the position itself (e.g., Title, Salary, Department), not the employee. Appears in colored section of position cards.
 
-***
-
 ## R
 
 ### Rate Card
@@ -418,8 +385,6 @@ Layoffs or workforce reduction. In Agentnoon, modeled by closing positions in sc
 ### Row Aggregator
 
 See **Aggregator**
-
-***
 
 ## S
 
@@ -469,8 +434,6 @@ Authentication method using company identity provider (Okta, Azure AD, Google). 
 
 **Learn more:** [Single Sign-On (SSO)](../authentication-and-identity-security/single-sign-on-sso/)
 
-***
-
 ## T
 
 ### Toolbar
@@ -489,8 +452,6 @@ In Forecast, the column granularity: Monthly, Quarterly, or Yearly. Determines h
 
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
 
-***
-
 ## V
 
 ### Vacant Position
@@ -502,8 +463,6 @@ See **Open Position**
 Saved configuration of filters, highlights, and card content for quick reloading.
 
 **Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
-
-***
 
 ## W
 
@@ -519,8 +478,6 @@ Strategic process of designing organizational structure, planning hiring, and fo
 
 **Workforce Planning vs. Talent Management:** Planning focuses on positions and structure; talent management focuses on individual employees and performance.
 
-***
-
 ## Common Abbreviations
 
 * **CSV** - Comma-Separated Values (file format)
@@ -534,8 +491,6 @@ Strategic process of designing organizational structure, planning hiring, and fo
 * **SFTP** - Secure File Transfer Protocol
 * **SOC** - Span of Control
 * **SSO** - Single Sign-On
-
-***
 
 ## Industry Workforce Planning Terms
 
@@ -570,5 +525,3 @@ Long-term planning (3-5 years) of workforce needs aligned with business strategy
 ### Talent Management
 
 Operational management of individual employees (recruiting, performance, development, retention). Complements strategic workforce planning.
-
-***

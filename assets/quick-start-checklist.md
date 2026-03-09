@@ -1,12 +1,11 @@
 ---
 description: Get productive with Agentnoon quickly
+icon: clipboard-list-check
 ---
 
-# ✅ Quick Start Checklist
+# Quick Start Checklist
 
 Agentnoon is designed to be intuitive — this checklist will get you productive in your first session.
-
-***
 
 ## Explore the Main Org
 
@@ -17,8 +16,6 @@ Agentnoon is designed to be intuitive — this checklist will get you productive
 5. Open the **Filter** tool and filter to your department
 6. Try the **Highlight** tool to color-code cards by department or location
 7. Customize **Card Content** to display fields you care about (salary, title, pay grade)
-
-***
 
 ## Create Your First Scenario
 
@@ -32,14 +29,6 @@ Agentnoon is designed to be intuitive — this checklist will get you productive
 8. Switch to **Forecast** view to see how changes project over time
 9. Delete the practice scenario when done (three-dot menu → Delete Scenario)
 
-***
-
-## Role-Specific Checklists
-
-Once you're comfortable with the basics, use the checklist that matches your role:
+## Admin-Specific Checklist
 
 * [**Admin Checklist**](checklists/admin-checklist.md) — Setting up the platform, managing users and data
-* [**Department Lead Checklist**](checklists/department-lead-checklist.md) — Quarterly planning and reorganizations
-* [**Workforce Planner Checklist**](checklists/workforce-planner-checklist.md) — Annual planning, budget reductions, compensation cycles
-* [**Quarterly Planning Checklist**](checklists/quarterly-planning-checklist.md) — Standard quarterly workflow
-* [**Annual Planning Checklist**](checklists/annual-planning-checklist.md) — Fiscal year planning workflow

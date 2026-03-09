@@ -1,9 +1,9 @@
 ---
 description: Long-term headcount and budget planning
-hidden: true
+icon: calendar
 ---
 
-# 📅 Multi-Year Planning
+# Multi-Year Planning
 
 Project workforce headcount and costs up to 5 years into the future using Agentnoon's Forecast module.
 
@@ -66,5 +66,3 @@ Name versions with dates to track changes over time.
 
 * [Forecast Overview](overview.md)
 * [Building Headcount Forecasts](building-headcount-forecasts.md)
-* [Budget Planning & Tracking](/broken/pages/i8Gakir7OiTeqKZMK86R)
-* [Building an Annual Hiring Plan](../use-case-tutorials/building-annual-hiring-plan.md)

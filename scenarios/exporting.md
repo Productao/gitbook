@@ -5,8 +5,6 @@ icon: download
 
 # 📤 Exporting Scenario Data
 
-***
-
 ## Exporting Scenario Data
 
 Export scenario data, visuals, and analytics for stakeholder presentations, approval documentation, and analysis.
@@ -39,9 +37,9 @@ Exports respect your current view mode, active filters, and access permissions.
 
 ## Org Chart Exports
 
-**JPEG** — Screenshot of the current framed view. Good for quick visual updates in email or Slack.
+**JPEG** - Screenshot of the current framed view. Good for quick visual updates in email or Slack.
 
-**PowerPoint** — Full org chart as structured slides. Configure:
+**PowerPoint** - Full org chart as structured slides. Configure:
 
 * Filters (department, location)
 * Hierarchy depth (top 3 layers, full org, or custom)
@@ -51,62 +49,48 @@ Exports respect your current view mode, active filters, and access permissions.
 
 Best for executive and board presentations. Each manager with direct reports gets their own slide.
 
-**Tip:** Export in "Show Before" and "Show After" modes separately to create side-by-side comparison slides.
+**Tip:** Export in "Main org" and "Scenario" orgchart separately to create side-by-side comparison slides.
 
 ## Data Exports
 
-**CSV / Excel (Directory)** — Export position data from Directory view:
+**CSV / Excel (Directory)** - Export position data in CSV. Click on Download CSV from your side panel:
 
-1. Switch to Directory view
-2. Click the column selector (top-right) to choose which fields to include
-3. Drag columns to reorder
+1. Click on Download CSV from your side panel
+2. Click the column selector in export to choose which fields to include
+3. Select columns to include
 4. Apply filters to limit which positions export
-5. Click **Export** > **CSV** or **Excel**
+5. Click **Download**
 
-**Saved Reports** — After configuring columns and order, click **Save Report** to save the configuration for future use. Access saved reports from the **Reports** dropdown.
+**Saved Reports** - After configuring columns and order, click **Save Report** to save the configuration for future use. Access saved reports from the **Download CSV** dropdown.
 
-Note: Directory exports are less commonly used. Most users prefer org chart PowerPoint or change summaries for stakeholder communication.
+Note: CSV exports are less commonly used. Most users prefer org chart PowerPoint or change summaries for stakeholder communication.
 
-**Change Summary** — Export directly from the OpEx Panel. Includes every changed position with change type, before/after values, cost impact, and effective date.
+**Comparison CSV** - Comparison CSV directly form the side panel inside a scenario. Includes every changed position with change type, before/after values, cost impact, and effective date.
 
-**Forecast export** — From Forecast view, configure time period, aggregation, and metric, then export the projection table. Shows headcount and cost by department over time, phased by effective dates.
+**Forecast export** - From Forecast view, configure time period, aggregation, and metric, then export the projection table. Shows headcount and cost by department over time, phased by effective dates.
 
-**Workforce Hub** — Export individual charts as PNG, or create slide packs with multiple charts. See [Hub Packs](../hub/packs.md) for creating PowerPoint presentations with multiple analytics charts.
+**Workforce Hub** - Export individual charts as PNG, or create slide packs with multiple charts. See [Hub Packs](../hub/packs.md) for creating PowerPoint presentations with multiple analytics charts.
 
 ## Export by Use Case
 
-**For approval submission** — Change summary (Excel) + Org chart PowerPoint ("Show After") + Forecast cost projection
+**For approval submission** - Comparison CSV (Excel) + Org chart PowerPoint ("Show After") + Forecast cost projection
 
-**For stakeholder communication** — JPEG or filtered PowerPoint + Change summary filtered to the relevant department
+**For stakeholder communication** - JPEG or filtered PowerPoint + Comparison CSV filtered to the relevant department
 
-**For implementation planning** — Full change list (CSV) + positions sorted by effective date
+**For implementation planning** - Full change list (CSV) + positions sorted by effective date
 
-**For financial analysis** — Forecast export (cost by quarter) + Change summary (cost per change) + Excel of all positions with salaries
-
-## Comparison Exports
-
-In Scenario Comparisons view, click **Export Comparison** to download a side-by-side summary. Available formats:
-
-* **Excel** — Multi-sheet file with a Summary sheet (scenario names, net headcount/cost), Department Breakdown (headcount and cost by department), and Change Detail (all position changes with before/after values)
-* **CSV** — Single file with one row per position/metric, columns for each compared scenario
-* **PowerPoint** — Side-by-side org charts with a summary slide
-
-Export before the decision point to capture the state at that moment. Filter before exporting to focus stakeholders on the relevant segment.
-
-***
+**For financial analysis** - Forecast export (cost by quarter) + Comparison CSV (cost per change) + Excel of all positions with salaries
 
 ## Troubleshooting
 
-| Problem                             | Solution                                                               |
-| ----------------------------------- | ---------------------------------------------------------------------- |
-| Export button grayed out            | Verify your role has export access — contact the scenario owner        |
-| Exported data doesn't match screen  | Check the active view mode (Before/After/Changes) and filters          |
-| Change summary is empty             | The scenario may have no changes — verify the OpEx Panel shows changes |
-| Effective dates missing from export | Export from Forecast view or use the Change Summary export             |
-| Can't export comparison             | Ensure multiple scenarios are selected in comparison view              |
+| Problem                             | Solution                                                        |
+| ----------------------------------- | --------------------------------------------------------------- |
+| Export button grayed out            | Verify your role has export access — contact the scenario owner |
+| Exported data doesn't match screen  | Check the active view mode (Before/After/Changes) and filters   |
+| Effective dates missing from export | Export from Forecast view or use the Comparison CSV export      |
 
 ## Related Articles
 
 * [Main Org Exporting](../main-org/exporting.md)
 * [Scenario Comparisons](comparisons.md)
-* [Forecast Reports & Exports](../forecast/reports-exports.md)
+* [Forecast Reports & Exports](/broken/pages/do4YSEYxP7xeY1oR8rJ1)

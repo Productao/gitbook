@@ -35,7 +35,7 @@ Since multiple users can edit a scenario with Edit Access, coordinate to avoid c
 * **Review together** — Walk through the final scenario as a team before submitting for approval
 * **Limit concurrent editors** — 2–3 people editing at once is manageable; more can cause confusion
 
-:bulb:**Protip —** Use Comments to explain changes, tag collaborators (@mention), and document assumptions. This is especially important for changes that might need justification during approval.
+:bulb:**Protip —** Use Comments to explain changes and document assumptions. This is especially important for changes that might need justification during approval.
 
 Give edit access only to active collaborators; use view-only for stakeholders who just need visibility
 

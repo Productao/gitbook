@@ -1,5 +1,6 @@
 ---
 description: Best practices for organizational changes and restructuring
+icon: right-left
 ---
 
 # Making Org Changes

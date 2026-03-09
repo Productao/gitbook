@@ -1,8 +1,9 @@
 ---
 description: Setting up and managing scenario approval workflows
+icon: check
 ---
 
-# ✅ Configuring Approval Flows
+# Configuring Approval Flows
 
 Approval flows route scenarios through multi-level review before implementation. As an admin, you configure global approvers in Settings and document how scenario-specific approvers work.
 

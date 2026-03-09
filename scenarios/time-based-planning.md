@@ -86,4 +86,3 @@ Yes — department, location, manager, title, salary, and any custom fields.
 
 * [Forecast Overview](../forecast/overview.md)
 * [Creating and Managing Scenarios](creating-scenarios.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)

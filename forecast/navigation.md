@@ -66,5 +66,4 @@ From Main Org or any scenario: click the module dropdown at the top > select **F
 
 * [Forecast Overview](overview.md)
 * [Building Headcount Forecasts](building-headcount-forecasts.md)
-* [Forecast vs Scenarios](/broken/pages/MKRiiU8DK4L0RAbqG70N)
-* [Forecast Reports & Exports](reports-exports.md)
+* [Forecast Reports & Exports](/broken/pages/do4YSEYxP7xeY1oR8rJ1)

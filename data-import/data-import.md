@@ -1,5 +1,6 @@
 ---
 description: Import your position and employee data into Agentnoon
+icon: file-arrow-up
 ---
 
 # Data Import
@@ -15,7 +16,7 @@ This guide explains how to import data into Agentnoon, map attributes correctly,
 3. If using Google Sheets, paste the link.
 4. Click **Upload** to begin processing the file.
 
-_\*Note that if you are a Enterprise customer or SMB that has Integrations enabled, Agentnoon will set up a live integration to your data seperately as part of the onboarding process. This is for customers who want to do a flat file upload._
+_\*Note that if you are a Enterprise customer that has Integrations enabled, Agentnoon will set up a live integration to your data seperately as part of the onboarding process. This is for customers who want to do a flat file upload._
 
 #### 2. Mapping Core Attributes
 
@@ -42,13 +43,3 @@ Custom fields allow flexibility in structuring your data.
 <div><figure><img src="../.gitbook/assets/1740697820408.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1740697821348.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 By correctly mapping attributes, you ensure accurate org visualization, talent selection, and workforce planning in Agentnoon.
-
-## Visual Guide
-
-> **[Screenshot placeholder: Data import interface showing upload button and file selection]**
-
-> **[Screenshot placeholder: Field mapping interface matching CSV columns to Agentnoon fields]**
-
-> **[Screenshot placeholder: Data validation results showing any errors or warnings]**
-
-> **[Screenshot placeholder: Successful data import confirmation]**

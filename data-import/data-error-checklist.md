@@ -1,5 +1,6 @@
 ---
 description: Common data errors to avoid when uploading data into Agentnoon
+icon: square-exclamation
 metaLinks:
   alternates:
     - >-
@@ -18,11 +19,11 @@ To ensure a smooth experience when uploading your CSV or Google Sheets files, fo
 * **Unique Column Names**: No duplicate headers.
 * **All Columns Have Headers**: No missing column names.
 * **No Blank Columns**: Remove empty columns.
-* **Date Format**: Use `YYYY-MM-DD` for consistency.
+* **Date Format**: Use 1 date format for consistency.
 * **File Encoding**: Save the CSV in **UTF-8** encoding to avoid character issues.
 * **Consistent Text Formatting**: Standardize capitalization and remove extra spaces.
 * **No Special Characters**: Avoid symbols or emojis that may interfere with data processing.
-* **Supported File Format**: Use **CSV (.csv)** or **Google Sheets format**.
+* **Supported File Format**: Use **CSV (.csv)** or **Google Sheets format**. For automated integration contact Agentnoon support.
 
 ### Mandatory Data Fields
 
@@ -47,7 +48,6 @@ To ensure a smooth experience when uploading your CSV or Google Sheets files, fo
 * **No Duplicate Records**: Remove any repeated employee entries.
 * **Top-Level Managers**: If applicable, leave **Manager ID** blank or assign a valid value.
 * **No Orphan Records**: Every **Manager ID** must correspond to an existing **Employee ID**.
-* **Succession Plan Consistency:** Ensure successor fields are correctly mapped and valid employees are referenced.
 * **Unauthorized Field Entries:** Monitor for unapproved additions to fields like Position Title, especially during scenario planning.
 * **Circular Reporting:** Looks for reporting loops, like a manager reporting to someone who reports back to them directly or indirectly.
 
@@ -60,7 +60,7 @@ To ensure a smooth experience when uploading your CSV or Google Sheets files, fo
 
 ### Date Validation
 
-* **Correct Date Format**: Use `YYYY-MM-DD` format for all dates.
+* **Date Format**: Use 1 date format for all dates for consistency.
 * **Logical Date Entries**: Ensure dates make sense (e.g., **Hire Date** is after **Birth Date**).
 
 ### Consistency & Clean Data Practices

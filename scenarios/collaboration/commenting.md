@@ -27,8 +27,6 @@ Comments let you discuss scenarios with teammates — ask questions, provide fee
 
 **View all comments** — Click the **Comments** icon in the left panel to see all comments, sorted by most recent.
 
-**Resolve comments** — Open a comment thread > click **Resolve**. Resolved comments are kept for the record but removed from the active list.
-
 **Delete comments** — Open a comment > click **⋮** > **Delete**. Only comment authors and scenario owners can delete comments.
 
 ## Common Commenting Workflows
@@ -62,15 +60,12 @@ If two planners are working on the same scenario:
 * **Comment liberally** — Explain your reasoning for key decisions
 * **Be specific** — "Should this role report to the Engineering VP?" is better than "Thoughts?"
 * **Resolve when done** — Keep the comment list focused on active discussions
-* **Document decisions** — Comments may be exported and shared with approvers
 
 ## Troubleshooting
 
-| Problem                | Solution                                                               |
-| ---------------------- | ---------------------------------------------------------------------- |
-| Comments not showing   | Refresh the page; check if you're filtering to show only unresolved    |
-| Can't delete a comment | You can only delete your own comments unless you're the scenario owner |
-| Too many comments      | Resolve addressed comments; use filters to show only unresolved        |
+| Problem              | Solution                                                            |
+| -------------------- | ------------------------------------------------------------------- |
+| Comments not showing | Refresh the page; check if you're filtering to show only unresolved |
 
 ## Next Steps
 

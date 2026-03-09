@@ -1,5 +1,6 @@
 ---
 description: Planning checklist for HR and Finance workforce planning teams
+hidden: true
 ---
 
 # Workforce Planner Checklist
@@ -116,6 +117,3 @@ Track and report on workforce plan progress each quarter.
 * [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
 * [Multi-Year Planning](../../forecast/multi-year-planning.md)
 * [Scenario Comparisons](../../scenarios/comparisons.md)
-* [Annual Hiring Plan Tutorial](/broken/pages/ReCH2MxnQgNTLdPp830r)
-* [Modeling Budget Cuts Tutorial](/broken/pages/eBC22qCOxC7oqgsbSrqO)
-* [Compensation Planning Tutorial](/broken/pages/bnH3mWf596XwhTr8JLfS)

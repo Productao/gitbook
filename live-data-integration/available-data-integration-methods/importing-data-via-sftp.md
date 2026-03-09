@@ -2,6 +2,7 @@
 description: >-
   Securely importing data via SFTP enables you to automate and manage
   large-scale data transfers directly into Agentnoon
+icon: database
 metaLinks:
   alternates:
     - >-

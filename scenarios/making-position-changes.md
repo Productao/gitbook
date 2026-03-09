@@ -19,6 +19,8 @@ All position editing happens in Scenarios - Main Org is view-only. Hover over an
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.16.41 AM.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-06 at 11.14.57 AM.png" alt=""><figcaption></figcaption></figure>
+
 New positions are marked with a green indicator in the bottom-left corner.
 
 #### Edit a Position
@@ -87,7 +89,7 @@ New positions are marked with a green indicator in the bottom-left corner.
 
 **Single:** click the card
 
-**Multiple:** Cmd+click (Mac) or Ctrl+click (Windows)
+**Multiple:** Cmd+click (Mac) or Ctrl+click (Windows), hovering over a card and pressing "x" on your keyboard
 
 **Entire team:** Hover over manager > **⋮** > **Select Team**
 
@@ -97,7 +99,7 @@ Once selected, you can change the manager for all, close multiple positions, or 
 
 ## Adding Comments
 
-Hover > **⋮** > **Comment** — add notes, @mention collaborators, explain decisions or ask questions inline on a specific position.
+Hover > **⋮** > **Comment** — add notes, explain decisions or ask questions inline on a specific position.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 11.59.14 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -111,7 +113,6 @@ Use ← → buttons to move cards left or right within the same manager level. T
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Can't make any changes                    | Confirm you are not in the Main Org. Check if you have permissions to edit certain attributes/fields (contact your admin). Confirm you have a stable internet connection, and refresh the browser. |
 | Changes aren't showing up                 | Confirm you have a stable connection to the internet, and refresh the browser.                                                                                                                     |
-| Accidentally deleted a position           | Check the Activity Log to undo, or recreate the position manually                                                                                                                                  |
 | Drag-and-drop not working                 | Use **⋮** > **Change Manager** and select from the dropdown instead                                                                                                                                |
 | Can't find position to assign employee to | Ensure the position you would like to assign an employee to exists. If it does, please reach out to support for help.                                                                              |
 

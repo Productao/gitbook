@@ -26,7 +26,7 @@ The position becomes vacant and remains in the org chart. The employee is availa
 
 **Internal transfer** - Find the target position > **Assign** > search for the employee. They automatically move from their current position, which becomes vacant.
 
-**Promotion** - Create the new higher-level position under the correct manager > **Assign** the employee to it > their old position becomes vacant for backfill.
+**Promotion** - Create the new higher-level position under the correct manager > **Assign** the employee to it > their old position becomes vacant for backfill. Note: make sure you have employee & position level fields separated as only employee level fields get copied over.
 
 **Backfill (departing employee)** - Hover over the departing employee's position > **⋮** > **Add Backfill** — closes the existing position and creates a new vacant one in its place.
 

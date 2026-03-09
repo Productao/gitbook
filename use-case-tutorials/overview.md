@@ -1,8 +1,9 @@
 ---
 description: Step-by-step tutorials for common workforce planning workflows
+icon: newspaper
 ---
 
-# 🎓 Use Case Tutorials
+# Use Case Tutorials
 
 Practical walkthroughs for the most common workforce planning scenarios. Each tutorial takes you from start to finish using Agentnoon.
 

@@ -64,10 +64,6 @@ Without an effective date, changes are treated as immediate — the position app
 
 ## FAQ
 
-**Why do changes appear in all periods even with an effective date?**
-
-You may be in the org chart/directory view (shows "after" state). Switch to Forecast view to see time-phased transitions.
-
 **Can different positions in the same scenario have different effective dates?** Yes — each position can have its own effective date
 
 **What's the difference between Hire dates vs. effective dates?**

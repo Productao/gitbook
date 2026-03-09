@@ -38,19 +38,14 @@ Create a new version when stakeholder feedback requires significant revisions, y
 * Date-based: "Plan - Feb 15"
 * Combined: "Plan v2 - Aggressive - Feb 15"
 
-## Archive vs. Delete
+## Delete
 
-**Archive when** — the scenario served an important decision, was approved/implemented, or has historical value.
-
-**Delete when** — it was a test or mistake with no meaningful content.
-
-When in doubt, archive — deletion is permanent.
+**Delete when** - it was a test or mistake with no meaningful content.
 
 **Cleanup cadence:**
 
 * **Weekly (5 min)** — Rename any "Untitled" scenarios; delete obvious test scenarios
-* **Monthly (30 min)** — Standardize names; archive completed work; export change logs before archiving
-* **Quarterly (2 hrs)** — Archive all prior quarter's scenarios; reorganize if needed
+* **Monthly (30 min)** — Standardize names; export change logs before archiving
 
 ## Comparison Sets
 

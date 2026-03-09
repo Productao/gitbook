@@ -1,4 +1,8 @@
-# 🔄 Live Data Refresh
+---
+icon: rotate
+---
+
+# Live Data Refresh
 
 ### Overview
 

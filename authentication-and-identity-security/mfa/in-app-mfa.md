@@ -3,6 +3,7 @@ description: >-
   In-App Multi-Factor Authentication (MFA) strengthens your Agentnoon account
   security by verifying your identity through a one-time code sent to your
   registered phone number during login
+icon: mobile
 metaLinks:
   alternates:
     - >-
@@ -16,7 +17,7 @@ metaLinks:
 1. Click on your profile name or email address in the top-right corner of the Agentnoon app.
 2. From the dropdown menu, select **Setup MFA** to begin the enrollment process.
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt="" width="491"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Register Your Phone Number
 

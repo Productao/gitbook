@@ -9,26 +9,6 @@ Forecast is Agentnoon's pivot table-style visualization tool for analyzing headc
 
 **Key principle** — Forecast shows you what's already in your data. To model changes (adding positions, closing roles, moving people), use Scenarios. To see those changes projected over time, use Forecast.
 
-## Forecast vs. Scenarios
-
-Forecast and Scenario work together — Create a scenario with your planned changes, then view that scenario in Forecast to see the financial and headcount impact over time.
-
-| I need to…                                           | Use                        |
-| ---------------------------------------------------- | -------------------------- |
-| Make structural changes (reorgs, RIFs, hiring)       | Scenario                   |
-| Add or close positions                               | Scenario                   |
-| Move people between teams                            | Scenario                   |
-| Create "what-if" alternatives                        | Scenario                   |
-| Submit changes for approval                          | Scenario                   |
-| Compare multiple budget cut options                  | Scenarios + Forecast       |
-| Visualize headcount or cost over time                | Forecast                   |
-| Aggregate data by department, location, or dimension | Forecast                   |
-| Analyze monthly, quarterly, or annual trends         | Forecast                   |
-| Report headcount by quarter to the board             | Forecast                   |
-| Export workforce cost for Finance                    | Forecast                   |
-| See cost impact of a restructure over time           | Forecast (of the scenario) |
-| See monthly hire ramp from new positions             | Forecast (of the scenario) |
-
 ## Accessing Forecast
 
 From Main Org or any scenario: click the module dropdown at the top > select **Forecast**.
@@ -185,6 +165,4 @@ Beyond hire and termination dates, you can use effective dates to model changes 
 
 * [**Forecast Navigation**](navigation.md) - Master the Forecast interface and controls
 * [**Building Headcount Forecasts**](building-headcount-forecasts.md) - Create your first forecast
-* [**Budget Planning & Tracking**](/broken/pages/i8Gakir7OiTeqKZMK86R) - Align forecasts with budgets
-* [**Forecast vs Scenarios**](/broken/pages/MKRiiU8DK4L0RAbqG70N) - Detailed comparison of the two modules
 * [**Multi-Year Planning**](multi-year-planning.md) - Long-term workforce projections

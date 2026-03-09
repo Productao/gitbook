@@ -1,5 +1,6 @@
 ---
 description: Analyzing diversity metrics and planning inclusive workforce changes
+icon: people-carry-box
 ---
 
 # Diversity & Inclusion Analysis
@@ -86,15 +87,6 @@ This shows when you'll reach representation targets.
 3. Name it (e.g., "Monthly DEI Dashboard") to reload quickly for consistent reporting
 
 **Export for presentations:** Export > PowerPoint (org chart with DEI highlights) or CSV (detailed compliance data).
-
-## Troubleshooting
-
-| Issue                                           | Solution                                                                                                                                                                                   |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| DEI fields not visible                          | Make sure that DEI data was provided in Data Upload. If not present, add data fields and re-upload.                                                                                        |
-| Forecast not showing DEI changes                | Select DEI field in Forecast aggregator. If making changes over time, verify hire/termination dates are mapped in data upload and/or effective dates are set when making position changes. |
-| Can't aggregate by DEI field in Workforce Hub   | Ensure field exists in Fields and Attributes and is not hidden.                                                                                                                            |
-| Incomplete data (many "prefer not to disclose") | Report on available data with noted limitations; never pressure disclosure.                                                                                                                |
 
 ## Related Resources
 

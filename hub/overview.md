@@ -95,9 +95,7 @@ The Workforce Hub includes the following chart types:
 * Headcount Cost Chart
 * Stacked Headcount Cost Chart
 
-For detailed information about chart navigation and controls, see [Chart Navigation](/broken/pages/JIAbrci64b9opLOuKIfs).
-
-For information about creating slide packs, see [Packs](packs.md).
+For information about creating packs, see [Slide Packs](packs.md).
 
 ### Visual Guide
 

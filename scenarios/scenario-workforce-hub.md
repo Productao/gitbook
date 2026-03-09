@@ -12,7 +12,7 @@ The Scenario Workforce Hub provides analytics to help you validate your scenario
 ## Accessing Scenario Workforce Hub
 
 1. Open any scenario
-2. Click the **view dropdown** at the top (default shows "Directory")
+2. Click the **view dropdown** at the top (default shows "Org chart")
 3. Select **"Workforce Hub"**
 
 The Hub automatically reflects your scenario's current state.
@@ -54,4 +54,3 @@ Use exported charts in business cases, planning presentations, and leadership re
 * [Layers & Spans Chart](../hub/layers-spans-chart.md)
 * [Headcount Distribution Chart](../hub/headcount-distribution-chart.md)
 * [Headcount Heatmap Chart](../hub/headcount-heatmap-chart.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)

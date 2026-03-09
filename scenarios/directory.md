@@ -11,26 +11,6 @@ The Scenario Directory is a spreadsheet-style table of all positions with change
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-## Scenario-Specific Columns
-
-In addition to standard fields (Name, Title, Department, Manager, Salary), Scenario Directory shows:
-
-* **Change Type** — Addition, Reduction, Modification, or None
-* **Effective Date** — When the change takes effect
-* **Cost Impact** — Dollar impact of the change
-* **Before/After values** — Original and new values for modifications
-
-Enable these via the column selector (gear icon). Showing Change Type and Cost Impact is recommended when reviewing scenarios.
-
-## Change Highlighting
-
-Rows are color-coded:
-
-* 🟢 **Green** — Added position
-* 🔴 **Red** — Closed/RIF'd position
-* 🔵 **Blue** — Modified position
-* ⚪ **White** — No change from Main Org
-
 ## Filtering for Changes
 
 Use filters to focus on specific change types:
@@ -38,7 +18,6 @@ Use filters to focus on specific change types:
 * **Change Type = Addition** — Review all new positions before submitting
 * **Change Type = Reduction** — Audit all RIFs
 * **Change Type = Modification** — See what was edited and at what cost
-* **Effective Date range** — See all Q1 or Q2 changes
 
 **Common combinations:**
 
@@ -59,23 +38,19 @@ Once selected, the bulk edit panel opens. Available actions: Edit Attributes, Ch
 ## Exporting from Directory
 
 1. Set filters and visible columns as desired
-2. Click **Export** > choose format (CSV, Excel) and scope (all/filtered/selected)
+2. Click **Export** > choose file (CSV, Comparison CSV) and scope (all/selected fields)
 3. Export includes all visible columns: change indicators, before/after values, cost impact, effective dates
-
-:bulb: **Protip** - **Save filter views:** Save combinations like "Open Positions Only" or "Changed in This Scenario" to quickly return to focused views.
 
 ## Troubleshooting
 
-| Problem                                | Solution                                                                                                                |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Change Type column missing             | Click column settings > check "Change Type"                                                                             |
-| Seeing all positions, not just changes | Filter: Change Type ≠ "No Change"                                                                                       |
-| Bulk selection not working             | Confirm you're in a Scenario (Main Org Directory is view-only)                                                          |
-| Color-coding not showing               | Refresh the page                                                                                                        |
-| Can't edit in Directory                | Confirm that you are in a scenario. Select positions > use bulk edit panel, or click a position to open the edit panel. |
+| Problem                        | Solution                                                                                                                |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Scenario status column missing | Click column settings > check "Scenario status"                                                                         |
+| Bulk selection not working     | Confirm you're in a Scenario (Main Org Directory is view-only)                                                          |
+| Color-coding not showing       | Refresh the page                                                                                                        |
+| Can't edit in Directory        | Confirm that you are in a scenario. Select positions > use bulk edit panel, or click a position to open the edit panel. |
 
 ## Related Articles
 
 * [Bulk Operations](bulk-operations.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
 * [Scenario Exporting](exporting.md)

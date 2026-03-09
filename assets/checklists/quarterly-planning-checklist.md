@@ -1,5 +1,6 @@
 ---
 description: Workflow checklist for quarterly planning cycles
+hidden: true
 ---
 
 # Quarterly Planning Checklist
@@ -61,7 +62,6 @@ Track progress throughout the quarter and adjust as needed.
 
 * [Building Headcount Forecasts](../../forecast/building-headcount-forecasts.md)
 * [Time-Based Planning](../../scenarios/time-based-planning.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
 * [Annual Planning Checklist](annual-planning-checklist.md)
 * [Department Lead Checklist](department-lead-checklist.md)
 * [Workforce Planner Checklist](workforce-planner-checklist.md)
