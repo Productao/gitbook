@@ -51,6 +51,12 @@ Best for executive and board presentations. Each manager with direct reports get
 
 **Tip:** Export in "Main org" and "Scenario" orgchart separately to create side-by-side comparison slides.
 
+**Note:** If the report contains a large volume of data, the export may not generate immediately. In such cases, you will see a notification (as shown in the screenshots) indicating that the file is being processed. Once the PowerPoint file is ready, you will receive an email with access to download the exported file.
+
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+
 ## Data Exports
 
 **CSV / Excel (Directory)** - Export position data in CSV. Click on Download CSV from your side panel:

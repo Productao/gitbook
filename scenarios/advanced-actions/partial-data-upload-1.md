@@ -2,11 +2,10 @@
 description: >-
   Update specific fields or add new records without re-uploading your entire
   dataset.
-hidden: true
 icon: arrow-up-from-bracket
 ---
 
-# Partial Data Upload
+# Partial Data Upload (New Version)
 
 Partial Upload lets you update select records or append new ones to your Agentnoon org chart without importing your full data file.
 
@@ -48,28 +47,52 @@ Partial Uploads can be performed by administrators and users with data managemen
 * Consider an approval workflow for major uploads
 * An audit trail tracks who uploaded what and when
 
-## Prepare Your Partial Dataset
+### Prepare Your Partial Dataset
 
-1. Create a spreadsheet with only the records you want to update or add
-2. Include only the fields that need to be updated (e.g., Name, Job Title)
-3. Ensure each row includes a unique identifier (Employee ID or Position ID)
-4. For new positions or employees, include a Manager ID to correctly place them in the org chart
+To use the partial approach:
 
-**Note:** Records without a manager may appear detached from the structure.
+1. Navigate to the **scenario** where you want to perform updates.
+2. Go to **Data Management**.
+3. Locate the option labeled **“Upload Partial Data.”**
 
-## Uploading the File
+Before proceeding, the system typically displays warnings and informational notes. These are important and should be reviewed carefully to avoid data inconsistencies.
 
-1. Navigate to **Data Management → Partial Upload**
-2. Upload your file (**CSV**).
-3. Click **Upload** to begin processing.
+#### **Download the Baseline File**
 
-## Mapping Changes
+Start by downloading the **baseline dataset**, which serves as your reference point. You can choose between:
 
-1. Select a unique identifier (e.g., Employee ID or Position ID) so Agentnoon knows which existing records to update
-2. Agentnoon auto-detects the fields in your partial file and pre-selects them for update. You don't need to re-map fields that haven't changed.
-3. Review the selected fields and make adjustments if needed before continuing
+* **Position data**
+* **Employee data**
 
-Once the upload completes, existing records update and any new records appear in the org chart. Changed cards are marked with an orange edit icon in the bottom-left corner.
+Update the spreadsheet with only the records you want to update or add.
+
+1. Include only the fields that need to be updated (e.g. Name, Job Title).
+2. Ensure each row includes a unique identifier (like Employee ID or Position ID or Agentnoon ID).
+3. For new positions/employees, include a Manager ID to correctly place them in the org chart.\
+   &#xNAN;_**Note: Records without a manager may appear detached from the structure.**_
+
+<div><figure><img src="../../.gitbook/assets/Screenshot 2025-04-30 at 6.27.08 PM (1).png" alt=""><figcaption><p>Example: Original employee dataset</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-04-30 at 6.29.06 PM (1).png" alt=""><figcaption><p>Example: Edited partial upload dataset</p></figcaption></figure></div>
+
+#### **Uploading the File**
+
+1. Click to upload the file or drag and drop the file (CSV).
+
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
+### Mapping Changes
+
+Map records to update
+
+1. **Select a unique identifier** (e.g., Employee ID or Position ID) so Agentnoon knows which existing records to update.
+2. Agentnoon auto-detects the fields present in your partial file and pre-selects them for update. \
+   &#xNAN;_**Note: You don’t need to re-map fields that haven’t changed.**_
+3.  Review the selected fields and make adjustments if needed before continuing.<br>
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-11-11 at 5.40.29 PM (1).png" alt=""><figcaption></figcaption></figure>
+
+Once the upload completes, your data will be refreshed. Existing records will update, and any new records will appear in the org chart. You can identify which cards have changed by looking for the orange edit icon in the bottom-left corner.
+
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Partial Upload Scenarios
 
@@ -152,6 +175,6 @@ Export the acquired company's org structure, including:
 ## Related Articles
 
 * [M\&A Integration Tutorial](../../use-case-tutorials/ma-integration.md) - Complete M\&A workflow using Partial Upload
-* [Data Import](data-import.md) - Full data import process
-* [Data Requirements](data-requirements.md) - Required fields and formatting
-* [Data Error Checklist](data-error-checklist.md) - Troubleshooting data issues
+* [Data Import](../../admin/data-management/data-import.md) - Full data import process
+* [Data Requirements](../../admin/data-management/data-requirements.md) - Required fields and formatting
+* [Data Error Checklist](../../admin/data-management/data-error-checklist.md) - Troubleshooting data issues

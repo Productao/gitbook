@@ -46,6 +46,12 @@ When exporting to PowerPoint, you can configure:
 
 Each manager with direct reports appears on a separate slide.
 
+**Note:** If the report contains a large volume of data, the export may not generate immediately. In such cases, you will see a notification (as shown in the screenshot) indicating that the file is being processed. Once the PowerPoint file is ready, you will receive an email with access to download the exported file.
+
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
 ### Exporting from Directory&#x20;
 
 For structured data control:

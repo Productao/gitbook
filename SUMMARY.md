@@ -31,8 +31,10 @@
 * [Using Scenarios](scenarios/using-scenarios-basics.md)
   * [Making Position Changes](scenarios/making-position-changes.md)
   * [Bulk Operations](scenarios/bulk-operations.md)
+  * [Managing Effective Dates in Scenarios](scenarios/using-scenarios-basics/managing-effective-dates-in-scenarios.md)
   * [Working with People](scenarios/working-with-people.md)
 * [Scenario Changes & Impact (OpEx Panel)](scenarios/opex-panel.md)
+* [Views](scenarios/views.md)
 * [Scenario Approvals](scenarios/approvals.md)
 * [Time-Based Planning](scenarios/time-based-planning.md)
 * [Scenario Comparisons](scenarios/comparisons.md)
@@ -53,6 +55,7 @@
   * [Scenario Merging](scenarios/merging.md)
   * [Scenario to Main Org Merge](scenarios/scenario-to-main-org.md)
   * [Partial Data Upload](admin/data-management/partial-data-upload.md)
+  * [Partial Data Upload (New Version)](scenarios/advanced-actions/partial-data-upload-1.md)
 
 ## Directory
 
@@ -119,6 +122,7 @@
     * [Google and Microsoft SSO](authentication-and-identity-security/single-sign-on-sso/google-and-microsoft-sso.md)
   * [Whitelisting](authentication-and-identity-security/whitelisting.md)
 * [Data Security & Privacy](technical-documentation/data-security-privacy.md)
+* [Data Transformation Hub](technical-documentation/data-security-privacy-1.md)
 * [Live Data Refresh](live-data-integration/what-is-a-live-data-integration.md)
   * [Available Data Integration Methods](live-data-integration/available-data-integration-methods/README.md)
     * [Importing Data via SFTP](live-data-integration/available-data-integration-methods/importing-data-via-sftp.md)

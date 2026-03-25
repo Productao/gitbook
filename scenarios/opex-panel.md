@@ -90,9 +90,11 @@ See [Scenario Approvals](approvals.md) for the full approval workflow.
 
 The OpEx Panel doesn't have a built-in export. To download a record of changes:
 
-* **Activity Log** - A log of all changes made in the scenario (who changed what and when)
+* **Activity Log** - Provides a detailed view of field-level changes across scenarios, capturing before/after values, user, and timestamp
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+**Note (Undo & Redo):** Use "Undo" to quickly revert the action you did - if you click on undo accidentally, you should be able to "Redo" the desired action. You can also use Undo & Redo for bulk edits using 1-click.
+
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 * **Export Data** in the toolbar → select **Comparisons Report** to download a before/after comparison of all positions
 
