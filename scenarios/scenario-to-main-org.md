@@ -19,12 +19,21 @@ Merge an approved scenario into Main Org to make planned changes the new organiz
 
 1. Navigate to **Main Org**
 2. Open toolbar > **Data Management** > **Merge Approved Scenarios to Main**
+
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+
 3. Select the approved scenario from the list
+
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+
 4. Click **Next**
 
 **Select fields to merge:**
 
 * Select All (recommended) — all scenario changes apply to Main Org
+
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+
 * Selective fields — only chosen fields update (e.g., Department only); useful when a scenario only modeled one type of change
 
 **Include New Positions:**
@@ -33,7 +42,13 @@ Merge an approved scenario into Main Org to make planned changes the new organiz
 * Uncheck if new positions were hypothetical only
 
 5. Review conflicts — when the same position was edited in both the scenario and Main Org since the scenario was created, a conflict appears. Click **"Use Scenario Values for All Conflicts"** — approved scenarios should be treated as the source of truth.
+
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
 6. Click **Merge to Main**
+
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
 7. Wait for completion, then verify changes in Main Org
 
 ## Full Org vs. Partial Org Scenarios

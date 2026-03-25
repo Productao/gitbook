@@ -56,7 +56,7 @@ You can analyze the impact of your changes in multiple ways:
   * Monthly
   * Quarterly
   * Yearly perspectives
-* Export data as a **CSV file** for further analysis
+* Export data as a **CSV file** for further analysis.
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 

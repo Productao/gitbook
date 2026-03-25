@@ -5,7 +5,7 @@ description: >-
 icon: arrow-up-from-bracket
 ---
 
-# Partial Data Upload (New Version)
+# Partial Data Upload
 
 Partial Upload lets you update select records or append new ones to your Agentnoon org chart without importing your full data file.
 

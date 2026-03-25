@@ -54,8 +54,8 @@
 * [⚙️ Advanced Scenario Actions](scenarios/advanced-actions.md)
   * [Scenario Merging](scenarios/merging.md)
   * [Scenario to Main Org Merge](scenarios/scenario-to-main-org.md)
-  * [Partial Data Upload](admin/data-management/partial-data-upload.md)
-  * [Partial Data Upload (New Version)](scenarios/advanced-actions/partial-data-upload-1.md)
+  * [Partial Data Upload (Old version)](admin/data-management/partial-data-upload.md)
+  * [Partial Data Upload](scenarios/advanced-actions/partial-data-upload-1.md)
 
 ## Directory
 

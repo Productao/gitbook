@@ -13,11 +13,20 @@ Scenario Merging lets you consolidate changes from one scenario (source) into an
 
 1. Open the destination scenario
 2. Go to Toolbar > **Data Management** > **Merge Scenario**
+
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+
 3. Select the source scenario from the dropdown
+
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+
 4. **Select Records** — choose All or a filtered subset
 5. **Select Fields** — choose All fields or specific attributes (e.g., salary only)
 6. Review the summary (records, fields, destination backup info)
 7. **Conflict Review** — see conflicts and resolve (details below)
+
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+
 8. Click **Merge**
 
 A backup of the destination scenario is automatically created before merging.
