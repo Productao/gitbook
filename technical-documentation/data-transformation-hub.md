@@ -1,6 +1,5 @@
 ---
 description: Add enrichment data on top of your automated integration
-hidden: true
 icon: laptop-binary
 ---
 

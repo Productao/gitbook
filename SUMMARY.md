@@ -123,6 +123,7 @@
   * [Whitelisting](authentication-and-identity-security/whitelisting.md)
 * [Data Security & Privacy](technical-documentation/data-security-privacy.md)
 * [Data Transformation Hub](technical-documentation/data-security-privacy-1.md)
+* [Data Transformation Hub](technical-documentation/data-transformation-hub.md)
 * [Live Data Refresh](live-data-integration/what-is-a-live-data-integration.md)
   * [Available Data Integration Methods](live-data-integration/available-data-integration-methods/README.md)
     * [Importing Data via SFTP](live-data-integration/available-data-integration-methods/importing-data-via-sftp.md)
