@@ -56,5 +56,5 @@ Use the **Show only conflicts** filter to review what you'd be overwriting befor
 ## Related Articles
 
 * [Scenario Comparisons](comparisons.md) — Compare without merging
-* [Scenario Refresh](/broken/pages/fnnfy4SZXur2iTxRXwHb) — Update scenario with Main Org changes
+* [Scenario Refresh](advanced-actions/scenario-refresh.md) — Update scenario with Main Org changes
 * [Bulk Operations](bulk-operations.md)
