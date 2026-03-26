@@ -10,7 +10,7 @@
 * [Agentnoon 101](start-here/agentnoon-101.md)
   * [Cards](start-here/cards.md)
   * [Fields and Attributes](start-here/fields-and-attributes.md)
-  * [Views (Orgchart & Directory)](start-here/agentnoon-101/views-orgchart-and-directory.md)
+  * [Views](start-here/agentnoon-101/views.md)
   * [Scenarios Fundamentals](start-here/scenarios-fundamentals.md)
   * [Workforce Hub Fundamentals](start-here/workforce-hub-fundamentals.md)
 * [Video Tutorials](start-here/video-tutorials.md)
