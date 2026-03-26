@@ -1,6 +1,6 @@
 ---
 description: Update an existing scenario with the latest Main Org data
-icon: traffic-cone
+icon: arrows-rotate
 layout:
   width: default
   title:
