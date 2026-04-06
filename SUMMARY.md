@@ -93,6 +93,7 @@
 * [Admin Overview](admin/overview.md)
 * [Access Control](access-control/overview.md)
   * [Access Groups](access-control/access-groups.md)
+  * [Access Scope](admin-capabilities/overview-1/access-groups-1.md)
   * [Advanced Access Controls](access-control/advanced-access-controls.md)
   * [User Invitations](access-control/user-invitations.md)
   * [Updating Login Method](access-control/updating-login-method.md)
