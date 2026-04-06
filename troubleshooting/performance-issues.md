@@ -1,5 +1,5 @@
 ---
-description: Addressing slow performance and loading problems
+description: Address slow performance and loading problems
 ---
 
 # ⚡ Performance Issues
@@ -17,7 +17,7 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 
 **Slow initial load after login**
 
-* 30–60 seconds is normal for orgs >5,000 employees — don't refresh during initial load
+* 30–60 seconds is normal for orgs >5,000 employees — do not refresh during initial load
 * If consistently >2 minutes: test internet speed, try a wired connection, contact support
 
 **Page freezes / "Page Unresponsive"**
@@ -31,8 +31,8 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 **Org chart slow to render**
 
 * Filter by department, layer (top 3 layers), or location before opening the org chart
-* Collapse sections you don't need; switch to Directory view for navigation
-* For orgs >10,000: use Directory view primarily; use org chart only for specific sections
+* Collapse sections you do not need; switch to Directory view for navigation
+* For orgs >10,000: use Directory view primarily; use the org chart only for specific sections
 
 **Drag-and-drop is laggy**
 
@@ -43,7 +43,7 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 **Expand/collapse actions are slow**
 
 * Normal: 5–10 seconds for positions with >50 reports
-* Use Directory view + filter by Manager for large teams instead of expanding in org chart
+* Use Directory view + filter by Manager for large teams instead of expanding in the org chart
 
 ## Scenario Performance
 
@@ -63,7 +63,7 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 **Directory view or filters slow to load**
 
 * Apply simple filters first (department, location), then add complex ones
-* Hide unnecessary columns (fewer columns = faster); sort by simple fields (Name, Title) not calculated fields (SOC, Cost)
+* Hide unnecessary columns (fewer columns = faster); sort by simple fields (Name, Title) instead of calculated fields (SOC, Cost)
 * Save frequently-used filter combinations as views
 
 ## Export Performance
@@ -88,15 +88,15 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 
 **General browser crash**
 
-* Clear cache; disable all extensions; restart computer (need 8GB+ RAM recommended)
-* Reinstall browser if crashes persist; contact support with crash logs
+* Clear cache; disable all extensions; restart computer (8GB+ RAM recommended)
+* Reinstall the browser if crashes persist; contact support with crash logs
 
 ## Network and VPN
 
 **Slow connection / high latency**
 
 * Minimum: 5/1 Mbps; recommended: 25+/5 Mbps; use wired (Ethernet) over WiFi
-* Close bandwidth-heavy apps (streaming, downloads); schedule large operations off-peak
+* Close bandwidth-heavy apps (streaming, downloads); schedule large operations during off-peak
 
 **VPN slowing performance**
 
@@ -106,13 +106,13 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 ## Large Organizations (10,000+ Employees)
 
 * Always filter before viewing — never load the full org at once
-* Use Directory view as primary navigation; reserve org chart for specific sections
+* Use Directory view as primary navigation; reserve the org chart for specific sections
 * Save every 10–20 changes; use partial upload for bulk changes
-* Break bulk operations into batches of 50–100; schedule large operations off-peak
+* Break bulk operations into batches of 50–100; schedule large operations during off-peak hours
 * Recommended: 50+ Mbps internet; 16GB RAM
 
 ## When to Contact Support
 
-Contact SupportSWP@dayforce.com if performance doesn't improve after trying solutions, the application consistently times out, or a browser crashes repeatedly.
+Contact support at SupportSWP@dayforce.com if performance does not improve after trying the steps above, the application consistently times out, or a broswer crashes repeatedly.&#x20;
 
 Include: org size, browser version, OS, internet speed, computer specs, specific slow actions, and browser console errors (F12 > Console).

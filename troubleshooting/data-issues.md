@@ -1,39 +1,39 @@
 ---
-description: Fixing data upload and sync problems
+description: Fix data upload and sync issues
 ---
 
 # 📊 Data Issues
 
-Common solutions for data upload errors, validation failures, broken hierarchies, missing data, and field mapping problems.
+Common solutions for upload errors, validation failures, broken hierarchies, missing data, and field mapping issues.
 
 ## Data Upload Errors
 
 **CSV upload fails completely**
 
-* Ensure file is saved as CSV (not .xlsx); verify encoding is UTF-8 (Excel: Save As > CSV UTF-8)
-* Check file size (<50MB); remove empty rows/columns
-* Test with a small subset (100 rows) to isolate the issue; try a different browser
+* Ensure the file is saved as CSV (not .xlsx) and encoded as UTF-8 (Excel: Save As > CSV UTF-8)
+* Check file size (<50MB) and remove empty rows or columns
+* Test with a small subset (e.g., 100 rows) to isolate the issue; try a different browser
 
 **"Missing required fields"**
 
 * Add the missing column (Position ID, Manager ID, or Job Title)
 * Headers are case-sensitive and must match exactly
-* Leave Manager ID blank only for the top-level position (CEO)
+* Leave Manager ID blank only for the top-level position (e.g., CEO)
 
 **"Duplicate Employee ID"**
 
-* In Excel: select Employee ID column > Data > Remove Duplicates
-* Correct so every ID is unique, then re-upload
+* In Excel: select the Employee ID column > Data > Remove Duplicates
+* Ensure each ID is unique, then re-upload
 
 **"Invalid Manager ID"**
 
 * Each Manager ID must match an existing Employee ID in the file
-* Check for typos, format mismatches (e.g., "001" vs "1"), or managers removed from the dataset
+* Check for typos, format mismatches (e.g., "001" vs "1"), or managers missing from the dataset
 
 **"Circular reporting" or "Self-reporting"**
 
-* Trace the reporting chain to find the loop (e.g., A → B → C → A)
-* Correct one Manager ID to break the loop; an employee cannot be their own manager
+* Trace the reporting chain to identify the loop (e.g., A → B → C → A)
+* Update a Manager ID to break the loop; an employee cannot be their own manager
 
 ## Field Mapping Issues
 
@@ -45,7 +45,7 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 **Custom fields not appearing**
 
 * In Data Management > Field Mapping, add a mapping for the custom CSV column
-* Choose field type (text, number, date), save, then re-upload or use partial upload
+* Select a field type (text, number, date), save, then re-upload or use a partial upload
 
 **Date format errors**
 
@@ -57,19 +57,19 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 
 **Missing employees after upload**
 
-* Check upload report for validation errors (missing required fields, invalid manager IDs)
-* Clear all filters; verify employees are within your access scope
-* Partial uploads only update records in the file — use a full upload to include all employees
+* Check the upload report for validation errors (e.g., missing required fields, invalid manager IDs)
+* Clear all filters and verify employees are within your access scope
+* Partial uploads only update records included in the file — use a full upload to include all employees
 
 **Employee data incorrect after upload**
 
-* Verify source CSV has correct values; check field mapping
-* Re-upload a corrected CSV; if still wrong after re-upload, contact support
+* Verify the source CSV contains correct values and check field mapping
+* Re-upload a corrected CSV; if issue persists, contact support
 
 **Reporting relationships broken**
 
 * Look for the orange broken hierarchy indicator in the toolbar
-* Fix options: correct in source HRIS and re-sync, use partial upload to fix Manager IDs, or manually edit the position (temporary)
+* Fix by updating the source HRIS and re-syncing, using a partial upload to correct Manager IDs, or manually editing the position (temporary)
 
 **Department / location incorrect**
 
@@ -156,10 +156,10 @@ Common solutions for data upload errors, validation failures, broken hierarchies
 
 Contact SupportSWP@dayforce.com if:
 
-* Upload fails with unclear error after trying solutions
-* Data corruption occurred after upload
-* Live integration stopped working completely
+* Uploads fail with unclear errors after the steps above
+* Data corruption occurs after upload
+* Live integration stops working completely
 * Validation errors persist after fixes
-* Data refresh stuck >2 hours
+* A data refresh is stuck for more than 2 hours
 
 Include: upload timestamp, exact error message, anonymized sample CSV, screenshots, and organization name.

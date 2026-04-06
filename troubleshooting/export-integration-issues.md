@@ -1,10 +1,10 @@
 ---
-description: Fixing export and integration problems
+description: Fix export and integration problems
 ---
 
 # 📤 Export & Integration Issues
 
-Common solutions for CSV export failures, PowerPoint export problems, SFTP connection errors, and integration sync issues.
+Common solutions for CSV export failures, PowerPoint export issues, SFTP connection errors, and integration sync issues.
 
 ## CSV Export Issues
 
@@ -18,7 +18,7 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 **Missing columns**
 
 * Enable columns before exporting: click the column selector, check the boxes you need
-* Fields hidden by your access group (e.g., salary) cannot be exported — contact admin
+* Fields hidden by your access group (e.g., salary) cannot be exported — contact your admin
 
 **Missing rows**
 
@@ -27,7 +27,7 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 
 **CSV won't open in Excel / data appears corrupted**
 
-* Import via Excel > Data > From Text/CSV, selecting UTF-8 encoding (don't double-click the file)
+* Import via Excel > Data > From Text/CSV, selecting UTF-8 encoding (do not double-click the file)
 * Numbers as text: select column > Data > Text to Columns > Finish
 * Dates export as YYYY-MM-DD; reformat in Excel if needed
 * Salary values should be plain numbers (no $ or commas) — clear formatting if needed
@@ -137,11 +137,11 @@ Common solutions for CSV export failures, PowerPoint export problems, SFTP conne
 
 ## When to Contact Support
 
-Contact SupportSWP@dayforce.com if:
+Contact sSupportSWP@dayforce.com if:
 
 * Exports consistently fail after trying solutions
 * Integration connection fails with unclear error after credentials verified
 * Data syncing but values are completely wrong
 * Scheduled exports not running despite correct configuration
 
-Include: export/integration name, exact error message, timestamp, screenshots, integration logs, and what you've already tried. For integration issues, add the integration type and connection details (no passwords).
+Include: export/integration name, exact error message, timestamp, screenshots, integration logs, and what you have already tried. For integration issues, add the integration type and connection details (no passwords).

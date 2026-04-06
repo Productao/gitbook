@@ -1,40 +1,40 @@
 ---
-description: Resolving scenario planning problems
+description: Resolve scenario planning problems
 ---
 
 # 🎯 Scenario Issues
 
-Common solutions for scenario save failures, approval problems, change tracking issues, and drag-and-drop not working.
+Common solutions for scenario save failures, approval problems, change tracking issues, and drag-and-drop issues.
 
 ## Save & Load Issues
 
 **Can't make changes to a scenario**
 
-* Check if scenario is locked (submitted for approval) — cannot edit until returned or rejected
+* Check if the scenario is locked (submitted for approval) — cannot edit until returned or rejected
 * Verify you have edit permissions (not view-only)
-* Locked scenarios will show a visual indication that editing is disabled
+* Locked scenarios display a visual indicator that editing is disabled
 
 **Changes keep reverting**
 
-* All changes autosave automatically as you make them — if changes appear to revert, check your internet connection
-* Clear browser cache; if still reverting, try a different browser and contact support
+* Changes autosave as you make them — if changes appear to revert, check your internet connection
+* Clear browser cache; if still reverting, try a different browser and contact suppo
 
 **Scenario won't load / blank screen**
 
 * Wait 30–60 seconds for large orgs to load
 * Clear cache, refresh (Ctrl+R), or try incognito mode
-* If only this scenario fails to load, it may be corrupted — contact support with the scenario name
+* If only this scenario fails to load, the scenario may be corrupted — contact support with the scenario name
 
 **Can't create new scenario**
 
-* Verify Main Org has data loaded (scenarios require a baseline)
-* Check you have edit/admin permissions and that your plan's scenario limit isn't reached
+* Verify the Main Org has data loaded (scenarios require a baseline)
+* Check you have edit/admin permissions and that your plan's scenario limit has not been reached
 
 ## Position Editing Issues
 
 **Can't add / edit positions**
 
-* Confirm scenario is not locked and you have edit permissions
+* Confirm the scenario is not locked and you have edit permissions
 * Right-click a manager card → "Add Direct Report", or use Toolbar > Position Interactions
 * For field-level restrictions (e.g., salary hidden), contact your admin
 
@@ -89,7 +89,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 **Conflicting edits from multiple users**
 
-* Concurrent editing is not fully supported — coordinate edit times or assign ownership
+* Concurrent editing is limited — coordinate edit times or assign ownership
 * If conflict occurs, refresh to see latest changes and re-apply yours carefully
 
 ## Approval Workflow Issues
@@ -136,9 +136,9 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 Contact SupportSWP@dayforce.com if:
 
-* Scenario corrupted or won't load after trying solutions
-* Changes saving but not appearing in OpEx Panel
-* Bulk operations failing repeatedly
-* Approval workflow completely stuck
+* Scenario is corrupted or won't load after trying the steps above
+* Changes are saving but not appearing in OpEx Panel
+* Bulk operations fail repeatedly
+* Approval workflow is completely stuck
 
 Include: scenario name, timestamp, steps to reproduce, screenshots, and what you've already tried.

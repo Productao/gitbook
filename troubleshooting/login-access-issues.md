@@ -1,18 +1,18 @@
 ---
-description: Resolving login and authentication problems
+description: Resolve login and authentication issues
 ---
 
 # 🔑 Login & Access Issues
 
-Common solutions for login failures, SSO problems, access denied errors, and authentication issues.
+Use this guide to troubleshoot login failures, SSO issues, access denied errors, and other authentication issues.
 
-## Login Problems
+## Login Issues
 
 **Incorrect password / forgot password**
 
-* Check caps lock; verify you're using the correct email
-* Click **Forgot Password** on the login page, enter your email, and follow the reset link (check spam if not received)
-* Password requirements: 8+ characters, uppercase, lowercase, number
+* Check Caps Lock and verify you're using the correct email
+* Click **Forgot Password** on the login page, enter your email, and follow the reset link (check your spam folder if you don’t receive it)
+* Password requirements: at least 8 characters, including uppercase, lowercase, and a number
 
 **Account locked**
 
@@ -21,66 +21,71 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 
 **Wrong email / account not found**
 
-* Verify the correct email with your admin
-* If your org uses SSO, don't use email/password login — use the SSO button
-* Request an invitation from your admin if no account exists
+* Verify your email address with your adm
+* If your organization uses SSO, do not use email/password login—use the SSO button instead
+* If no account exists, request an invitation from your admin
 
 ## SSO Issues
 
 **SSO login fails or redirects back to login page**
 
-1. Clear browser cache and cookies; log out of your SSO provider (Okta, Google, Azure AD)
-2. Close all tabs, open a new window, and try again
-3. If still failing: verify SSO is set up correctly with IT; check provider status page; try a different browser
+* Clear browser cache and cookies; log out of your SSO provider (Okta, Google, Azure AD)
+* Close all tabs, open a new window, and try again
+* If still failing: verify SSO is set up correctly with IT; check provider status page; try a different browser
 
 **Wrong SSO provider selected**
 
-* Return to the login page and select the correct provider; contact your admin if unsure which to use
+* Return to the login page and select the correct provider; contact your admin if you are unsure which to use
 
 **SSO redirect loop**
 
-* Clear all cache and cookies; try incognito mode
-* If it works in incognito: clear all browser data (not just cache); if it loops there too, contact support with a screenshot of the URL
+* Clear all cache and cookies, then try incognito mode
+* If it works in incognito, clear all browser data (not just cache)
+* If the issue persists, contact support with a screenshot of the URL
 
 **Switching SSO provider**
 
-* Profile icon (top right) > **Update Authentication** > choose new method > verify by logging out and back in
+* Go to Profile (top right) > Update Authentication
+* Choose new method
+* Verify by logging out and back in
 
-## Access Denied / Missing Data
+## Access Denied & Missing Data
 
-**"Access denied" after logging in**
+**Access denied**
 
-* Verify you logged into the correct organization (profile menu > Switch Organization)
-* Contact admin to confirm your access group and scope are configured correctly
+* Verify you are logged into the correct organization (Profile menu > Switch Organization)
+* Contact your admin to confirm your access group and scope are configured correctly
 
-**Can't see certain departments, people, or org units**
+**Missing data visability**
 
 * Clear all filters first
 * Your access scope may be restricted — contact admin to review Settings > Users > \[Your Name] > Scope
 
-**Feature grayed out or missing**
+**Feature missing / grayed out**
 
 * Your access group may not include that feature, or your license may not cover it
-* Contact admin to verify role (Admin/Editor/Viewer) and access group permissions
+* Contact your admin to verify your role (Admin/Editor/Viewer) and access group permissions
 
 ## MFA Issues
 
 **MFA code not working**
 
 * Wait for a new code (codes expire every 30 seconds)
-* Ensure phone clock is set to automatic time: Android — Authenticator > Settings > Time correction > Sync now; iPhone — Settings > General > Date & Time > Set Automatically
+* Ensure phone clock is set to automatic time:
+  * Android — Authenticator > Settings > Time correction > Sync now
+  * iPhone — Settings > General > Date & Time > Set Automatically
 
 **Lost MFA device**
 
 * Use backup recovery codes (if saved during setup)
-* If no backup codes: contact SupportSWP@dayforce.com with your email, org name, last login date, and reason for reset
+* If no backup codes are available, contact SupportSWP@dayforce.com with your email, org name, last login date, and reason for reset
 
 **Disabling MFA**
 
 * Admins control MFA requirements org-wide; individuals cannot disable it if admin requires it
 * If optional: Profile > Security Settings > Disable MFA
 
-## Browser and Cookie Issues
+## Browser & Cookie Issues
 
 **"Cookies required" error**
 
@@ -94,13 +99,14 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 **Session timeout / logged out unexpectedly**
 
 * Sessions expire after inactivity — log back in
-* If VPN changes your IP, it may force re-authentication; contact IT to extend session timeout or configure split-tunneling
+* If VPN changes your IP, it may force re-authentication
+* Contact IT to extend session timeout or configure split-tunneling
 
-## Network and Firewall Issues
+## Network & Firewall Issues
 
 **Can't reach agentnoon.com**
 
-* Test other websites; try a different network (hotspot)
+* Test other websites; try a different network (e.g., a hotspot)
 * If it works off your corporate network: ask IT to whitelist `*.agentnoon.com` on port 443 (HTTPS + WebSocket)
 * Contact SupportSWP@dayforce.com for Agentnoon IP ranges if IT needs them for allowlisting
 
@@ -108,7 +114,7 @@ Common solutions for login failures, SSO problems, access denied errors, and aut
 
 * Try logging in without VPN; if that works, ask IT for split-tunneling or VPN bypass for agentnoon.com
 
-## Account and Invitation Issues
+## Account & Invitation Issues
 
 **Invitation email not received**
 
