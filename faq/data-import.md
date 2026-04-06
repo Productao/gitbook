@@ -12,9 +12,7 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 ### What data format is required to upload to Agentnoon?
 
-**Answer:** Agentnoon accepts CSV files (.csv) or Google Sheets links. Files must be UTF-8 encoded with a single header row, unique column names, and no blank columns. Date fields should use YYYY-MM-DD format.
-
-> **\[Screenshot placeholder: Sample CSV file structure showing header row with columns like Employee ID, Position ID, Manager ID, Job Title, Department, and Salary in proper format]**
+**Answer:** Agentnoon accepts CSV files (.csv). Files must be UTF-8 encoded with a single header row, unique column names, and no blank columns.&#x20;
 
 **Learn more:** [Data Requirements](../data-import/data-requirements.md)
 
@@ -32,9 +30,7 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 ### How do I prepare my CSV file to avoid upload errors?
 
-**Answer:** Follow the data error checklist: ensure unique employee IDs, valid manager IDs (no self-reporting or circular relationships), positive salary values, consistent date formats (YYYY-MM-DD), no blank mandatory fields, and standardized text formatting without special characters.
-
-> **\[Screenshot placeholder: Data validation error panel showing common errors like "Duplicate Employee ID found in row 47" and "Invalid Manager ID for row 23" with error counts]**
+**Answer:** Follow the data error checklist: ensure unique employee IDs, valid manager IDs (no self-reporting or circular relationships), positive salary values, consistent date formats, no blank mandatory fields, and standardized text formatting without special characters.
 
 **Learn more:** [Data Error Checklist](../data-import/data-error-checklist.md)
 
@@ -50,7 +46,7 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 ### How often should we refresh data?
 
-**Answer:** It depends on your setup. Manual CSV uploads are typically done weekly (Monday mornings) or bi-weekly after payroll runs. Automated integrations can sync daily (overnight) or weekly. Most organizations refresh weekly to balance freshness with stability.
+**Answer:** It depends on your setup. Manual CSV uploads are typically done weekly (Monday mornings) or monthly. Automated integrations can sync daily (overnight) or weekly. Most organizations refresh weekly to balance freshness with stability.
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
@@ -70,7 +66,7 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Answer:** Create a CSV with only the fields you want to update, always include Employee ID or Position ID to match records, then upload via Data Management → Partial Upload. Only those fields for those employees will be updated—nothing else changes.
 
-**Learn more:** [Partial Data Upload](/broken/pages/gGQXp4gTO4do683ar0OU)
+**Learn more:** [Partial Data Upload](../scenarios/advanced-actions/partial-data-upload-1.md)
 
 ***
 
@@ -82,23 +78,9 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
-### What integration methods does Agentnoon support?
-
-**Answer:** Three methods: SFTP integration (Agentnoon pulls CSV files from your server), Workday integration (direct API connection), and REST API integration (your systems push data to Agentnoon). SFTP is most common for organizations with existing data pipelines.
-
-**Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
-
 ### How do I set up a live data integration?
 
-**Answer:** Admins go to Settings → Data Management, select integration method (SFTP/Workday/REST API), provide connection details, map HRIS fields to Agentnoon fields, set sync frequency (daily/weekly), test the connection, then monitor the first sync to ensure data flows correctly.
-
-**Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
-
-### How do I check if my automated sync is working?
-
-**Answer:** Go to Settings → Data Management → Sync Logs. Check the last sync time, status (success/failure), record count, and error logs. Healthy sync shows recent completion, no errors, record count matching HRIS, and recent changes reflected in Main Org.
-
-> **\[Screenshot placeholder: Sync Logs page showing last sync timestamp, success status with green checkmark, record count (2,847 positions synced), and "View Details" button]**
+**Answer:** Contact Agentnoon support for setting up a live integration
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
@@ -122,19 +104,11 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Answer:** Likely caused by invalid manager IDs or broken reporting relationships. Go to Main Org → Data Management (admin only), look for "Broken Hierarchy" indicator with orange link icon. Click to view positions with invalid managers, then fix in HRIS and re-upload.
 
-> **\[Screenshot placeholder: Broken hierarchy warning indicator showing orange link icon with text "5 positions have invalid reporting relationships" and "View Details" link]**
-
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
 ### A new hire from yesterday isn't showing in Agentnoon. Why?
 
 **Answer:** Check if your HRIS has exported the new hire yet, verify sync has run since the hire was added, confirm the new hire passed data validation (no missing required fields), and if using manual upload, ensure you've uploaded the latest CSV.
-
-**Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
-
-### What do I do if a data sync fails?
-
-**Answer:** Check error logs in Settings → Data Management → Sync Logs. Common fixes: re-enter API credentials for authentication failures, check firewall rules for connection timeouts, fix source data in HRIS for validation errors, or update field mappings in integration settings.
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 

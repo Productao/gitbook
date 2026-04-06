@@ -42,42 +42,7 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 
 **Expand/collapse actions are slow**
 
-* Normal: 5–10 seconds for positions with >50 reports
-* Use Directory view + filter by Manager for large teams instead of expanding in the org chart
-
-## Scenario Performance
-
-**Scenario operations timing out**
-
-* Break large changes into smaller batches (25 at a time, not 100+); save frequently
-* For large bulk changes: use partial upload (CSV) instead of manual edits
-* Try during off-peak hours; contact support if timeouts persist
-
-**Scenario comparison is slow**
-
-* Wait 30–60 seconds; filter to a specific department before comparing
-* For large datasets: export both scenarios to CSV and compare in Excel
-
-## Directory and Filter Performance
-
-**Directory view or filters slow to load**
-
-* Apply simple filters first (department, location), then add complex ones
-* Hide unnecessary columns (fewer columns = faster); sort by simple fields (Name, Title) instead of calculated fields (SOC, Cost)
-* Save frequently-used filter combinations as views
-
-## Export Performance
-
-**Large export timing out**
-
-* Apply filters to reduce export size; export one department or date range at a time
-* Use CSV format (faster than Excel); close other tabs during export
-* For >50,000 rows: contact support for bulk export assistance
-
-**PowerPoint export slow**
-
-* Filter to top 3–4 layers or a specific department before exporting
-* Reduce card content fields; export in sections and combine manually
+* Normal: 2–10 seconds for positions with >50 reports
 
 ## Browser-Specific Issues
 
@@ -89,27 +54,13 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 **General browser crash**
 
 * Clear cache; disable all extensions; restart computer (8GB+ RAM recommended)
-* Reinstall the browser if crashes persist; contact support with crash logs
 
 ## Network and VPN
-
-**Slow connection / high latency**
-
-* Minimum: 5/1 Mbps; recommended: 25+/5 Mbps; use wired (Ethernet) over WiFi
-* Close bandwidth-heavy apps (streaming, downloads); schedule large operations during off-peak
 
 **VPN slowing performance**
 
 * Test without VPN to confirm it's the cause
 * Ask IT to configure split-tunneling (bypass VPN) for agentnoon.com
-
-## Large Organizations (10,000+ Employees)
-
-* Always filter before viewing — never load the full org at once
-* Use Directory view as primary navigation; reserve the org chart for specific sections
-* Save every 10–20 changes; use partial upload for bulk changes
-* Break bulk operations into batches of 50–100; schedule large operations during off-peak hours
-* Recommended: 50+ Mbps internet; 16GB RAM
 
 ## When to Contact Support
 

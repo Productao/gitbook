@@ -64,7 +64,7 @@ Answers to common questions about creating, managing, and working with scenarios
 
 ### Can I undo changes in a scenario?
 
-**Answer:** For recent changes, use browser undo (Cmd/Ctrl + Z). For older changes, check the Activity Log if available. Alternatively, delete the scenario and start over, or duplicate the scenario before making major changes to preserve previous versions.
+**Answer:** For recent changes, use browser undo (from the activity log). For older changes, check the Activity Log if available. Alternatively, delete the scenario and start over, or duplicate the scenario before making major changes to preserve previous versions.
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
@@ -75,8 +75,6 @@ Answers to common questions about creating, managing, and working with scenarios
 ### How do I add multiple similar positions at once?
 
 **Answer:** Use the Duplicate function. Hover over a position, click Duplicate, select how many copies (1x, 5x, or custom), then edit each copy individually. This is faster than creating positions one at a time.
-
-> **\[Screenshot placeholder: Position card context menu showing "Duplicate" option with submenu displaying "1x", "5x", and "Custom" duplication options]**
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
@@ -104,19 +102,19 @@ Answers to common questions about creating, managing, and working with scenarios
 
 ### Can multiple people edit a scenario simultaneously?
 
-**Answer:** This depends on your Agentnoon configuration. Some setups support real-time collaboration, others require sequential editing. Check with your admin. Best practice: coordinate with team members to avoid conflicting changes.
+**Answer:** Yes, multiple people can edit a scenario simultaneously. But, within the scenario - multiple users editing a position at the same time is not allowed. Best practice: coordinate with team members to avoid conflicting changes.
 
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 
 ### How do I share a scenario with my team?
 
-**Answer:** Sharing options vary by configuration. Typically, you can share via the scenario settings menu, generate a share link, or add collaborators by email. Shared users can view or edit depending on permissions you set.
+**Answer:** Sharing options vary by configuration. Typically, you can share via the scenario settings menu, generate a share link, or add collaborators by email. Shared users can view or edit depending on the type of Agentnoon access they have.
 
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 
 ### How do I add comments to positions or scenarios?
 
-**Answer:** Hover over a position, click the three-dot menu, select Comment, write your comment, optionally @mention collaborators, then post. Use comments to explain changes, ask for feedback, or document assumptions.
+**Answer:** Hover over a position, click the three-dot menu, select Comment, write your comment, then post. Use comments to explain changes, ask for feedback, or document assumptions.
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
@@ -127,8 +125,6 @@ Answers to common questions about creating, managing, and working with scenarios
 ### Where do I see the cost and headcount impact of my changes?
 
 **Answer:** Check the OpEx Panel (also called OpEx Panel or Scenario Impacts and Changes). It shows net headcount change, net cost impact, list of all additions and closures, and a submission button for approval.
-
-> **\[Screenshot placeholder: OpEx Panel panel displaying summary metrics - Net Headcount: +12, Net Cost: +$1.8M, with expandable sections for Additions (15 green), Reductions (3 red), and Data Changes (8 blue)]**
 
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 
@@ -142,8 +138,6 @@ Answers to common questions about creating, managing, and working with scenarios
 
 **Answer:** Icons indicate changes: green = newly added position, red = RIF/layoff, orange = exit/voluntary departure, blue = edited details, purple = moved to different manager, yellow = on bench. These help you quickly identify what changed at a glance.
 
-> **\[Screenshot placeholder: Org chart in scenario view showing position cards with different colored indicator icons - green plus icon for additions, red X for RIF, blue pencil for edits, purple arrow for moves]**
-
 **Learn more:** [Scenario Management](../scenarios/management.md)
 
 ***
@@ -152,9 +146,7 @@ Answers to common questions about creating, managing, and working with scenarios
 
 ### What happens when I submit a scenario for approval?
 
-**Answer:** The scenario enters the approval workflow, routing to designated approvers (Level 0 → Level 1 → Level 2 → Level 3). Depending on settings, the scenario may lock (preventing edits during approval). Approvers can approve, reject, or request changes.
-
-> **\[Screenshot placeholder: Scenario approval workflow view showing Level 0 (Approved - green checkmark), Level 1 (Pending - yellow clock icon), Level 2 (Not started - gray), Level 3 (Not started - gray)]**
+**Answer:** The scenario enters the approval workflow, routing to designated approvers (Level 0 → Level 1 → Level 2 → Level 3). Depending on settings, the scenario may lock (preventing edits during approval). Approvers can approve and reject a scenario.
 
 **Learn more:** [Scenario Approvals](../scenarios/approvals.md)
 

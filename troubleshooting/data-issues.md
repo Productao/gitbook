@@ -49,7 +49,7 @@ Common solutions for upload errors, validation failures, broken hierarchies, mis
 
 **Date format errors**
 
-* Required format: **YYYY-MM-DD** (e.g., 2026-02-18)
+* Make sure the entire format is in 1 format and you've select that format in Agentnoon when mapping your fields
 * In Excel: Format Cells > Custom > `yyyy-mm-dd`
 * Incorrect formats: `02/18/2026`, `18-Feb-2026`, `2026/02/18`
 
@@ -81,48 +81,16 @@ Common solutions for upload errors, validation failures, broken hierarchies, mis
 * Values must be plain numbers only: `150000` not `$150,000`
 * Verify field mapping points to the salary column; check currency codes (USD, EUR, GBP)
 
-## Data Sync Issues (Live Integrations)
-
-**Data not syncing from HRIS**
-
-1. Go to Settings > Data Management > Integration Status
-2. Check last sync time and review logs for errors:
-   * Authentication failure → re-enter API credentials or SFTP password
-   * Connection timeout → check firewall rules
-   * Data validation error → fix source data in HRIS
-   * Field mapping issue → update field mappings
-3. Click Test Connection; manually trigger sync to confirm
-
-**New hire not appearing**
-
-* Verify sync has run since the hire was added to HRIS
-* Check new hire passed validation (Employee ID, valid Manager ID, required fields filled)
-* Review sync logs for errors; manually trigger sync if urgent
-
-**Terminated employee still appearing**
-
-* Verify termination was processed in HRIS; check if terminated employees are still included in the export
-* Wait for next sync (employee will disappear automatically when excluded from export)
-* For immediate removal: upload a full CSV without the terminated employee
-
-**SFTP connection failing**
-
-* Settings > Data Management > SFTP Integration > Test Connection
-* Verify username, password, host, and port (usually 22)
-* Test with FileZilla/WinSCP: if external tool also fails, the issue is the SFTP server; if it works, contact support
-
 ## Data Refresh Issues
 
 **Refresh taking too long**
 
-* Normal: <5,000 employees = 5–15 min; >10,000 employees = 30–60 min
+* Normal: <5,000 employees = 1–5 min; >10,000 employees = 1–15 mins
 * If stuck >2 hours: contact support
 
 **Data refresh failed / rolled back**
 
-* Check email for error notification; review Data Management > Upload History
 * Fix validation errors in source CSV and re-upload
-* If >10% of records have errors, the upload rolls back automatically
 
 **Need to restore previous data**
 

@@ -35,7 +35,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 **Can't add / edit positions**
 
 * Confirm the scenario is not locked and you have edit permissions
-* Right-click a manager card → "Add Direct Report", or use Toolbar > Position Interactions
+* Right-click a manager card → "Add Direct Report"
 * For field-level restrictions (e.g., salary hidden), contact your admin
 
 **Drag-and-drop not working**
@@ -54,7 +54,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 **OpEx Panel not updating**
 
-* Click Save, wait a few seconds, then refresh
+* Click Save while making an edit, wait a few seconds, then refresh
 * Open via the 👀 icon; if still not updating, close and reopen the scenario
 
 **Wrong cost / headcount numbers**
@@ -71,12 +71,12 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 **No differences showing**
 
-* Confirm you're comparing two different scenarios and using "Show Changes" mode
+* Confirm you're comparing two different scenarios
 * Refresh and try the Comparisons tab: open Scenario A > Comparisons > select Scenario B
 
 **Comparison option missing**
 
-* You need at least 2 scenarios; verify your license includes comparison
+* You need 2 scenarios
 * Contact admin to confirm access level
 
 ## Sharing & Collaboration Issues
@@ -84,8 +84,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 **Can't share / team members can't access**
 
 * Verify team members have Agentnoon accounts and their access scope includes the relevant data
-* Share via Scenario menu → Share, or send the URL directly
-* Contact admin to adjust permissions if needed
+* Share via Scenario menu → Share
 
 **Conflicting edits from multiple users**
 
@@ -120,7 +119,6 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 **Dates not applying correctly**
 
-* Use format YYYY-MM-DD
 * In Forecast, confirm you're viewing the correct time period — changes appear in the month/quarter of their effective date
 * Ensure Start Date vs. End Date fields are correctly used for additions vs. closures
 

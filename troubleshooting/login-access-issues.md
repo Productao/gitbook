@@ -12,7 +12,6 @@ Use this guide to troubleshoot login failures, SSO issues, access denied errors,
 
 * Check Caps Lock and verify you're using the correct email
 * Click **Forgot Password** on the login page, enter your email, and follow the reset link (check your spam folder if you don’t receive it)
-* Password requirements: at least 8 characters, including uppercase, lowercase, and a number
 
 **Account locked**
 

@@ -60,7 +60,7 @@ The left toolbar provides Search, Filter, Highlight, Card Content, Views, and Ex
 
 **Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
-### How do I switch between org chart and table view?
+### How do I switch between org chart and Directory?
 
 Use the dropdown at the top of the screen. Select **Directory** for spreadsheet/table view or **Org Chart** for visual hierarchy view. Both show the same data in different formats.
 
@@ -124,7 +124,7 @@ Yes. Open the scenario, click the three-dot menu, and select **Delete Scenario**
 
 ### What if I make a mistake in a scenario?
 
-Scenarios are sandboxes -- mistakes don't affect Main Org. You can undo with Cmd/Ctrl+Z, revert individual changes, or delete the scenario and start over.
+Scenarios are sandboxes -- mistakes don't affect Main Org. You can undo from the activity log, revert individual changes, or delete the scenario and start over.
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 

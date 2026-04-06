@@ -74,11 +74,9 @@ FAQs are organized into topic-specific pages:
 
 **Answer:** Forecast is for visualization (showing data over time). Scenarios are for modeling (making changes to test "what-if" alternatives).
 
-**Learn more:** [Forecast vs Scenarios](/broken/pages/MKRiiU8DK4L0RAbqG70N)
-
 ### 8. How do I give someone access to only their department?
 
-**Answer:** As an admin, create an Access Group with a filter (Department = Engineering), then assign users to that group. They'll only see Engineering employees.
+**Answer:** As an admin, create a scope with a filter (Department = Engineering). They'll only see Engineering employees.
 
 **Learn more:** [Access Groups](../access-control/access-groups.md)
 
