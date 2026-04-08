@@ -3,10 +3,11 @@ description: >-
   Update specific fields or add new records without re-uploading your entire
   dataset.
 hidden: true
+noIndex: true
 icon: arrow-up-from-bracket
 ---
 
-# Partial Data Upload
+# Partial Data Upload (Old version)
 
 Partial Upload lets you update select records or append new ones to your Agentnoon org chart without importing your full data file.
 
