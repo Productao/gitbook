@@ -57,7 +57,60 @@ You can create new attributes from **Data Management > Attributes & Formulas**
 2. Click **Add New Attribute** to create a new field.
 3. Modify an existing attribute:
    * Rename it for clarity.
-   * Adjust its type (**text, number, monetary, date, etc.**).
+   * Adjust its type (**text, number, monetary, date, array etc.**).
 4. Save changes to apply them across the org chart or scenario.
+
+### Multiple Values (Array Fields)
+
+You can store multiple values in a single field (for example, Skills, Certifications, or Clients) and use them in filters across the product.
+
+#### How it works
+
+When a field is set to Array type, values separated by commas are treated as individual items.
+
+Example:
+
+Analytics, AI, Account Management
+
+Will be treated as:
+
+* Analytics
+* AI
+* Account Management
+
+These values will appear separately in filters instead of one combined string.
+
+#### Setup
+
+1. Import your field like a normal custom field
+   * Example: Skills = Analytics, QA, Management
+2. Go to Settings → Fields (Attributes & Formulas)
+3. Edit the field
+4. Change type from Text → Array
+5. Save
+
+#### Using Array Fields in Filters
+
+* Each value appears as a separate, unique option
+* Selecting a value returns all records that contain that value<br>
+
+For multiple selections:
+
+* Any of → matches at least one value
+* All of → matches all selected values
+
+#### Where this applies
+
+Array fields work in:
+
+* Filters (Org Chart, Workforce Hub, etc.)
+* Highlighting and analytics
+* Any place where filters are supported
+
+#### Notes
+
+* Values must be separated by commas
+* Each value appears only once in filters (no duplicates)
+* In card content and exports, values remain comma-separated
 
 <figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
