@@ -10,4 +10,3 @@ Manage the fields and attributes that define your organizational data in Agentno
 ## In This Section
 
 * [**Fields**](fields.md) — Creating field groups, enabling/disabling fields, auto-duplication, and restricted values
-* [**General Settings**](general.md) — Platform-wide configuration options
