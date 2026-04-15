@@ -9,18 +9,6 @@ In Agentnoon, fields and attributes mean the same thing. They are the data point
 
 Fields appear on cards, in the directory, in analytics charts, in filters, and in exports.
 
-### Minimum Required Data
-
-#### **Absolute minimum:**
-
-* Position ID or Employee ID
-* Manager Position ID or Manager Employee ID
-* Position Name
-
-#### **Recommended for greater functionality:**
-
-* Job Title, Department, Manager, Location, Name, Employee ID, Start Date, Total Compensation.
-
 ### Attribute Types
 
 All extra attributes are imported through Custom Fields. After uploading your data, go to Attributes & Formulas and assign the right type to each field.
@@ -63,11 +51,11 @@ This separation lets you plan with positions independently of the people who fil
 
 Note that while Salary may be a position-level field in some contexts, Agentnoon treats the mapped Salary field as a People field by default. Attaching or detaching people from positions will result in their salary coming along.
 
-#### Groups
+### Groups
 
 Fields are organized into groups such as Compensation, Contact Info, and Job Details. Groups appear as sections in the edit panel when you click on a position, making it easier to find related fields. Admins can create and manage groups in Settings > Fields.
 
-#### Calculated Fields (FX)
+### Calculated Fields (FX)
 
 Some fields are computed automatically by Agentnoon and marked with FX:
 
@@ -78,7 +66,7 @@ Some fields are computed automatically by Agentnoon and marked with FX:
 
 These update in real time as the org structure changes.
 
-#### Where Fields Appear
+### Where Fields Appear
 
 * Cards — Configure which fields display via Card Content in the toolbar
 * Directory — Add, remove, and reorder columns
@@ -87,8 +75,22 @@ These update in real time as the org structure changes.
 * Highlighting — Color-code cards by any field
 * Exports — Include any field in CSV, Excel, or PowerPoint exports
 
-#### Admin Configuration
+### Admin Configuration
 
 Admins can add custom fields, set data types such as text, number, date, monetary, or array, define restricted dropdown values for consistency, and control field visibility by access group. See [Fields and Attributes Management](../settings/overview.md).
+
+#### Minimum Required Data (Data Upload)
+
+Fields required for data upload
+
+**Absolute minimum:**
+
+* Position ID or Employee ID
+* Manager Position ID or Manager Employee ID
+* Position Name
+
+**Recommended for greater functionality:**
+
+* Job Title, Department, Manager, Location, Name, Employee ID, Start Date, Total Compensation.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 1.55.20 AM.png" alt=""><figcaption></figcaption></figure>
