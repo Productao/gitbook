@@ -166,7 +166,7 @@ Effective dates control when changes take effect in time-based projections, lett
 
 Video tutorials are available on the dedicated tutorials page. Your admin may also have company-specific training videos.
 
-**Learn more:** [Video Tutorials](../start-here/video-tutorials.md)
+**Learn more:** [Video Tutorials](../start-here/video-tutorials/video-tutorials.md)
 
 ### Who do I ask if I have questions?
 

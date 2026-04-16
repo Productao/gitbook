@@ -224,7 +224,7 @@ You’re ready to start planning with confidence.
 ## Next Steps
 
 * [**Agentnoon 101**](agentnoon-101.md) - Learn concepts in depth
-* [**Video Tutorials**](video-tutorials.md) - Watch visual guides
+* [**Video Tutorials**](video-tutorials/video-tutorials.md) - Watch visual guides
 * [**Use Case Tutorials**](../use-case-tutorials/planning-reorganization.md) - End-to-end workflows
 
 Need help? Check our [**Support & How to Self-Help**](support-self-help.md) guide!

@@ -2,7 +2,6 @@
 description: >-
   Go beyond the 101 library with these advanced walkthroughs for setup, scenario
   workflows, automapping, forecasting, and exports.
-icon: play
 ---
 
 # Advanced Feature Tutorials

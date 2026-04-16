@@ -1,6 +1,5 @@
 ---
 description: Start here - Agentnoon basics in bite-sized videos
-icon: play
 ---
 
 # Video Tutorials
@@ -161,10 +160,10 @@ Customize fields to match your organization's unique needs.
 
 ## Additional Resources
 
-* [Quick Start Guide](quick-start-guide.md) - Get started in 30 minutes
-* [Agentnoon 101](agentnoon-101.md) - Core concepts and terminology
-* [Support & How to Self-Help](support-self-help.md) - Troubleshooting basics
-* [Full Video Library](../assets/video-library.md) - All videos organized by topic
+* [Quick Start Guide](../quick-start-guide.md) - Get started in 30 minutes
+* [Agentnoon 101](../agentnoon-101.md) - Core concepts and terminology
+* [Support & How to Self-Help](../support-self-help.md) - Troubleshooting basics
+* [Full Video Library](../../assets/video-library.md) - All videos organized by topic
 
 ***
 

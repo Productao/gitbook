@@ -106,7 +106,7 @@ For **faster** response times:
 
 ## 🎓 Learn More
 
-* [**Video Tutorials**](video-tutorials.md) - Visual step-by-step guides
+* [**Video Tutorials**](video-tutorials/video-tutorials.md) - Visual step-by-step guides
 * [**Agentnoon 101**](agentnoon-101.md) - Core concepts explained
 * [**Quick Start Guide**](quick-start-guide.md) - Essential tasks
 

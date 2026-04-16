@@ -13,8 +13,9 @@
   * [Views](start-here/agentnoon-101/views.md)
   * [Scenarios Fundamentals](start-here/scenarios-fundamentals.md)
   * [Workforce Hub Fundamentals](start-here/workforce-hub-fundamentals.md)
-* [Video Tutorials](start-here/video-tutorials.md)
-* [Advanced Feature Tutorials](start-here/advanced-feature-tutorials.md)
+* [Video Tutorials](start-here/video-tutorials/README.md)
+  * [Video Tutorials](start-here/video-tutorials/video-tutorials.md)
+  * [Advanced Feature Tutorials](start-here/video-tutorials/advanced-feature-tutorials.md)
 * [Support & How to Self-Help](start-here/support-self-help.md)
 
 ## Main Org
