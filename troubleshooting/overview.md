@@ -1,37 +1,38 @@
 ---
-description: Diagnostic framework and general troubleshooting guide
+description: A diagnostic framework and general troubleshooting guide
 ---
 
 # 🛠️ Troubleshooting Overview
 
 ## Step 1: Identify the Category
 
-* [**Login & Access Issues**](login-access-issues.md) — Can't log in, SSO failure, MFA problems, access denied
-* [**Data Issues**](data-issues.md) — Upload errors, missing data, broken hierarchies, sync failures
-* [**Scenario Issues**](scenario-issues.md) — Save failures, approval stuck, drag-and-drop not working
-* [**Performance Issues**](performance-issues.md) — Slow loading, timeouts, browser freezing
-* [**Export & Integration Issues**](export-integration-issues.md) — Export failures, SFTP errors, API issues
+* [**Login & Access Issues**](login-access-issues.md) — Unable to log in, SSO failures, MFA issues, or access denied
+* [**Data Issues**](data-issues.md) — Upload errors, missing data, broken hierarchies, or sync failures
+* [**Scenario Issues**](scenario-issues.md) — Save failures, stuck approvals, or drag-and-drop not working
+* [**Performance Issues**](performance-issues.md) — Slow loading, timeouts, or browser freezing
+* [**Export & Integration Issues**](export-integration-issues.md) — Export failures, SFTP errors, or API issues
 
 ## Step 2: Quick Fixes First
 
-Try these before diving into specific guides:
+Before divign into specific guides, try the following:&#x20;
 
-1. Clear browser cache (Ctrl/Cmd+Shift+Delete > Cached images and cookies)
+1. Clear your browser cache\
+   (Ctrl/Cmd+Shift+Delete > Cached images and cookies)
 2. Refresh the page
-3. Try Chrome (recommended browser)
-4. Log out and back in
-5. Try incognito mode
+3. Use Google Chrome (recommended browser)
+4. Log out and log back in
+5. Try incognito/private browsing mode
 
 **Supported browsers:** Chrome 90+, Edge 90+, Firefox 88+, Safari 14+. Internet Explorer is not supported.
 
 ## Step 3: Check the Data
 
-Many issues that look like system bugs are actually data issues:
+Many issues that appear to be system bugs are actually caused by data inconsistencies:
 
-* **Missing positions:** Check active filters (clear all filters to confirm)
-* **Wrong numbers:** Check effective dates, access scope, and data sync time
-* **Broken org chart:** Look for the orange broken hierarchy indicator in the toolbar
-* **Stale scenario:** Scenarios don't auto-update with Main Org changes — check when the scenario was created
+* **Missing positions** — Check active filters (clear all filters to confirm)
+* **Wrong numbers** — Verify effective dates, access scope, and data sync timing
+* **Broken org chart** — Look for the orange broken hierarchy indicator in the toolbar
+* **Stale scenario** — Scenarios do not auto-update with Main Org changes; check when the scenario was created
 
 ## Troubleshoot by Symptom
 
@@ -46,18 +47,34 @@ Many issues that look like system bugs are actually data issues:
 ## Network Requirements
 
 * Allow HTTPS (port 443) and WebSockets to `*.agentnoon.com`
-* Minimum bandwidth: 5/1 Mbps; recommended: 25/5 Mbps
+* Minimum bandwidth: 5/1 Mbps
+* Recommended bandwith: 25/5 Mbps
 * Contact support for Agentnoon IP ranges if your firewall requires allowlisting
 
 ## When to Contact Support
 
 Contact SupportSWP@dayforce.com if:
 
-* Issue persists after trying all troubleshooting steps
-* Data loss or security concern
-* Multiple users affected
-* Integration blocking business operations
+* The issue persists after completing all troubleshooting steps
+* There is a data loss or security concern
+* Multiple users are affected
+* An integration issue is blocking business operations
 
-**Include:** screenshots with full browser window and URL bar, browser version and OS, exact error text, steps to reproduce, what you've already tried, and time the issue occurred. Add "URGENT" or "CRITICAL" to the subject line for blocking issues.
+When submitting a request, include:&#x20;
 
-**Response times:** Critical = 2 hrs, High Priority = 4 hrs, Standard = 24 hrs.
+* Screenshots (with full browser window and URL bar visable)
+* Browser version and Operating System
+* Exact error message text
+* Steps to reproduce the issue
+* What you've already tried
+* Time the issue occurred.&#x20;
+
+For urgent or blocking issues, include "URGENT" or "CRITICAL" in the subject line.&#x20;
+
+
+
+**Response times:**&#x20;
+
+* Critical = 2 hrs
+* High Priority = 4 hrs
+* Standard = 24 hrs
