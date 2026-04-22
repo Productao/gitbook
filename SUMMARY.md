@@ -38,6 +38,7 @@
   * [Working with People](scenarios/working-with-people.md)
 * [Scenario Changes & Impact (OpEx Panel)](scenarios/opex-panel.md)
 * [Scenario Approvals](scenarios/approvals.md)
+* [Scenario Approvals (New Version)](scenarios/scenario-approvals-new-version.md)
 * [Time-Based Planning](scenarios/time-based-planning.md)
 * [Scenario Comparisons](scenarios/comparisons.md)
 * [📤 Exporting Scenario Data](scenarios/exporting.md)
