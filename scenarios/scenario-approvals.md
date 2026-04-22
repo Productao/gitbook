@@ -3,7 +3,7 @@ description: Review and approve scenario changes before they are finalized.
 icon: thumbs-up
 ---
 
-# Scenario Approvals (New Version)
+# Scenario Approvals
 
 ### Overview
 
