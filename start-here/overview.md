@@ -22,7 +22,7 @@ The platform is built around a simple principle: understand your current state, 
 
 Agentnoon is organized into five modules. Each one serves a different purpose, but they all work from the same underlying data. Here's how the core modules fit together.
 
-> **\[Screenshot placeholder: Agentnoon homepage showing the five main modules]**
+<figure><img src="../.gitbook/assets/Screenshot 2026-04-22 at 12.15.34 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### Main Org
 
