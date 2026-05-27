@@ -196,6 +196,6 @@ Set hire dates based on your hiring timeline:
 
 ## Next Steps
 
-* [**Forecast Reports & Exports**](/broken/pages/do4YSEYxP7xeY1oR8rJ1) - Advanced reporting techniques
-* [**Multi-Year Planning**](multi-year-planning.md) - Long-term strategic workforce planning
-* [**Time-Based Planning**](../scenarios/time-based-planning.md) - More on effective dates and phasing
+* [Forecast Reports & Exports](overview.md#how-forecast-works) - Advanced reporting techniques
+* [Multi-Year Planning](multi-year-planning.md) - Long-term strategic workforce planning
+* [Time-Based Planning](../scenarios/time-based-planning.md) - More on effective dates and phasing

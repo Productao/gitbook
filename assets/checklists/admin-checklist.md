@@ -17,7 +17,7 @@ This checklist covers everything an administrator needs to set up and manage the
 4. Review your organization's current data structure and fields
 5. Test the data upload process with a sample file
 6. Review [Data Requirements](../../data-import/data-requirements.md)
-7. Check [Calculated Agentnoon Attributes](../../data-import/calculated-agentnoon-attributes.md)
+7. Check [Calculated Agentnoon Attributes](../../data-import/attributes-overview.md#id-2.-calculated-attributes)
 8. Create a test scenario to understand the user experience
 
 ## User Management

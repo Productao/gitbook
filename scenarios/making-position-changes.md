@@ -120,5 +120,5 @@ Use ← → buttons to move cards left or right within the same manager level. T
 
 * [Bulk Operations](bulk-operations.md)
 * [Working with People](working-with-people.md)
-* [Scenario Tracking & Analysis](/broken/pages/BweIAu0kM4eCKuYXwrHV)
+* [Scenario Tracking & Analysis](/broken/pages/57anB1KstipU8rTiNend)
 * [Time-Based Planning](time-based-planning.md)

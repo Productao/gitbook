@@ -21,8 +21,6 @@ Quick overview of Agentnoon's main modules and how to navigate between them.
 * Keyboard shortcuts (1-5)
 * Basic navigation patterns
 
-***
-
 ### Org Chart Essentials
 
 Learn how to explore and interact with your organizational chart.
@@ -36,8 +34,6 @@ Learn how to explore and interact with your organizational chart.
 * Search and filtering
 * Highlighting by attributes
 * Spotlight feature
-
-***
 
 ### Workforce Hub Analytics
 
@@ -53,8 +49,6 @@ Understand how to use pre-built charts to analyze your organization.
 * Reading span of control matrices
 * Using interactive features
 
-***
-
 ### Scenarios for What-If Planning
 
 Learn how to create and use scenarios to model organizational changes.
@@ -68,8 +62,6 @@ Learn how to create and use scenarios to model organizational changes.
 * Moving positions and changing managers
 * Using the OpEx Panel
 * Closing positions (RIF)
-
-***
 
 ## Admin Videos
 
@@ -86,8 +78,6 @@ Standard import method for organizations.
 * Custom attribute configuration
 * Troubleshooting common errors
 
-***
-
 ### Partial Upload (power users only)
 
 Step-by-step guide to upload partial data to a scenario without overwriting the whole thing.
@@ -101,8 +91,6 @@ Step-by-step guide to upload partial data to a scenario without overwriting the 
 * Mapping columns to Agentnoon fields
 * Validation and error handling
 * Submitting the import
-
-***
 
 ### Access Control Setup
 
@@ -118,8 +106,6 @@ Learn how to configure user permissions and access groups.
 * Managing permissions (view, edit, admin)
 * Testing access configurations
 
-***
-
 ### Field Management
 
 Customize fields to match your organization's unique needs.
@@ -133,8 +119,6 @@ Customize fields to match your organization's unique needs.
 * Configuring dropdown options
 * Field visibility settings
 * Ordering and grouping fields
-
-***
 
 ## Video Learning Path
 
@@ -156,16 +140,12 @@ Customize fields to match your organization's unique needs.
 
 **Total time:** \~60 minutes for full admin onboarding
 
-***
-
 ## Additional Resources
 
 * [Quick Start Guide](../quick-start-guide.md) - Get started in 30 minutes
 * [Agentnoon 101](../agentnoon-101.md) - Core concepts and terminology
 * [Support & How to Self-Help](../support-self-help.md) - Troubleshooting basics
 * [Full Video Library](../../assets/video-library.md) - All videos organized by topic
-
-***
 
 ## Request a Video
 

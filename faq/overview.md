@@ -12,11 +12,11 @@ Welcome to the Agentnoon FAQ section. Here you'll find answers to the most commo
 
 FAQs are organized into topic-specific pages:
 
-* [**Getting Started FAQs**](getting-started.md) - First-time user questions, onboarding, basic concepts
-* [**Data & Import FAQs**](data-import.md) - CSV uploads, field mapping, data validation
-* [**Scenarios FAQs**](scenarios.md) - Creating scenarios, making changes, submitting for approval
-* [**Forecast FAQs**](forecast.md) - Time-based projections, hire dates, effective dates
-* [**Permissions & Access FAQs**](permissions-access.md) - User roles, access groups, admin permissions
+* [Getting Started FAQs](getting-started.md) - First-time user questions, onboarding, basic concepts
+* [Data & Import FAQs](data-import.md) - CSV uploads, field mapping, data validation
+* [Scenarios FAQs](scenarios.md) - Creating scenarios, making changes, submitting for approval
+* [Forecast FAQs](forecast.md) - Time-based projections, hire dates, effective dates
+* [Permissions & Access FAQs](permissions-access.md) - User roles, access groups, admin permissions
 
 ### Search for Answers
 
@@ -29,8 +29,6 @@ FAQs are organized into topic-specific pages:
 * **Check Troubleshooting Guides:** [Troubleshooting Overview](../troubleshooting/overview.md)
 * **Read Full Documentation:** Each FAQ links to detailed documentation pages
 * **Contact Support:** [Support & How to Self-Help](../start-here/support-self-help.md)
-
-***
 
 ## Top 10 Most Common Questions
 
@@ -92,8 +90,6 @@ FAQs are organized into topic-specific pages:
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
-***
-
 ## Quick Answers by Topic
 
 ### Getting Started
@@ -125,8 +121,6 @@ FAQs are organized into topic-specific pages:
 * **"Who can create scenarios?"** → Depends on your admin's access control settings—typically all users or specific user groups
 * **"Who can see my scenario?"** → Users with access to the org areas included in your scenario
 * **"How do I become an admin?"** → An existing admin must grant you admin privileges
-
-***
 
 ## FAQ Categories
 
@@ -179,8 +173,6 @@ Access control questions:
 * Data visibility
 * Security
 
-***
-
 ## Tips for Finding Answers Quickly
 
 ### Use the Search Function
@@ -205,8 +197,6 @@ Know the general topic? Go directly to the category page:
 
 Each FAQ links to detailed documentation pages. If the short answer isn't enough, click through for the full guide.
 
-***
-
 ## Still Need Help?
 
 ### Troubleshooting Guides
@@ -229,22 +219,18 @@ Can't find your answer? Reach out to Agentnoon support:
 
 **See:** [Support & How to Self-Help](../start-here/support-self-help.md)
 
-***
-
 ## Contributing FAQ Suggestions
 
 Have a question that's not answered here? Let us know!
 
-* Email your question to [docs@agentnoon.com](mailto:docs@agentnoon.com)
+* Email your question to [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
 * Suggest it to your Agentnoon customer success manager
 * We regularly update FAQs based on user feedback
 
-***
-
 ## Next Steps
 
-* [**Getting Started FAQs**](getting-started.md) - New user questions
-* [**Data & Import FAQs**](data-import.md) - Data management questions
-* [**Scenarios FAQs**](scenarios.md) - Scenario planning questions
-* [**Forecast FAQs**](forecast.md) - Forecasting questions
-* [**Permissions & Access FAQs**](permissions-access.md) - Access control questions
+* [Getting Started FAQs](getting-started.md) - New user questions
+* [Data & Import FAQs](data-import.md) - Data management questions
+* [Scenarios FAQs](scenarios.md) - Scenario planning questions
+* [Forecast FAQs](forecast.md) - Forecasting questions
+* [Permissions & Access FAQs](permissions-access.md) - Access control questions

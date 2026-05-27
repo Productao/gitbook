@@ -57,4 +57,4 @@ Use the **Show only conflicts** filter to review what you'd be overwriting befor
 
 * [Scenario Comparisons](comparisons.md) — Compare without merging
 * [Scenario Refresh](advanced-actions/scenario-refresh.md) — Update scenario with Main Org changes
-* [Bulk Operations](bulk-operations.md)
+* [Bulk Operations](bulk-operations.md) — Make the same change across multiple positions

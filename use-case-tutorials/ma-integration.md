@@ -97,4 +97,4 @@ Use **Scenario Comparisons** to view headcount, cost, and timing differences sid
 * [Planning a Reorganization](planning-reorganization.md)
 * [Scenario Comparisons](../scenarios/comparisons.md)
 * [Time-Based Planning](../scenarios/time-based-planning.md)
-* [Partial Upload Guide](../admin/data-management/partial-upload.md)
+* [Partial Upload Guide](../scenarios/advanced-actions/partial-data-upload-1.md)

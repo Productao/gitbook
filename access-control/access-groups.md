@@ -34,13 +34,15 @@ Access groups in Agentnoon allow you to set permissions for data access and appl
 
 <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-2. Categories of fields:
-   * **Basic fields** (general user information)
-   * **Compensation fields** (salary-related details)
-   * **Custom fields** (imported data beyond standard fields)
-   * Use **"Apply to All Fields"** to apply settings universally or configure them individually.
-3. Use **'Features'** tab to lock / unlock specific features (e.g., exports org chart, forecast, scenarios)
-4. Click **Next** to finalize and save the access group.
+4. Categories of fields:
+
+* **Basic fields** (general user information)
+* **Compensation fields** (salary-related details)
+* **Custom fields** (imported data beyond standard fields)
+* Use **"Apply to All Fields"** to apply settings universally or configure them individually.
+
+5. Use **'Features'** tab to lock / unlock specific features (e.g., exports org chart, forecast, scenarios)
+6. Click **Next** to finalize and save the access group.
 
 ### Managing Access Groups
 

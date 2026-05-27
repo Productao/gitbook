@@ -6,8 +6,6 @@ description: Common scenario planning questions
 
 Answers to common questions about creating, managing, and working with scenarios. Learn how to model organizational changes, collaborate with stakeholders, and submit scenarios for approval.
 
-***
-
 ## Understanding Scenarios
 
 ### What's the difference between scenario types (Full Org, Partial Org, New Org)?
@@ -33,8 +31,6 @@ Answers to common questions about creating, managing, and working with scenarios
 **Answer:** You can add new positions, close existing positions (RIF), move people to different managers, edit position details (title, salary, department), reorganize entire departments, create dotted-line reporting, and model future org structures.
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
-
-***
 
 ## Creating & Managing Scenarios
 
@@ -68,8 +64,6 @@ Answers to common questions about creating, managing, and working with scenarios
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
 
-***
-
 ## Working with Positions
 
 ### How do I add multiple similar positions at once?
@@ -96,8 +90,6 @@ Answers to common questions about creating, managing, and working with scenarios
 
 **Learn more:** [Forecast Overview](../forecast/overview.md)
 
-***
-
 ## Collaboration & Sharing
 
 ### Can multiple people edit a scenario simultaneously?
@@ -117,8 +109,6 @@ Answers to common questions about creating, managing, and working with scenarios
 **Answer:** Hover over a position, click the three-dot menu, select Comment, write your comment, then post. Use comments to explain changes, ask for feedback, or document assumptions.
 
 **Learn more:** [Making Position Changes](../scenarios/making-position-changes.md)
-
-***
 
 ## Tracking Impact & Analysis
 
@@ -140,8 +130,6 @@ Answers to common questions about creating, managing, and working with scenarios
 
 **Learn more:** [Scenario Management](../scenarios/management.md)
 
-***
-
 ## Approvals & Implementation
 
 ### What happens when I submit a scenario for approval?
@@ -162,12 +150,10 @@ Answers to common questions about creating, managing, and working with scenarios
 
 **Learn more:** [Scenarios Overview](../scenarios/overview.md)
 
-***
-
 ## Next Steps
 
-* [**Scenarios Overview**](../scenarios/overview.md) - Complete introduction to scenarios
-* [**Creating Scenarios**](../scenarios/creating-scenarios.md) - Step-by-step creation guide
-* [**Making Position Changes**](../scenarios/making-position-changes.md) - Learn all position actions
-* [**Scenario Management**](../scenarios/management.md) - Organizing and versioning scenarios
-* [**Forecast FAQs**](forecast.md) - Forecast and time-based planning questions
+* [Scenarios Overview](../scenarios/overview.md) - Complete introduction to scenarios
+* [Creating Scenarios](../scenarios/creating-scenarios.md) - Step-by-step creation guide
+* [Making Position Changes](../scenarios/making-position-changes.md) - Learn all position actions
+* [Scenario Management](../scenarios/management.md) - Organizing and versioning scenarios
+* [Forecast FAQs](forecast.md) - Forecast and time-based planning questions

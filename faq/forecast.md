@@ -6,8 +6,6 @@ description: Forecast and budget planning questions
 
 Common questions about using Forecast to view headcount projections, analyze workforce costs over time, and build budget plans. Learn how to navigate Forecast and integrate it with your scenarios.
 
-***
-
 ## Understanding Forecast
 
 ### When should I use Forecast vs Scenarios?
@@ -33,8 +31,6 @@ Common questions about using Forecast to view headcount projections, analyze wor
 **Answer:** Before view establishes your baseline by showing current state from Main Org, not the scenario's starting point. This ensures you're always comparing scenarios to the same consistent baseline.
 
 **Learn more:** [Forecast Overview](../forecast/overview.md)
-
-***
 
 ## Time Periods & Dates
 
@@ -62,8 +58,6 @@ Common questions about using Forecast to view headcount projections, analyze wor
 
 **Learn more:** [Forecast Overview](../forecast/overview.md)
 
-***
-
 ## Aggregation & Analysis
 
 ### What's a Group by and how do I use it?
@@ -89,8 +83,6 @@ Common questions about using Forecast to view headcount projections, analyze wor
 **Answer:** Filters apply globally across Directory, Org Chart, and Forecast. Apply filters once and they persist across all views. Use filters to narrow to specific departments, locations, or employee types before exporting or analyzing.
 
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
-
-***
 
 ## Building Forecasts
 
@@ -118,8 +110,6 @@ Common questions about using Forecast to view headcount projections, analyze wor
 
 **Learn more:** [Forecast Navigation](../forecast/navigation.md)
 
-***
-
 ## Exporting & Sharing
 
 ### How do I export forecast data?
@@ -139,8 +129,6 @@ Common questions about using Forecast to view headcount projections, analyze wor
 **Answer:** Yes! Select Yearly as time period to see up to 5 years at once (2024, 2025, 2026, 2027, 2028). Add positions with hire dates spanning multiple years, then view in Forecast to see long-term workforce projections.
 
 **Learn more:** [Building Headcount Forecasts](../forecast/building-headcount-forecasts.md)
-
-***
 
 ## Troubleshooting
 
@@ -168,12 +156,10 @@ Common questions about using Forecast to view headcount projections, analyze wor
 
 **Learn more:** [Building Headcount Forecasts](../forecast/building-headcount-forecasts.md)
 
-***
-
 ## Next Steps
 
-* [**Forecast Overview**](../forecast/overview.md) - Complete introduction to Forecast
-* [**Forecast Navigation**](../forecast/navigation.md) - Master the Forecast interface
-* [**Building Headcount Forecasts**](../forecast/building-headcount-forecasts.md) - Create workforce projections
-* [**Scenarios FAQs**](scenarios.md) - Scenario planning questions
-* [**Data & Import FAQs**](data-import.md) - Data management questions
+* [Forecast Overview](../forecast/overview.md) - Complete introduction to Forecast
+* [Forecast Navigation](../forecast/navigation.md) - Master the Forecast interface
+* [Building Headcount Forecasts](../forecast/building-headcount-forecasts.md) - Create workforce projections
+* [Scenarios FAQs](scenarios.md) - Scenario planning questions
+* [Data & Import FAQs](data-import.md) - Data management questions

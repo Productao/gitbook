@@ -6,15 +6,15 @@ description: A diagnostic framework and general troubleshooting guide
 
 ## Step 1: Identify the Category
 
-* [**Login & Access Issues**](login-access-issues.md) — Unable to log in, SSO failures, MFA issues, or access denied
-* [**Data Issues**](data-issues.md) — Upload errors, missing data, broken hierarchies, or sync failures
-* [**Scenario Issues**](scenario-issues.md) — Save failures, stuck approvals, or drag-and-drop not working
-* [**Performance Issues**](performance-issues.md) — Slow loading, timeouts, or browser freezing
-* [**Export & Integration Issues**](export-integration-issues.md) — Export failures, SFTP errors, or API issues
+* [Login & Access Issues](login-access-issues.md) — Unable to log in, SSO failures, MFA issues, or access denied
+* [Data Issues](data-issues.md) — Upload errors, missing data, broken hierarchies, or sync failures
+* [Scenario Issues](scenario-issues.md) — Save failures, stuck approvals, or drag-and-drop not working
+* [Performance Issues](performance-issues.md) — Slow loading, timeouts, or browser freezing
+* [Export & Integration Issues](export-integration-issues.md) — Export failures, SFTP errors, or API issues
 
 ## Step 2: Quick Fixes First
 
-Before divign into specific guides, try the following:&#x20;
+Before diving into specific guides, try the following:&#x20;
 
 1. Clear your browser cache\
    (Ctrl/Cmd+Shift+Delete > Cached images and cookies)
@@ -53,7 +53,7 @@ Many issues that appear to be system bugs are actually caused by data inconsiste
 
 ## When to Contact Support
 
-Contact SupportSWP@dayforce.com if:
+Contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) if:
 
 * The issue persists after completing all troubleshooting steps
 * There is a data loss or security concern
@@ -62,7 +62,7 @@ Contact SupportSWP@dayforce.com if:
 
 When submitting a request, include:&#x20;
 
-* Screenshots (with full browser window and URL bar visable)
+* Screenshots (with full browser window and URL bar visible)
 * Browser version and Operating System
 * Exact error message text
 * Steps to reproduce the issue
@@ -70,8 +70,6 @@ When submitting a request, include:&#x20;
 * Time the issue occurred.&#x20;
 
 For urgent or blocking issues, include "URGENT" or "CRITICAL" in the subject line.&#x20;
-
-
 
 **Response times:**&#x20;
 

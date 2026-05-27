@@ -90,7 +90,7 @@ This shows when you'll reach representation targets.
 
 ## Related Resources
 
-* [Workforce Hub Charts](../workforce-hub/creating-charts.md)
+* [Workforce Hub Charts](../start-here/workforce-hub-fundamentals.md)
 * [Scenario Creation](../scenarios/creating-scenarios.md)
-* [Forecast View](../forecast/forecast-overview.md)
-* [Fields and Attributes](../admin/fields-attributes.md)
+* [Forecast View](../forecast/overview.md)
+* [Fields and Attributes](../start-here/fields-and-attributes.md)

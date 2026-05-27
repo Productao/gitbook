@@ -80,7 +80,9 @@ Up to 5 years from the current date.
 
 Yes — department, location, manager, title, salary, and any custom fields.
 
-**If I move someone with an effective date, do they appear in their old department in the org chart?** No — the org chart always shows the "after" state. Use **Show Before** to see the original state. Forecast is where you see the time-phased view.
+**If I move someone with an effective date, do they appear in their old department in the org chart?**&#x20;
+
+No — the org chart always shows the "after" state. Use **Show Before** to see the original state. Forecast is where you see the time-phased view.
 
 ## Related Articles
 

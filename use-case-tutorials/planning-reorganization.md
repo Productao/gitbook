@@ -119,4 +119,4 @@ After approval:
 * [Bulk Operations](../scenarios/bulk-operations.md)
 * [Scenario Approvals](../scenarios/approvals.md)
 * [Time-Based Planning](../scenarios/time-based-planning.md)
-* [Scenario Comparisons](../scenarios/scenario-comparisons.md)
+* [Scenario Comparisons](../scenarios/comparisons.md)

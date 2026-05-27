@@ -16,7 +16,7 @@ Keep your Main Org current by uploading fresh data manually or setting up automa
 3. Choose CSV, map fields (first upload only), review validation, confirm
 4. Spot-check: new hires appear, recent terminations removed, org chart intact
 
-> Important: Any record NOT in the CSV is removed from Main Org.
+**Note:** Any record NOT in the CSV is removed from Main Org.
 
 ## Automated Sync (Live Integrations)
 
@@ -53,7 +53,7 @@ Main Org refreshes do NOT automatically update scenarios. Scenarios are snapshot
 2. Review what will change (new employees, removed employees, field updates)
 3. Confirm — your scenario changes are preserved; only the baseline updates
 
-> Note: Scenario refresh is in development. Contact support to confirm availability.
+**Note:** Scenario refresh is in development. Contact support to confirm availability.
 
 ## Troubleshooting Common Issues
 
@@ -68,6 +68,6 @@ Main Org refreshes do NOT automatically update scenarios. Scenarios are snapshot
 ## Related Resources
 
 * [Data Import Requirements](../data-import/data-requirements.md)
-* [Partial Data Upload](data-management/partial-data-upload.md)
+* [Partial Data Upload](../scenarios/advanced-actions/partial-data-upload-1.md)
 * [Live Data Integration Overview](../live-data-integration/what-is-a-live-data-integration.md)
 * [Data Error Checklist](../data-import/data-error-checklist.md)

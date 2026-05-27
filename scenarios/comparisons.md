@@ -20,7 +20,7 @@ Compare 2 scenarios side-by-side to evaluate cost, headcount, structure, and org
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.56.07 AM.png" alt=""><figcaption></figcaption></figure>
 
-Note: Comparisons only work between 2 scenarios and must be started from the homepage.
+**Note:** Comparisons only work between 2 scenarios and must be started from the homepage.
 
 ## What You Can Compare
 

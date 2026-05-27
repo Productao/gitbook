@@ -30,7 +30,7 @@ Each chart has consistent controls:
 * **Table view** — Switch to see underlying data in spreadsheet format
 * **Click any bar or segment** — Drill into the specific positions behind that data point
 
-For detailed navigation, see [Chart Navigation](../hub/chart-navigation.md).
+For detailed navigation, see [Chart Navigation](../hub/chart-library.md).
 
 ## Exporting
 

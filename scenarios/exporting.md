@@ -25,7 +25,7 @@ All exports follow the same pattern:
 4. Apply any filters
 5. Click **Export** and select a format
 
-Exports respect your current view mode, active filters, and access permissions.
+**Note:** Exports respect your current view mode, active filters, and access permissions.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 3.49.21 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -99,4 +99,4 @@ Note: CSV exports are less commonly used. Most users prefer org chart PowerPoint
 
 * [Main Org Exporting](../main-org/exporting.md)
 * [Scenario Comparisons](comparisons.md)
-* [Forecast Reports & Exports](/broken/pages/do4YSEYxP7xeY1oR8rJ1)
+* [Forecast Reports & Exports](../forecast/overview.md)

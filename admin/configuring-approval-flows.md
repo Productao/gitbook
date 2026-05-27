@@ -49,7 +49,7 @@ Done by the scenario creator at submission time, not in Settings:
 4. Approves (✅) or Rejects (❌) each change with a reason
 5. Clicks **Send Decision**
 
-> Important: Currently all-or-nothing — if any change is rejected, the entire scenario is returned to the creator.
+**Note:** Currently all-or-nothing — if any change is rejected, the entire scenario is returned to the creator.
 
 ## After Rejection
 

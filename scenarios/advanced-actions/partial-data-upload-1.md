@@ -175,6 +175,6 @@ Export the acquired company's org structure, including:
 ## Related Articles
 
 * [M\&A Integration Tutorial](../../use-case-tutorials/ma-integration.md) - Complete M\&A workflow using Partial Upload
-* [Data Import](../../admin/data-management/data-import.md) - Full data import process
-* [Data Requirements](../../admin/data-management/data-requirements.md) - Required fields and formatting
-* [Data Error Checklist](../../admin/data-management/data-error-checklist.md) - Troubleshooting data issues
+* [Data Import](../../data-import/data-import.md) - Full data import process
+* [Data Requirements](../../data-import/data-requirements.md) - Required fields and formatting
+* [Data Error Checklist](../../data-import/data-error-checklist.md) - Troubleshooting data issues

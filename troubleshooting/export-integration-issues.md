@@ -65,7 +65,7 @@ Common solutions for CSV export failures, PowerPoint export issues, SFTP connect
 
 ## When to Contact Support
 
-Contact sSupportSWP@dayforce.com if:
+Contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) if:
 
 * Exports consistently fail after trying solutions
 * Integration connection fails with unclear error after credentials verified

@@ -328,10 +328,8 @@ Yes, contact your account manager or [SupportSWP@dayforce.com](mailto:SupportSWP
 ## Additional Resources
 
 * [Authentication & IAM](../authentication-and-identity-security/) - SSO and MFA setup
-* [Access Control Overview](../admin/access-control/overview.md) - Managing user permissions
-* [Data Management](../admin/data-management/data-import.md) - Secure data import practices
+* [Access Control Overview](../access-control/overview.md) - Managing user permissions
+* [Data Management](../data-import/overview.md) - Secure data import practices
 * [Support & How to Self-Help](../start-here/support-self-help.md) - General support resources
-
-***
 
 **Last updated:** February 2026 **Security documentation version:** 1.0

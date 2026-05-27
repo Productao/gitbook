@@ -126,8 +126,6 @@ You’re now working in an editable version of your organization where you can b
 
 ### 8. Make Position Changes in a Scenario
 
-1. **Add a position:** Hover over a card > click the **+** button > fill in details
-
 Once inside a scenario, you can begin modeling changes.
 
 **Add a position**
@@ -136,14 +134,18 @@ Once inside a scenario, you can begin modeling changes.
 2. click the **+** button.
 3. Enter the position details and save.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 3.57.01 PM.png" alt=""><figcaption></figcaption></figure>
+
 **Edit a position**
 
-1. &#x20;Click the card.
+1. Click the card.
 2. Modify fields in the side panel and save.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.00.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Move a position**
 
-* Drag and drop a card to a new manager.
+1. Drag and drop a card to a new manager.
 
 **Move a team**
 
@@ -156,17 +158,13 @@ Once inside a scenario, you can begin modeling changes.
 1. Click the card.
 2. Select **Close Position** from the menu.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.03.19 PM.png" alt=""><figcaption></figcaption></figure>
+
 **Bulk edit positions**
 
 1. Select three or more positions.
 2. Click **Edit**.
 3. Modify shared fields and save changes to all.
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 3.57.01 PM.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.00.31 PM.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.03.19 PM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 4.08.05 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -203,9 +201,9 @@ The chart opens with the chart selector dropdown at the top
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.07.19 AM.png" alt=""><figcaption></figcaption></figure>
 
-3. The chart opens - now the chart selector dropdown appears at the top
-4. Configure the chart axes and filters using the gear icon
-5. The chart exports as an editable slide
+6. The chart opens - now the chart selector dropdown appears at the top
+7. Configure the chart axes and filters using the gear icon
+8. The chart exports as an editable slide
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.13.06 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -223,8 +221,8 @@ You’re ready to start planning with confidence.
 
 ## Next Steps
 
-* [**Agentnoon 101**](agentnoon-101.md) - Learn concepts in depth
-* [**Video Tutorials**](video-tutorials/video-tutorials.md) - Watch visual guides
-* [**Use Case Tutorials**](../use-case-tutorials/planning-reorganization.md) - End-to-end workflows
+* [Agentnoon 101](agentnoon-101.md) - Learn concepts in depth
+* [Video Tutorials](video-tutorials/video-tutorials.md) - Watch visual guides
+* [Use Case Tutorials](../use-case-tutorials/planning-reorganization.md) - End-to-end workflows
 
-Need help? Check our [**Support & How to Self-Help**](support-self-help.md) guide!
+Need help? Check our [Support & How to Self-Help](support-self-help.md) guide!

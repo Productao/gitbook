@@ -279,8 +279,8 @@ Admins in Agentnoon have elevated permissions to configure the platform, manage 
 
 ## Next Steps
 
-* [**Configuring Approval Flows**](configuring-approval-flows.md) - Set up scenario approvals
-* [**Data Refresh & Sync**](data-refresh-sync.md) - Manage data updates
-* [**Access Groups**](../access-control/access-groups.md) - Control who sees what
-* [**Fields and Attributes Management**](../settings/fields.md) - Configure custom fields
-* [**Rate Cards**](../settings/compensation-cards.md) - Set up compensation automation
+* [Configuring Approval Flows](configuring-approval-flows.md) - Set up scenario approvals
+* [Data Refresh & Sync](data-refresh-sync.md) - Manage data updates
+* [Access Groups](../access-control/access-groups.md) - Control who sees what
+* [Fields and Attributes Management](../settings/fields.md) - Configure custom fields
+* [Rate Cards](../settings/compensation-cards.md) - Set up compensation automation

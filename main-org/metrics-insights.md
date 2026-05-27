@@ -80,12 +80,12 @@ All metrics marked **FX** are automatically calculated by Agentnoon and update i
 
 **In Workforce Hub:** Metrics power the Layers & Spans and Heatmap charts automatically.
 
-## Red Flags
+## Things to Review
 
-* > 30% of managers with Direct SOC of 1–2 → potential compression
+* 30% of managers with Direct SOC of 1–2 → potential compression
 * Direct SOC >20 without clear justification → potentially overburdened
 * Inconsistent spans across similar roles → structural inconsistency
-* > 8 layers in a company <5,000 employees → potentially inefficient hierarchy
+* 8 layers in a company <5,000 employees → potentially inefficient hierarchy
 
 ## Important Caveat
 

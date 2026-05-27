@@ -129,9 +129,9 @@ Customize fields to match your organization's unique needs.
 
 ## Additional Resources
 
-* [Quick Start Guide](quick-start-guide.md) - Get started in 30 minutes
-* [Agentnoon 101](agentnoon-101.md) - Core concepts and terminology
-* [Support & How to Self-Help](support-self-help.md) - Troubleshooting basics
+* [Quick Start Guide](../start-here/quick-start-guide.md) - Get started in 30 minutes
+* [Agentnoon 101](../start-here/agentnoon-101.md) - Core concepts and terminology
+* [Support & How to Self-Help](../start-here/support-self-help.md) - Troubleshooting basics
 * [Full Video Library](video-library.md) - All videos organized by topic
 
 ## Request a Video

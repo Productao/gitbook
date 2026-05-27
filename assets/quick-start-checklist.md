@@ -31,4 +31,4 @@ Agentnoon is designed to be intuitive — this checklist will get you productive
 
 ## Admin-Specific Checklist
 
-* [**Admin Checklist**](checklists/admin-checklist.md) — Setting up the platform, managing users and data
+* [Admin Checklist](checklists/admin-checklist.md) — Setting up the platform, managing users and data

@@ -77,7 +77,7 @@ Error state where a position's manager doesn't exist or reporting relationships 
 
 Target savings or spending amount set when creating a scenario. The OpEx Panel tracks progress toward this budget.
 
-**Learn more:** [Budget Planning & Tracking](../forecast/budget-planning-tracking.md)
+**Learn more:** [Budget Planning & Tracking](glossary.md#budget-scenario-budget)
 
 ### Bulk Operations
 
@@ -97,7 +97,7 @@ Visual representation of a position in org chart view. Shows position details (t
 
 Toolbar tool that lets you customize which fields appear on position cards. Control what information is visible in org chart view.
 
-**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
 ### OpEx Panel
 
@@ -187,7 +187,7 @@ Toolbar tool to narrow down visible positions based on field values (e.g., show 
 
 **Logic:** AND between categories, OR within categories.
 
-**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
 ### Forecast
 
@@ -225,7 +225,7 @@ Number of employees (people filling positions). Headcount ≠ position count: yo
 
 Toolbar tool to color-code position cards by field values (e.g., highlight by Department → each dept gets a different color).
 
-**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
 ### Hire Date
 
@@ -330,7 +330,7 @@ Side panel showing scenario budget, cost/headcount impact, and list of changes. 
 
 **Full name:** Operating Expense Panel, also called "Scenario Impacts and Changes"
 
-**Learn more:** [Budget Planning & Tracking](../forecast/budget-planning-tracking.md)
+**Learn more:** [Budget Planning & Tracking](glossary.md#budget-scenario-budget)
 
 ### Org Chart
 
@@ -344,7 +344,7 @@ Visual hierarchy view of your organization showing reporting relationships. Defa
 
 CSV upload that updates specific fields without replacing all data. Must include Employee ID to match records.
 
-**Learn more:** [Partial Data Upload](../admin/data-management/partial-data-upload.md)
+**Learn more:** [Partial Data Upload](../scenarios/advanced-actions/partial-data-upload-1.md)
 
 ### Partial Org Scenario
 
@@ -404,7 +404,7 @@ Sandbox workspace for modeling organizational changes. Scenarios don't affect Ma
 
 Feature (in development) to update a scenario with recent Main Org changes. Preserves scenario modifications while incorporating new data.
 
-**Learn more:** [Scenario Refresh](/broken/pages/fnnfy4SZXur2iTxRXwHb)
+**Learn more:** [Scenario Refresh](glossary.md#scenario-refresh)
 
 ### SFTP (Secure File Transfer Protocol)
 
@@ -426,7 +426,7 @@ Number of direct reports a manager has. Healthy range: 5–10 (context-dependent
 
 Toolbar tool for conditional formatting. Highlights positions matching specific rules (e.g., SOC > 10, salary > $200K).
 
-**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
 ### SSO (Single Sign-On)
 
@@ -440,7 +440,7 @@ Authentication method using company identity provider (Okta, Azure AD, Google). 
 
 Left sidebar with tools for navigating and analyzing org data (Search, Filter, Highlight, Card Content, Views, Export, etc.).
 
-**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
 ### Termination Date
 
@@ -462,7 +462,7 @@ See **Open Position**
 
 Saved configuration of filters, highlights, and card content for quick reloading.
 
-**Learn more:** [Main Org Toolbar](../main-org/toolbar.md)
+**Learn more:** [Main Org Toolbar](../main-org/navigation.md)
 
 ## W
 
@@ -470,7 +470,7 @@ Saved configuration of filters, highlights, and card content for quick reloading
 
 Analytics module with pre-built charts and visualizations (headcount by department, cost distribution, SOC analysis, etc.).
 
-**Learn more:** [Chart Navigation](../hub/chart-navigation.md)
+**Learn more:** [Chart Navigation](../hub/chart-library.md)
 
 ### Workforce Planning
 

@@ -20,8 +20,6 @@ Main Org represents your live organizational data — not future plans or what-i
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.06.36 AM.png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## Main Org vs. Scenarios
 
 | Main Org         | Scenarios              |
@@ -35,8 +33,6 @@ Main Org represents your live organizational data — not future plans or what-i
 **When to use Main Org:** When you need to explore, search, analyze, or understand your current organization.
 
 **When to use Scenarios:** When you need to model changes, plan reorganizations, or test different structures.
-
-***
 
 ## Main Org as Baseline for Scenarios
 
@@ -57,8 +53,6 @@ If Main Org has changed and you need to align your planning work, use **Scenario
 * **Workforce Hub** — Analytics charts for structure analysis
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.08.06 AM.png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ## What You Can Do in Main Org
 
@@ -97,10 +91,6 @@ Although Main Org is view-only, it supports exploration and analysis of your cur
 * Export filtered data as CSV
 * Switch to Directory view for table-based analysis
 
-
-
-***
-
 ## Common Workflows
 
 #### Exploring the Organization
@@ -122,8 +112,6 @@ Although Main Org is view-only, it supports exploration and analysis of your cur
 1. Filter to the relevant department or team.
 2. Highlight by a key attribute (for example, location or pay grade).
 3. Export the org chart or data for presentation.
-
-***
 
 ## Data Source and Refresh
 
@@ -156,10 +144,6 @@ To apply approved changes:
 3. Implement changes in your HRIS.
 4. Refresh data so updates appear in Main Org.
 
-
-
-***
-
 ## Access and Permissions
 
 Your view of Main Org depends on your assigned Access Group.
@@ -167,10 +151,6 @@ Your view of Main Org depends on your assigned Access Group.
 Some users may see the entire organization, while others may only see specific departments or teams.
 
 If you need access to additional areas, contact your administrator.
-
-
-
-***
 
 ## Best Practices
 
@@ -180,8 +160,6 @@ If you need access to additional areas, contact your administrator.
 * Check your scope - Know what parts of the org you have access to
 * Understand data freshness - Know when your data last synced from HRIS
 * Don't forget to clear filters - Active filters carry over to other modules
-
-***
 
 ## Limitations
 
@@ -195,12 +173,10 @@ Main Org is view-only, so you cannot:
 
 To make changes, create a Scenario.
 
-***
-
 ## Next Steps
 
 * Learn [how to navigate Main Org](navigation.md) in detail
-* Understand the [Toolbar actions](taskbar.md) available
-* Explore [Directory View](directory-view.md) for table-based analysis
+* Understand the [Toolbar actions](navigation.md) available
+* Explore [Directory View](../directory/overview.md) for table-based analysis
 * See [Org Metrics & Insights](metrics-insights.md) for calculated fields
 * Create your first [Scenario](../scenarios/creating-scenarios.md) to model changes

@@ -114,7 +114,7 @@ Esc = Close panels
 | Search, Filter, Highlight, Spotlight, Card Content, Export, Layout | ✅        | ✅         |
 | Add/Edit/Move/Close positions                                      | ❌        | ✅         |
 | Bulk Operations                                                    | ❌        | ✅         |
-| OpEx Panel (👀)                                                    | ❌        | ✅         |
+| OpEx Panel                                                         | ❌        | ✅         |
 | Comments                                                           | ❌        | ✅         |
 | Approvals                                                          | ❌        | ✅         |
 

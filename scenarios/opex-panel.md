@@ -73,7 +73,7 @@ Toggle to the effective date view to see all changes grouped by their effective 
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 10.59.47 AM.png" alt=""><figcaption></figcaption></figure>
 
-2. Review the approver list and bottom-line impact
+3. Review the approver list and bottom-line impact
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,8 +81,8 @@ Toggle to the effective date view to see all changes grouped by their effective 
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-3. Add a justification for your changes
-4. Click **Submit**
+4. Add a justification for your changes
+5. Click **Submit**
 
 See [Scenario Approvals](approvals.md) for the full approval workflow.
 

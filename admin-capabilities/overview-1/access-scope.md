@@ -11,8 +11,6 @@ Access scopes control which people a user can access in Agentnoon.
 
 If access groups define what someone can view or edit, access scopes define who those permissions apply to.
 
-***
-
 ### **What access scopes are**
 
 An access scope is a set of filters that narrows a user’s access to a specific part of the organization.
@@ -27,8 +25,6 @@ You can use access scopes to give someone access to:
 
 This lets you give users the access they need without exposing the whole organization.
 
-***
-
 ### **Why access scopes are useful**
 
 Access scopes are helpful when a user should only work with a specific part of the business.
@@ -40,8 +36,6 @@ Common examples:
 * a people manager who should only access their reporting structure
 * a specialist who works with a defined employee segment
 * a user who should see a broad area, except for one excluded group
-
-***
 
 ### **The main types of access scopes**
 
@@ -81,8 +75,6 @@ This is useful when access needs to come from more than one rule. For example, a
 * plus everyone on Project Team Alpha
 
 In that case, both visible scopes work together.
-
-***
 
 ### **How filters work inside one scope**
 
@@ -132,8 +124,6 @@ So the rule is:
 * within one field, selected values behave like OR
 * across different fields, the scope uses AND or OR depending on the setting
 
-***
-
 ### **How multiple scopes work together**
 
 When a user has multiple visible scopes, those scopes stack by adding access together.
@@ -159,8 +149,6 @@ Example:
 
 The user can access Sales, except for the VP West hierarchy.
 
-***
-
 ### **What happens when scopes overlap**
 
 Sometimes the same person is included by more than one visible scope.
@@ -172,8 +160,6 @@ In plain language:
 * lower scopes in the UI take priority when the same person is covered by multiple visible scopes
 
 This matters most when overlapping scopes use different field permissions.
-
-***
 
 ### **Examples**
 
@@ -227,16 +213,12 @@ Use:
 * visible scope: Department = Sales
 * hidden scope: Manager = that leader
 
-***
-
 ### **Good to know**
 
 * Admins always have full board access, regardless of the scopes listed for them.
 * Hidden scopes cannot be the only scopes a user has.
 * In scenarios, newly added positions and certain related employees can appear even if they would normally sit outside a user’s main-board scope.
 * If a project has its own filters, the user’s final access is the intersection of the project filter and their access scopes.
-
-***
 
 ### **Summary**
 

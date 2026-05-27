@@ -163,6 +163,6 @@ Beyond hire and termination dates, you can use effective dates to model changes 
 
 ## Next Steps
 
-* [**Forecast Navigation**](navigation.md) - Master the Forecast interface and controls
-* [**Building Headcount Forecasts**](building-headcount-forecasts.md) - Create your first forecast
-* [**Multi-Year Planning**](multi-year-planning.md) - Long-term workforce projections
+* [Forecast Navigation](navigation.md) - Master the Forecast interface and controls
+* [Building Headcount Forecasts](building-headcount-forecasts.md) - Create your first forecast
+* [Multi-Year Planning](multi-year-planning.md) - Long-term workforce projections

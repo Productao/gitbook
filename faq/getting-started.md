@@ -6,8 +6,6 @@ description: Common questions for new Agentnoon users
 
 New to Agentnoon? This page answers the most common questions from first-time users to help you get up and running quickly.
 
-***
-
 ## Logging In & Access
 
 ### How do I log in to Agentnoon?
@@ -25,8 +23,6 @@ Check that you're using your company email, that SSO is configured by your IT ad
 ### Do I need to be invited to use Agentnoon?
 
 Yes. An admin at your company must invite you. If you haven't received an invitation, contact your HR team or the person who manages Agentnoon at your company.
-
-***
 
 ## Navigating Agentnoon
 
@@ -70,9 +66,7 @@ Use the dropdown at the top of the screen. Select **Directory** for spreadsheet/
 
 Yes. Click **Card Content** in the left toolbar to choose which fields display on position cards (name, title, salary, department, etc.).
 
-**Learn more:** [Main Org Toolbar - Card Content](../main-org/toolbar.md)
-
-***
+**Learn more:** [Main Org Toolbar - Card Content](../start-here/cards.md)
 
 ## Working with Data
 
@@ -99,8 +93,6 @@ It depends on your setup -- manual uploads happen when your admin uploads new da
 Your admin may have restricted your access to specific departments or business units via Access Groups. You may also have active filters hiding results -- try clearing all filters first.
 
 **Learn more:** [Access Groups](../access-control/access-groups.md)
-
-***
 
 ## First Scenario
 
@@ -157,8 +149,6 @@ The OpEx (Operating Expense) Panel shows the net cost and headcount impact of yo
 Effective dates control when changes take effect in time-based projections, letting you phase organizational changes over multiple quarters.
 
 **Learn more:** [Time-Based Planning](../scenarios/time-based-planning.md)
-
-***
 
 ## Getting Help
 

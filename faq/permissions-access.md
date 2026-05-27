@@ -6,8 +6,6 @@ description: User permissions and access control questions
 
 Common questions about user roles, access groups, field-level permissions, and admin capabilities. Learn who can see what data and how access control works in Agentnoon.
 
-***
-
 ## User Roles & Permissions
 
 ### What are the different permission levels in Agentnoon?
@@ -33,8 +31,6 @@ Common questions about user roles, access groups, field-level permissions, and a
 **Answer:** Viewers can see Main Org and read-only data. Planners can create and edit scenarios. Approvers can review and approve submitted scenarios. The exact permissions for each role are configured by your admin and may vary by organization.
 
 **Learn more:** [Admin Overview](../admin/overview.md)
-
-***
 
 ## Access Groups
 
@@ -62,8 +58,6 @@ Common questions about user roles, access groups, field-level permissions, and a
 
 **Learn more:** [Access Groups](../access-control/access-groups.md)
 
-***
-
 ## Field-Level Permissions
 
 ### Can admins hide sensitive fields like salary from certain users?
@@ -83,8 +77,6 @@ Common questions about user roles, access groups, field-level permissions, and a
 **Answer:** Not necessarily. Fields can have View access (you can see but not edit) or Edit access (you can modify in scenarios). Main Org is always view-only—you can only edit in scenarios, and only fields your access group permits.
 
 **Learn more:** [Access Groups](../access-control/access-groups.md)
-
-***
 
 ## Admin Permissions
 
@@ -112,8 +104,6 @@ Common questions about user roles, access groups, field-level permissions, and a
 
 **Learn more:** [Admin Overview](../admin/overview.md)
 
-***
-
 ## Sharing & Collaboration
 
 ### Do exports respect access group restrictions?
@@ -127,8 +117,6 @@ Common questions about user roles, access groups, field-level permissions, and a
 **Answer:** Only if they explicitly share scenarios with you. By default, scenarios are private to their creator. Shared scenarios appear in your scenario list with a shared indicator.
 
 **Learn more:** [Admin Overview](../admin/overview.md)
-
-***
 
 ## Requesting Access Changes
 
@@ -150,8 +138,6 @@ Common questions about user roles, access groups, field-level permissions, and a
 
 **Learn more:** [Access Groups](../access-control/access-groups.md)
 
-***
-
 ## Security & Data Privacy
 
 ### How does Agentnoon protect sensitive employee data?
@@ -166,12 +152,10 @@ Common questions about user roles, access groups, field-level permissions, and a
 
 **Learn more:** [Access Groups](../access-control/access-groups.md)
 
-***
-
 ## Next Steps
 
-* [**Access Groups**](../access-control/access-groups.md) - Complete access control guide
-* [**Admin Overview**](../admin/overview.md) - Admin capabilities and responsibilities
-* [**Getting Started FAQs**](getting-started.md) - New user questions
-* [**Data & Import FAQs**](data-import.md) - Data management questions
-* [**Scenarios FAQs**](scenarios.md) - Scenario planning questions
+* [Access Groups](../access-control/access-groups.md) - Complete access control guide
+* [Admin Overview](../admin/overview.md) - Admin capabilities and responsibilities
+* [Getting Started FAQs](getting-started.md) - New user questions
+* [Data & Import FAQs](data-import.md) - Data management questions
+* [Scenarios FAQs](scenarios.md) - Scenario planning questions

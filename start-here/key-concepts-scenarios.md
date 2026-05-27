@@ -21,6 +21,8 @@ An editable copy of your Main Org where you model future changes without affecti
 
 **No Change** - Position exists in both the Main Org and scenario; no attributes modified.
 
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+
 ## Before / After / Changes Views
 
 * **Show Before** - Main Org (current reality); your baseline
@@ -65,6 +67,8 @@ Compare 2 scenarios side-by-side: cost, headcount, structure, org health metrics
 ## Projects (Optional)
 
 Group related scenarios under a project for larger initiatives. Example: "2026 Restructuring" project containing Engineering Reorg, Sales Consolidation, and G\&A Cost Reduction scenarios.
+
+**Note:** Projects are being retired soon and may not be available in a future release. Avoid relying on projects for new scenario setup.
 
 ## Related Articles
 

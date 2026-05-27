@@ -42,7 +42,7 @@ Color-code cards by any attribute:
 
 **In Scenarios** (editable): Hover over a card to see action buttons for adding positions below, editing details, assigning employees, duplicating, or closing the position. Drag cards to move them to a new manager. Select multiple cards for bulk actions.
 
-## Positions vs Employees
+## Positions vs People (Employees)
 
 **Positions** represent roles in the org structure. They persist even when vacant, allowing you to plan for unfilled roles.
 

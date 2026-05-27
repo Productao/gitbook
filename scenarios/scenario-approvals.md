@@ -28,9 +28,7 @@ Make sure:
 
 ### Set up global approvers&#x20;
 
-{% hint style="info" %}
-Note that if[ scenario specific approvers are configured](#user-content-fn-1)[^1], configuring global approvers is optional.
-{% endhint %}
+**Note:** that if scenario specific approvers are configured, configuring global approvers is optional.
 
 1. Open the main board.
 2. Go to **Settings**.
@@ -42,9 +40,7 @@ Note that if[ scenario specific approvers are configured](#user-content-fn-1)[^1
 
 ### Set up scenario-specific approvers
 
-{% hint style="info" %}
-Note that if[ global approvers are configured](#user-content-fn-1)[^1], configuring scenario-specific is optional.
-{% endhint %}
+**Note:** that if global approvers are configured, configuring scenario-specific is optional.
 
 1. Go to the scenario list.
 2. Open the scenario menu.
@@ -88,9 +84,7 @@ In the **Reviews** tab, the reviewer can:
 
 A reviewer must approve all changed positions before approving the scenario.
 
-{% hint style="info" %}
-Note that a review must be completed in one session. Leaving an approval session midway will not save changes.&#x20;
-{% endhint %}
+**Note:** that a review must be completed in one session. Leaving an approval session midway will not save changes.&#x20;
 
 ### Update and resubmit after rejection
 
@@ -105,17 +99,17 @@ If a scenario is rejected:
 
 ### Expected result
 
-After submission:
+After **submission**:
 
 * The scenario moves into the approval flow
 * Reviewers at the current level can review it
 * The scenario can be locked from editing if locking is enabled
 
-After approval:
+After **approval**:
 
 * The scenario moves to the next level of approval, or is marked at "**Approved**" if fully approved
 
-After rejection:
+After **rejection**:
 
 * The scenario returns to the submitted and the scenario is unlocked for editing
 
@@ -139,5 +133,3 @@ After rejection:
 * Submitted scenarios can be locked until an approver rejects them.
 * Submission requires a justification.
 * A scenario cannot be approved until all changed positions are approved.
-
-[^1]: 

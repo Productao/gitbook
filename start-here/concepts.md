@@ -7,8 +7,6 @@ icon: circle-exclamation
 
 These core concepts will help you navigate Agentnoon and understand how workforce planning works within the platform.
 
-***
-
 ## Positions vs People
 
 #### **Position**
@@ -23,8 +21,6 @@ The individual assigned to a position. One person can only fill one position at 
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.33.39 AM.png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## Main Org vs Scenarios
 
 #### **Main Org**
@@ -36,7 +32,7 @@ Your **current-state** organization as it exists today.
 * Updated through data sync
 * Serves as the baseline for scenario planning
 
-**Learn more:** [Key Concepts for Main Org](/broken/pages/sdPpZlvz7HLxJDQxhUFd)
+**Learn more:** [Key Concepts for Main Org](../main-org/overview.md)
 
 #### **Scenarios**
 
@@ -49,8 +45,6 @@ Editable copies of Main Org used for planning **future** changes.
 Scenarios are isolated from Main Org until changes are implemented externally and data is refreshed.
 
 **Learn more:** [Key Concepts for Scenarios](key-concepts-scenarios.md)
-
-***
 
 ## Views: Org Chart vs Directory
 
@@ -78,8 +72,6 @@ Best used for:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.38.48 AM.png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## Cards
 
 In Org Chart view, each position appears as a card.
@@ -102,13 +94,11 @@ Card content can be configured to display different fields, including calculated
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 9.57.10 AM.png" alt="" width="292"><figcaption></figcaption></figure>
 
-***
-
 ## Attributes vs Fields
 
 #### **Attributes**
 
-&#x20;Data points about positions or people (for example, Department, Location, Salary, Title).
+Data points about positions or people (for example, Department, Location, Salary, Title).
 
 #### **Fields**
 
@@ -138,8 +128,6 @@ There are two types of attributes:
 
 **Learn more:** [Fields and Attributes](fields-and-attributes.md)
 
-***
-
 ## Spans and Layers
 
 #### Span of Control (SOC)
@@ -167,8 +155,6 @@ Example:
 * Manager: Layer 3
 * Individual Contributor: Layer 4
 
-***
-
 ## Permissions & Access Control
 
 #### **Access Groups**
@@ -186,9 +172,7 @@ Permissions are configured by administrators.
 
 **Learn more:** [Access Control](../access-control/overview.md)
 
-***
-
 ## Deep Dives
 
-* [Key Concepts for Main Org](/broken/pages/sdPpZlvz7HLxJDQxhUFd) — Data sync, read-only nature, baseline for scenarios
+* [Key Concepts for Main Org](../main-org/overview.md) — Data sync, read-only nature, baseline for scenarios
 * [Key Concepts for Scenarios](key-concepts-scenarios.md) — Change types, OpEx Panel, approvals, comparisons

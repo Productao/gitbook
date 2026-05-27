@@ -79,7 +79,7 @@ If you've tried troubleshooting and still need help:
 
 ### Email Support
 
-SupportSWP@dayforce.com
+[SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com)
 
 **When emailing, please include:**
 
@@ -106,10 +106,8 @@ For **faster** response times:
 
 ## 🎓 Learn More
 
-* [**Video Tutorials**](video-tutorials/video-tutorials.md) - Visual step-by-step guides
-* [**Agentnoon 101**](agentnoon-101.md) - Core concepts explained
-* [**Quick Start Guide**](quick-start-guide.md) - Essential tasks
-
-***
+* [Video Tutorials](video-tutorials/video-tutorials.md) - Visual step-by-step guides
+* [Agentnoon 101](agentnoon-101.md) - Core concepts explained
+* [Quick Start Guide](quick-start-guide.md) - Essential tasks
 
 **Remember:** Most issues are resolved with a simple refresh or zoom reset. Try those first!

@@ -9,7 +9,7 @@ Practical walkthroughs for the most common workforce planning scenarios. Each tu
 
 ## In This Section
 
-* [**Planning a Reorganization**](planning-reorganization.md) — Model team restructures, reporting changes, and org flattening
-* [**M\&A Integration**](ma-integration.md) — Plan for mergers and acquisitions using partial data uploads
-* [**Conducting Span of Control Analysis**](span-of-control-analysis.md) — Identify compression and overburdened managers
-* [**Diversity & Inclusion Analysis**](diversity-inclusion-analysis.md) — Analyze workforce demographics using Workforce Hub
+* [Planning a Reorganization](planning-reorganization.md) — Model team restructures, reporting changes, and org flattening
+* [M\&A Integration](ma-integration.md) — Plan for mergers and acquisitions using partial data uploads
+* [Conducting Span of Control Analysis](span-of-control-analysis.md) — Identify compression and overburdened managers
+* [Diversity & Inclusion Analysis](diversity-inclusion-analysis.md) — Analyze workforce demographics using Workforce Hub

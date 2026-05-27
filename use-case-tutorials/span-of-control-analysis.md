@@ -112,12 +112,12 @@ Use **Scenario Comparisons** to view side-by-side metrics.
 * **Executive level**: 5-7 direct reports
 * **Frontline managers**: 7-15 direct reports (depending on complexity)
 
-### Red Flags to Watch
+### Things to Review
 
-* ⚠️ More than 30% of managers with 1-2 direct reports
-* ⚠️ Spans exceeding 20 without clear justification
-* ⚠️ Inconsistent spans across similar roles
-* ⚠️ Deep hierarchies (8+ layers) in smaller organizations
+* More than 30% of managers with 1-2 direct reports
+* Spans exceeding 20 without clear justification
+* Inconsistent spans across similar roles
+* Deep hierarchies (8+ layers) in smaller organizations
 
 ### When to Act
 
@@ -138,9 +138,9 @@ After your analysis:
 
 ## Related Resources
 
-* [**Span of Control Metrics**](../main-org/metrics-insights.md) - Understand the calculations
-* [**Scenario Creation**](../scenarios/creating-scenarios.md) - Model your changes
-* [**Planning a Reorganization**](planning-reorganization.md) - Full reorg workflow
+* [Span of Control Metrics](../main-org/metrics-insights.md) - Understand the calculations
+* [Scenario Creation](../scenarios/creating-scenarios.md) - Model your changes
+* [Planning a Reorganization](planning-reorganization.md) - Full reorg workflow
 
 ## Visual Guide
 

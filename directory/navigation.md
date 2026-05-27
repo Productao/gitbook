@@ -43,4 +43,4 @@ Pagination — Change rows per page (25/50/100/500) at the bottom of the table. 
 * [Filtering & Sorting](filtering-sorting.md)
 * [Column Customization](columns-customization.md)
 * [Bulk Operations](bulk-operations.md)
-* [Exporting](exporting.md)
+* [Exporting](../main-org/exporting.md)

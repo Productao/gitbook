@@ -64,6 +64,6 @@ Common solutions for slow loading, browser freezing, timeouts, and performance o
 
 ## When to Contact Support
 
-Contact support at SupportSWP@dayforce.com if performance does not improve after trying the steps above, the application consistently times out, or a broswer crashes repeatedly.&#x20;
+Contact support at [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) if performance does not improve after trying the steps above, the application consistently times out, or a broswer crashes repeatedly.&#x20;
 
 Include: org size, browser version, OS, internet speed, computer specs, specific slow actions, and browser console errors (F12 > Console).

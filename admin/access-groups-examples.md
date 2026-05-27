@@ -111,8 +111,6 @@ This page will provide practical, real-world examples of how to configure access
 * Can see hiring budgets and compensation ranges
 * Limited export permissions
 
-***
-
 ## Additional Examples Needed
 
 If you have specific access control scenarios that aren't covered above, we'd like to include them. Common scenarios we're still documenting:
@@ -123,10 +121,8 @@ If you have specific access control scenarios that aren't covered above, we'd li
 * Merger & acquisition access (acquired company limited access)
 * Compliance/audit access (read-only with full historical data)
 
-***
-
 For immediate assistance with access control configuration, please contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) or refer to:
 
-* [Access Control Overview](access-control/overview.md)
-* [Access Groups](access-control/access-groups.md)
+* [Access Control Overview](../access-control/overview.md)
+* [Access Groups](../access-control/access-groups.md)
 * [Support & How to Self-Help](../start-here/support-self-help.md)

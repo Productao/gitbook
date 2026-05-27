@@ -72,7 +72,7 @@ Provide the following IPs to your network security team if needed:
 
 ### Best Practices and Troubleshooting
 
-**File Format Consistency:** Uploaded file must be a CSV and have the same columns as configured previously. For special format and processing requests, please contact SupportSWP@dayforce.com.
+**File Format Consistency:** Uploaded file must be a CSV and have the same columns as configured previously. For special format and processing requests, please contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com).
 
 **Data Refresh:** After the data is processed:
 

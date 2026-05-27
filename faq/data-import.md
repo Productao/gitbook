@@ -6,8 +6,6 @@ description: Data upload and management questions
 
 Common questions about uploading, managing, and troubleshooting data in Agentnoon. Learn how to prepare your data, handle import errors, and keep your org information up-to-date.
 
-***
-
 ## Data Requirements & Preparation
 
 ### What data format is required to upload to Agentnoon?
@@ -33,8 +31,6 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 **Answer:** Follow the data error checklist: ensure unique employee IDs, valid manager IDs (no self-reporting or circular relationships), positive salary values, consistent date formats, no blank mandatory fields, and standardized text formatting without special characters.
 
 **Learn more:** [Data Error Checklist](../data-import/data-error-checklist.md)
-
-***
 
 ## Upload Methods & Data Refresh
 
@@ -68,8 +64,6 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Learn more:** [Partial Data Upload](../scenarios/advanced-actions/partial-data-upload-1.md)
 
-***
-
 ## Live Data Integrations
 
 ### What's the difference between manual upload vs live integration?
@@ -83,8 +77,6 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 **Answer:** Contact Agentnoon support for setting up a live integration
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
-
-***
 
 ## Troubleshooting Upload Errors
 
@@ -112,8 +104,6 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Learn more:** [Data Refresh & Sync](../admin/data-refresh-sync.md)
 
-***
-
 ## Data Security & Best Practices
 
 ### How secure is my data during upload?
@@ -128,12 +118,10 @@ Common questions about uploading, managing, and troubleshooting data in Agentnoo
 
 **Learn more:** [Admin Overview](../admin/overview.md)
 
-***
-
 ## Next Steps
 
-* [**Data Requirements**](../data-import/data-requirements.md) - Detailed field requirements
-* [**Data Error Checklist**](../data-import/data-error-checklist.md) - Complete validation checklist
-* [**Data Refresh & Sync**](../admin/data-refresh-sync.md) - Full data management guide
-* [**Admin Overview**](../admin/overview.md) - Admin capabilities and responsibilities
-* [**Scenarios FAQs**](scenarios.md) - Scenario planning questions
+* [Data Requirements](../data-import/data-requirements.md) - Detailed field requirements
+* [Data Error Checklist](../data-import/data-error-checklist.md) - Complete validation checklist
+* [Data Refresh & Sync](../admin/data-refresh-sync.md) - Full data management guide
+* [Admin Overview](../admin/overview.md) - Admin capabilities and responsibilities
+* [Scenarios FAQs](scenarios.md) - Scenario planning questions

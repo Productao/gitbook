@@ -122,7 +122,7 @@ Common solutions for upload errors, validation failures, broken hierarchies, mis
 
 ## When to Contact Support
 
-Contact SupportSWP@dayforce.com if:
+Contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) if:
 
 * Uploads fail with unclear errors after the steps above
 * Data corruption occurs after upload

@@ -132,7 +132,7 @@ Common solutions for scenario save failures, approval problems, change tracking 
 
 ## When to Contact Support
 
-Contact SupportSWP@dayforce.com if:
+Contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) if:
 
 * Scenario is corrupted or won't load after trying the steps above
 * Changes are saving but not appearing in OpEx Panel

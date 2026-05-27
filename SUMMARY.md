@@ -72,7 +72,7 @@
 
 ## Hub
 
-* [Hub Overview](hub/overview.md)
+* [Workforce Hub Overview](hub/overview.md)
 * [🧭 Orientation & Navigation](hub/orientation-navigation.md)
 * [Slide Packs](hub/packs.md)
 * [Chart Library](hub/chart-library.md)

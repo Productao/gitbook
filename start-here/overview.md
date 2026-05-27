@@ -14,8 +14,6 @@ Agentnoon helps you turn workforce data into clear insights so you can forecast 
 
 With real-time dashboards and planning tools in one view, teams can run “what-if” scenarios, align plans to key goals, and make decisions faster and with greater confidence.
 
-***
-
 ## Core Modules
 
 The platform is built around a simple principle: understand your current state, model proposed changes, measure the impact, and share insights with stakeholders.
@@ -65,8 +63,6 @@ Use charts such as Layers and Spans of Control, Headcount Distribution, and Heat
 Use it to sort, filter, and analyze position and employee data in rows and columns. In scenarios, Directory supports bulk edits and exports.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-26 at 10.28.24 AM.png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ## How the Modules Work Together
 
