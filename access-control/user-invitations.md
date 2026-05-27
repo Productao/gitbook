@@ -1,6 +1,10 @@
 ---
 description: Invite users and manage their access
-icon: calendar-users
+icon: calendar-circle-user
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/access-control/user-invitations
 ---
 
 # User Invitations
@@ -12,18 +16,20 @@ This guide explains how to invite users to Agentnoon, assign access groups, and 
 ### Inviting a User
 
 1. Click the **Invite User** button.
-2. Enter the users' details (e.g., name and email). You can also invite multiple users at once for quicker onboarding.&#x20;
+2. Enter the users' details (e.g., name and email). You can also invite multiple users at once for quicker onboarding.
 
 * New users are highlighted in green
-* Existing users are highlighted in blue. \
-  &#xNAN;_&#x4E;ote: Email invites are sent only to new users_.
+* Existing users are highlighted in blue.\
+  \&#xNAN;_Note: Email invites are sent only to new users_.
 
-1. Choose the access type:
-   * **New Access**: Assign permissions from scratch.
-   * **Replicate Access**: Copy permissions from an existing user.
-2. Select the relevant **Access Group** to determine which fields the user can view or edit.
+2. Choose the access type:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 7.28.22 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+* **New Access**: Assign permissions from scratch.
+* **Replicate Access**: Copy permissions from an existing user.
+
+3. Select the relevant **Access Group** to determine which fields the user can view or edit.
+
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 ### Understanding Scopes
 
@@ -31,7 +37,7 @@ Scopes define which data subsets a user can access. Unlike access groups, which 
 
 ### Setting Scopes
 
-1. Select the scope for the user based on imported fields such as department, location, or specific teams.&#x20;
+1. Select the scope for the user based on imported fields such as department, location, or specific teams.
 2. Recommended scope settings:
    * **Manager Scope**: Grants access to a specific manager and their direct reports.
 3. You can apply **multiple filters** to refine access, such as limiting visibility to specific departments within a manager’s team.

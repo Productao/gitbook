@@ -1,0 +1,133 @@
+---
+description: Fix data upload and sync issues
+---
+
+# 📊 Data Issues
+
+Common solutions for upload errors, validation failures, broken hierarchies, missing data, and field mapping issues.
+
+## Data Upload Errors
+
+**CSV upload fails completely**
+
+* Ensure the file is saved as CSV (not .xlsx) and encoded as UTF-8 (Excel: Save As > CSV UTF-8)
+* Check file size (<50MB) and remove empty rows or columns
+* Test with a small subset (e.g., 100 rows) to isolate the issue; try a different browser
+
+**"Missing required fields"**
+
+* Add the missing column (Position ID, Manager ID, or Job Title)
+* Headers are case-sensitive and must match exactly
+* Leave Manager ID blank only for the top-level position (e.g., CEO)
+
+**"Duplicate Employee ID"**
+
+* In Excel: select the Employee ID column > Data > Remove Duplicates
+* Ensure each ID is unique, then re-upload
+
+**"Invalid Manager ID"**
+
+* Each Manager ID must match an existing Employee ID in the file
+* Check for typos, format mismatches (e.g., "001" vs "1"), or managers missing from the dataset
+
+**"Circular reporting" or "Self-reporting"**
+
+* Trace the reporting chain to identify the loop (e.g., A → B → C → A)
+* Update a Manager ID to break the loop; an employee cannot be their own manager
+
+## Field Mapping Issues
+
+**Wrong fields mapped (data in wrong columns)**
+
+* Go to Data Management > Field Mapping (Admin) and update mappings
+* During upload, use the field mapping screen to map each CSV column to the correct Agentnoon field
+
+**Custom fields not appearing**
+
+* In Data Management > Field Mapping, add a mapping for the custom CSV column
+* Select a field type (text, number, date), save, then re-upload or use a partial upload
+
+**Date format errors**
+
+* Make sure the entire format is in 1 format and you've select that format in Agentnoon when mapping your fields
+* In Excel: Format Cells > Custom > `yyyy-mm-dd`
+* Incorrect formats: `02/18/2026`, `18-Feb-2026`, `2026/02/18`
+
+## Missing or Incorrect Data After Upload
+
+**Missing employees after upload**
+
+* Check the upload report for validation errors (e.g., missing required fields, invalid manager IDs)
+* Clear all filters and verify employees are within your access scope
+* Partial uploads only update records included in the file — use a full upload to include all employees
+
+**Employee data incorrect after upload**
+
+* Verify the source CSV contains correct values and check field mapping
+* Re-upload a corrected CSV; if issue persists, contact support
+
+**Reporting relationships broken**
+
+* Look for the orange broken hierarchy indicator in the toolbar
+* Fix by updating the source HRIS and re-syncing, using a partial upload to correct Manager IDs, or manually editing the position (temporary)
+
+**Department / location incorrect**
+
+* Check for inconsistent naming ("Engineering" vs "engineering", "SF" vs "San Francisco")
+* Standardize in source CSV using find-and-replace, then re-upload
+
+**Salary showing wrong amount**
+
+* Values must be plain numbers only: `150000` not `$150,000`
+* Verify field mapping points to the salary column; check currency codes (USD, EUR, GBP)
+
+## Data Refresh Issues
+
+**Refresh taking too long**
+
+* Normal: <5,000 employees = 1–5 min; >10,000 employees = 1–15 mins
+* If stuck >2 hours: contact support
+
+**Data refresh failed / rolled back**
+
+* Fix validation errors in source CSV and re-upload
+
+**Need to restore previous data**
+
+* Re-upload your previous CSV as a full data upload
+* If unavailable, export from HRIS as of a prior date or contact support for backup restoration
+* Prevention: save dated CSV copies before each upload
+
+## Validation Warnings
+
+**Salary outliers detected**
+
+* Review if legitimate (executives, interns, currency conversion errors)
+* Check for typos (1,500,000 vs 150,000); if all are valid, proceed — it's a warning, not a blocker
+
+**Inconsistent naming**
+
+* Standardize values in source CSV (one format per field); use find-and-replace in Excel
+
+## Partial Upload Issues
+
+**Partial upload not updating records**
+
+* Verify the unique identifier (Employee ID or Position ID) in the partial CSV matches exactly — including format (e.g., "001" vs "1")
+
+**Partial upload created duplicates**
+
+* IDs didn't match, so the system created new records
+* Fix: run a full upload to replace duplicates, or manually delete the extra positions
+
+## When to Contact Support
+
+Contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) if:
+
+* Uploads fail with unclear errors after the steps above
+* Data corruption occurs after upload
+* Live integration stops working completely
+* Validation errors persist after fixes
+* A data refresh is stuck for more than 2 hours
+
+Include: upload timestamp, exact error message, anonymized sample CSV, screenshots, and organization name.

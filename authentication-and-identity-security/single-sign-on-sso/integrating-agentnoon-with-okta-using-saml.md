@@ -2,6 +2,11 @@
 description: >-
   SAML integration allows for Okta initiated sign up and login using application
   tile
+icon: route-interstate
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/single-sign-on-sso/integrating-agentnoon-with-okta-using-saml
 ---
 
 # Integrating Agentnoon with Okta using SAML
@@ -10,7 +15,7 @@ description: >-
 
 1. Create a new app integration with SAML preset
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcfGZc8VGN9NA5ueu3qeOl085xiME9Ecwj2OGXkIOORUxSi63mR6WGW9CFwWTPDUAYB7W3MSXiLa8Vw2x--8_hWehTyCdMoIK9B7zMp-HtLwiAvH-9X3shJjSeZk7y4r0ZuRiYM5ZgO8kKd_bCeg9NyvmAh?key=gESMSun60tfjUT5xOTZlqA" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcfGZc8VGN9NA5ueu3qeOl085xiME9Ecwj2OGXkIOORUxSi63mR6WGW9CFwWTPDUAYB7W3MSXiLa8Vw2x--8_hWehTyCdMoIK9B7zMp-HtLwiAvH-9X3shJjSeZk7y4r0ZuRiYM5ZgO8kKd_bCeg9NyvmAh?key=gESMSun60tfjUT5xOTZlqA" alt=""><figcaption></figcaption></figure>
 
 2. On the 1st page type in app name: Agentnoon and add a logo
 
@@ -39,7 +44,7 @@ From the integration overview:
 1. Go to the **Sign On** tab.
 2. Click **View SAML setup instructions** (right sidebar).
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2c3CfRtoUbAXf_rd36uq_JritN-ijIsUePZJ3rD3B24d-RBehb0MJWl53KZ56a0cGQJglXIEKygMHK8y4-gObEBxLcyyxwkoJ4q3vlt-kNeA94XX1AgtrYDSyTQrk-GFgrIPT3Lu_wkTvt7TU-kLj5eHt?key=gESMSun60tfjUT5xOTZlqA" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2c3CfRtoUbAXf_rd36uq_JritN-ijIsUePZJ3rD3B24d-RBehb0MJWl53KZ56a0cGQJglXIEKygMHK8y4-gObEBxLcyyxwkoJ4q3vlt-kNeA94XX1AgtrYDSyTQrk-GFgrIPT3Lu_wkTvt7TU-kLj5eHt?key=gESMSun60tfjUT5xOTZlqA" alt=""><figcaption></figcaption></figure>
 
 3. Share all 3 properties with Agentnoon:
    1. Identity Provider Single Sign-On URL

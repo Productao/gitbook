@@ -1,9 +1,12 @@
 ---
 description: Visualize your org like a pro
-icon: sitemap
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/org-chart/org-chart-navigation
 ---
 
-# Org Chart Navigation
+# 🗺️ Org Chart Navigation
 
 ### Main Org Chart Features
 
@@ -22,8 +25,6 @@ The **left toolbar** in Agentnoon provides powerful tools for **searching, filte
 
 * Filter the org chart by **any attribute** (e.g., department, location, level).
 * **Manager Filtering** is recommended to **preserve hierarchy**, ensuring teams remain visible.
-
-
 
 <div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 5.52.04 PM.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

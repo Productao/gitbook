@@ -1,5 +1,9 @@
 ---
 icon: comments-question-check
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/live-data-integration/integration-overview-and-technical-faq
 ---
 
 # Integration Overview & Technical FAQ

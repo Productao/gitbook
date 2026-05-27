@@ -2,6 +2,11 @@
 description: >-
   Agentnoon supports Single Sign-On (SSO) via Microsoft Azure Active Directory
   using the SAML 2.0 protocol, allowing users to securely access the platform
+icon: windows
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/authentication-and-identity-security/single-sign-on-sso/microsoft-sso-integration-azure-ad
 ---
 
 # Microsoft SSO Integration (Azure AD)
@@ -10,7 +15,7 @@ description: >-
 
 1. Shared a link for the Customer integration with Microsoft SSO.
 2. Customer’s IT Admin will need to approve the app via the consent link below
-   1. Consent link: please email us at [support@agentnoon.com](mailto:support@agentnoon.com) and we will send over the consent link for SSO for admins
+   1. Consent link: please email us at [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com) and we will send over the consent link for SSO for admins
 3. Other parameters the IT admin will need.
    1. Redirect URI: [https://auth.agentnoon.com/\_\_/auth/handler](https://auth.agentnoon.com/__/auth/handler)
    2. Logout URL: [https://app.agentnoon.com/logout](https://app.agentnoon.com/logout)
@@ -24,7 +29,7 @@ description: >-
 
 1. We will request a test account to validate the integration setup.
 
-#### 4.  Post-Approval Actions
+#### 4. Post-Approval Actions
 
 1. No further actions are required after the admin approval, as the configuration supports all organizational users by default.
 

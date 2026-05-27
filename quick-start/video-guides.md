@@ -1,6 +1,5 @@
 ---
 description: Start here - Agentnoon basics in bite-sized videos
-icon: play
 ---
 
 # Video Guides

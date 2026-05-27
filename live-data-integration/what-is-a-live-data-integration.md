@@ -1,8 +1,8 @@
 ---
-icon: square-rss
+icon: rotate
 ---
 
-# What is a Live Data Integration?
+# Live Data Refresh
 
 ### Overview
 

@@ -1,6 +1,6 @@
 ---
 description: Configuring field groups, visibility, duplication, and dropdown values
-icon: chart-kanban
+icon: folder-open
 ---
 
 # Fields
@@ -15,7 +15,7 @@ This guide explains how to manage field settings in Agentnoon, including creatin
 2. Create a **new group** and assign fields to it.
 3. Grouping fields helps organize the edit sidebar based on groups, improving workflow efficiency
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 7.54.29 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 7.54.29 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Enabling or Disabling Fields
 
@@ -42,6 +42,10 @@ This guide explains how to manage field settings in Agentnoon, including creatin
 3. Helps maintain data consistency and prevents unnecessary variations in field values.
 4. Admins still have the ability to add free form text if they prefer
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 7.56.29 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 Proper field management ensures structured data input, controlled visibility, and efficient org chart operations in Agentnoon.
+
+## Visual Guide
+
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

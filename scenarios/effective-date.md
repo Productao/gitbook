@@ -3,7 +3,6 @@ description: >-
   Effective date allows users to schedule changes to take effect at a specific
   point in time, enabling accurate planning and historical tracking without
   immediately impacting current data.
-icon: calendar-days
 ---
 
 # Effective Date

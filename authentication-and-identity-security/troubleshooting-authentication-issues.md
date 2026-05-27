@@ -1,7 +1,2 @@
----
-hidden: true
-icon: list-check
----
-
-# Troubleshooting Authentication Issues
+# 🚧 Auth Troubleshooting
 

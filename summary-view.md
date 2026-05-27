@@ -1,7 +1,6 @@
 ---
 description: View cost impact of your scenario changes with Summary View.
 hidden: true
-icon: folder
 ---
 
 # Summary View

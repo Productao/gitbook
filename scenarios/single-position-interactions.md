@@ -1,6 +1,5 @@
 ---
 description: Add, remove, edit and duplicate positions
-icon: computer-mouse-scrollwheel
 ---
 
 # Single Position Interactions

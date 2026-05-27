@@ -1,6 +1,5 @@
 ---
 description: Organizing related scenarios under one tag
-icon: tag
 ---
 
 # Scenario Tags

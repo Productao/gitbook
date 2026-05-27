@@ -1,6 +1,5 @@
 ---
 description: Overview of the Forecast functionality
-icon: sack-dollar
 ---
 
 # Forecast Navigation

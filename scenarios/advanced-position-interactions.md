@@ -1,5 +1,4 @@
 ---
-icon: scale-unbalanced
 ---
 
 # Advanced Position Interactions

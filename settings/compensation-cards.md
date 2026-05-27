@@ -1,9 +1,9 @@
 ---
 description: Auto populate salaries using your compensation bands
-icon: sack-dollar
+icon: dollar-sign
 ---
 
-# Compensation Cards
+# Rate Cards / Compensation Bands
 
 ### Overview
 
@@ -11,7 +11,7 @@ This guide explains how rate cards work in Agentnoon, allowing organizations to 
 
 ### Uploading a Rate Card
 
-1. Download your **rate card / compesation bands** as a CSV (example file: [https://docs.google.com/spreadsheets/d/1YgnghjGm2rTnb4z7dZDmY53HGViQk4qe3dqyNE2WgvI/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1YgnghjGm2rTnb4z7dZDmY53HGViQk4qe3dqyNE2WgvI/edit?gid=0#gid=0))
+1. Prepare your **rate card / compensation bands** as a .CSV file
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 9.01.13 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 

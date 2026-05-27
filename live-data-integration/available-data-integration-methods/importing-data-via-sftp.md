@@ -2,7 +2,11 @@
 description: >-
   Securely importing data via SFTP enables you to automate and manage
   large-scale data transfers directly into Agentnoon
-icon: down-to-bracket
+icon: database
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/live-data-integration/available-data-integration-methods/importing-data-via-sftp
 ---
 
 # Importing Data via SFTP
@@ -68,7 +72,7 @@ Provide the following IPs to your network security team if needed:
 
 ### Best Practices and Troubleshooting
 
-**File Format Consistency:** Uploaded file must be a CSV and have the same columns as configured previously. For special format and processing requests, please contact support@agentnoon.com.
+**File Format Consistency:** Uploaded file must be a CSV and have the same columns as configured previously. For special format and processing requests, please contact [SupportSWP@dayforce.com](mailto:SupportSWP@dayforce.com).
 
 **Data Refresh:** After the data is processed:
 

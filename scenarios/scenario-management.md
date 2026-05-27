@@ -1,6 +1,5 @@
 ---
 description: Managing multiple scenarios in Agentnoon
-icon: clipboard
 ---
 
 # Scenario Management&#x20;

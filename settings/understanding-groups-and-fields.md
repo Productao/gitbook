@@ -2,7 +2,6 @@
 description: >-
   Before customizing fields for your organization, it’s essential to understand
   how Agentnoon structures your workforce data
-icon: book-open
 ---
 
 # Understanding Groups and Fields

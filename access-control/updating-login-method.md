@@ -1,7 +1,10 @@
 ---
 description: Update your authentication and switch to SSO
-hidden: true
-icon: pen
+icon: right-to-bracket
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/access-control/updating-login-method
 ---
 
 # Updating Login Method

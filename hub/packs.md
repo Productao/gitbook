@@ -1,56 +1,55 @@
 ---
-description: Creating, sharing, and exporting packs
-icon: display-chart-up-circle-dollar
+description: Creating, sharing, and exporting insights visually
+icon: box-isometric
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/FQHYLeH687WAkUobefnf/hub/packs
 ---
 
-# Packs
+# Slide Packs
 
-### Overview
+Create slide packs in the Workforce Hub to compile workforce insights into a structured report, customize slides, and export presentations.
 
-This guide explains how to create slide packs inside Agentnoon’s Workforce Hub to compile workforce insights into a structured report, customize slides, and export presentations. The workflow inside slide packs remains the same - only the way you start a new pack has been updated with a new landing page.
-
-#### 1. Creating a Pack
+## Creating a Pack
 
 1. Inside the **Workforce Hub**, click **Go to Slide Pack**(top-right).
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-18 at 7.10.58 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 2.53.04 PM.png" alt=""><figcaption></figcaption></figure>
 
-2. You’ll now see a **landing page** where you can:
+2. From the landing page, choose how to start:
+   * **Blank pack** — build from scratch by selecting the charts you want to include
+   * **Template** — choose from ready-made packs (e.g., Org Design and Structural Analysis) to set up slides instantly
+   * **Existing pack** — search and open a pack you've already created
 
-* **Start with a blank pack** – build your own from scratch by selecting the charts you want to include.
-* **Start with a template** – choose from ready-made packs (e.g., Org Design and Structural Analysis) to set up slides instantly.
-* **Search existing packs** – quickly locate and open any pack you’ve already created
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-18 at 7.15.59 PM.png" alt=""><figcaption></figcaption></figure>
 
-3. When starting with a blank pack:
+**If starting with a blank pack:**
 
-* Select individual charts to include, or click **Select All** to add every available chart at once.
-* Enter a name for the pack.
-* Click **Create** to generate the pack.
+1. Select individual charts to include, or click **Select All** to add every available chart
+2. Enter a name for the pack
+3. Click **Create**
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-18 at 7.27.15 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Adding & Customizing Slides
+## Adding & Customizing Slides
 
-1. Click the **Plus (+) button** to add new slides.
-2. Select the **chart type** using the **Select Chart** button.
-3. Assign a **title** to each slide for clarity.
-4. **Filters are memorized**, so your selections remain saved between sessions.
+1. Click **+** to add a new slide
+2. Select a chart type using the **Select Chart** button
+3. Assign a title to each slide for clarity
 
-#### 3. Exporting & Sharing the Pack
+Filters are saved between sessions — your selections persist automatically.
 
-1. Click **Export** to download all slides as a **PowerPoint (.pptx) file**.
-2. Click **Share** to grant access to others with permission to the scenario or board.
+## Exporting & Sharing the Pack
 
-<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-03-06 at 11.16.13 AM.png" alt="" width="563"><figcaption></figcaption></figure></div>
+* Click **Export** to download all slides as a PowerPoint (.pptx) file
+* Click **Share** to grant access to others with permission to the scenario or board
 
-#### 4. Locking Slides
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-1. Use the **three-dot menu** to **lock** individual slides, preventing others from editing it.
-2. Lock or unlock all slides to prevent collaborators from editing the pack.
-3.  Useful when multiple users are collaborating on the same pack.<br>
+## Locking Slides
 
-    <div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-07-15 at 6.10.05 PM.png" alt="" width="236"><figcaption></figcaption></figure></div>
+* Use the **⋮** menu to lock individual slides and prevent others from editing them
+* Use **Lock All** / **Unlock All** to control editing access for the entire pack
+* Useful when multiple users are collaborating on the same pack
 
-By creating **packs**, you can **compile workforce insights, visualize organizational changes, and share structured reports with your team** in Agentnoon.
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-05 at 2.58.48 PM.png" alt=""><figcaption></figcaption></figure>

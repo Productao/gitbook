@@ -1,7 +1,2 @@
----
-hidden: true
-icon: hundred-points
----
-
-# Best Practices
+# 🚧 Auth Best Practices
 

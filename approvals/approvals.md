@@ -1,6 +1,5 @@
 ---
 description: Streamline multi-level approvals
-icon: thumbs-up
 ---
 
 # Approvals

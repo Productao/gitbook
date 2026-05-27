@@ -2,10 +2,9 @@
 description: >-
   The Projects feature in Agentnoon is designed to help you better organize and
   manage your organizational data
-icon: rectangle-history-circle-user
 ---
 
-# Project Creation
+# TBD Project Creation
 
 ### Overview
 
